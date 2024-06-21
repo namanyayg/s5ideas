@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803860614114349485",
+  "screen_name": "Roopkd_",
+  "bookmarks": 1,
+  "favorites": 17,
+  "created_at": "Thu Jun 20 18:40:59 +0000 2024",
+  "text": "after lab, it seems that i was not able to explain what i wanted to build in these 6 weeks, so i updated it.\n\nwdyt?\n\ncc @_buildspace @_nightsweekends https://t.co/VXidSLqMqv",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 12,
+  "conversation_id": "1803860614114349485",
+  "retweets": 0,
+  "views": "233",
+  "user_info": {
+    "screen_name": "Roopkd_",
+    "name": "rkad",
+    "description": "Trying to understand ANN | gaudmire @_buildspace",
+    "rest_id": "1587570331211931648",
+    "followers_count": 80,
+    "favourites_count": 4320,
+    "avatar": "https://pbs.twimg.com/profile_images/1645468431549100032/2NhmmaPU_normal.jpg",
+    "verified": false,
+    "friends_count": 597
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQiZcdKakAUmMxl.jpg",
+        "id": "1803860364905582597"
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803797096593854590",
+  "screen_name": "theshivamdhar",
+  "bookmarks": 0,
+  "favorites": 3,
+  "created_at": "Thu Jun 20 14:28:35 +0000 2024",
+  "text": "In Season 5 of Buildspace Nights and Weekends, introducing LedgerBot!\n\nProblem: Manage invoices and data entry easily.\n\nSolution: LedgerBot scans and organizes financial docs with seamless app integration.\n\nStay tuned!\n\nCC: @_buildspace\n\n#AI #Fintech #buildspace #LedgerBot https://t.co/Tl7lEtRwXe",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 2,
+  "conversation_id": "1803797096593854590",
+  "retweets": 0,
+  "views": "66",
+  "user_info": {
+    "screen_name": "theshivamdhar",
+    "name": "theshivamdhar",
+    "description": "👋 Shivam, 17 | Tech Enthusiast |Intern @Scaler | Social Media Marketing Buff | Aspiring Agency Founder | Footballer & Rock Climber | Let's connect & innovate!",
+    "rest_id": "1466201679418703874",
+    "followers_count": 7,
+    "favourites_count": 20,
+    "avatar": "https://pbs.twimg.com/profile_images/1466201772767133698/0vMudZfp_normal.jpg",
+    "verified": false,
+    "friends_count": 10
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQhf0ErWMAAlvZn.jpg",
+        "id": "1803796998975270912"
+      }
+    ]
+  }
+}

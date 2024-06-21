@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803653648380997645",
+  "screen_name": "frankhme",
+  "bookmarks": 1,
+  "favorites": 2,
+  "created_at": "Thu Jun 20 04:58:34 +0000 2024",
+  "text": "Here's my idea for @_buildspace + @_nightsweekends:\n\nI have a capsule wardrobe but (ironically) still spend time debating what to wear every morning. \n\nI want my phone to make that decision for me instead -- simple as that :) https://t.co/PsTA6A32y4",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 4,
+  "conversation_id": "1803653648380997645",
+  "retweets": 0,
+  "views": "140",
+  "user_info": {
+    "screen_name": "frankhme",
+    "name": "Frank",
+    "description": "Consultant by day, stillfiguringitout on nights + weekends",
+    "rest_id": "1493363715772661769",
+    "followers_count": 99,
+    "favourites_count": 1640,
+    "avatar": "https://pbs.twimg.com/profile_images/1792020844476014593/EajMQy9G_normal.jpg",
+    "verified": false,
+    "friends_count": 226
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQfdLvEXMAAEtpM.jpg",
+        "id": "1803653369468235776"
+      }
+    ]
+  }
+}

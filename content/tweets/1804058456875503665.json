@@ -1,0 +1,38 @@
+{
+  "type": "tweet",
+  "tweet_id": "1804058456875503665",
+  "screen_name": "amitsgh18",
+  "bookmarks": 0,
+  "favorites": 0,
+  "created_at": "Fri Jun 21 07:47:08 +0000 2024",
+  "text": "Day 1 of @_nightsweekends \n\nlearning how to make games?\n\ntrying to learn mechanics of godot engine by @BrackeysTweet on yt. \n\ncc: @_buildspace @FarzaTV \n\n#buildinginpublic https://t.co/ivILr2Bg2t",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1804058456875503665",
+  "retweets": 0,
+  "views": "28",
+  "user_info": {
+    "screen_name": "amitsgh18",
+    "name": "Amit Singh",
+    "description": "Living in the liminal space",
+    "rest_id": "1475938036743479302",
+    "followers_count": 2,
+    "favourites_count": 246,
+    "avatar": "https://pbs.twimg.com/profile_images/1475938160186048513/VCJK3F7N_normal.jpg",
+    "verified": false,
+    "friends_count": 8
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQlKhCgakAAiS6G.jpg",
+        "id": "1804055057207562240"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQlKpndakAcHE7_.jpg",
+        "id": "1804055204566044679"
+      }
+    ]
+  }
+}

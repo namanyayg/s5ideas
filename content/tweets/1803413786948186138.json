@@ -1,0 +1,38 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803413786948186138",
+  "screen_name": "GladhizA",
+  "bookmarks": 0,
+  "favorites": 9,
+  "created_at": "Wed Jun 19 13:05:27 +0000 2024",
+  "text": "Learning on @shefiorg with the amazing Cohort 11 thanks to @arbitrum building something cool and connecting with other amazing people in s5 with @_buildspace https://t.co/mlCDdQ4MdA",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 1,
+  "conversation_id": "1803413786948186138",
+  "retweets": 1,
+  "views": "179",
+  "user_info": {
+    "screen_name": "GladhizA",
+    "name": "Gnericvibes",
+    "description": "Music Artist, Fashion designer Battle Rapper #ARMADA #creativealchemy… I’m here now sharing my journey with vibers🚀",
+    "rest_id": "1022485204643000321",
+    "followers_count": 1103,
+    "favourites_count": 55170,
+    "avatar": "https://pbs.twimg.com/profile_images/1793089368329977856/VErJcstk_normal.jpg",
+    "verified": false,
+    "friends_count": 1244
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQcDRdPWYAApFdD.jpg",
+        "id": "1803413774226841600"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQcDRdXWEAA5PWV.jpg",
+        "id": "1803413774260375552"
+      }
+    ]
+  }
+}

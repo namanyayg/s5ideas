@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803823217347350955",
+  "screen_name": "ahnaafkk",
+  "bookmarks": 12,
+  "favorites": 218,
+  "created_at": "Thu Jun 20 16:12:23 +0000 2024",
+  "text": "honestly this idea is kinda out there but that's the whole reason i'm working on this. \n\ncarbon capture &amp; conversion is also just really cool. \n\ncc @_buildspace @_nightsweekends https://t.co/EvvGZmDCrl",
+  "lang": "en",
+  "quotes": 2,
+  "replies": 85,
+  "conversation_id": "1803823217347350955",
+  "retweets": 4,
+  "views": "4696",
+  "user_info": {
+    "screen_name": "ahnaafkk",
+    "name": "Ahnaaf",
+    "description": "alumni @theksociety | building in carbon valorization",
+    "rest_id": "1327366101156638721",
+    "followers_count": 625,
+    "favourites_count": 884,
+    "avatar": "https://pbs.twimg.com/profile_images/1543820802046545920/OkH3fp8M_normal.jpg",
+    "verified": false,
+    "friends_count": 539
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQh3S8TX0AAPAX7.jpg",
+        "id": "1803822818070614016"
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803597639168172402",
+  "screen_name": "jellyfuur",
+  "bookmarks": 0,
+  "favorites": 1,
+  "created_at": "Thu Jun 20 01:16:01 +0000 2024",
+  "text": "ok time to stop procrastinating and take rebranding my company seriously \n\nhttps://t.co/DC5BTU6MuI\n\ncc @_nightsweekends @_buildspace https://t.co/Nq9J7mCwlY",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 2,
+  "conversation_id": "1803597639168172402",
+  "retweets": 0,
+  "views": "63",
+  "user_info": {
+    "screen_name": "jellyfuur",
+    "name": "Jennifer",
+    "description": "I style spaces, design graphics and illustrate things. Creating and living my best life.",
+    "rest_id": "1449921840722313225",
+    "followers_count": 627,
+    "favourites_count": 1147,
+    "avatar": "https://pbs.twimg.com/profile_images/1609211925858234373/nbiKyTSa_normal.jpg",
+    "verified": false,
+    "friends_count": 732
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQeqfQabsAAYOva.jpg",
+        "id": "1803597629743673344"
+      }
+    ]
+  }
+}

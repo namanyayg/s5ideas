@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803724255265521803",
+  "screen_name": "mangla_daksh09",
+  "bookmarks": 0,
+  "favorites": 7,
+  "created_at": "Thu Jun 20 09:39:08 +0000 2024",
+  "text": "Would love to get some ideas and feedback 😊\n@FarzaTV @_buildspace @_nightsweekends https://t.co/5hZrfjVvh0",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 3,
+  "conversation_id": "1803724255265521803",
+  "retweets": 0,
+  "views": "82",
+  "user_info": {
+    "screen_name": "mangla_daksh09",
+    "name": "Daksh Mangla",
+    "description": "Artist🍄\nMaking drawings everyday \nBuildspace S5 \nDrawing animals as anime characters !!",
+    "rest_id": "1787427794068086785",
+    "followers_count": 6,
+    "favourites_count": 117,
+    "avatar": "https://pbs.twimg.com/profile_images/1803998948790595584/0PPUyo3b_normal.jpg",
+    "verified": false,
+    "friends_count": 35
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQgdpqzaUAAB-IF.jpg",
+        "id": "1803724252463648768"
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803507739785830519",
+  "screen_name": "thasif_",
+  "bookmarks": 0,
+  "favorites": 15,
+  "created_at": "Wed Jun 19 19:18:47 +0000 2024",
+  "text": "Hey, @_buildspace fam. \n\nMy Univ. SCU students are working on a project to train robots using LLMs. \n\nI'm developing a generic API to connect multiple LLMs for optimal performance, seamlessly switching based on response quality, use case, &amp; broader context. \ncc @_nightsweekends https://t.co/10hqblx94y",
+  "lang": "en",
+  "quotes": 1,
+  "replies": 8,
+  "conversation_id": "1803507739785830519",
+  "retweets": 0,
+  "views": "692",
+  "user_info": {
+    "screen_name": "thasif_",
+    "name": "Thasif",
+    "description": "Principal Software Engineer | Dad to ONE !! | Buildspace S5",
+    "rest_id": "1276905516350885890",
+    "followers_count": 175,
+    "favourites_count": 462,
+    "avatar": "https://pbs.twimg.com/profile_images/1785889417510727680/GC8VDW5-_normal.jpg",
+    "verified": false,
+    "friends_count": 349
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQdXzkRaIAIhCN7.jpg",
+        "id": "1803506719206809602"
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803838788164047269",
+  "screen_name": "_karishev",
+  "bookmarks": 0,
+  "favorites": 4,
+  "created_at": "Thu Jun 20 17:14:15 +0000 2024",
+  "text": "good evening w/ @_nightsweekends https://t.co/VPXVa1CmFw",
+  "lang": "en",
+  "quotes": 1,
+  "replies": 0,
+  "conversation_id": "1803838788164047269",
+  "retweets": 0,
+  "views": "88",
+  "user_info": {
+    "screen_name": "_karishev",
+    "name": "Karishev",
+    "description": "@_nightsweekends gaudmire | 22 | software developer",
+    "rest_id": "1802291130022666240",
+    "followers_count": 12,
+    "favourites_count": 180,
+    "avatar": "https://pbs.twimg.com/profile_images/1803107603397951488/SeMEX4Gp_normal.jpg",
+    "verified": false,
+    "friends_count": 32
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQiFzzkWkAEglBh.jpg",
+        "id": "1803838775824388097"
+      }
+    ]
+  }
+}

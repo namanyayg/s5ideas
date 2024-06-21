@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803851397903061266",
+  "screen_name": "MohitB_twt",
+  "bookmarks": 0,
+  "favorites": 6,
+  "created_at": "Thu Jun 20 18:04:21 +0000 2024",
+  "text": "Learning Web3 and building a decentralized meeting space app as my first project! \n\ncc @buildspace @_nightsweekends https://t.co/mkbOcGxP2g",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 4,
+  "conversation_id": "1803851397903061266",
+  "retweets": 0,
+  "views": "146",
+  "user_info": {
+    "screen_name": "MohitB_twt",
+    "name": "Mohit Bisht",
+    "description": "Full Stack  & Design Enthusiast🚀 | Open Source Contributor @girlscriptsoc, | MLSA| Tech Marketing @decodecafe | #100Dev",
+    "rest_id": "1586332141004230656",
+    "followers_count": 310,
+    "favourites_count": 9667,
+    "avatar": "https://pbs.twimg.com/profile_images/1752766272176009216/ky-zTRIH_normal.jpg",
+    "verified": false,
+    "friends_count": 813
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQiQ02sW0AANyNW.png",
+        "id": "1803850888471040000"
+      }
+    ]
+  }
+}

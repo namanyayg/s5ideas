@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803967564596547604",
+  "screen_name": "iliasanwar_",
+  "bookmarks": 0,
+  "favorites": 7,
+  "created_at": "Fri Jun 21 01:45:58 +0000 2024",
+  "text": "My week 1 update for @_buildspace was meeting up with Chris Rock.\n\nBig announcement soon I think it’s time we start bringing on comedians earlier than we thought for @tappedai.\n\nWhat do you think @alec_dilanchian @FarzaTV ?\n\nIf you are a musician and looking to perform dm us and we will help you find your next gig.\n\nCheck out our website here https://t.co/FKZEoRSWHP",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 1,
+  "conversation_id": "1803967564596547604",
+  "retweets": 2,
+  "views": "212",
+  "user_info": {
+    "screen_name": "iliasanwar_",
+    "name": "ilias anwar",
+    "description": "founder of @tappedai + @tccentertainmnt \nauthor of “cheat codes” \nkeep pushing\ns5 @buildspace",
+    "rest_id": "1282559076673753089",
+    "followers_count": 1024,
+    "favourites_count": 759,
+    "avatar": "https://pbs.twimg.com/profile_images/1602416551277211649/Fwq8Yxhw_normal.jpg",
+    "verified": false,
+    "friends_count": 476
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQj0gyqWEAApSLG.jpg",
+        "id": "1803960494954254336"
+      }
+    ]
+  }
+}

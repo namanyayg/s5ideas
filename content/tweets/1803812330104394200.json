@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803812330104394200",
+  "screen_name": "DeepakRamPhoto",
+  "bookmarks": 0,
+  "favorites": 3,
+  "created_at": "Thu Jun 20 15:29:07 +0000 2024",
+  "text": "Excited to share my official project for the next six weeks with @_buildspace and @_nightsweekends! 🚀💡 Can't wait to dive in and hear your thoughts! 💭 #StayTuned #BuildingTheFuture #gaudmire #filmmakerslife @FarzaTV https://t.co/psLznFNzzg",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 1,
+  "conversation_id": "1803812330104394200",
+  "retweets": 0,
+  "views": "56",
+  "user_info": {
+    "screen_name": "DeepakRamPhoto",
+    "name": "Deepak Ramachandra",
+    "description": "Founder @bhitthichitra\nScreenwriter | Director",
+    "rest_id": "120464938",
+    "followers_count": 226,
+    "favourites_count": 292,
+    "avatar": "https://pbs.twimg.com/profile_images/1722251014294913024/te0P4ZeH_normal.jpg",
+    "verified": false,
+    "friends_count": 512
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQhtEYNagAA7NFf.jpg",
+        "id": "1803811572747501568"
+      }
+    ]
+  }
+}

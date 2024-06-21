@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803438022152642625",
+  "screen_name": "AdnanAl84925414",
+  "bookmarks": 0,
+  "favorites": 1,
+  "created_at": "Wed Jun 19 14:41:45 +0000 2024",
+  "text": "Wants to sometimes extract text from videos. I had the idea to make a Chrome extension for this during s5 of nights&amp;weekends with @MonisAzeem \n\ncc:@_buildspace @_nightsweekends https://t.co/12cPX4CotS",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803438022152642625",
+  "retweets": 1,
+  "views": "44",
+  "user_info": {
+    "screen_name": "AdnanAl84925414",
+    "name": "Adnan Ali",
+    "description": "Engineering Student From Aligarh Muslim University",
+    "rest_id": "1207292282296307717",
+    "followers_count": 20,
+    "favourites_count": 107,
+    "avatar": "https://pbs.twimg.com/profile_images/1594044486598152194/1QVCXcYa_normal.jpg",
+    "verified": false,
+    "friends_count": 115
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQcYit8WEAA2tVj.jpg",
+        "id": "1803437160512491520"
+      }
+    ]
+  }
+}

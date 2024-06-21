@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803854111433199876",
+  "screen_name": "gucchu_nickname",
+  "bookmarks": 0,
+  "favorites": 2,
+  "created_at": "Thu Jun 20 18:15:08 +0000 2024",
+  "text": "Do we understand it?, give me \"1\" in the chat .\n@FarzaTV \n@_buildspace https://t.co/2pJxU7Svyv",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803854111433199876",
+  "retweets": 0,
+  "views": "22",
+  "user_info": {
+    "screen_name": "gucchu_nickname",
+    "name": "ujjwal mittal",
+    "description": "The best type of Communities are the ones which bring Url to IRL 🫂",
+    "rest_id": "1493632127602081793",
+    "followers_count": 34,
+    "favourites_count": 490,
+    "avatar": "https://pbs.twimg.com/profile_images/1688270106537959424/kMxtVtXz_normal.jpg",
+    "verified": false,
+    "friends_count": 79
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQiS1M8akAQY9Gt.jpg",
+        "id": "1803853093467230212"
+      }
+    ]
+  }
+}

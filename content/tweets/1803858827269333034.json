@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803858827269333034",
+  "screen_name": "Pankexillo",
+  "bookmarks": 0,
+  "favorites": 37,
+  "created_at": "Thu Jun 20 18:33:53 +0000 2024",
+  "text": "hey @_buildspace fam! this is what i will be working on the next 6 weeks for @_nightsweekends\n\nsalud activa will be a web app to facilitate physical rehab communication between health professionals and their patients\n\ni would love to hear your feedback :) https://t.co/9A6hbN3mG2",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 15,
+  "conversation_id": "1803858827269333034",
+  "retweets": 3,
+  "views": "947",
+  "user_info": {
+    "screen_name": "Pankexillo",
+    "name": "Dan 🧙‍♂️🐘",
+    "description": "👨‍💻 Software Engineer | Laravel Dev | Web Dev 🐘\n\ngaudmire @_buildspace\n\nBuilding https://t.co/blFRSSlwbG\n\nCheck my projects @ https://t.co/tViDsgxbHv",
+    "rest_id": "68007173",
+    "followers_count": 279,
+    "favourites_count": 24345,
+    "avatar": "https://pbs.twimg.com/profile_images/1693825502551719936/X5D498Ka_normal.jpg",
+    "verified": false,
+    "friends_count": 881
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQiXk9xW4AAgIx7.jpg",
+        "id": "1803858312074551296"
+      }
+    ]
+  }
+}

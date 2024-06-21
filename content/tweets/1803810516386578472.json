@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803810516386578472",
+  "screen_name": "KenOrSeif",
+  "bookmarks": 0,
+  "favorites": 8,
+  "created_at": "Thu Jun 20 15:21:54 +0000 2024",
+  "text": "Week 1 if n&amp;w. \nThis is a project idea my friend and I recently came up with due to the many difficulties doctors face in Algeria managing their clinics and patient bookings.\nAnd I'll be working on it during @_nightsweekends.\n\ncc : @_nightsweekends @_buildspace https://t.co/xEzB51rvIf",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 2,
+  "conversation_id": "1803810516386578472",
+  "retweets": 2,
+  "views": "98",
+  "user_info": {
+    "screen_name": "KenOrSeif",
+    "name": "سيف الاسلام",
+    "description": "Don’t second guess your self",
+    "rest_id": "1027227014804242433",
+    "followers_count": 99,
+    "favourites_count": 49870,
+    "avatar": "https://pbs.twimg.com/profile_images/1780025485897965568/ymiHdUub_normal.jpg",
+    "verified": false,
+    "friends_count": 184
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQhqQ8dXEAEUaJC.png",
+        "id": "1803808490101608449"
+      }
+    ]
+  }
+}

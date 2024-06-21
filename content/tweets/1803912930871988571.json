@@ -1,0 +1,62 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803912930871988571",
+  "screen_name": "latishab_",
+  "bookmarks": 0,
+  "favorites": 3,
+  "created_at": "Thu Jun 20 22:08:52 +0000 2024",
+  "text": "after collecting feedbacks. i finally revised my one liner of the project i’m working on in n&amp;w\n\nany other thoughts? \n@_buildspace , @_nightsweekends \n\ni’d love to think of your questions/feedbacks 👀 https://t.co/qELsMfxlsC",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 2,
+  "conversation_id": "1803912930871988571",
+  "retweets": 0,
+  "views": "189",
+  "user_info": {
+    "screen_name": "latishab_",
+    "name": "Latisha.",
+    "description": "20 | cs undergrad @ cityuhk | i design and code 👩‍💻🇮🇩",
+    "rest_id": "1360927494426124288",
+    "followers_count": 597,
+    "favourites_count": 6452,
+    "avatar": "https://pbs.twimg.com/profile_images/1791053867251347457/wHbX7lfq_normal.jpg",
+    "verified": false,
+    "friends_count": 574
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQjJPtWbwAAoHJP.jpg",
+        "id": "1803912922470793216"
+      }
+    ]
+  },
+  "quoted": {
+    "tweet_id": "1803143614815674526",
+    "bookmarks": 0,
+    "created_at": "Tue Jun 18 19:11:53 +0000 2024",
+    "favorites": 4,
+    "text": "watched lecture #1 this week. \nmade a one liner.\n\nthoughts?\n\ncc: @_buildspace, @_nightsweekends \nnote: i think i need to gatekeep my domain asap. https://t.co/liaO4rQLLm",
+    "lang": "en",
+    "views": "800",
+    "quotes": 1,
+    "replies": 3,
+    "retweets": 0,
+    "conversation_id": "1803143614815674526",
+    "author": {
+      "rest_id": "1360927494426124288",
+      "name": "Latisha.",
+      "screen_name": "latishab_",
+      "avatar": "https://pbs.twimg.com/profile_images/1791053867251347457/wHbX7lfq_normal.jpg",
+      "blue_verified": false
+    },
+    "media": {
+      "photo": [
+        {
+          "media_url_https": "https://pbs.twimg.com/media/GQYNjqragAAlX66.jpg",
+          "id": "1803143607211425792"
+        }
+      ]
+    }
+  }
+}

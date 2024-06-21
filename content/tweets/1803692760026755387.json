@@ -1,0 +1,38 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803692760026755387",
+  "screen_name": "horakdejv",
+  "bookmarks": 0,
+  "favorites": 6,
+  "created_at": "Thu Jun 20 07:33:59 +0000 2024",
+  "text": "Just started working on a new way of rendering onjects in my 3D engine that I'm building. #buildspace \n\ncc: @_buildspace @_nightsweekends \n\n(The first one didnt really make sense so I edited it.) https://t.co/K41R1QqZaK",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 1,
+  "conversation_id": "1803692760026755387",
+  "retweets": 0,
+  "views": "117",
+  "user_info": {
+    "screen_name": "horakdejv",
+    "name": "David Horák",
+    "description": "Student\n15 yo\nsoftware development",
+    "rest_id": "1464602542562856962",
+    "followers_count": 119,
+    "favourites_count": 5894,
+    "avatar": "https://pbs.twimg.com/profile_images/1802385091210952704/zO-q4DbH_normal.jpg",
+    "verified": false,
+    "friends_count": 348
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQgAmstWUAAbln1.jpg",
+        "id": "1803692315598278656"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQgA9wwXAAA1gXa.jpg",
+        "id": "1803692711821639680"
+      }
+    ]
+  }
+}

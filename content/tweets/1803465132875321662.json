@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803465132875321662",
+  "screen_name": "Kyle__Long",
+  "bookmarks": 0,
+  "favorites": 1,
+  "created_at": "Wed Jun 19 16:29:29 +0000 2024",
+  "text": "my idea slide for jojo for @_buildspace @_nightsweekends s5 \n\nhttps://t.co/4gK3FO1TOn \n\nis the message and idea clear? feedback greatly appreciated 🙏 https://t.co/TWdHXTzivx",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 1,
+  "conversation_id": "1803465132875321662",
+  "retweets": 0,
+  "views": "48",
+  "user_info": {
+    "screen_name": "Kyle__Long",
+    "name": "kyle long",
+    "description": "building https://t.co/6z8XOuEbeH 🐶",
+    "rest_id": "723543476",
+    "followers_count": 509,
+    "favourites_count": 12056,
+    "avatar": "https://pbs.twimg.com/profile_images/1590794733101596673/3zzIDJdX_normal.jpg",
+    "verified": false,
+    "friends_count": 1069
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQcxVUoW4AAu7qg.jpg",
+        "id": "1803464418170167296"
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803600732479721573",
+  "screen_name": "DeoArlo",
+  "bookmarks": 0,
+  "favorites": 6,
+  "created_at": "Thu Jun 20 01:28:18 +0000 2024",
+  "text": "Exciting update for Juli.  Juli is now part of Microsoft for Founders and got accepted to Buildspace S5. No pressure...\n\n@_buildspace @_nightsweekends https://t.co/cWSG5sXGzw",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 4,
+  "conversation_id": "1803600732479721573",
+  "retweets": 0,
+  "views": "57",
+  "user_info": {
+    "screen_name": "DeoArlo",
+    "name": "Deo",
+    "description": "I love making things\nCurrently making https://t.co/9hh7wv6FWm📱💰\nPreviously made https://t.co/pcjqdwll9B 🤖\nSpectreseek @_buildspace 🚀",
+    "rest_id": "1333820130929807361",
+    "followers_count": 12,
+    "favourites_count": 141,
+    "avatar": "https://pbs.twimg.com/profile_images/1803829328305692672/tgHKfBKj_normal.jpg",
+    "verified": false,
+    "friends_count": 89
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQes9TKWMAAP3pA.jpg",
+        "id": "1803600344900841472"
+      }
+    ]
+  }
+}

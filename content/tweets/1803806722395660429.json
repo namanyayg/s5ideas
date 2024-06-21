@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803806722395660429",
+  "screen_name": "normiefounder",
+  "bookmarks": 0,
+  "favorites": 0,
+  "created_at": "Thu Jun 20 15:06:50 +0000 2024",
+  "text": "got this farrrr....\ncc @_buildspace @_nightsweekends https://t.co/U6KFUAJRim",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803806722395660429",
+  "retweets": 0,
+  "views": "33",
+  "user_info": {
+    "screen_name": "normiefounder",
+    "name": "Ajay Sharma",
+    "description": "Building Ideat - an ideation assistant at n&w S5 @_buildspace | Gaudmire — otherwise I design, build & sometimes write 1-2 lines of code in the product",
+    "rest_id": "1296465702220517377",
+    "followers_count": 665,
+    "favourites_count": 70,
+    "avatar": "https://pbs.twimg.com/profile_images/1779849895454932992/R0lOaG8y_normal.jpg",
+    "verified": false,
+    "friends_count": 79
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQhopnLbIAAlr73.png",
+        "id": "1803806714862706688"
+      }
+    ]
+  }
+}

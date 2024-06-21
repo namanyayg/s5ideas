@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803912267832111313",
+  "screen_name": "Vibhxv",
+  "bookmarks": 0,
+  "favorites": 2,
+  "created_at": "Thu Jun 20 22:06:14 +0000 2024",
+  "text": "What are ur suggestions ??\n\ncc: @_buildspace @_nightsweekends @FarzaTV https://t.co/gt4lIa6S8L",
+  "lang": "en",
+  "quotes": 1,
+  "replies": 4,
+  "conversation_id": "1803912267832111313",
+  "retweets": 0,
+  "views": "97",
+  "user_info": {
+    "screen_name": "Vibhxv",
+    "name": "Vibhxv",
+    "description": "Spectreseek @_nightsweekends S5",
+    "rest_id": "1746504746125463552",
+    "followers_count": 4,
+    "favourites_count": 20,
+    "avatar": "https://pbs.twimg.com/profile_images/1802362911941386240/5El5Fmpq_normal.jpg",
+    "verified": false,
+    "friends_count": 10
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQjIpAJakBQ9JvS.jpg",
+        "id": "1803912257501564948"
+      }
+    ]
+  }
+}

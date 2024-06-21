@@ -1,0 +1,98 @@
+{
+  "type": "tweet",
+  "tweet_id": "1804052562716561544",
+  "screen_name": "kttppa",
+  "bookmarks": 0,
+  "favorites": 4,
+  "created_at": "Fri Jun 21 07:23:43 +0000 2024",
+  "text": "6 players have &gt;90% mkt share:\n\n🇯🇵Maruti (18🚗), Toyota (11🚗) hold ~48%\n🇮🇳Tata (7🚗), Mahindra (8🚗) hold ~25%\n🇰🇷Hyundai (11🚗), Kia (4🚗) hold ~19%\n\n48/ 59 🚗, work for me - 36 SUVs / MUVs, 5 sedans &amp; 7 hatchbacks\n\nCataloging materials &amp; colour today. 3D ftw\n\ncc: @_buildspace https://t.co/YiawUdw0f9",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1804052562716561544",
+  "retweets": 0,
+  "views": "312",
+  "user_info": {
+    "screen_name": "kttppa",
+    "name": "Akash Kuttappa",
+    "description": "Product @Flipkart Labs | Experiments with tech, coffee, food & fashion",
+    "rest_id": "972302378",
+    "followers_count": 988,
+    "favourites_count": 7396,
+    "avatar": "https://pbs.twimg.com/profile_images/1629364099934203904/3Z4JGLK6_normal.jpg",
+    "verified": false,
+    "friends_count": 711
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQlILOVXkAAhGGU.jpg",
+        "id": "1804052483402076160"
+      }
+    ],
+    "video": [
+      {
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1804052483393683456/img/1diyzQXAhuxyxBoH.jpg",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1804052483393683456/pl/h621tcOdxQcQ078p.m3u8?tag=16"
+          },
+          {
+            "bitrate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1804052483393683456/vid/avc1/320x396/Yz1UyF07AcNK1jyi.mp4?tag=16"
+          },
+          {
+            "bitrate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1804052483393683456/vid/avc1/480x594/2iVSYmrGfClGbVWo.mp4?tag=16"
+          },
+          {
+            "bitrate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1804052483393683456/vid/avc1/720x892/Gw-1J5s0tNG3cJ8b.mp4?tag=16"
+          }
+        ],
+        "aspect_ratio": [
+          443,
+          550
+        ],
+        "original_info": {
+          "height": 1100,
+          "width": 886,
+          "focus_rects": []
+        },
+        "id": "1804052483393683456"
+      }
+    ]
+  },
+  "quoted": {
+    "tweet_id": "1803148546084049143",
+    "bookmarks": 0,
+    "created_at": "Tue Jun 18 19:31:28 +0000 2024",
+    "favorites": 4,
+    "text": "mass market cabins have gotten boring and lack function. current interior personalisation comes at the cost of safety. pre-owned cars (a growing market) lack a personal touch\n\nI want to build products that address this with cabin play\n\ncc: @_buildspace @_nightsweekends https://t.co/AhJOfUAfEk",
+    "lang": "en",
+    "views": "685",
+    "quotes": 1,
+    "replies": 2,
+    "retweets": 0,
+    "conversation_id": "1803148546084049143",
+    "author": {
+      "rest_id": "972302378",
+      "name": "Akash Kuttappa",
+      "screen_name": "kttppa",
+      "avatar": "https://pbs.twimg.com/profile_images/1629364099934203904/3Z4JGLK6_normal.jpg",
+      "blue_verified": true
+    },
+    "media": {
+      "photo": [
+        {
+          "media_url_https": "https://pbs.twimg.com/media/GQYSCnTWMAA9BRE.jpg",
+          "id": "1803148536927629312"
+        }
+      ]
+    }
+  }
+}

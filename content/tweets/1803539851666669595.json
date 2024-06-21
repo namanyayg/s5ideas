@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803539851666669595",
+  "screen_name": "mind_game7",
+  "bookmarks": 0,
+  "favorites": 2,
+  "created_at": "Wed Jun 19 21:26:23 +0000 2024",
+  "text": "For the next 6 weeks I'll be working on Memeboard at\n@_buildspace. Kudos to the #buildspace team &amp;\n@FarzaTV for creating a perfect environment to build stuff 🔥📷#memes https://t.co/PuxmehWftf",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803539851666669595",
+  "retweets": 0,
+  "views": "102",
+  "user_info": {
+    "screen_name": "mind_game7",
+    "name": "Oleksiy Malytskyy",
+    "description": "Startups. Memes. Useful links. + the best Memes. Co-founder @ https://t.co/yOXnE7RlC9",
+    "rest_id": "846677642086666245",
+    "followers_count": 218,
+    "favourites_count": 720,
+    "avatar": "https://pbs.twimg.com/profile_images/1744900286869798912/1IM6gYm3_normal.jpg",
+    "verified": false,
+    "friends_count": 610
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQd16v2aIAAI5rY.png",
+        "id": "1803539827922706432"
+      }
+    ]
+  }
+}

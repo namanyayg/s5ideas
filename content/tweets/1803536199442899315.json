@@ -1,0 +1,38 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803536199442899315",
+  "screen_name": "SwapnilChand51",
+  "bookmarks": 0,
+  "favorites": 9,
+  "created_at": "Wed Jun 19 21:11:52 +0000 2024",
+  "text": "day 2/42 of\n@_nightsweekends s5 \nmood has some code\n- multi task CNNs based\n- and calling https://t.co/w3EeukmNIt for music generation\n\ntrying to combine both the codes, and looking for better ways to detect face expression \ncc: @_buildspace https://t.co/3VDdKZnueY",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 1,
+  "conversation_id": "1803536199442899315",
+  "retweets": 0,
+  "views": "205",
+  "user_info": {
+    "screen_name": "SwapnilChand51",
+    "name": "Swapnil Chand",
+    "description": "being so good you can't ignore me ;)\n • building Mood in @_buildspace s5 : erevald 🟩",
+    "rest_id": "1126148650927681537",
+    "followers_count": 362,
+    "favourites_count": 6574,
+    "avatar": "https://pbs.twimg.com/profile_images/1615880823538069504/oidjwBeF_normal.jpg",
+    "verified": false,
+    "friends_count": 4331
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQdvqddaIAEqE6p.jpg",
+        "id": "1803532951038337025"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQdyDn4aIAM6Vfx.jpg",
+        "id": "1803535582355922947"
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803460795847655603",
+  "screen_name": "kvrjr",
+  "bookmarks": 0,
+  "favorites": 7,
+  "created_at": "Wed Jun 19 16:12:15 +0000 2024",
+  "text": "here's my idea for @_nightsweekends s5 🔥\nwould love to hear feedback!\n\ncc: @_buildspace https://t.co/Zl8bJ87HNW",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 5,
+  "conversation_id": "1803460795847655603",
+  "retweets": 1,
+  "views": "219",
+  "user_info": {
+    "screen_name": "kvrjr",
+    "name": "Data Overflow",
+    "description": "21 | Video game developer & AI enthusiast  \nBuilding @datable_app at @_buildspace",
+    "rest_id": "1430841150403792896",
+    "followers_count": 76,
+    "favourites_count": 564,
+    "avatar": "https://pbs.twimg.com/profile_images/1803487367870947329/NPKz7poz_normal.jpg",
+    "verified": false,
+    "friends_count": 248
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQcstpNXUAA6tfl.jpg",
+        "id": "1803459338452815872"
+      }
+    ]
+  }
+}

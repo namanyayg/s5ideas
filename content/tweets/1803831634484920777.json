@@ -1,0 +1,62 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803831634484920777",
+  "screen_name": "abdussalampopsy",
+  "bookmarks": 0,
+  "favorites": 6,
+  "created_at": "Thu Jun 20 16:45:49 +0000 2024",
+  "text": "here we go again\n\ni shared my @_buildspace idea 46 hrs ago.\n\nafter tons of feedback and storm-braining from @FarzaTV and others\n\nhere's an update...\nwhat do you think? https://t.co/RqXFUDvAMu",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803831634484920777",
+  "retweets": 0,
+  "views": "384",
+  "user_info": {
+    "screen_name": "abdussalampopsy",
+    "name": "Abdussalam Popoola",
+    "description": "I design and build websites - https://t.co/ncIxn3NVd3 ◎ \nI write weekly essays - https://t.co/OO8NCIRMSR ◎ \nAvailable for projects, Send a DM",
+    "rest_id": "1147976134761603078",
+    "followers_count": 5051,
+    "favourites_count": 94508,
+    "avatar": "https://pbs.twimg.com/profile_images/1721109325874188288/Wq2_J1Y7_normal.jpg",
+    "verified": false,
+    "friends_count": 626
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQh-J3SXgAEw5hW.jpg",
+        "id": "1803830358686793729"
+      }
+    ]
+  },
+  "quoted": {
+    "tweet_id": "1803135630286708919",
+    "bookmarks": 9,
+    "created_at": "Tue Jun 18 18:40:09 +0000 2024",
+    "favorites": 91,
+    "text": "okay @_buildspace , here's my idea.\n\ni started learning Webflow 7 months ago, now i'd like to speed up the learning process for other designers.\n\nwhat do you think?\n\ncc: @FarzaTV https://t.co/U3AG2Gy5rB",
+    "lang": "en",
+    "views": "3131",
+    "quotes": 1,
+    "replies": 19,
+    "retweets": 1,
+    "conversation_id": "1803135630286708919",
+    "author": {
+      "rest_id": "1147976134761603078",
+      "name": "Abdussalam Popoola",
+      "screen_name": "abdussalampopsy",
+      "avatar": "https://pbs.twimg.com/profile_images/1721109325874188288/Wq2_J1Y7_normal.jpg",
+      "blue_verified": true
+    },
+    "media": {
+      "photo": [
+        {
+          "media_url_https": "https://pbs.twimg.com/media/GQYFQdQWQAACqw7.jpg",
+          "id": "1803134481097703424"
+        }
+      ]
+    }
+  }
+}

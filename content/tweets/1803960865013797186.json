@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803960865013797186",
+  "screen_name": "Rishi_karanam",
+  "bookmarks": 0,
+  "favorites": 2,
+  "created_at": "Fri Jun 21 01:19:20 +0000 2024",
+  "text": "Hi everyone! 🌟We're excited to share the mission of yuvamytr with you....\n\nWhat do you think about this idea?\nYour insights are invaluable to us. Feel free to share your thoughts and suggestions!\n\nCC @_buildspace\n\n#buildspace #nightsandweekends #S5 https://t.co/J1ALOkYcyC",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 1,
+  "conversation_id": "1803960865013797186",
+  "retweets": 0,
+  "views": "26",
+  "user_info": {
+    "screen_name": "Rishi_karanam",
+    "name": "Rishi karanam",
+    "description": "A tech geek\nCurious being\nFull-stack development\nFellow at CCBP 4.0 Academy \nReact Development",
+    "rest_id": "1432271246389960711",
+    "followers_count": 13,
+    "favourites_count": 57,
+    "avatar": "https://pbs.twimg.com/profile_images/1680907373618278401/RkibvI1s_normal.jpg",
+    "verified": false,
+    "friends_count": 208
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQj02LFakAAAZ3_.jpg",
+        "id": "1803960862287499264"
+      }
+    ]
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803656997776314856",
+  "screen_name": "whispaw_",
+  "bookmarks": 1,
+  "favorites": 5,
+  "created_at": "Thu Jun 20 05:11:53 +0000 2024",
+  "text": "Put an auto-answer Apple Watch on my cat to test if it’s enjoyable to have your pets talk back for once. \n\nCc @_buildspace @_nightsweekends https://t.co/pvi1cYowmY",
+  "lang": "en",
+  "quotes": 1,
+  "replies": 3,
+  "conversation_id": "1803656997776314856",
+  "retweets": 0,
+  "views": "310",
+  "user_info": {
+    "screen_name": "whispaw_",
+    "name": "whispaw",
+    "description": "",
+    "rest_id": "1626438399166132225",
+    "followers_count": 71,
+    "favourites_count": 180,
+    "avatar": "https://pbs.twimg.com/profile_images/1792749296217100288/6sfZPfyB_normal.jpg",
+    "verified": false,
+    "friends_count": 81
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQfgZxIaIAASQZr.jpg",
+        "id": "1803656909075128320"
+      }
+    ],
+    "video": [
+      {
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1803656909070991360/pu/img/JzjVmZH2l9uTeneb.jpg",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1803656909070991360/pu/pl/dVARgvWMgB5j1mdT.m3u8?tag=12"
+          },
+          {
+            "bitrate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1803656909070991360/pu/vid/avc1/584x270/V9FmPqY6pIyr3Zm9.mp4?tag=12"
+          },
+          {
+            "bitrate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1803656909070991360/pu/vid/avc1/780x360/BLux8xayo-AQPeTs.mp4?tag=12"
+          },
+          {
+            "bitrate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1803656909070991360/pu/vid/avc1/1280x590/E9KOlxtg_HJDTUQr.mp4?tag=12"
+          }
+        ],
+        "aspect_ratio": [
+          128,
+          59
+        ],
+        "original_info": {
+          "height": 590,
+          "width": 1280,
+          "focus_rects": []
+        },
+        "id": "1803656909070991360"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1803656909070934016/pu/img/2hkrJOeiboylMPBg.jpg",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1803656909070934016/pu/pl/KuMgMJbnlneNqLd7.m3u8?tag=12"
+          },
+          {
+            "bitrate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1803656909070934016/pu/vid/avc1/480x270/gQZisbofI9vRl6IG.mp4?tag=12"
+          },
+          {
+            "bitrate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1803656909070934016/pu/vid/avc1/640x360/11eqer82F8RIS99B.mp4?tag=12"
+          },
+          {
+            "bitrate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1803656909070934016/pu/vid/avc1/1280x720/PDfl-vvN2LvD7dOz.mp4?tag=12"
+          }
+        ],
+        "aspect_ratio": [
+          16,
+          9
+        ],
+        "original_info": {
+          "height": 720,
+          "width": 1280,
+          "focus_rects": []
+        },
+        "id": "1803656909070934016"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1803656909079322624/pu/img/yQORBVjy5jXM6cXX.jpg",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1803656909079322624/pu/pl/RGFcSJmawIZEBJgw.m3u8?tag=12"
+          },
+          {
+            "bitrate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1803656909079322624/pu/vid/avc1/480x270/MHYZxsupJx4gjZbz.mp4?tag=12"
+          },
+          {
+            "bitrate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1803656909079322624/pu/vid/avc1/640x360/S10T79D1ycHIc0ea.mp4?tag=12"
+          },
+          {
+            "bitrate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1803656909079322624/pu/vid/avc1/1280x720/RLAvecnfidItYvKZ.mp4?tag=12"
+          }
+        ],
+        "aspect_ratio": [
+          16,
+          9
+        ],
+        "original_info": {
+          "height": 720,
+          "width": 1280,
+          "focus_rects": []
+        },
+        "id": "1803656909079322624"
+      }
+    ]
+  }
+}

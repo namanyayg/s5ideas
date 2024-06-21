@@ -1,0 +1,38 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803912579573563901",
+  "screen_name": "m_anarchitect",
+  "bookmarks": 0,
+  "favorites": 0,
+  "created_at": "Thu Jun 20 22:07:28 +0000 2024",
+  "text": "let's make this work! posting our progress every day \n\n @_buildspace @nightsNweekends https://t.co/DNIvcWfFBb",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803912579573563901",
+  "retweets": 0,
+  "views": "32",
+  "user_info": {
+    "screen_name": "m_anarchitect",
+    "name": "mahnoor",
+    "description": "I like writing about architecture and design. I run a South Asian design magazine. I occasionally tweet.",
+    "rest_id": "1548252498028220416",
+    "followers_count": 82,
+    "favourites_count": 30,
+    "avatar": "https://pbs.twimg.com/profile_images/1799479911406620672/FmiIN8vY_normal.jpg",
+    "verified": false,
+    "friends_count": 220
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQjIsQPXUAAaBqH.png",
+        "id": "1803912313361092608"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQjIwOUWoAIG-L4.png",
+        "id": "1803912381564624898"
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803763130519957712",
+  "screen_name": "lukassoukup",
+  "bookmarks": 0,
+  "favorites": 4,
+  "created_at": "Thu Jun 20 12:13:37 +0000 2024",
+  "text": "New @_nightsweekends season, new project to build \n\n@_buildspace  @FarzaTV https://t.co/czcEe24ssx",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 3,
+  "conversation_id": "1803763130519957712",
+  "retweets": 0,
+  "views": "102",
+  "user_info": {
+    "screen_name": "lukassoukup",
+    "name": "Lukas Soukup",
+    "description": "Building products @lukylab @getatomixdesign. Crafting apps https://t.co/S8XXRXfkoA @fiduciarylabs @sumioapp. Happy to help with UX/UI & Product Management.",
+    "rest_id": "13900632",
+    "followers_count": 429,
+    "favourites_count": 2928,
+    "avatar": "https://pbs.twimg.com/profile_images/1559203650978840576/N6e6DcaK_normal.jpg",
+    "verified": false,
+    "friends_count": 3769
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQhAgdUXwAAeE4u.jpg",
+        "id": "1803762577131945984"
+      }
+    ]
+  }
+}

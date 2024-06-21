@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803492612831334522",
+  "screen_name": "megTries",
+  "bookmarks": 10,
+  "favorites": 85,
+  "created_at": "Wed Jun 19 18:18:40 +0000 2024",
+  "text": "I've hated every expense tracker I've tried so I'm building one to save myself from the raw google sheets experience\n\ncc : @_buildspace @_nightsweekends @FarzaTV https://t.co/PBVDVpchIG",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 34,
+  "conversation_id": "1803492612831334522",
+  "retweets": 1,
+  "views": "2480",
+  "user_info": {
+    "screen_name": "megTries",
+    "name": "Meghana",
+    "description": "Full Stack Web Developer✨ Sharing my journey✨️ Erevald @_buildspace✨Actively looking for Frontend & Full Stack roles #OpenToWork",
+    "rest_id": "1633864676483432449",
+    "followers_count": 324,
+    "favourites_count": 6436,
+    "avatar": "https://pbs.twimg.com/profile_images/1724869084775665664/_HNoB52L_normal.jpg",
+    "verified": false,
+    "friends_count": 2216
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQdJ5qFaIAQPnav.jpg",
+        "id": "1803491430683516932"
+      }
+    ]
+  }
+}

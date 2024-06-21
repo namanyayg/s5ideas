@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803430778489151832",
+  "screen_name": "gaurav_k5",
+  "bookmarks": 6,
+  "favorites": 24,
+  "created_at": "Wed Jun 19 14:12:58 +0000 2024",
+  "text": "over the next six weeks, i am gonna build and grow videofast \n\nvideofast helps you generate viral reels and shorts using AI - just input your topic or script and get short videos in multiple styles\n\ncc @_buildspace  @_nightsweekends @FarzaTV 🚀 https://t.co/Yf2geq9Owp",
+  "lang": "en",
+  "quotes": 1,
+  "replies": 9,
+  "conversation_id": "1803430778489151832",
+  "retweets": 3,
+  "views": "1077",
+  "user_info": {
+    "screen_name": "gaurav_k5",
+    "name": "Gaurav Kumar",
+    "description": "Building VideoFast AI | Ex-Staff Engineer @ ShareChat, Ex-Koo | AR/VR, Video Tech, Mobile, Backend",
+    "rest_id": "3033117362",
+    "followers_count": 50,
+    "favourites_count": 290,
+    "avatar": "https://pbs.twimg.com/profile_images/1242069512750424064/-0dho9Rs_normal.jpg",
+    "verified": false,
+    "friends_count": 166
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQcSu_4W8AEq4AB.jpg",
+        "id": "1803430774416273409"
+      }
+    ]
+  }
+}

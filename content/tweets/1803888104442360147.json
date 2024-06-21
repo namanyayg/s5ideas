@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803888104442360147",
+  "screen_name": "Justinkorkie",
+  "bookmarks": 0,
+  "favorites": 3,
+  "created_at": "Thu Jun 20 20:30:13 +0000 2024",
+  "text": "Started this account literally just to share my nights and weekends journey.\n\nStep one is to share the gist of your idea and communicate it so others who may not be as technical can understand it.\n\nThe project I want to work on is... well...\n\n cc: @_buildspace  @_nightsweekends https://t.co/QQIAWXwt8t",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 2,
+  "conversation_id": "1803888104442360147",
+  "retweets": 0,
+  "views": "53",
+  "user_info": {
+    "screen_name": "Justinkorkie",
+    "name": "Justin",
+    "description": "Brogrammer",
+    "rest_id": "1471145871073067009",
+    "followers_count": 1,
+    "favourites_count": 4,
+    "avatar": "https://pbs.twimg.com/profile_images/1803917459646255104/RIc5KRWd_normal.jpg",
+    "verified": false,
+    "friends_count": 5
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQix5M1XcAEDOOL.png",
+        "id": "1803887247017603073"
+      }
+    ]
+  }
+}

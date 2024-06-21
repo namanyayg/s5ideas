@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803518397239459908",
+  "screen_name": "Thomas_hacks",
+  "bookmarks": 0,
+  "favorites": 13,
+  "created_at": "Wed Jun 19 20:01:08 +0000 2024",
+  "text": "Kōdan. edit videos with your voice using ai. Upload clips, voice your vision, and let AI edit your video for you from the Kōdan app on your phone.  Nights &amp; Weekends project (at concept stage rn)  \n\nw/ @DeetSchoe \n\nhttps://t.co/9svuTG5Unr \n#buildspace #buildspaces5 @_buildspace https://t.co/vxWNaTE3nv",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 4,
+  "conversation_id": "1803518397239459908",
+  "retweets": 0,
+  "views": "214",
+  "user_info": {
+    "screen_name": "Thomas_hacks",
+    "name": "Thomas",
+    "description": "",
+    "rest_id": "1707161070819782656",
+    "followers_count": 53,
+    "favourites_count": 98,
+    "avatar": "https://pbs.twimg.com/profile_images/1707161190323953664/k6qWvweA_normal.jpg",
+    "verified": false,
+    "friends_count": 57
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQdiYgpWgAA4tE-.jpg",
+        "id": "1803518349004931072"
+      }
+    ]
+  }
+}

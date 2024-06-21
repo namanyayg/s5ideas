@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803596922940203114",
+  "screen_name": "r0shan_jha_",
+  "bookmarks": 0,
+  "favorites": 3,
+  "created_at": "Thu Jun 20 01:13:10 +0000 2024",
+  "text": "let's go\n\ncc: @_buildspace @FarzaTV @_nightsweekends https://t.co/2DwQGkXvBc",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803596922940203114",
+  "retweets": 0,
+  "views": "85",
+  "user_info": {
+    "screen_name": "r0shan_jha_",
+    "name": "Roshan Jha",
+    "description": "I help new-gen startups convert more with Design and Writing | Partnered with 20+ Founders worldwide | Founded @incredeus",
+    "rest_id": "2397486816",
+    "followers_count": 140,
+    "favourites_count": 3323,
+    "avatar": "https://pbs.twimg.com/profile_images/1763533779275010048/IWOvVY4p_normal.jpg",
+    "verified": false,
+    "friends_count": 204
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQepw6hX0AAJkV6.jpg",
+        "id": "1803596833593217024"
+      }
+    ]
+  }
+}

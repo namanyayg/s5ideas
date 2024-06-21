@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803846743366226280",
+  "screen_name": "GaosebTarry",
+  "bookmarks": 0,
+  "favorites": 0,
+  "created_at": "Thu Jun 20 17:45:52 +0000 2024",
+  "text": "watching now\nStarted streaming 36 minutes ago\n\ni'm so excited! :-). Just joined the stream on deciding on your idea. We are covering realising clear ideas!\n\ncc : @_buildspace @_nightsweekends https://t.co/OoJiCQ8mHD",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803846743366226280",
+  "retweets": 0,
+  "views": "12",
+  "user_info": {
+    "screen_name": "GaosebTarry",
+    "name": "Just Tarry",
+    "description": "Greetings, travelers! I am but, a young sage of Namibia, versed in the arcane arts of computation. Join me in exploring the digital tapestry of our age.",
+    "rest_id": "1564349342743498754",
+    "followers_count": 117,
+    "favourites_count": 12,
+    "avatar": "https://pbs.twimg.com/profile_images/1802498688972890112/B8GxK08P_normal.jpg",
+    "verified": false,
+    "friends_count": 44
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQiMfhuW8AAovJE.jpg",
+        "id": "1803846124018528256"
+      }
+    ]
+  }
+}

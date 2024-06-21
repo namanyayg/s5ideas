@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803470636695617723",
+  "screen_name": "ManacEffect",
+  "bookmarks": 34,
+  "favorites": 351,
+  "created_at": "Wed Jun 19 16:51:21 +0000 2024",
+  "text": "me and my friend literally spent hours on reels looking for fun places to hangout.\n\nthat's why i'm building frenacco to save you from the hassle \n\ncc: @_buildspace @_nightsweekends \n\nhere's my week one update: https://t.co/CAAZdLq6jE",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 140,
+  "conversation_id": "1803470636695617723",
+  "retweets": 5,
+  "views": "11309",
+  "user_info": {
+    "screen_name": "ManacEffect",
+    "name": "manac_effect",
+    "description": "gaudmire at buildspace",
+    "rest_id": "1729490163309461504",
+    "followers_count": 131,
+    "favourites_count": 430,
+    "avatar": "https://pbs.twimg.com/profile_images/1801693033827864576/iC1MDRfz_normal.jpg",
+    "verified": false,
+    "friends_count": 52
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQc29noXsAAwTCB.jpg",
+        "id": "1803470608023400448"
+      }
+    ]
+  }
+}

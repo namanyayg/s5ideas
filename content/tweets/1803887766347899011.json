@@ -1,0 +1,55 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803887766347899011",
+  "screen_name": "bastiankoh",
+  "bookmarks": 0,
+  "favorites": 4,
+  "created_at": "Thu Jun 20 20:28:52 +0000 2024",
+  "text": "This was my first electric guitar, which I got in Chile at 14. \n\nAttempting to repaint it, I botched the job, and ever since, I've carried its pieces with me. \n\nNow, at 27 and living in NYC, it's time to rebuild it with custom electronics.\n\n cc: @_buildspace @_nightsweekends @FarzaTV",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 2,
+  "conversation_id": "1803887766347899011",
+  "retweets": 0,
+  "views": "194",
+  "user_info": {
+    "screen_name": "bastiankoh",
+    "name": "Bastian Koh",
+    "description": "Designer, Entrepreneur, and Indie Hacker in Brooklyn, NY🗽 👨‍💻 Design Agency → https://t.co/4zx3Kvvn4U 📱 Building → https://t.co/kRAja2fHXs",
+    "rest_id": "120559746",
+    "followers_count": 923,
+    "favourites_count": 2747,
+    "avatar": "https://pbs.twimg.com/profile_images/1757165016002842624/jx-_cv_l_normal.jpg",
+    "verified": false,
+    "friends_count": 952
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQiwdrZWQAASTbg.jpg",
+        "id": "1803885674673618944"
+      }
+    ]
+  },
+  "quoted": {
+    "tweet_id": "1803869062230917453",
+    "bookmarks": 0,
+    "created_at": "Thu Jun 20 19:14:33 +0000 2024",
+    "favorites": 4,
+    "text": "Lab 1 Completed for @_nightsweekends\n\nIs my one liner clear? \n\ncc: @_buildspace",
+    "lang": "en",
+    "views": "401",
+    "quotes": 1,
+    "replies": 3,
+    "retweets": 0,
+    "conversation_id": "1803869062230917453",
+    "author": {
+      "rest_id": "120559746",
+      "name": "Bastian Koh",
+      "screen_name": "bastiankoh",
+      "avatar": "https://pbs.twimg.com/profile_images/1757165016002842624/jx-_cv_l_normal.jpg",
+      "blue_verified": true
+    },
+    "media": []
+  }
+}

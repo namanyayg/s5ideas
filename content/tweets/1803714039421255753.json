@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803714039421255753",
+  "screen_name": "lelabodetho",
+  "bookmarks": 0,
+  "favorites": 10,
+  "created_at": "Thu Jun 20 08:58:33 +0000 2024",
+  "text": "I'm looking for an engineer with web & AI skills to join a web app project that combines learning and curiosity ✌️(interested in science, deep-tech, physics etc...)\n\nTbh I don't know where this might end up but the journey is going to be pretty fun\n\ncc : @_buildspace @_nightsweekends",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 5,
+  "conversation_id": "1803714039421255753",
+  "retweets": 1,
+  "views": "507",
+  "user_info": {
+    "screen_name": "lelabodetho",
+    "name": "Tho",
+    "description": "product designer by day | currently @Disney ✦ infinite learner & building @buildersvalley_ by night | @_buildspace (s4/s5)",
+    "rest_id": "1357345878172786691",
+    "followers_count": 345,
+    "favourites_count": 5776,
+    "avatar": "https://pbs.twimg.com/profile_images/1682320252661579776/Oma_tLdy_normal.jpg",
+    "verified": false,
+    "friends_count": 655
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQgUW8aWgAASXH3.jpg",
+        "id": "1803714035168215040"
+      }
+    ]
+  }
+}

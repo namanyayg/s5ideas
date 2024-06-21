@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803834278792294678",
+  "screen_name": "uniquepersun",
+  "bookmarks": 0,
+  "favorites": 3,
+  "created_at": "Thu Jun 20 16:56:20 +0000 2024",
+  "text": "working on a personalized ai assistant app as fun practicing project😃🤓 @_buildspace &amp; @_nightsweekends \n#coding_adventure #developer #nightsweekendss5 https://t.co/r3SFfyx45K",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803834278792294678",
+  "retweets": 0,
+  "views": "30",
+  "user_info": {
+    "screen_name": "uniquepersun",
+    "name": "abhay",
+    "description": "Developing student developer 😜😀\n|\nn&w s5 in gaudmire @_buildspace",
+    "rest_id": "1599332214159728640",
+    "followers_count": 4,
+    "favourites_count": 843,
+    "avatar": "https://pbs.twimg.com/profile_images/1599332458532438016/bceL_1fy_normal.jpg",
+    "verified": false,
+    "friends_count": 1
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQiAkBfW0AAWNV9.jpg",
+        "id": "1803833007125483520"
+      }
+    ]
+  }
+}

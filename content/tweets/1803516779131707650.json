@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803516779131707650",
+  "screen_name": "ghulamurtaza_",
+  "bookmarks": 0,
+  "favorites": 2,
+  "created_at": "Wed Jun 19 19:54:42 +0000 2024",
+  "text": "Im really excited to build this and make it happen! Drop your thoughts.✨\n\nS5\n\ncc: @_buildspace @_nightsweekends https://t.co/2QX6tbZFvH",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 1,
+  "conversation_id": "1803516779131707650",
+  "retweets": 0,
+  "views": "79",
+  "user_info": {
+    "screen_name": "ghulamurtaza_",
+    "name": "Ghulam Murtaza",
+    "description": "mcgill u",
+    "rest_id": "1500951432975077377",
+    "followers_count": 298,
+    "favourites_count": 30484,
+    "avatar": "https://pbs.twimg.com/profile_images/1792068247396782080/7ofbMPbm_normal.jpg",
+    "verified": false,
+    "friends_count": 770
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQdgzawXYAA8oXL.png",
+        "id": "1803516612256948224"
+      }
+    ]
+  }
+}

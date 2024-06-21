@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803478327149338941",
+  "screen_name": "heemankv",
+  "bookmarks": 0,
+  "favorites": 5,
+  "created_at": "Wed Jun 19 17:21:54 +0000 2024",
+  "text": "Current Yoga Coach apps are over featured and expensive. \n\nWe are here to fix that ! @YogavanAI￼￼\n\n thoughts? cc @_buildspace ,@FarzaTV\n @_nightsweekends \n. \n\nTeam :  @shikhar_s_ @heemankv https://t.co/Al2rEhO4HX",
+  "lang": "en",
+  "quotes": 1,
+  "replies": 0,
+  "conversation_id": "1803478327149338941",
+  "retweets": 1,
+  "views": "158",
+  "user_info": {
+    "screen_name": "heemankv",
+    "name": "Heemank Verma",
+    "description": "Smart Contract Developer (Rust,Sol) || Ex @Timeswaplabs, @RespctClub || Interests : Defi | Fintech",
+    "rest_id": "1338808512177061894",
+    "followers_count": 415,
+    "favourites_count": 1749,
+    "avatar": "https://pbs.twimg.com/profile_images/1629042135520669696/92DAEe36_normal.jpg",
+    "verified": false,
+    "friends_count": 938
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQc9-WqXEAAd2Ii.jpg",
+        "id": "1803478317229608960"
+      }
+    ]
+  }
+}

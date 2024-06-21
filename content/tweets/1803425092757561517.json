@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803425092757561517",
+  "screen_name": "Gypcyonearth",
+  "bookmarks": 0,
+  "favorites": 10,
+  "created_at": "Wed Jun 19 13:50:22 +0000 2024",
+  "text": "Okay, y'all. Lets go @_buildspace @_nightsweekends https://t.co/IpdGiCkdgy",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 3,
+  "conversation_id": "1803425092757561517",
+  "retweets": 0,
+  "views": "170",
+  "user_info": {
+    "screen_name": "Gypcyonearth",
+    "name": "Gypcy",
+    "description": "@buildspace",
+    "rest_id": "1030528013253967872",
+    "followers_count": 233,
+    "favourites_count": 2254,
+    "avatar": "https://pbs.twimg.com/profile_images/1791063159094067200/92Q2ouyq_normal.jpg",
+    "verified": false,
+    "friends_count": 102
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQcNAlFXkAAz3tm.jpg",
+        "id": "1803424479390961664"
+      }
+    ]
+  }
+}

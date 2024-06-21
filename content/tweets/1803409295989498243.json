@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803409295989498243",
+  "screen_name": "CamelCaseCam1",
+  "bookmarks": 3,
+  "favorites": 31,
+  "created_at": "Wed Jun 19 12:47:36 +0000 2024",
+  "text": "I can never find good song recommendations on Spotify. I'm going to change that. \n\ncc: @_buildspace @_nightsweekends https://t.co/wzvZ1G6qgg",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 20,
+  "conversation_id": "1803409295989498243",
+  "retweets": 0,
+  "views": "602",
+  "user_info": {
+    "screen_name": "CamelCaseCam1",
+    "name": "Cameron Kroll 🛠️🧬",
+    "description": "Synthetic biology enthusiast and open-source developer. https://t.co/8mPw473dN2",
+    "rest_id": "1460772486698655744",
+    "followers_count": 387,
+    "favourites_count": 392,
+    "avatar": "https://pbs.twimg.com/profile_images/1460773418865987586/iJQtnj4f_normal.jpg",
+    "verified": false,
+    "friends_count": 319
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQb-4n6XcAAqNb3.jpg",
+        "id": "1803408949548380160"
+      }
+    ]
+  }
+}

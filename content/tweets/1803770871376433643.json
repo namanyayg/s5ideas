@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803770871376433643",
+  "screen_name": "tejas_bhovad",
+  "bookmarks": 0,
+  "favorites": 3,
+  "created_at": "Thu Jun 20 12:44:22 +0000 2024",
+  "text": "share your ideas below👇\n\n@_buildspace\n@_nightsweekends https://t.co/0exitN7kUf",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 2,
+  "conversation_id": "1803770871376433643",
+  "retweets": 0,
+  "views": "54",
+  "user_info": {
+    "screen_name": "tejas_bhovad",
+    "name": "Tejas Bhovad",
+    "description": "🚀 Full Stack Dev building products | Btech AI-DS '26",
+    "rest_id": "1585128744284434432",
+    "followers_count": 181,
+    "favourites_count": 1566,
+    "avatar": "https://pbs.twimg.com/profile_images/1646185088042909701/gxCKkKLf_normal.jpg",
+    "verified": false,
+    "friends_count": 417
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQhHnqEXAAAtn2D.jpg",
+        "id": "1803770397394927616"
+      }
+    ]
+  }
+}

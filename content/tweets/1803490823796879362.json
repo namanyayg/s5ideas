@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803490823796879362",
+  "screen_name": "coderpr0grammer",
+  "bookmarks": 0,
+  "favorites": 2,
+  "created_at": "Wed Jun 19 18:11:34 +0000 2024",
+  "text": "A little late to the @_buildspace party, I’ve still got exams this week but for anyone teaching summer school, @gradeassistai is especially for you! \n\ncc: @FarzaTV @_nightsweekends @_buildspace https://t.co/PpCHGZKXTs",
+  "lang": "en",
+  "quotes": 1,
+  "replies": 0,
+  "conversation_id": "1803490823796879362",
+  "retweets": 0,
+  "views": "386",
+  "user_info": {
+    "screen_name": "coderpr0grammer",
+    "name": "Daniel Martinez",
+    "description": "17 years old | Founder @gradeassistai backed by Microsoft | Treefrog Accelerator C11 | 2x Ingenious+ Innovation Award | @_buildspace s5",
+    "rest_id": "1271499346987679745",
+    "followers_count": 34,
+    "favourites_count": 80,
+    "avatar": "https://pbs.twimg.com/profile_images/1714091743363076096/sP54Tno__normal.jpg",
+    "verified": false,
+    "friends_count": 70
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQdJWFsXEAAEW5C.jpg",
+        "id": "1803490819619360768"
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803504324925906947",
+  "screen_name": "kunald2942",
+  "bookmarks": 0,
+  "favorites": 1,
+  "created_at": "Wed Jun 19 19:05:13 +0000 2024",
+  "text": "Are you done looking at travel reels all day and ready to take on the adventure? We are making a web app that makes planning your next cinematic destination a piece of cake. \n\nMore on this in the upcoming week. Building with @peeps_ap adarsh srivastava 🚀\n\ncc @_buildspace https://t.co/HfsXwUU803",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 1,
+  "conversation_id": "1803504324925906947",
+  "retweets": 0,
+  "views": "37",
+  "user_info": {
+    "screen_name": "kunald2942",
+    "name": "kunal.xyz",
+    "description": "Posting all the copies.",
+    "rest_id": "1606164498586693632",
+    "followers_count": 0,
+    "favourites_count": 11,
+    "avatar": "https://pbs.twimg.com/profile_images/1610899244726255616/2YdoJH7Y_normal.jpg",
+    "verified": false,
+    "friends_count": 14
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQdVOAbWUAAfHYg.jpg",
+        "id": "1803503874906411008"
+      }
+    ]
+  }
+}

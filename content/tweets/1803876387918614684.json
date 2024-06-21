@@ -1,0 +1,38 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803876387918614684",
+  "screen_name": "thehumansami",
+  "bookmarks": 1,
+  "favorites": 2,
+  "created_at": "Thu Jun 20 19:43:39 +0000 2024",
+  "text": "it’s a summer of projects for me, and with @_buildspace @_nightsweekends s5, I’m working on finally launching my brand, purple monkey! I can’t decide which idea to work on for now, though- would appreciate input/suggestions :)) https://t.co/jVM8aGYJue",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 2,
+  "conversation_id": "1803876387918614684",
+  "retweets": 0,
+  "views": "74",
+  "user_info": {
+    "screen_name": "thehumansami",
+    "name": "sami wami",
+    "description": "e/acc \n@CEPTUniversity1 communication design '29\nalterok @_nightsweekends s5",
+    "rest_id": "1530476186933301248",
+    "followers_count": 1,
+    "favourites_count": 3,
+    "avatar": "https://pbs.twimg.com/profile_images/1757445526822469632/FnBQUaV3_normal.jpg",
+    "verified": false,
+    "friends_count": 38
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQioAikXMAAAxKq.jpg",
+        "id": "1803876377994670080"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQioAifWUAABkIX.jpg",
+        "id": "1803876377973641216"
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803490753458344049",
+  "screen_name": "aychar_bot",
+  "bookmarks": 0,
+  "favorites": 3,
+  "created_at": "Wed Jun 19 18:11:17 +0000 2024",
+  "text": "totally didn’t forget to post my thing yesterday for nights and weekends\n\nthis is my idea thingy, however i’m not completely sure that the description is super clear, if anyone has feedback that’d be great!\n\ncc @_buildspace @_nightsweekends https://t.co/x6MJpCn5aQ",
+  "lang": "en",
+  "quotes": 1,
+  "replies": 1,
+  "conversation_id": "1803490753458344049",
+  "retweets": 0,
+  "views": "83",
+  "user_info": {
+    "screen_name": "aychar_bot",
+    "name": "aychar",
+    "description": "silly guy working on silly stuff | cs class '28 @txst | participating in @_nightsweekends | https://t.co/lBomwDt9Y0",
+    "rest_id": "1754660777691156480",
+    "followers_count": 13,
+    "favourites_count": 1996,
+    "avatar": "https://pbs.twimg.com/profile_images/1759780987557335040/Zyon9vs2_normal.jpg",
+    "verified": false,
+    "friends_count": 54
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQdJR-iWYAAo4nT.jpg",
+        "id": "1803490748978847744"
+      }
+    ]
+  }
+}

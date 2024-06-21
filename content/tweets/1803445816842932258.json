@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803445816842932258",
+  "screen_name": "shiv__bhushan1",
+  "bookmarks": 0,
+  "favorites": 3,
+  "created_at": "Wed Jun 19 15:12:43 +0000 2024",
+  "text": "cc:\n@_buildspace\n@_nightsweekends https://t.co/MCgy2TAzan",
+  "lang": "und",
+  "quotes": 0,
+  "replies": 3,
+  "conversation_id": "1803445816842932258",
+  "retweets": 0,
+  "views": "54",
+  "user_info": {
+    "screen_name": "shiv__bhushan1",
+    "name": "Shiv Bhushan Singh",
+    "description": "Hello, I'm a student startup founder and a product enthusiast from IIT BHU\nFounder and CEO BondU",
+    "rest_id": "1775393245184524288",
+    "followers_count": 2,
+    "favourites_count": 5,
+    "avatar": "https://pbs.twimg.com/profile_images/1802326671195795456/zysd2yzI_normal.jpg",
+    "verified": false,
+    "friends_count": 25
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQcgY8sWEAEQ3Dd.jpg",
+        "id": "1803445788766244865"
+      }
+    ]
+  }
+}

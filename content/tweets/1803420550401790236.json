@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803420550401790236",
+  "screen_name": "indie_hustler",
+  "bookmarks": 1,
+  "favorites": 1,
+  "created_at": "Wed Jun 19 13:32:19 +0000 2024",
+  "text": "My followers count not increasing, people follow and if I do not follow they unfollow. \nWhat I am I doing wrong? \n\n#buildinpublic @_buildspace https://t.co/KlIQ6eyEsl",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803420550401790236",
+  "retweets": 0,
+  "views": "41",
+  "user_info": {
+    "screen_name": "indie_hustler",
+    "name": "Mukesh Yadav",
+    "description": "Driven Entrepreneur | Devoted Father | Skilled Developer bootstrapping a Shopify Agency, building ecom with Medusa and Shopify",
+    "rest_id": "945687374704525312",
+    "followers_count": 359,
+    "favourites_count": 197,
+    "avatar": "https://pbs.twimg.com/profile_images/1637098650307543040/gQV5xDHZ_normal.jpg",
+    "verified": false,
+    "friends_count": 242
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQcJM6fWAAAGcB2.jpg",
+        "id": "1803420293248974848"
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803665141642174783",
+  "screen_name": "Jaggerydev10",
+  "bookmarks": 0,
+  "favorites": 4,
+  "created_at": "Thu Jun 20 05:44:14 +0000 2024",
+  "text": "Playing around with pillow for a cool project\n@_buildspace https://t.co/DkquBwJfr0",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803665141642174783",
+  "retweets": 0,
+  "views": "54",
+  "user_info": {
+    "screen_name": "Jaggerydev10",
+    "name": "AutoNomicSelf",
+    "description": "Everything fascia, Metabolism, Neuroception, Trauma resolution, Awareness and Esoteric Wisdom\n+ \nCS",
+    "rest_id": "1500338668459810817",
+    "followers_count": 137,
+    "favourites_count": 1639,
+    "avatar": "https://pbs.twimg.com/profile_images/1796122515175260160/wRbjpW4k_normal.jpg",
+    "verified": false,
+    "friends_count": 134
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQfn0MNWQAA3AuQ.jpg",
+        "id": "1803665059601596416"
+      }
+    ]
+  }
+}

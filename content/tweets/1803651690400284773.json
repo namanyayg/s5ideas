@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803651690400284773",
+  "screen_name": "sofiso99",
+  "bookmarks": 0,
+  "favorites": 6,
+  "created_at": "Thu Jun 20 04:50:47 +0000 2024",
+  "text": "Here's my idea for nights and weekends s5\n\nany thoughts?\n\ncc: @_buildspace @_nightsweekends https://t.co/saUI0VFBLF",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 8,
+  "conversation_id": "1803651690400284773",
+  "retweets": 1,
+  "views": "123",
+  "user_info": {
+    "screen_name": "sofiso99",
+    "name": "Sofia",
+    "description": "este sentimiento",
+    "rest_id": "1237829268798873605",
+    "followers_count": 22,
+    "favourites_count": 302,
+    "avatar": "https://pbs.twimg.com/profile_images/1338574103482085378/ieJ4hqf4_normal.jpg",
+    "verified": false,
+    "friends_count": 75
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQfbp2AWQAE7wzp.jpg",
+        "id": "1803651687703265281"
+      }
+    ]
+  }
+}

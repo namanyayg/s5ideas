@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803501960030781615",
+  "screen_name": "evansonm_",
+  "bookmarks": 0,
+  "favorites": 5,
+  "created_at": "Wed Jun 19 18:55:49 +0000 2024",
+  "text": "Yep, I joined buildspace! Here’s my idea and vision for Moneyfest app. Still working on the core features. After that, we’ll gamify it. How? I’m still figuring it out. :)\n\ncc @_buildspace @_nightsweekends \n\n#buildinpublic https://t.co/aUOdIB0ZB8",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 2,
+  "conversation_id": "1803501960030781615",
+  "retweets": 0,
+  "views": "84",
+  "user_info": {
+    "screen_name": "evansonm_",
+    "name": "Evanson",
+    "description": "Indie mobile app developer  🤖. Building https://t.co/pgowlE59ZG 💵  #buildinpublic",
+    "rest_id": "1497459325086093320",
+    "followers_count": 40,
+    "favourites_count": 248,
+    "avatar": "https://pbs.twimg.com/profile_images/1702391159237255170/EfvQVR-s_normal.jpg",
+    "verified": false,
+    "friends_count": 260
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQdTeFIakAA6U6S.jpg",
+        "id": "1803501952023826432"
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803728335475761535",
+  "screen_name": "drjuanvanegas",
+  "bookmarks": 0,
+  "favorites": 2,
+  "created_at": "Thu Jun 20 09:55:21 +0000 2024",
+  "text": "retomando este proyecto pero estrenando un nuevo nombre (alguien ya tenía dentisteando 🥲)... se apuntan? ✌️\n\ncc. @_buildspace  thoughts? https://t.co/TSTjEzqDBf",
+  "lang": "es",
+  "quotes": 0,
+  "replies": 1,
+  "conversation_id": "1803728335475761535",
+  "retweets": 0,
+  "views": "36",
+  "user_info": {
+    "screen_name": "drjuanvanegas",
+    "name": "Juan Vanegas - DDS PhD",
+    "description": "🦷 Rehabilitación Oral Estética 🇯🇵 Doctorado en Japón 👨‍🏫 Profesor UAM 👨‍✈️ VP FOCO 📸 RISORII Photography 🗣 ES EN JP",
+    "rest_id": "111133470",
+    "followers_count": 96,
+    "favourites_count": 636,
+    "avatar": "https://pbs.twimg.com/profile_images/1272667432109342722/j2sPrqSt_normal.jpg",
+    "verified": false,
+    "friends_count": 269
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQghE8PbwAAQroO.jpg",
+        "id": "1803728019535937536"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQghTt3a4AAoQKY.jpg",
+        "id": "1803728273375158272"
+      }
+    ]
+  }
+}

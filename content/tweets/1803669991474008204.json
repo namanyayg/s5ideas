@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803669991474008204",
+  "screen_name": "BDHoang_",
+  "bookmarks": 1,
+  "favorites": 5,
+  "created_at": "Thu Jun 20 06:03:31 +0000 2024",
+  "text": "Here's my idea for @_nightsweekends s5!\n\nWhat do you y'all think? Was I clear enough?\n\ncc @FarzaTV @_buildspace https://t.co/lSgfD7xUkA",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 3,
+  "conversation_id": "1803669991474008204",
+  "retweets": 0,
+  "views": "172",
+  "user_info": {
+    "screen_name": "BDHoang_",
+    "name": "BD Hoang",
+    "description": "Working 5-9 to quit my 9-5 - Finance @ FAANG\nRun an accounting firm\nFounder @faveflow - discover founders favorite tools\n@_buildspace #s5",
+    "rest_id": "1632834599675109377",
+    "followers_count": 943,
+    "favourites_count": 3418,
+    "avatar": "https://pbs.twimg.com/profile_images/1633753549241987073/E3Or-PPV_normal.jpg",
+    "verified": false,
+    "friends_count": 1905
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQfsFcyaIAEeqXY.jpg",
+        "id": "1803669754156294145"
+      }
+    ]
+  }
+}

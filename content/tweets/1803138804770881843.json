@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803138804770881843",
+  "screen_name": "kirstenrpomales",
+  "bookmarks": 18,
+  "favorites": 184,
+  "created_at": "Tue Jun 18 18:52:46 +0000 2024",
+  "text": "i was a self-taught dev w 0 experience and 0 clients when i started freelancing.\n\ngood reviews are the lifeblood of freelancers. but today they're trapped across segregated freelance platforms. \n\nput your reviews all in one place, you control!\n\ncc: @_buildspace @_nightsweekends https://t.co/7aOCEkyqH3",
+  "lang": "en",
+  "quotes": 4,
+  "replies": 85,
+  "conversation_id": "1803138804770881843",
+  "retweets": 3,
+  "views": "5848",
+  "user_info": {
+    "screen_name": "kirstenrpomales",
+    "name": "Kirsten 🛠️ TalentLayer (🍀,🦝) ✈️ ETH Brussels",
+    "description": "building @talentlayer | bad developer, 10x hacker | 🟡 n&w s5, D_D #1307, KB3 | prev IEEE blockchain gov, free market lobbyist, dropout | 🇵🇷🇭🇺 4",
+    "rest_id": "2903954528",
+    "followers_count": 2468,
+    "favourites_count": 12438,
+    "avatar": "https://pbs.twimg.com/profile_images/1800155183889993728/wEdaaQzP_normal.jpg",
+    "verified": false,
+    "friends_count": 2372
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQYEpVfWsAAo41M.jpg",
+        "id": "1803133808998264832"
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803916397082481038",
+  "screen_name": "GeorgeIrwin",
+  "bookmarks": 0,
+  "favorites": 1,
+  "created_at": "Thu Jun 20 22:22:38 +0000 2024",
+  "text": "Yo! Here's my \"what are you doing?\" slide for @_nightsweekends at @_buildspace.\n\nDoes this make sense to you? https://t.co/20Vng2FjWa",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 3,
+  "conversation_id": "1803916397082481038",
+  "retweets": 0,
+  "views": "38",
+  "user_info": {
+    "screen_name": "GeorgeIrwin",
+    "name": "George Irwin",
+    "description": "Husband, dad, creative type. Founding director of https://t.co/8MSa8aGGfE. Hanging at the intersection of #FineArt, Tech, #Design and #Web3",
+    "rest_id": "10949282",
+    "followers_count": 290,
+    "favourites_count": 496,
+    "avatar": "https://pbs.twimg.com/profile_images/1458821012146032656/IicuKvuW_normal.jpg",
+    "verified": false,
+    "friends_count": 173
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQjLyrdWYAEEY49.jpg",
+        "id": "1803915722281607169"
+      }
+    ]
+  }
+}

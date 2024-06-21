@@ -1,0 +1,38 @@
+{
+  "type": "tweet",
+  "tweet_id": "1800933080363851925",
+  "screen_name": "nadeerawk",
+  "bookmarks": 0,
+  "favorites": 3,
+  "created_at": "Wed Jun 12 16:48:00 +0000 2024",
+  "text": "got in to @_buildspace 's n&amp;w s5 after applying last minute! gonna be exploring where to take Nova Stella from here, and building alongside good talent!\n\nif you're building any projects and want in, i have a few buddy passes. \n\nplease get in touch! https://t.co/FqV1LxaVfu",
+  "lang": "en",
+  "quotes": 1,
+  "replies": 1,
+  "conversation_id": "1800933080363851925",
+  "retweets": 1,
+  "views": "333",
+  "user_info": {
+    "screen_name": "nadeerawk",
+    "name": "nadeera",
+    "description": "slowly building Nova Stella💫\ntech products and GTM🛠\nscribble on tech, business & life✍️\nfiguring this out⚙️ friendly🤝\ncurious🦝 seeking🏴‍☠️⛰️🌊\n🇱🇰🇺🇸",
+    "rest_id": "1354309464778801153",
+    "followers_count": 588,
+    "favourites_count": 2181,
+    "avatar": "https://pbs.twimg.com/profile_images/1804056330849619968/dJ2hHuQ0_normal.jpg",
+    "verified": false,
+    "friends_count": 592
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GP4vSZGWsAAyxi9.jpg",
+        "id": "1800928894016466944"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GP4vSELWsAE1Fa7.jpg",
+        "id": "1800928888400293889"
+      }
+    ]
+  }
+}

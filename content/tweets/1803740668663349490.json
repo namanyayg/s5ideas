@@ -1,0 +1,38 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803740668663349490",
+  "screen_name": "jazzonperez_",
+  "bookmarks": 0,
+  "favorites": 12,
+  "created_at": "Thu Jun 20 10:44:21 +0000 2024",
+  "text": "so, yeah, last week i got accepted into buildspace n&amp;w s5!\n@_buildspace @_nightsweekends https://t.co/8xJ423fYSA",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 2,
+  "conversation_id": "1803740668663349490",
+  "retweets": 0,
+  "views": "519",
+  "user_info": {
+    "screen_name": "jazzonperez_",
+    "name": "Jazzon Perez",
+    "description": "🚧 @_buildspace n&w s5\n👷‍♂️ tech startup enthusiast & builder\n🏗️ tech executive labs",
+    "rest_id": "1725978888155865088",
+    "followers_count": 49,
+    "favourites_count": 383,
+    "avatar": "https://pbs.twimg.com/profile_images/1767112614805659648/I7TIGuPy_normal.jpg",
+    "verified": false,
+    "friends_count": 71
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQgsjIyaYAATcFB.jpg",
+        "id": "1803740632927854592"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQgsj4YawAAo95u.jpg",
+        "id": "1803740645703729152"
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803871479970566494",
+  "screen_name": "ordenheim",
+  "bookmarks": 0,
+  "favorites": 3,
+  "created_at": "Thu Jun 20 19:24:09 +0000 2024",
+  "text": "here we go, hope i'm not too late\n\ncc: @_buildspace @_nightsweekends https://t.co/83CEbWlIuw",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 2,
+  "conversation_id": "1803871479970566494",
+  "retweets": 0,
+  "views": "51",
+  "user_info": {
+    "screen_name": "ordenheim",
+    "name": "e",
+    "description": "",
+    "rest_id": "1689375433987686400",
+    "followers_count": 26,
+    "favourites_count": 382,
+    "avatar": "https://pbs.twimg.com/profile_images/1689391156235517952/nphPEDkK_normal.jpg",
+    "verified": false,
+    "friends_count": 81
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQijjMIakAEHZIr.png",
+        "id": "1803871475709153281"
+      }
+    ]
+  }
+}

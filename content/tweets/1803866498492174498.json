@@ -1,0 +1,65 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803866498492174498",
+  "screen_name": "tutigremig",
+  "bookmarks": 0,
+  "favorites": 4,
+  "created_at": "Thu Jun 20 19:04:22 +0000 2024",
+  "text": "Posting as part of @_nightsweekends. tutigre has the mission of pushing the gig economy in LATAM. \n\nAny feedback is appreciated. \n\ncc: @_buildspace @_nightsweekends @FarzaTV https://t.co/cO24Bi96GK",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803866498492174498",
+  "retweets": 0,
+  "views": "74",
+  "user_info": {
+    "screen_name": "tutigremig",
+    "name": "Miguel Guareschi",
+    "description": "",
+    "rest_id": "1794477363243409408",
+    "followers_count": 1,
+    "favourites_count": 16,
+    "avatar": "https://pbs.twimg.com/profile_images/1794477405475885056/5Atoqejr_normal.png",
+    "verified": false,
+    "friends_count": 12
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQieiULakAMSub7.png",
+        "id": "1803865963131211779"
+      }
+    ],
+    "video": [
+      {
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1803865985923059714/pu/img/qW812w9lllPyKgEG.jpg",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1803865985923059714/pu/pl/1iwZu0G4h663dvHk.m3u8?tag=12"
+          },
+          {
+            "bitrate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1803865985923059714/pu/vid/avc1/320x678/RvcKdtVpvRCaPoRs.mp4?tag=12"
+          },
+          {
+            "bitrate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1803865985923059714/pu/vid/avc1/400x848/DfcFN9nCJkYGeGuh.mp4?tag=12"
+          }
+        ],
+        "aspect_ratio": [
+          25,
+          53
+        ],
+        "original_info": {
+          "height": 848,
+          "width": 400,
+          "focus_rects": []
+        },
+        "id": "1803865985923059714"
+      }
+    ]
+  }
+}

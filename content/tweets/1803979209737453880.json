@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803979209737453880",
+  "screen_name": "Sheknows_space",
+  "bookmarks": 0,
+  "favorites": 1,
+  "created_at": "Fri Jun 21 02:32:14 +0000 2024",
+  "text": "We are thrilled to announce that She Knows, our platform for women to share experiences and knowledge, has been selected to participate in Season 5 of Nights and Weekends by Buildspace! \n\n@_buildspace \n\n#SheKnows #Buildspace #NightsAndWeekends #WomenEmpowerment #Innovation https://t.co/zFNcIBJ6Mt",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 1,
+  "conversation_id": "1803979209737453880",
+  "retweets": 1,
+  "views": "36",
+  "user_info": {
+    "screen_name": "Sheknows_space",
+    "name": "She Knows Comunidad",
+    "description": "La comunidad que te genera valor. 💫     https://t.co/Hqy1pAxCgV",
+    "rest_id": "1518160205128761344",
+    "followers_count": 104,
+    "favourites_count": 96,
+    "avatar": "https://pbs.twimg.com/profile_images/1778599645817540608/hZ5tpIdP_normal.jpg",
+    "verified": false,
+    "friends_count": 64
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQkFhlZWUAAF39A.jpg",
+        "id": "1803979200270848000"
+      }
+    ]
+  }
+}

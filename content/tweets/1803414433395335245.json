@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803414433395335245",
+  "screen_name": "k_afsha_",
+  "bookmarks": 0,
+  "favorites": 7,
+  "created_at": "Wed Jun 19 13:08:01 +0000 2024",
+  "text": "Meet GlowGenie, my BuildSpace project! ✨ It's your personalized skincare app for custom routines and product tips.\nJoin me in transforming skincare! #BuildSpace #GlowGenie #SkincareApp\ncc: @_buildspace @_nightsweekends @FarzaTV https://t.co/IJhRfkOH11",
+  "lang": "en",
+  "quotes": 1,
+  "replies": 8,
+  "conversation_id": "1803414433395335245",
+  "retweets": 0,
+  "views": "257",
+  "user_info": {
+    "screen_name": "k_afsha_",
+    "name": "Lumo Tech💫",
+    "description": "chasing dreams, and loving every moment.\nbuildspace s5 🌟\n--alterok",
+    "rest_id": "1699478419548037122",
+    "followers_count": 5,
+    "favourites_count": 20,
+    "avatar": "https://pbs.twimg.com/profile_images/1803137525382336512/x8xC-B9b_normal.jpg",
+    "verified": false,
+    "friends_count": 7
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQcDwyzXkAAc16b.jpg",
+        "id": "1803414312591003648"
+      }
+    ]
+  }
+}

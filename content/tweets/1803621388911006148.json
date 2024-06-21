@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803621388911006148",
+  "screen_name": "TheBennyAts",
+  "bookmarks": 0,
+  "favorites": 2,
+  "created_at": "Thu Jun 20 02:50:23 +0000 2024",
+  "text": "I started touring schools last year using my music to help young people tackle harmful media messages &amp; navigate the media landscape more safely &amp; responsibly. \n\nThis year, for my September tour, @_nightsweekends is providing me a space through @_buildspace to: https://t.co/UxxIIJlxY6",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803621388911006148",
+  "retweets": 0,
+  "views": "67",
+  "user_info": {
+    "screen_name": "TheBennyAts",
+    "name": "Benny Ats",
+    "description": "Singer/Songwriter || Touring Schools with @fosactour || I’m using music to help young people challenge harmful media messages || Booking: wow.bennyats@gmail.com",
+    "rest_id": "1868973883",
+    "followers_count": 367,
+    "favourites_count": 1130,
+    "avatar": "https://pbs.twimg.com/profile_images/1801777408279748608/e1Bf2O0m_normal.jpg",
+    "verified": false,
+    "friends_count": 473
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQfAFiHWQAA4DCv.jpg",
+        "id": "1803621377074675712"
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803984665771901427",
+  "screen_name": "Wiar_8",
+  "bookmarks": 0,
+  "favorites": 8,
+  "created_at": "Fri Jun 21 02:53:55 +0000 2024",
+  "text": "Excited to announce for S5! Building w/ @Vurokrazia  a platform for @_buildspace  &amp; @_nightsweekends  to connect entrepreneurs &amp; investors!  #Empowerment #Dreams\n\nCC: @FarzaTV https://t.co/WaJ0wzR7MU",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 2,
+  "conversation_id": "1803984665771901427",
+  "retweets": 1,
+  "views": "127",
+  "user_info": {
+    "screen_name": "Wiar_8",
+    "name": "Wiar8",
+    "description": "Frontend developer learning backend | Content creator | Venezuelan 🧭 | 16 years old | I like turtles 🐢 | https://t.co/jbrNSfMIP2",
+    "rest_id": "1058123877270913024",
+    "followers_count": 1540,
+    "favourites_count": 9199,
+    "avatar": "https://pbs.twimg.com/profile_images/1310953684810031109/gQIDXHQm_normal.jpg",
+    "verified": false,
+    "friends_count": 544
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQkJho-W8AAtVPx.jpg",
+        "id": "1803983599277895680"
+      }
+    ]
+  }
+}

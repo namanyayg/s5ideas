@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803909203720835543",
+  "screen_name": "Theyampounder",
+  "bookmarks": 0,
+  "favorites": 2,
+  "created_at": "Thu Jun 20 21:54:03 +0000 2024",
+  "text": "Here’s what I’m working on. What are you saying??\n\n@_buildspace @_nightsweekends https://t.co/1pNAD5A4ZO",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 3,
+  "conversation_id": "1803909203720835543",
+  "retweets": 0,
+  "views": "39",
+  "user_info": {
+    "screen_name": "Theyampounder",
+    "name": "Y1NK4😗😗",
+    "description": "Don’t call me daddy, call me uncle Femi.😗",
+    "rest_id": "814151041835036672",
+    "followers_count": 70,
+    "favourites_count": 53273,
+    "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "verified": false,
+    "friends_count": 126
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQjF2yfXEAA8goV.jpg",
+        "id": "1803909195818799104"
+      }
+    ]
+  }
+}

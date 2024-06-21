@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803803504282124621",
+  "screen_name": "vaibhavfrommars",
+  "bookmarks": 0,
+  "favorites": 2,
+  "created_at": "Thu Jun 20 14:54:03 +0000 2024",
+  "text": "Pivoted from a fitness app to a simpler idea inspired by @FarzaTV's advice:\n- great ideas are forged, not found\n- should be something you care about\n\nI hate waiting in class to mark attendance, headcount app will take \"attendance in a minute\"\n\ncc @_buildspace @_nightsweekends s5 https://t.co/wlI1plWePO",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803803504282124621",
+  "retweets": 0,
+  "views": "51",
+  "user_info": {
+    "screen_name": "vaibhavfrommars",
+    "name": "Vaibhav Goel",
+    "description": "my code breaks, my muscle fibres don't 🥲",
+    "rest_id": "1163791827608064000",
+    "followers_count": 57,
+    "favourites_count": 457,
+    "avatar": "https://pbs.twimg.com/profile_images/1790294428579766272/zi3ldr7L_normal.jpg",
+    "verified": false,
+    "friends_count": 627
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQhjzj7XoAEoh_j.jpg",
+        "id": "1803801388230615041"
+      }
+    ]
+  }
+}

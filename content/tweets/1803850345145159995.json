@@ -1,0 +1,62 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803850345145159995",
+  "screen_name": "DevMuzzammil",
+  "bookmarks": 0,
+  "favorites": 13,
+  "created_at": "Thu Jun 20 18:00:10 +0000 2024",
+  "text": "We're so ready to submit our idea in today's lecture 🫡\n\ncc: @_buildspace @_nightsweekends https://t.co/rJNSYYBIix",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 4,
+  "conversation_id": "1803850345145159995",
+  "retweets": 4,
+  "views": "1389",
+  "user_info": {
+    "screen_name": "DevMuzzammil",
+    "name": "Muzzammil",
+    "description": "21 y/o learner. Building the future of VR - https://t.co/dWmmCe4YOn | 📨 - humblemuzzu@gmail.com",
+    "rest_id": "1517660231807152128",
+    "followers_count": 50364,
+    "favourites_count": 216057,
+    "avatar": "https://pbs.twimg.com/profile_images/1661986917871919104/6Rn00NvG_normal.jpg",
+    "verified": false,
+    "friends_count": 1606
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQiQK-8X0AASMEk.jpg",
+        "id": "1803850169131192320"
+      }
+    ]
+  },
+  "quoted": {
+    "tweet_id": "1803157773863035334",
+    "bookmarks": 1,
+    "created_at": "Tue Jun 18 20:08:08 +0000 2024",
+    "favorites": 34,
+    "text": "a tool for youtubers to go viral on all platforms\n\nyoutube videos get posted once, maybe go viral, but only get traffic on one social media. we created a tool that turns these videos into viral twitter threads (+ linkedin posts).\n\ncc @_buildspace @_nightsweekends https://t.co/uAZio0vYaF",
+    "lang": "en",
+    "views": "3389",
+    "quotes": 1,
+    "replies": 7,
+    "retweets": 9,
+    "conversation_id": "1803157773863035334",
+    "author": {
+      "rest_id": "1485246676071768068",
+      "name": "Lennard",
+      "screen_name": "lennardeth",
+      "avatar": "https://pbs.twimg.com/profile_images/1671271303817355264/mVu8eQDq_normal.jpg",
+      "blue_verified": true
+    },
+    "media": {
+      "photo": [
+        {
+          "media_url_https": "https://pbs.twimg.com/media/GQYZ7W6XYAA7daW.jpg",
+          "id": "1803157208361820160"
+        }
+      ]
+    }
+  }
+}

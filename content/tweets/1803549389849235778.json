@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803549389849235778",
+  "screen_name": "josediogor",
+  "bookmarks": 0,
+  "favorites": 0,
+  "created_at": "Wed Jun 19 22:04:17 +0000 2024",
+  "text": "plume studios is about to launch its first game, and @_buildspace is helping me bring our ideas to life 6 weeks faster. gogogo! gg thx, @_nightsweekends https://t.co/oWzn19Srhf",
+  "lang": "en",
+  "quotes": 1,
+  "replies": 3,
+  "conversation_id": "1803549389849235778",
+  "retweets": 0,
+  "views": "92",
+  "user_info": {
+    "screen_name": "josediogor",
+    "name": "Zé",
+    "description": "Brazilian guy 🇧🇷 \ndoer. trying to get things out of paper. on an imaginative roller coaster 🎢\nbuilding at https://t.co/B0nfEo9a4e",
+    "rest_id": "1779644861882200064",
+    "followers_count": 11,
+    "favourites_count": 58,
+    "avatar": "https://pbs.twimg.com/profile_images/1779646191417896963/TUWXXoEy_normal.jpg",
+    "verified": false,
+    "friends_count": 97
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQd-kcbX0AEDAyO.png",
+        "id": "1803549340356562945"
+      }
+    ]
+  }
+}

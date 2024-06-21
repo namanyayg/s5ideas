@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803511129010028940",
+  "screen_name": "mediislive",
+  "bookmarks": 0,
+  "favorites": 3,
+  "created_at": "Wed Jun 19 19:32:15 +0000 2024",
+  "text": "Unlock Cybersecurity Possibilities with PenByte One: Your Compact Multi-Tool Companion!\n\ncc @_buildspace @_nightsweekends https://t.co/pu9CNQ0739",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803511129010028940",
+  "retweets": 0,
+  "views": "50",
+  "user_info": {
+    "screen_name": "mediislive",
+    "name": "mediislive",
+    "description": "",
+    "rest_id": "1396876623681523715",
+    "followers_count": 3,
+    "favourites_count": 7,
+    "avatar": "https://pbs.twimg.com/profile_images/1591897198223990784/CnGzwKgx_normal.jpg",
+    "verified": false,
+    "friends_count": 29
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQdbzjzboAAcxlB.jpg",
+        "id": "1803511117127589888"
+      }
+    ]
+  }
+}

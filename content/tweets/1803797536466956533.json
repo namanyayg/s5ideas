@@ -1,0 +1,38 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803797536466956533",
+  "screen_name": "jaypy_build",
+  "bookmarks": 0,
+  "favorites": 9,
+  "created_at": "Thu Jun 20 14:30:20 +0000 2024",
+  "text": "🏗️Day #2 @_buildspace #buildinpublic\n\n🔹Marketing work (audience, added value, copy)\n🔹Found a name and bought the domain\n\nShare me your progress for today👇 https://t.co/NWWw5mxpVW",
+  "lang": "en",
+  "quotes": 1,
+  "replies": 3,
+  "conversation_id": "1803797536466956533",
+  "retweets": 0,
+  "views": "530",
+  "user_info": {
+    "screen_name": "jaypy_build",
+    "name": "Jaypy",
+    "description": "+14 years developer, 5 months building side hustles. Passionate by business stories, reading and learning. Helping and supporting indie hackers 🤝",
+    "rest_id": "86781365",
+    "followers_count": 425,
+    "favourites_count": 8559,
+    "avatar": "https://pbs.twimg.com/profile_images/1801845436090658816/i15zRStE_normal.jpg",
+    "verified": false,
+    "friends_count": 183
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQhgKLMW8AAQYzb.jpg",
+        "id": "1803797378681466880"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQhgKLUWcAAXe8_.jpg",
+        "id": "1803797378714988544"
+      }
+    ]
+  }
+}

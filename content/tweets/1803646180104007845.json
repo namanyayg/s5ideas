@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803646180104007845",
+  "screen_name": "VaibhavVj91",
+  "bookmarks": 0,
+  "favorites": 2,
+  "created_at": "Thu Jun 20 04:28:54 +0000 2024",
+  "text": "I'm a bit late, but I want to share that I have been selected for @_buildspace @_nightsweekends Season 5! 🎉 I may not have much experience, but I will give it my best. 💪✨ https://t.co/YHQdxejvTX",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 1,
+  "conversation_id": "1803646180104007845",
+  "retweets": 0,
+  "views": "70",
+  "user_info": {
+    "screen_name": "VaibhavVj91",
+    "name": "Vaibhav Jaiswal",
+    "description": "Software Development Engineer (SDE- I) 💻💖",
+    "rest_id": "1532605116951724032",
+    "followers_count": 154,
+    "favourites_count": 111,
+    "avatar": "https://pbs.twimg.com/profile_images/1803654618418913280/dQ-dF3eJ_normal.jpg",
+    "verified": false,
+    "friends_count": 319
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQfVgQfWQAA3ks9.jpg",
+        "id": "1803644925944152064"
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803870537073954920",
+  "screen_name": "premachb",
+  "bookmarks": 0,
+  "favorites": 1,
+  "created_at": "Thu Jun 20 19:20:24 +0000 2024",
+  "text": "First time doing @_buildspace and @_nightsweekends \n\nHere's my idea of what I'll be working on for the 6 weeks. Let me know what you think!\n\nIt's a bit niche but essentially the TN visa is a self application visa for Canadians and Mexicans to the US. https://t.co/iKHUy8cWQL",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803870537073954920",
+  "retweets": 0,
+  "views": "43",
+  "user_info": {
+    "screen_name": "premachb",
+    "name": "Brien Premachandiran",
+    "description": "Senior Software Engineer who's worked with a lot of big tech companies (Uber, Square, Cash App, AMZN).",
+    "rest_id": "94831035",
+    "followers_count": 195,
+    "favourites_count": 180,
+    "avatar": "https://pbs.twimg.com/profile_images/1754229329574117376/CZclCw3h_normal.jpg",
+    "verified": false,
+    "friends_count": 457
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQiie8uWkAAGfXr.jpg",
+        "id": "1803870303342202880"
+      }
+    ]
+  }
+}

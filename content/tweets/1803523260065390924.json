@@ -1,0 +1,38 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803523260065390924",
+  "screen_name": "buidlcity",
+  "bookmarks": 0,
+  "favorites": 13,
+  "created_at": "Wed Jun 19 20:20:27 +0000 2024",
+  "text": "we got a like and dm from @balajis \n\nbro the buildspace effect is real\n\nCC: @_buildspace @_nightsweekends @FarzaTV https://t.co/oTSGktmqgG",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 1,
+  "conversation_id": "1803523260065390924",
+  "retweets": 0,
+  "views": "460",
+  "user_info": {
+    "screen_name": "buidlcity",
+    "name": "Buildcity",
+    "description": "a movement to build stuff that improves  urban life.\nErevald @_buildspace",
+    "rest_id": "1756480232243040256",
+    "followers_count": 51,
+    "favourites_count": 222,
+    "avatar": "https://pbs.twimg.com/profile_images/1788687587810365440/uL0ADYAQ_normal.jpg",
+    "verified": false,
+    "friends_count": 14
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQdmB5yW0AE7mT6.jpg",
+        "id": "1803522358663106561"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQdme4LXUAAjEVY.jpg",
+        "id": "1803522856447332352"
+      }
+    ]
+  }
+}

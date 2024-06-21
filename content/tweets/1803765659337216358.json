@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803765659337216358",
+  "screen_name": "arisegu",
+  "bookmarks": 0,
+  "favorites": 12,
+  "created_at": "Thu Jun 20 12:23:40 +0000 2024",
+  "text": "here is my project for @_buildspace s5. \n\nforward your articles to your voicemate inbox. we make it a podcast for you to listen to it anywhere, anytime.\n\nto less screen time 🍻\n\ncc @_nightsweekends @FarzaTV https://t.co/B287GorwdC",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 10,
+  "conversation_id": "1803765659337216358",
+  "retweets": 0,
+  "views": "257",
+  "user_info": {
+    "screen_name": "arisegu",
+    "name": "ariel",
+    "description": "Building @claimfanid | Bootstrapping https://t.co/RdwZha2HkQ | ex Spotify, MuleSoft/Salesforce\n\nDonate: https://t.co/27nyj2FkVo",
+    "rest_id": "159328405",
+    "followers_count": 49,
+    "favourites_count": 95,
+    "avatar": "https://pbs.twimg.com/profile_images/1592909000022151170/Exy6wktd_normal.jpg",
+    "verified": false,
+    "friends_count": 214
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQhAWTAXgAAyiPF.jpg",
+        "id": "1803762402564997120"
+      }
+    ]
+  }
+}

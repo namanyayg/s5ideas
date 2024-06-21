@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803504643118387711",
+  "screen_name": "tausiqtweets",
+  "bookmarks": 0,
+  "favorites": 15,
+  "created_at": "Wed Jun 19 19:06:29 +0000 2024",
+  "text": "let's see how far it goes.... 👀\nbuilding with @x_pixel22 @itsOmSarraf_ \ncc\n@_buildspace \n@_nightsweekends \n@FarzaTV https://t.co/ycOPPsH1nZ",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 7,
+  "conversation_id": "1803504643118387711",
+  "retweets": 0,
+  "views": "343",
+  "user_info": {
+    "screen_name": "tausiqtweets",
+    "name": "tausiq samantaray",
+    "description": "Cooking with nvim.  Exploring and cooking every day. Open to work. Indian. #lookingforoffers",
+    "rest_id": "1381585848420868096",
+    "followers_count": 190,
+    "favourites_count": 4051,
+    "avatar": "https://pbs.twimg.com/profile_images/1751491274094559232/E8mLDXKK_normal.jpg",
+    "verified": false,
+    "friends_count": 622
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQdVuZCXgAAkXsz.jpg",
+        "id": "1803504431268331520"
+      }
+    ]
+  }
+}

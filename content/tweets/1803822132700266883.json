@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803822132700266883",
+  "screen_name": "NolanMakatche",
+  "bookmarks": 5,
+  "favorites": 111,
+  "created_at": "Thu Jun 20 16:08:04 +0000 2024",
+  "text": "Here's my project for s5 @_nightsweekends @_buildspace\n\nI appreciate your feedback. Would love to hear your thoughts on what I'm working on.\n\nI'll be building the MVP as you read this!\n\n@FarzaTV #buildinpublic #buildspace https://t.co/ACsuvGZsHj",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 47,
+  "conversation_id": "1803822132700266883",
+  "retweets": 0,
+  "views": "2148",
+  "user_info": {
+    "screen_name": "NolanMakatche",
+    "name": "Nolan Makatche",
+    "description": "Bootstrapping my way to freedom - https://t.co/p8hJHFuEIa Podcast🎙- https://t.co/ooItWRCN7o ✍️☯ - Next: TBA 👀",
+    "rest_id": "1605919345829449728",
+    "followers_count": 1341,
+    "favourites_count": 9368,
+    "avatar": "https://pbs.twimg.com/profile_images/1797633637661261825/PP8VnNDT_normal.jpg",
+    "verified": false,
+    "friends_count": 998
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQhu-qaWoAAYiQY.jpg",
+        "id": "1803813673577652224"
+      }
+    ]
+  }
+}

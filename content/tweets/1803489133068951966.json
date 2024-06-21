@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803489133068951966",
+  "screen_name": "kowshik_sb",
+  "bookmarks": 0,
+  "favorites": 6,
+  "created_at": "Wed Jun 19 18:04:51 +0000 2024",
+  "text": "+99999999 aura points bc my first tweet is introducing stockai \n@_nightsweekends https://t.co/RCsJ8tRQYe",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803489133068951966",
+  "retweets": 1,
+  "views": "121",
+  "user_info": {
+    "screen_name": "kowshik_sb",
+    "name": "kaze",
+    "description": "existing",
+    "rest_id": "1341420424752611328",
+    "followers_count": 13,
+    "favourites_count": 143,
+    "avatar": "https://pbs.twimg.com/profile_images/1500067343791423490/Mg0u89CH_normal.jpg",
+    "verified": false,
+    "friends_count": 45
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQdHzs_XQAANtgY.jpg",
+        "id": "1803489129360998400"
+      }
+    ]
+  }
+}

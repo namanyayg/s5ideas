@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803484119361315163",
+  "screen_name": "m3nnoun",
+  "bookmarks": 0,
+  "favorites": 5,
+  "created_at": "Wed Jun 19 17:44:55 +0000 2024",
+  "text": "Finished my one liner. What's yours?  \nMAQUHA: Your Coffee Shop Manager App\ncc: @_buildspace @FarzaTV https://t.co/ui5tgaeHLn",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803484119361315163",
+  "retweets": 0,
+  "views": "50",
+  "user_info": {
+    "screen_name": "m3nnoun",
+    "name": "AbdelFatah MENNOUN 🇲🇦",
+    "description": "Data Analyst, Business Intelligence|Data Visualization | Developer | EST Student 🎓 | Problem Solver 💡| Let's build something amazing together! ✨",
+    "rest_id": "1611359035416002561",
+    "followers_count": 40,
+    "favourites_count": 264,
+    "avatar": "https://pbs.twimg.com/profile_images/1611372694989148162/o5nRqOzM_normal.jpg",
+    "verified": false,
+    "friends_count": 85
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQdDCxlWEAAyVAd.jpg",
+        "id": "1803483890733944832"
+      }
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803472716168572975",
+  "screen_name": "thebarlemy",
+  "bookmarks": 0,
+  "favorites": 3,
+  "created_at": "Wed Jun 19 16:59:37 +0000 2024",
+  "text": "Sorbey's quick update:\n• working on the prio of what should be done for the POC, MVP and V1\n• we can now create, edit and read recipes\n\nNext,\nDev : like and forking system \nProduct : identify and contact the first cooking influencers\n\nCc @_buildspace  @_nightsweekends @FarzaTV https://t.co/xieXjdmJSB",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803472716168572975",
+  "retweets": 0,
+  "views": "45",
+  "user_info": {
+    "screen_name": "thebarlemy",
+    "name": "Barthélémy de Mazenod | thebarlemy",
+    "description": "Code, photography and product\n\nWorking on Sorbey, a simple, ad free website to create and share cooking recipes.\n\nAt @_buildspace during @_nightsweekend S5.",
+    "rest_id": "1354104606738018305",
+    "followers_count": 53,
+    "favourites_count": 734,
+    "avatar": "https://pbs.twimg.com/profile_images/1714371825952493568/0AtCL9ft_normal.jpg",
+    "verified": false,
+    "friends_count": 242
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQc44A7XAAAlFRs.jpg",
+        "id": "1803472710757974016"
+      }
+    ]
+  },
+  "place": {
+    "country": "France",
+    "country_code": "FR",
+    "name": "Paris",
+    "full_name": "Paris, France",
+    "place_type": "city",
+    "more_data_url": "https://api.twitter.com/1.1/geo/id/09f6a7707f18e0b1.json"
+  }
+}

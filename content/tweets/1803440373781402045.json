@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803440373781402045",
+  "screen_name": "MayankBondre",
+  "bookmarks": 0,
+  "favorites": 4,
+  "created_at": "Wed Jun 19 14:51:06 +0000 2024",
+  "text": "Finally decided on my idea 🚀\n\nYou can see the demo for the idea here: https://t.co/596NhjXK9N\n\nAny feedback is appreciated!\n\nCC: @_buildspace, @_nightsweekends https://t.co/A5poewC5EW",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 2,
+  "conversation_id": "1803440373781402045",
+  "retweets": 0,
+  "views": "110",
+  "user_info": {
+    "screen_name": "MayankBondre",
+    "name": "Mayank Bondre",
+    "description": "Indie Hacker 🟢 \n\nLFX'23 @Hyperledger 💼 GSoC'22 @joplinapp ☀️",
+    "rest_id": "1459816520477859841",
+    "followers_count": 410,
+    "favourites_count": 3566,
+    "avatar": "https://pbs.twimg.com/profile_images/1645461469419687936/gA9MOcN4_normal.jpg",
+    "verified": false,
+    "friends_count": 1053
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQcbHnKaoAAZ3WD.jpg",
+        "id": "1803439993370877952"
+      }
+    ]
+  }
+}

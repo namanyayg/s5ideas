@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803840501113561171",
+  "screen_name": "Connormc1aren",
+  "bookmarks": 0,
+  "favorites": 11,
+  "created_at": "Thu Jun 20 17:21:03 +0000 2024",
+  "text": "Thoughts on an app that takes your money for not working out?\n\ncc: @_buildspace @_nightsweekends https://t.co/TKh94mNjQr",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 17,
+  "conversation_id": "1803840501113561171",
+  "retweets": 0,
+  "views": "290",
+  "user_info": {
+    "screen_name": "Connormc1aren",
+    "name": "Connor McLaren",
+    "description": "Helping you build habits through competition with @peerpressur",
+    "rest_id": "1669349293864677376",
+    "followers_count": 184,
+    "favourites_count": 93,
+    "avatar": "https://pbs.twimg.com/profile_images/1669349627353776129/AdFkus7e_normal.jpg",
+    "verified": false,
+    "friends_count": 98
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQiHDQJWUAES91K.jpg",
+        "id": "1803840140705419265"
+      }
+    ]
+  }
+}

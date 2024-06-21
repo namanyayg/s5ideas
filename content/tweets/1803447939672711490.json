@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803447939672711490",
+  "screen_name": "arre_adi",
+  "bookmarks": 0,
+  "favorites": 0,
+  "created_at": "Wed Jun 19 15:21:09 +0000 2024",
+  "text": "finalized this project for @_nightsweekends, hmu if u want to collaborate https://t.co/Bd8E0yTLL8",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803447939672711490",
+  "retweets": 0,
+  "views": "35",
+  "user_info": {
+    "screen_name": "arre_adi",
+    "name": "Aditya Chaurasia",
+    "description": "Android Developer • trying a bit  of everything",
+    "rest_id": "1573203154346205184",
+    "followers_count": 9,
+    "favourites_count": 44,
+    "avatar": "https://pbs.twimg.com/profile_images/1797318810049171456/RRf_B1gv_normal.jpg",
+    "verified": false,
+    "friends_count": 44
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQchYlFaIAY2dnL.jpg",
+        "id": "1803446881940545542"
+      }
+    ]
+  }
+}

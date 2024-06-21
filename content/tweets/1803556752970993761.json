@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803556752970993761",
+  "screen_name": "brad__garcia",
+  "bookmarks": 0,
+  "favorites": 4,
+  "created_at": "Wed Jun 19 22:33:33 +0000 2024",
+  "text": "S5 W1\n\nI’ll start to build APX HUB - An app where users can find certified fitness professionals, including trainers, nutritionist and sport doctors.\n\nI don’t even know how to code lol, but let’s see how far we can go :)\n\nCc: @_buildspace @_nightsweekends @FarzaTV https://t.co/pplWPyPLCs",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 2,
+  "conversation_id": "1803556752970993761",
+  "retweets": 1,
+  "views": "105",
+  "user_info": {
+    "screen_name": "brad__garcia",
+    "name": "Brad Garcia",
+    "description": "",
+    "rest_id": "711719427163688960",
+    "followers_count": 121,
+    "favourites_count": 400,
+    "avatar": "https://pbs.twimg.com/profile_images/1803553318389575681/4_o8zBJF_normal.jpg",
+    "verified": false,
+    "friends_count": 320
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQeFTptX0AAhfwt.jpg",
+        "id": "1803556748445339648"
+      }
+    ]
+  }
+}

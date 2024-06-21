@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803870078729097473",
+  "screen_name": "viulet77",
+  "bookmarks": 0,
+  "favorites": 5,
+  "created_at": "Thu Jun 20 19:18:35 +0000 2024",
+  "text": "Thoughts??? \n\n@_buildspace @_nightsweekends https://t.co/1jNhTsIlsA",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 4,
+  "conversation_id": "1803870078729097473",
+  "retweets": 0,
+  "views": "70",
+  "user_info": {
+    "screen_name": "viulet77",
+    "name": "Angel Sánchez",
+    "description": "Medicina de Urgencias, política internacional y Venezolanismos. 🇨🇱",
+    "rest_id": "124034549",
+    "followers_count": 449,
+    "favourites_count": 2548,
+    "avatar": "https://pbs.twimg.com/profile_images/1589461847203348487/bZrA11go_normal.jpg",
+    "verified": false,
+    "friends_count": 434
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQiiOwDWsAA0mEh.jpg",
+        "id": "1803870025062723584"
+      }
+    ]
+  }
+}

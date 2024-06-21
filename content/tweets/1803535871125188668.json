@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803535871125188668",
+  "screen_name": "leo_guinan",
+  "bookmarks": 0,
+  "favorites": 8,
+  "created_at": "Wed Jun 19 21:10:34 +0000 2024",
+  "text": "Love that Henry is starting strong on his @_buildspace @_nightsweekends idea. https://t.co/0vOffVAEiy",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 2,
+  "conversation_id": "1803535871125188668",
+  "retweets": 0,
+  "views": "210",
+  "user_info": {
+    "screen_name": "leo_guinan",
+    "name": "Leo Guinan (econ/acc)",
+    "description": "Quantum Economist\n\nEngineering Generosity: Helping people build abundant systems\n\nBuilder of 🧠 \n\nFuture First Creator to Win a Nobel\n\nImpossible is an opinion",
+    "rest_id": "1325102346792218629",
+    "followers_count": 2289,
+    "favourites_count": 51762,
+    "avatar": "https://pbs.twimg.com/profile_images/1704473729604960256/hVvV-jdq_normal.jpg",
+    "verified": false,
+    "friends_count": 2109
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQdyLJXW0AAd-qX.jpg",
+        "id": "1803535711603183616"
+      }
+    ]
+  }
+}

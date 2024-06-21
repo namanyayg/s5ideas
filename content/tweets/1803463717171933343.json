@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803463717171933343",
+  "screen_name": "adityasingh7211",
+  "bookmarks": 0,
+  "favorites": 6,
+  "created_at": "Wed Jun 19 16:23:51 +0000 2024",
+  "text": "i along with my buddies @ysameer001 and arko are building serenityspace. \nwill give more updates about this soon.\ncc: @_buildspace @_nightsweekends https://t.co/zehCes4aL6",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 1,
+  "conversation_id": "1803463717171933343",
+  "retweets": 1,
+  "views": "123",
+  "user_info": {
+    "screen_name": "adityasingh7211",
+    "name": "Aditya Kumar Singh",
+    "description": "I tweet about software development, AI/ML, opensource contribution and anything that I am doing. Yeah that's it peace..",
+    "rest_id": "1794194303218249729",
+    "followers_count": 57,
+    "favourites_count": 96,
+    "avatar": "https://pbs.twimg.com/profile_images/1798930044771041280/2astsQzt_normal.jpg",
+    "verified": false,
+    "friends_count": 106
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQcwhjnWsAICZUh.jpg",
+        "id": "1803463528839294978"
+      }
+    ]
+  }
+}

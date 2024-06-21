@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803324198959587430",
+  "screen_name": "CodesKae",
+  "bookmarks": 2,
+  "favorites": 26,
+  "created_at": "Wed Jun 19 07:09:27 +0000 2024",
+  "text": "I'm working on a youtube channel, where every type of tech enthusiast can learn something cool! I focus on making videos that are not hours long and talk about latest tech!\nLemme know what you think!\n@FarzaTV @_buildspace @_nightsweekends https://t.co/v6VsCzyhvx",
+  "lang": "en",
+  "quotes": 1,
+  "replies": 8,
+  "conversation_id": "1803324198959587430",
+  "retweets": 2,
+  "views": "489",
+  "user_info": {
+    "screen_name": "CodesKae",
+    "name": "Krishna Sarathi Ghosh",
+    "description": "14yo web dev • python • go • c • part time designer, video & audio editor • s4, s5 @_buildspace • alterok 🟦 • learning cybersecurity • sharing what i learn",
+    "rest_id": "1495009262070026242",
+    "followers_count": 935,
+    "favourites_count": 3819,
+    "avatar": "https://pbs.twimg.com/profile_images/1802663719119536128/KYL0-OB4_normal.jpg",
+    "verified": false,
+    "friends_count": 928
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQaxlrJbQAAYQ6g.jpg",
+        "id": "1803323961603997696"
+      }
+    ]
+  }
+}

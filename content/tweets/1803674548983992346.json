@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803674548983992346",
+  "screen_name": "ClaudeLee174864",
+  "bookmarks": 0,
+  "favorites": 3,
+  "created_at": "Thu Jun 20 06:21:37 +0000 2024",
+  "text": "Hello world, I'm building this idea out - what do you think? @_buildspace @_nightsweekends https://t.co/B3q5sDRaHV",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 4,
+  "conversation_id": "1803674548983992346",
+  "retweets": 0,
+  "views": "44",
+  "user_info": {
+    "screen_name": "ClaudeLee174864",
+    "name": "Claude Lee",
+    "description": "",
+    "rest_id": "1760859123170893824",
+    "followers_count": 23,
+    "favourites_count": 0,
+    "avatar": "https://pbs.twimg.com/profile_images/1802536487772397568/EnlrxK64_normal.jpg",
+    "verified": false,
+    "friends_count": 8
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQfwUosbAAAu_2i.jpg",
+        "id": "1803674413096960000"
+      }
+    ]
+  }
+}

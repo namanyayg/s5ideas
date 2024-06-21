@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803442774496383426",
+  "screen_name": "jaiten_thomas",
+  "bookmarks": 0,
+  "favorites": 8,
+  "created_at": "Wed Jun 19 15:00:38 +0000 2024",
+  "text": "I'm thrilled to announce that my product \"Offersense\" will be my focus for S5.\n\nJoin me on my journey to evolve \"Offersense\" over the next 6 weeks!\n\nThoughts? cc: @_buildspace @_nightsweekends @FarzaTV https://t.co/mpmnias03v",
+  "lang": "en",
+  "quotes": 1,
+  "replies": 3,
+  "conversation_id": "1803442774496383426",
+  "retweets": 0,
+  "views": "536",
+  "user_info": {
+    "screen_name": "jaiten_thomas",
+    "name": "Jaiten Thomas 🚦",
+    "description": "Experienced full-stack web dev (3+ yrs FT)\n\n🏷️ https://t.co/kKSN1SwTL9 (new)\n🟩 https://t.co/zHAqFRwvS4 \n\n+2 others https://t.co/QXQOO6vp3O",
+    "rest_id": "482018806",
+    "followers_count": 1798,
+    "favourites_count": 5430,
+    "avatar": "https://pbs.twimg.com/profile_images/1794212877303427072/aU5YJFQQ_normal.png",
+    "verified": false,
+    "friends_count": 999
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQcdo1GaYAEm8dB.jpg",
+        "id": "1803442763071119361"
+      }
+    ]
+  }
+}

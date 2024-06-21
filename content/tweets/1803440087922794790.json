@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803440087922794790",
+  "screen_name": "joceqo",
+  "bookmarks": 0,
+  "favorites": 0,
+  "created_at": "Wed Jun 19 14:49:57 +0000 2024",
+  "text": "My plan for the next 6 weeks is to give my unfinished Spotify project another shot !\nI think i'm not the only one that want to escape the Spotify loops. Any thoughts ? @_buildspace @_nightsweekends https://t.co/Y2lIho88YO",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803440087922794790",
+  "retweets": 0,
+  "views": "13",
+  "user_info": {
+    "screen_name": "joceqo",
+    "name": "Joce",
+    "description": "",
+    "rest_id": "1629511589723267075",
+    "followers_count": 2,
+    "favourites_count": 6,
+    "avatar": "https://pbs.twimg.com/profile_images/1629511676306309120/JZyZTuO5_normal.jpg",
+    "verified": false,
+    "friends_count": 9
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQcbAQVWkAE5VOd.jpg",
+        "id": "1803439866983649281"
+      }
+    ]
+  }
+}

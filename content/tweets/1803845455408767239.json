@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803845455408767239",
+  "screen_name": "therealmms",
+  "bookmarks": 0,
+  "favorites": 1,
+  "created_at": "Thu Jun 20 17:40:45 +0000 2024",
+  "text": "refine my slides \n\nthoughts ?\n\ncc @_buildspace @_nightsweekends @FarzaTV https://t.co/HAxtONI1Iv",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803845455408767239",
+  "retweets": 0,
+  "views": "106",
+  "user_info": {
+    "screen_name": "therealmms",
+    "name": "The Double M",
+    "description": "indie hacker by night\n\ndad by day\n\niOS lover",
+    "rest_id": "1579492878300094468",
+    "followers_count": 2610,
+    "favourites_count": 563,
+    "avatar": "https://pbs.twimg.com/profile_images/1802070968929558529/yeYpXzg6_normal.jpg",
+    "verified": false,
+    "friends_count": 322
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQiL1y1XAAAlr4I.png",
+        "id": "1803845407056789504"
+      }
+    ]
+  }
+}

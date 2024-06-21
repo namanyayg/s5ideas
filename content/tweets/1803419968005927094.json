@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803419968005927094",
+  "screen_name": "bizibeast",
+  "bookmarks": 0,
+  "favorites": 1,
+  "created_at": "Wed Jun 19 13:30:00 +0000 2024",
+  "text": "I am committed to Building my startup [https://t.co/us8IvFC6c0] in the Public\n\nI plan to launch our V1 for the public by Week 6 of nights and weekend\n\nCC: @_buildspace @_nightsweekends https://t.co/gYDMwnFgDh",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 3,
+  "conversation_id": "1803419968005927094",
+  "retweets": 0,
+  "views": "49",
+  "user_info": {
+    "screen_name": "bizibeast",
+    "name": "Yash Gawde",
+    "description": "Building an AI App that Disrupts Content Creation  \nBuilt a Million Dollar Startup at 19 💸 \n#buildinpublic",
+    "rest_id": "1729126603160981504",
+    "followers_count": 60,
+    "favourites_count": 432,
+    "avatar": "https://pbs.twimg.com/profile_images/1774994202197188608/Mo8YwWrb_normal.jpg",
+    "verified": false,
+    "friends_count": 87
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQappukaIAE6Su-.jpg",
+        "id": "1803315235148931073"
+      }
+    ]
+  }
+}

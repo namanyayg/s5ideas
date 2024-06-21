@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803730759242441128",
+  "screen_name": "bbagyema",
+  "bookmarks": 0,
+  "favorites": 4,
+  "created_at": "Thu Jun 20 10:04:59 +0000 2024",
+  "text": "Ive had this idea for over 4years. Its time I started. Think we can pull it off? @_nightsweekends  #buildspace https://t.co/9LxHX4s966",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 1,
+  "conversation_id": "1803730759242441128",
+  "retweets": 0,
+  "views": "80",
+  "user_info": {
+    "screen_name": "bbagyema",
+    "name": "Benjamin Bagyema",
+    "description": "Peer Trainer, Financial Literacy & Young Development | Entrepreneur | Nerd | Startuper",
+    "rest_id": "1153325308050849793",
+    "followers_count": 60,
+    "favourites_count": 337,
+    "avatar": "https://pbs.twimg.com/profile_images/1794412241556566016/jm7NWjys_normal.jpg",
+    "verified": false,
+    "friends_count": 21
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQgjjwwWIAAdWgy.jpg",
+        "id": "1803730748051955712"
+      }
+    ]
+  }
+}

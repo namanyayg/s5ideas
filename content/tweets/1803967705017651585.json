@@ -1,0 +1,55 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803967705017651585",
+  "screen_name": "nosnaj",
+  "bookmarks": 0,
+  "favorites": 9,
+  "created_at": "Fri Jun 21 01:46:31 +0000 2024",
+  "text": "sat on this idea for a while now, couldn't get myself started. felt way too personal and held a lot of meaning.\n\nbut today, i commit to it.\n\nlet me know if the idea slide isn't clear enough what i'm building. 6 weeks is a start!\n\ncc @_buildspace @_nightsweekends @FarzaTV https://t.co/6q3ufmx6sk",
+  "lang": "en",
+  "quotes": 1,
+  "replies": 7,
+  "conversation_id": "1803967705017651585",
+  "retweets": 0,
+  "views": "211",
+  "user_info": {
+    "screen_name": "nosnaj",
+    "name": "nosenudge.sol",
+    "description": "Last seen tomorrow.",
+    "rest_id": "23761336",
+    "followers_count": 1303,
+    "favourites_count": 13030,
+    "avatar": "https://pbs.twimg.com/profile_images/1771054987239624704/wkfwOIPS_normal.jpg",
+    "verified": false,
+    "friends_count": 1271
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQj6u2HakAEGsti.jpg",
+        "id": "1803967333469425665"
+      }
+    ]
+  },
+  "quoted": {
+    "tweet_id": "1790307156908237176",
+    "bookmarks": 0,
+    "created_at": "Tue May 14 09:04:23 +0000 2024",
+    "favorites": 3,
+    "text": "i always revisit my why. \n\nand the reason that got me started in software engineering is actually game design. \n\ni have gone “wayward” and have spent my entire adult career life in web development. \n\nthis is not a statement of anything, just a matter of fact. \n\ni always revisit.",
+    "lang": "en",
+    "views": "410",
+    "quotes": 1,
+    "replies": 3,
+    "retweets": 0,
+    "conversation_id": "1790307156908237176",
+    "author": {
+      "rest_id": "23761336",
+      "name": "nosenudge.sol",
+      "screen_name": "nosnaj",
+      "avatar": "https://pbs.twimg.com/profile_images/1771054987239624704/wkfwOIPS_normal.jpg",
+      "blue_verified": false
+    },
+    "media": []
+  }
+}

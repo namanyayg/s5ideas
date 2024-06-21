@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803654036752658440",
+  "screen_name": "sgarg0310",
+  "bookmarks": 0,
+  "favorites": 6,
+  "created_at": "Thu Jun 20 05:00:07 +0000 2024",
+  "text": "In addition to @summer_of_ship, I will also be working on my \"thefridayassisant\" project for Buildspace for the next 6 weeks!\n\nopen to suggestions and ideas for functionalities!!\n\ncc: @_nightsweekends @_buildspace @FarzaTV https://t.co/qb0q9Ut9pU",
+  "lang": "en",
+  "quotes": 1,
+  "replies": 5,
+  "conversation_id": "1803654036752658440",
+  "retweets": 0,
+  "views": "119",
+  "user_info": {
+    "screen_name": "sgarg0310",
+    "name": "Satvik",
+    "description": "A student... (That's about it 🤷‍♂️)",
+    "rest_id": "1287538193462513664",
+    "followers_count": 19,
+    "favourites_count": 40,
+    "avatar": "https://pbs.twimg.com/profile_images/1794823747465056256/cueLfb8t_normal.jpg",
+    "verified": false,
+    "friends_count": 32
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQfddajWcAA90yg.jpg",
+        "id": "1803653673198710784"
+      }
+    ]
+  }
+}

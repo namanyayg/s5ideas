@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803563792212824257",
+  "screen_name": "bloodybry",
+  "bookmarks": 0,
+  "favorites": 8,
+  "created_at": "Wed Jun 19 23:01:31 +0000 2024",
+  "text": "alright, we start here... i guess lol \n\ncc @_buildspace @_nightsweekends @FarzaTV https://t.co/pDnkQKztfh",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 6,
+  "conversation_id": "1803563792212824257",
+  "retweets": 0,
+  "views": "143",
+  "user_info": {
+    "screen_name": "bloodybry",
+    "name": "EL YAZIDI Adnane",
+    "description": "",
+    "rest_id": "1731809375214350336",
+    "followers_count": 15,
+    "favourites_count": 55,
+    "avatar": "https://pbs.twimg.com/profile_images/1731809534585315328/B5-n0GsI_normal.jpg",
+    "verified": false,
+    "friends_count": 27
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQeLYYAXIAAhg1c.jpg",
+        "id": "1803563426662260736"
+      }
+    ]
+  }
+}

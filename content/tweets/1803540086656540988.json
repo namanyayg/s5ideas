@@ -1,0 +1,46 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803540086656540988",
+  "screen_name": "nooneistg",
+  "bookmarks": 0,
+  "favorites": 6,
+  "created_at": "Wed Jun 19 21:27:19 +0000 2024",
+  "text": "Weekly update ✨️\nI Finished working on this prototype of greensync the project i am working on for @_nightsweekends  @_buildspace https://t.co/wdDJl58Klo",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803540086656540988",
+  "retweets": 0,
+  "views": "73",
+  "user_info": {
+    "screen_name": "nooneistg",
+    "name": "ali",
+    "description": "self-taught creator and business school student working on greensync to promote sustainable agriculture.🟢 erevald \n@_buildspace\n 💻",
+    "rest_id": "1545192194520371203",
+    "followers_count": 443,
+    "favourites_count": 6747,
+    "avatar": "https://pbs.twimg.com/profile_images/1796951631591821313/umFV5qcZ_normal.jpg",
+    "verified": false,
+    "friends_count": 258
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQd2IzDXEAAxT1l.jpg",
+        "id": "1803540069300506624"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQd2JXjWIAAOwuE.jpg",
+        "id": "1803540079098339328"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQd2JaTWUAA6DNy.jpg",
+        "id": "1803540079836549120"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQd2JaHWwAAw2qe.jpg",
+        "id": "1803540079786246144"
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803932378122813605",
+  "screen_name": "skjf25",
+  "bookmarks": 0,
+  "favorites": 3,
+  "created_at": "Thu Jun 20 23:26:09 +0000 2024",
+  "text": "cc @_buildspace @_nightsweekends \n\njust finished making a bunch of rpg-style graphics for litrpg authors using canva! \n\nCheck em out here: https://t.co/h18BqrYyfi https://t.co/cRBpJshg9T",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 1,
+  "conversation_id": "1803932378122813605",
+  "retweets": 0,
+  "views": "48",
+  "user_info": {
+    "screen_name": "skjf25",
+    "name": "Jake",
+    "description": "n&w s5 @_buildspace | alterok",
+    "rest_id": "1777458414043701250",
+    "followers_count": 21,
+    "favourites_count": 11,
+    "avatar": "https://pbs.twimg.com/profile_images/1803310015089876992/YcVhH6PD_normal.jpg",
+    "verified": false,
+    "friends_count": 56
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQjaCSiWoAAif9E.png",
+        "id": "1803931383632404480"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQjaEQjW0AAk06A.png",
+        "id": "1803931417459478528"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQjaos2WMAAq5Rj.png",
+        "id": "1803932043530612736"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQjaotEW4AAU4ej.png",
+        "id": "1803932043589378048"
+      }
+    ]
+  }
+}

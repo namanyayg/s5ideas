@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803637571517554803",
+  "screen_name": "seantanyurong",
+  "bookmarks": 0,
+  "favorites": 11,
+  "created_at": "Thu Jun 20 03:54:41 +0000 2024",
+  "text": "Rich Founders: \"Document your journey. I wish I did.\"\n\nMe: \"Introducing https://t.co/EmcluTQ4YS\"\n\ncc: @_buildspace @_nightsweekends https://t.co/CBRAOMGLoJ",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 9,
+  "conversation_id": "1803637571517554803",
+  "retweets": 0,
+  "views": "342",
+  "user_info": {
+    "screen_name": "seantanyurong",
+    "name": "Sean Tan",
+    "description": "The Singaporean Indie Hacker 🇸🇬 \n\nWriting documentation on getting to $10k/m as an Indie Hacker in Southeast Asia\n\nhttps://t.co/NA32Cv2nlo $1k MRR\nhttps://t.co/jERMbivFYU $50k earned",
+    "rest_id": "1447093105073606659",
+    "followers_count": 55,
+    "favourites_count": 109,
+    "avatar": "https://pbs.twimg.com/profile_images/1718149172317278208/LAddKTqT_normal.jpg",
+    "verified": false,
+    "friends_count": 84
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQfMCT8aIAMU6e9.jpg",
+        "id": "1803634515870621699"
+      }
+    ]
+  }
+}

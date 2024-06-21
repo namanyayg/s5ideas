@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803581616880570486",
+  "screen_name": "mastersnipedady",
+  "bookmarks": 0,
+  "favorites": 1,
+  "created_at": "Thu Jun 20 00:12:21 +0000 2024",
+  "text": "excited to work w/ @_buildspace and @_nightsweekends on this cool project i came up w with a friend of mine! https://t.co/utdCQEtXAA",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 1,
+  "conversation_id": "1803581616880570486",
+  "retweets": 0,
+  "views": "37",
+  "user_info": {
+    "screen_name": "mastersnipedady",
+    "name": "mastersnipedaddy",
+    "description": "• for the gays and the gworlz - @_nightsweekends s5 / altorok",
+    "rest_id": "1572633643280891908",
+    "followers_count": 150,
+    "favourites_count": 7055,
+    "avatar": "https://pbs.twimg.com/profile_images/1782351074403274752/Pt1mKngJ_normal.jpg",
+    "verified": false,
+    "friends_count": 144
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQeb65jW4AA61F-.jpg",
+        "id": "1803581611969011712"
+      }
+    ]
+  }
+}

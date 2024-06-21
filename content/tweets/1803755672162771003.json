@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803755672162771003",
+  "screen_name": "psychoticOm",
+  "bookmarks": 0,
+  "favorites": 3,
+  "created_at": "Thu Jun 20 11:43:59 +0000 2024",
+  "text": "Working up on OSINT website bot too which scrapes dark web and leaked databases and gives out info \nWhat do you think of it ? \nAlmost 90% done with this one \nMade it in a day \n@_buildspace @_nightsweekends @FarzaTV \n#buildspace \n#ai \n#cybersecurity https://t.co/MTEcjrEHMh",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 1,
+  "conversation_id": "1803755672162771003",
+  "retweets": 0,
+  "views": "142",
+  "user_info": {
+    "screen_name": "psychoticOm",
+    "name": "Om Shewale",
+    "description": "Escape the reality...",
+    "rest_id": "1296116855707275265",
+    "followers_count": 146,
+    "favourites_count": 2452,
+    "avatar": "https://pbs.twimg.com/profile_images/1803754886645035008/i1U9UjKo_normal.jpg",
+    "verified": false,
+    "friends_count": 877
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQg6OCCW4AAAWwA.jpg",
+        "id": "1803755663501221888"
+      }
+    ]
+  }
+}

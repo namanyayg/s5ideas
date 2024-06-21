@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803626893897302031",
+  "screen_name": "mrwilsonwu",
+  "bookmarks": 0,
+  "favorites": 3,
+  "created_at": "Thu Jun 20 03:12:15 +0000 2024",
+  "text": "i'm excited to share that i got accepted into this 6-week program by @_buildspace called @_nightsweekends\n\nhaving a tool that would help me take notes and summarize in real-time would be a highly efficient tool allowing everyone to be as effective in meetings https://t.co/2he4ykvhmM",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 5,
+  "conversation_id": "1803626893897302031",
+  "retweets": 0,
+  "views": "156",
+  "user_info": {
+    "screen_name": "mrwilsonwu",
+    "name": "youngxwoo",
+    "description": "you only have one life so do it all",
+    "rest_id": "28177876",
+    "followers_count": 281,
+    "favourites_count": 5881,
+    "avatar": "https://pbs.twimg.com/profile_images/1468945248172875777/zyPWRxvz_normal.jpg",
+    "verified": false,
+    "friends_count": 125
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQfEDnHWcAAuCV8.jpg",
+        "id": "1803625742103638016"
+      }
+    ]
+  }
+}

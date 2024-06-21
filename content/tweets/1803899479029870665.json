@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803899479029870665",
+  "screen_name": "axelphunter",
+  "bookmarks": 0,
+  "favorites": 0,
+  "created_at": "Thu Jun 20 21:15:25 +0000 2024",
+  "text": "I'm building a legal co-pilot 👌\n\nFor @_nightsweekends I was going to work on my SaaS that is already generating revenue...\n\nBUT in the spirit of a 6-week hackathon, I couldn't RESIST working on something I've been planning for a while. \n\nSo far contractfast has a database of just over 120 draft UK law contracts and the MVP is almost complete.\n\nLet's GO!\n\ncc: @_buildspace",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 1,
+  "conversation_id": "1803899479029870665",
+  "retweets": 0,
+  "views": "56",
+  "user_info": {
+    "screen_name": "axelphunter",
+    "name": "Axel Hunter",
+    "description": "AI agency owner by day, SaaS builder by night. \n\n👻 https://t.co/riwFjUXu0d - The Leading AI Article generation tool for Trending News.",
+    "rest_id": "1558353487242661889",
+    "followers_count": 1120,
+    "favourites_count": 2738,
+    "avatar": "https://pbs.twimg.com/profile_images/1785029445645918208/EHCwY8Jn_normal.jpg",
+    "verified": false,
+    "friends_count": 241
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQi8VrqWgAApL7J.jpg",
+        "id": "1803898731445518336"
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803570973951795356",
+  "screen_name": "SaidevDhal",
+  "bookmarks": 0,
+  "favorites": 5,
+  "created_at": "Wed Jun 19 23:30:03 +0000 2024",
+  "text": "Hey this is Saidev.\n18 y/o kid from Odisha,India.\nExcited to share a bit about my journey and my youngest achievement! At 14, I launched my first company, a Discord bot service, and successfully sold it for $487 in 2020. \nI'm thrilled to announce that I've joined @_buildspace S5. https://t.co/dPzsS43fAP",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803570973951795356",
+  "retweets": 0,
+  "views": "72",
+  "user_info": {
+    "screen_name": "SaidevDhal",
+    "name": "Saidev Dhal",
+    "description": "Passionate about crafting code with a flair for the extraordinary. Specterseek • @_buildspace",
+    "rest_id": "1656923246137335808",
+    "followers_count": 40,
+    "favourites_count": 70,
+    "avatar": "https://pbs.twimg.com/profile_images/1802198532780363776/StE_7_Dr_normal.jpg",
+    "verified": false,
+    "friends_count": 54
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQeSPGkbcAEBk_z.jpg",
+        "id": "1803570963944271873"
+      }
+    ]
+  }
+}

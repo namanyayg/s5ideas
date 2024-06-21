@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803605826856267986",
+  "screen_name": "susannedevlin",
+  "bookmarks": 0,
+  "favorites": 6,
+  "created_at": "Thu Jun 20 01:48:33 +0000 2024",
+  "text": "Brushing off twitter to take part in @_nightsweekends for the next 6 weeks and work on an idea I've had for a while - GuessClub!\n\nThis is day 1!\n\nThanks @_buildspace @FarzaTV 🔥🔥 https://t.co/nzFZfZDMn5",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 5,
+  "conversation_id": "1803605826856267986",
+  "retweets": 0,
+  "views": "197",
+  "user_info": {
+    "screen_name": "susannedevlin",
+    "name": "Susanne D",
+    "description": "Maker | Service & Experience Designer (ex-Fjord) ✍️\n\nCurrently working on 'GuessClub' (live events for the older & homebound population) @_nightsweekends S5",
+    "rest_id": "2973731673",
+    "followers_count": 70,
+    "favourites_count": 73,
+    "avatar": "https://pbs.twimg.com/profile_images/1784328370924204032/RqVrp5mE_normal.jpg",
+    "verified": false,
+    "friends_count": 56
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQexn1EWUAIf_kc.jpg",
+        "id": "1803605473603506178"
+      }
+    ]
+  }
+}

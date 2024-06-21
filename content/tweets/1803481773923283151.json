@@ -1,0 +1,62 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803481773923283151",
+  "screen_name": "VaishnaviA_",
+  "bookmarks": 0,
+  "favorites": 4,
+  "created_at": "Wed Jun 19 17:35:36 +0000 2024",
+  "text": "Inspired by websites like Slack, Figma etc. and their socials, the goal is to make features more accessible, especially for Gen Z who prefer visual content. Motion design is new for me, so this should be fun!🪅\n\ncc: @_buildspace @_nightsweekends https://t.co/wIQtY2ZO0k",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 1,
+  "conversation_id": "1803481773923283151",
+  "retweets": 1,
+  "views": "118",
+  "user_info": {
+    "screen_name": "VaishnaviA_",
+    "name": "Vaishnavi Anand",
+    "description": "Product Designer @MeetYourClass | @Purdue_UX",
+    "rest_id": "1511402097954410496",
+    "followers_count": 11,
+    "favourites_count": 30,
+    "avatar": "https://pbs.twimg.com/profile_images/1800610562738425857/NEDL3rdP_normal.jpg",
+    "verified": false,
+    "friends_count": 133
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQc8DBuXAAE8cde.jpg",
+        "id": "1803476198485327873"
+      }
+    ]
+  },
+  "quoted": {
+    "tweet_id": "1802439747844882679",
+    "bookmarks": 1,
+    "created_at": "Sun Jun 16 20:34:58 +0000 2024",
+    "favorites": 5,
+    "text": "Excited to join @_buildspace's S5 of @_nightsweekends as a part of the @meetyourclass crew! Over the next six weeks, I'll be learning how to animate Figma prototypes to create engaging product feature reveal videos. Can't wait to share what we create together! https://t.co/0wng63UiIj",
+    "lang": "en",
+    "views": "237",
+    "quotes": 1,
+    "replies": 0,
+    "retweets": 2,
+    "conversation_id": "1802439747844882679",
+    "author": {
+      "rest_id": "1511402097954410496",
+      "name": "Vaishnavi Anand",
+      "screen_name": "VaishnaviA_",
+      "avatar": "https://pbs.twimg.com/profile_images/1800610562738425857/NEDL3rdP_normal.jpg",
+      "blue_verified": false
+    },
+    "media": {
+      "photo": [
+        {
+          "media_url_https": "https://pbs.twimg.com/media/GQOLqdcWIAAXKi3.jpg",
+          "id": "1802437837452615680"
+        }
+      ]
+    }
+  }
+}

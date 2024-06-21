@@ -1,0 +1,38 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803955846902370364",
+  "screen_name": "jaiten_thomas",
+  "bookmarks": 0,
+  "favorites": 1,
+  "created_at": "Fri Jun 21 00:59:24 +0000 2024",
+  "text": "Log 1 for @_nightsweekends,\n\n\"Offersense\" development:\n\n✅ Pricing section\n✅ Setup @lmsqueezy payment provider\n\ncc:  @_buildspace https://t.co/8uxeNHhSf5",
+  "lang": "en",
+  "quotes": 1,
+  "replies": 0,
+  "conversation_id": "1803955846902370364",
+  "retweets": 0,
+  "views": "208",
+  "user_info": {
+    "screen_name": "jaiten_thomas",
+    "name": "Jaiten Thomas 🚦",
+    "description": "Experienced full-stack web dev (3+ yrs FT)\n\n🏷️ https://t.co/kKSN1SwTL9 (new)\n🟩 https://t.co/zHAqFRwvS4 \n\n+2 others https://t.co/QXQOO6vp3O",
+    "rest_id": "482018806",
+    "followers_count": 1798,
+    "favourites_count": 5430,
+    "avatar": "https://pbs.twimg.com/profile_images/1794212877303427072/aU5YJFQQ_normal.png",
+    "verified": false,
+    "friends_count": 999
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQjwR0MbgAArVBL.jpg",
+        "id": "1803955839621103616"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQjwSCTakAIuEPX.png",
+        "id": "1803955843408498690"
+      }
+    ]
+  }
+}

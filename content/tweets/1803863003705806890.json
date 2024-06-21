@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803863003705806890",
+  "screen_name": "doliacat",
+  "bookmarks": 0,
+  "favorites": 11,
+  "created_at": "Thu Jun 20 18:50:28 +0000 2024",
+  "text": "week 1 vs week 6\n@_buildspace https://t.co/qV8mj8YKUP",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803863003705806890",
+  "retweets": 0,
+  "views": "118",
+  "user_info": {
+    "screen_name": "doliacat",
+    "name": "Daniil Dolia",
+    "description": "Product Design & Design Engineering. Building next gen Web3 gaming service | 🔴 spectreseek @_buildspace",
+    "rest_id": "1462844701929885701",
+    "followers_count": 2493,
+    "favourites_count": 38458,
+    "avatar": "https://pbs.twimg.com/profile_images/1595377423582957572/tYZbzlwO_normal.jpg",
+    "verified": false,
+    "friends_count": 1908
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQib1nrXMAEQ3fD.jpg",
+        "id": "1803862996248113153"
+      }
+    ]
+  }
+}

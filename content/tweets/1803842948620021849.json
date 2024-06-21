@@ -1,0 +1,38 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803842948620021849",
+  "screen_name": "vincentcadler",
+  "bookmarks": 0,
+  "favorites": 2,
+  "created_at": "Thu Jun 20 17:30:47 +0000 2024",
+  "text": "Really motivated, but still undecided. These are two ideas for @_nightsweekends:\n\n1) a personalized ai therapy app to treat OCD\n\n2) a website where you can find any item from popular media\n\nWhat do you think? Happy about any feedback!\n\ncc: @_buildspace @_nightsweekends @FarzaTV https://t.co/xNfG4YrD1k",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803842948620021849",
+  "retweets": 0,
+  "views": "28",
+  "user_info": {
+    "screen_name": "vincentcadler",
+    "name": "Vincent Adler",
+    "description": "Student @ TUM | Co-Founder @ Amazonia Spirits | Building something new",
+    "rest_id": "1083033504252903424",
+    "followers_count": 54,
+    "favourites_count": 108,
+    "avatar": "https://pbs.twimg.com/profile_images/1681032089859235843/mpTV0Qpc_normal.jpg",
+    "verified": false,
+    "friends_count": 132
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQiJkIhXEAALYO7.jpg",
+        "id": "1803842904617586688"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQiJkIiWoAAQPN-.jpg",
+        "id": "1803842904621752320"
+      }
+    ]
+  }
+}

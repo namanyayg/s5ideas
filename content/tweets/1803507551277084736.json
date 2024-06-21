@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803507551277084736",
+  "screen_name": "shasherazi",
+  "bookmarks": 0,
+  "favorites": 3,
+  "created_at": "Wed Jun 19 19:18:02 +0000 2024",
+  "text": "joined nights and weekends season 5\n\nthought of finally videolizing my thoughts. how does the one liner look?\n\ncc @_buildspace @_nightsweekends https://t.co/HsxcF4TZRp",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 1,
+  "conversation_id": "1803507551277084736",
+  "retweets": 0,
+  "views": "50",
+  "user_info": {
+    "screen_name": "shasherazi",
+    "name": "shasherazi",
+    "description": "a 20 year old Pakistani who loves coding and exploring linux\nhttps://t.co/Iqr2Sofadi",
+    "rest_id": "1173189122124648453",
+    "followers_count": 81,
+    "favourites_count": 46823,
+    "avatar": "https://pbs.twimg.com/profile_images/1658925923201155075/B8yxpN4j_normal.jpg",
+    "verified": false,
+    "friends_count": 612
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQdYfipaIAM5vNW.jpg",
+        "id": "1803507474684846083"
+      }
+    ]
+  }
+}

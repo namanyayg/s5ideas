@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803707119624917049",
+  "screen_name": "ashwinlokkur",
+  "bookmarks": 0,
+  "favorites": 5,
+  "created_at": "Thu Jun 20 08:31:03 +0000 2024",
+  "text": "building this for the next 6 weeks\n\nthoughts?\n\ncc: @_buildspace @_nightsweekends https://t.co/W7G4u5y8tJ",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 4,
+  "conversation_id": "1803707119624917049",
+  "retweets": 1,
+  "views": "119",
+  "user_info": {
+    "screen_name": "ashwinlokkur",
+    "name": "Ash",
+    "description": "Programmer. Techie. Dog whisperer.",
+    "rest_id": "52348435",
+    "followers_count": 220,
+    "favourites_count": 2682,
+    "avatar": "https://pbs.twimg.com/profile_images/1592804202861932545/CwF2RolV_normal.jpg",
+    "verified": false,
+    "friends_count": 354
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQgN4bfXwAAXAEp.jpg",
+        "id": "1803706913865056256"
+      }
+    ]
+  }
+}

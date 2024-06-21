@@ -1,0 +1,42 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803965395046416519",
+  "screen_name": "tkrey13",
+  "bookmarks": 0,
+  "favorites": 0,
+  "created_at": "Fri Jun 21 01:37:20 +0000 2024",
+  "text": "First 3 Food for People food certificates. Would seeing these on some foods in grocery stores help you make a healthy food decision? Of course, assuming you trust Foor for People's stamp of approval. We'll get to that soon.\n\n@_nightsweekends @_buildspace https://t.co/bMoIeZ3qQw",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803965395046416519",
+  "retweets": 0,
+  "views": "21",
+  "user_info": {
+    "screen_name": "tkrey13",
+    "name": "tom kreynin",
+    "description": "",
+    "rest_id": "1578855190773514245",
+    "followers_count": 7,
+    "favourites_count": 0,
+    "avatar": "https://pbs.twimg.com/profile_images/1578855252425670656/tzADhlJ3_normal.jpg",
+    "verified": false,
+    "friends_count": 4
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQj48CkXAAAtUJg.jpg",
+        "id": "1803965361127096320"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQj48CjW4AADrK8.jpg",
+        "id": "1803965361122893824"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQj48ChWgAAgy-m.jpg",
+        "id": "1803965361114480640"
+      }
+    ]
+  }
+}

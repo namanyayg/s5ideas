@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803573904473985360",
+  "screen_name": "genesisdevv",
+  "bookmarks": 46,
+  "favorites": 776,
+  "created_at": "Wed Jun 19 23:41:42 +0000 2024",
+  "text": "i hope i'm not late on this one!\n\nhi, my name is genesis! this is my project idea:\n\ni love civilization 6 (the game) + i suck at being productive = buildme\n\noh and i have 0 gamedev experience.\n\ncc @_buildspace @_nightsweekends @FarzaTV https://t.co/PaxCUuUekW",
+  "lang": "en",
+  "quotes": 4,
+  "replies": 206,
+  "conversation_id": "1803573904473985360",
+  "retweets": 14,
+  "views": "23052",
+  "user_info": {
+    "screen_name": "genesisdevv",
+    "name": "genesis",
+    "description": "21 | erevald @_buildspace | 🇵🇭🇨🇦 | buildme waitlist coming soon!",
+    "rest_id": "1220085027687616513",
+    "followers_count": 199,
+    "favourites_count": 189,
+    "avatar": "https://pbs.twimg.com/profile_images/1803856082780971008/M0bYJCzk_normal.jpg",
+    "verified": false,
+    "friends_count": 9
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQeSoqHXQAAwzhj.jpg",
+        "id": "1803571402982768640"
+      }
+    ]
+  }
+}

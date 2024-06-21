@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803841383926763588",
+  "screen_name": "sidthekid66",
+  "bookmarks": 0,
+  "favorites": 1,
+  "created_at": "Thu Jun 20 17:24:34 +0000 2024",
+  "text": "creating design + control flow for construction of graph representations of neural networks. starting with common layer types.\n\nthen we can train some graph neural nets to reason over weight + architecture space\n\n@_buildspace \n@_nightsweekends https://t.co/qcbjyIKVgO",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803841383926763588",
+  "retweets": 0,
+  "views": "25",
+  "user_info": {
+    "screen_name": "sidthekid66",
+    "name": "siddhartha",
+    "description": "mich state cs.\n\nbuilding decentralized ai + representational learning @_buildspace",
+    "rest_id": "783424216754290692",
+    "followers_count": 43,
+    "favourites_count": 105,
+    "avatar": "https://pbs.twimg.com/profile_images/1781034497536102400/klnjLBCh_normal.jpg",
+    "verified": false,
+    "friends_count": 85
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQiG0VAbYAAf6IQ.jpg",
+        "id": "1803839884312141824"
+      }
+    ]
+  }
+}

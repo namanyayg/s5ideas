@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803874758817386904",
+  "screen_name": "Turing020",
+  "bookmarks": 0,
+  "favorites": 3,
+  "created_at": "Thu Jun 20 19:37:11 +0000 2024",
+  "text": "Always wanted to build an actual software whatever it is. \n\nDoing Youtube i think always felt right for me since I started.  \n\nWhy not do them together ?\n\nWhat are your thoughts?  \n\ncc:\n@_buildspace\n\n@FarzaTV\n\n@_nightsweekends https://t.co/G45c8UCrzx",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 3,
+  "conversation_id": "1803874758817386904",
+  "retweets": 0,
+  "views": "70",
+  "user_info": {
+    "screen_name": "Turing020",
+    "name": "i",
+    "description": "Student Forever📑, Prev: @AITECHio @JetvoyOfficial , alterok🫂\nCreating @_nightsweekends S5",
+    "rest_id": "1012851418166910976",
+    "followers_count": 199,
+    "favourites_count": 3638,
+    "avatar": "https://pbs.twimg.com/profile_images/1744023715908661248/B7yoZLuI_normal.jpg",
+    "verified": false,
+    "friends_count": 134
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQimYi_XoAAiWRH.jpg",
+        "id": "1803874591401549824"
+      }
+    ]
+  }
+}

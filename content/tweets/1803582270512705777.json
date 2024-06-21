@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803582270512705777",
+  "screen_name": "kathanmehtaa",
+  "bookmarks": 1,
+  "favorites": 9,
+  "created_at": "Thu Jun 20 00:14:56 +0000 2024",
+  "text": "hey @_nightsweekends ,\n\ni am building StoryMagicAi to revive ur best memories\n\n@Google &amp; @Apple share moments in the photos app\n\nwe can add music in em too bt i still feel like smthn is missinn\n\ni m in D quest to add emotional touch to photos &amp; videos\n\ncc - @_buildspace @FarzaTV https://t.co/E6O6uzT4Qu",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 6,
+  "conversation_id": "1803582270512705777",
+  "retweets": 1,
+  "views": "264",
+  "user_info": {
+    "screen_name": "kathanmehtaa",
+    "name": "Kathan 𝕏",
+    "description": "left 🏡 @ 21 (🇮🇳-🇨🇦) to become Independent | currently: https://t.co/4Al8tLB9bX (✨) | 💻 cs @humbercollege | s4, s5 @_buildspace",
+    "rest_id": "1065218660917264384",
+    "followers_count": 430,
+    "favourites_count": 1083,
+    "avatar": "https://pbs.twimg.com/profile_images/1709395728647536640/gke0Zm4j_normal.jpg",
+    "verified": false,
+    "friends_count": 715
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQecg_fXkAAKx9B.jpg",
+        "id": "1803582266397921280"
+      }
+    ]
+  }
+}

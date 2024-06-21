@@ -1,0 +1,38 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803496281148416279",
+  "screen_name": "MKarthikKamath",
+  "bookmarks": 0,
+  "favorites": 2,
+  "created_at": "Wed Jun 19 18:33:15 +0000 2024",
+  "text": "Just putting it out there ! Let's go .. what you all think? Also made something for my housemates with more to come !!! @_buildspace @_nightsweekends https://t.co/zv4WJoAOoO",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803496281148416279",
+  "retweets": 0,
+  "views": "65",
+  "user_info": {
+    "screen_name": "MKarthikKamath",
+    "name": "Karthik Kamath",
+    "description": "",
+    "rest_id": "1074550036413837312",
+    "followers_count": 58,
+    "favourites_count": 15025,
+    "avatar": "https://pbs.twimg.com/profile_images/1074550460403445761/fbOHIn1F_normal.jpg",
+    "verified": false,
+    "friends_count": 441
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQdOTn0XUAAEDfq.jpg",
+        "id": "1803496274798268416"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQdOTsfXYAAXjJX.jpg",
+        "id": "1803496276052369408"
+      }
+    ]
+  }
+}

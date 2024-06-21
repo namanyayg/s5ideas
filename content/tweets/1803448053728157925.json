@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803448053728157925",
+  "screen_name": "MisoFecko",
+  "bookmarks": 0,
+  "favorites": 7,
+  "created_at": "Wed Jun 19 15:21:37 +0000 2024",
+  "text": "Hey guys, what do you thing about my idea for the s5?\n\n@_buildspace @_nightsweekends https://t.co/KK7IAy84hW",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 7,
+  "conversation_id": "1803448053728157925",
+  "retweets": 0,
+  "views": "262",
+  "user_info": {
+    "screen_name": "MisoFecko",
+    "name": "michalfecko",
+    "description": "",
+    "rest_id": "2823644786",
+    "followers_count": 48,
+    "favourites_count": 137,
+    "avatar": "https://pbs.twimg.com/profile_images/813129080631652352/rsWH4PY9_normal.jpg",
+    "verified": false,
+    "friends_count": 170
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQcibhhWcAA_47q.jpg",
+        "id": "1803448032035237888"
+      }
+    ]
+  }
+}

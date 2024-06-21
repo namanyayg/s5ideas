@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803641712666960040",
+  "screen_name": "VanessaKahkesh",
+  "bookmarks": 0,
+  "favorites": 8,
+  "created_at": "Thu Jun 20 04:11:08 +0000 2024",
+  "text": "time to start shipping 🫡\n\ncc: @_buildspace @_nightsweekends @FarzaTV https://t.co/PyuPJrw8MB",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 5,
+  "conversation_id": "1803641712666960040",
+  "retweets": 0,
+  "views": "197",
+  "user_info": {
+    "screen_name": "VanessaKahkesh",
+    "name": "vanessa kahkesh",
+    "description": "exploring through creating | @berkeleyhaas",
+    "rest_id": "1538557659435020288",
+    "followers_count": 129,
+    "favourites_count": 181,
+    "avatar": "https://pbs.twimg.com/profile_images/1651663110565154816/zubkMqFd_normal.jpg",
+    "verified": false,
+    "friends_count": 199
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQfSTT_X0AAPTw9.jpg",
+        "id": "1803641405010595840"
+      }
+    ]
+  }
+}

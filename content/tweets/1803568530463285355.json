@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803568530463285355",
+  "screen_name": "zkousama",
+  "bookmarks": 26,
+  "favorites": 436,
+  "created_at": "Wed Jun 19 23:20:21 +0000 2024",
+  "text": "struggling with font choices? i gotchu.\n\nthoughts? cc @_buildspace https://t.co/2qfocUD6xW",
+  "lang": "en",
+  "quotes": 1,
+  "replies": 198,
+  "conversation_id": "1803568530463285355",
+  "retweets": 3,
+  "views": "13580",
+  "user_info": {
+    "screen_name": "zkousama",
+    "name": "ousama",
+    "description": "rien ne se perd, rien ne se crée, tout se transforme. | gaudmire @_buildspace n&w s5 | AWS @alx_africa C3.",
+    "rest_id": "1768386637669482497",
+    "followers_count": 137,
+    "favourites_count": 225,
+    "avatar": "https://pbs.twimg.com/profile_images/1801737603894407168/ZX2Pa37f_normal.jpg",
+    "verified": false,
+    "friends_count": 116
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQeO4LNWMAIoC4Y.jpg",
+        "id": "1803567271517761538"
+      }
+    ]
+  }
+}

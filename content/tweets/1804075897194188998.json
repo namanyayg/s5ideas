@@ -1,0 +1,38 @@
+{
+  "type": "tweet",
+  "tweet_id": "1804075897194188998",
+  "screen_name": "BankaguoO",
+  "bookmarks": 0,
+  "favorites": 2,
+  "created_at": "Fri Jun 21 08:56:26 +0000 2024",
+  "text": "Trying out flutter flow for creating my own app. Any non-technical background people or any flutter expert around here? Let’s help each other!\n\nCc @_nightsweekends @_buildspace https://t.co/vk3y0Gfokh",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1804075897194188998",
+  "retweets": 0,
+  "views": "16",
+  "user_info": {
+    "screen_name": "BankaguoO",
+    "name": "Heidi Gu",
+    "description": "I want to be remembered by my creativity. nice to meet you :D",
+    "rest_id": "1538868211294392322",
+    "followers_count": 10,
+    "favourites_count": 36,
+    "avatar": "https://pbs.twimg.com/profile_images/1804035277088030720/qDwBHkDQ_normal.jpg",
+    "verified": false,
+    "friends_count": 12
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQlddjHakAMftDj.jpg",
+        "id": "1804075887962525699"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQlddjGb0AAz8lN.jpg",
+        "id": "1804075887958413312"
+      }
+    ]
+  }
+}

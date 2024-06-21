@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803439824390566154",
+  "screen_name": "arreyhAbhishek",
+  "bookmarks": 0,
+  "favorites": 3,
+  "created_at": "Wed Jun 19 14:48:55 +0000 2024",
+  "text": "My idea for @_buildspace s5 @_nightsweekends \n\nI worked on something similar for s4, but did not see it through to the end.\n\nHad time to refine the idea so, here we go again!!!\n\nLet me know what you think about it! https://t.co/cIeZE06MUR",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 2,
+  "conversation_id": "1803439824390566154",
+  "retweets": 0,
+  "views": "88",
+  "user_info": {
+    "screen_name": "arreyhAbhishek",
+    "name": "Abhishek Choudhary",
+    "description": "Ideating, experimenting, building, repeating /\nSoftware Developer, Data Engineer /\nBackend dev,  failing at FrontEnd /\nCSE, TIET '21 /\nAlterok, s5@buildspace /",
+    "rest_id": "1426971631927193600",
+    "followers_count": 64,
+    "favourites_count": 206,
+    "avatar": "https://pbs.twimg.com/profile_images/1803463519469207553/qNxxJ6SP_normal.jpg",
+    "verified": false,
+    "friends_count": 59
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQcaFX2WsAAZaD7.jpg",
+        "id": "1803438855388835840"
+      }
+    ]
+  }
+}

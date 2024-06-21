@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803684435457708397",
+  "screen_name": "supsur6900",
+  "bookmarks": 0,
+  "favorites": 4,
+  "created_at": "Thu Jun 20 07:00:54 +0000 2024",
+  "text": "Accepted at s5 of nights and weekends ♥️📷\nLooking forward to build \"Jaggery\"😍\n\n@_buildspace\n@_nightsweekends https://t.co/d7eZpKSo7t",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 2,
+  "conversation_id": "1803684435457708397",
+  "retweets": 0,
+  "views": "87",
+  "user_info": {
+    "screen_name": "supsur6900",
+    "name": "Sujay",
+    "description": "",
+    "rest_id": "1247765507786211328",
+    "followers_count": 9,
+    "favourites_count": 75,
+    "avatar": "https://pbs.twimg.com/profile_images/1739221070853615617/HCOGFAsW_normal.jpg",
+    "verified": false,
+    "friends_count": 77
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQf3u1bbwAAt97O.jpg",
+        "id": "1803682559773360128"
+      }
+    ]
+  }
+}

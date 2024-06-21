@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803509699700277674",
+  "screen_name": "bentenwoodring",
+  "bookmarks": 1,
+  "favorites": 2,
+  "created_at": "Wed Jun 19 19:26:34 +0000 2024",
+  "text": "update #1 for https://t.co/UwYoeB85T3\n\ncc @_buildspace @_nightsweekends https://t.co/ctPq2ixFTc",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803509699700277674",
+  "retweets": 0,
+  "views": "732",
+  "user_info": {
+    "screen_name": "bentenwoodring",
+    "name": "Benten",
+    "description": "Sr Web Designer @bunsenstudio\nFeatured by Fast Company, Webflow \n\nBuilding\n→ @nooon_studio\n→ @footrdesign\n→ https://t.co/V2EajHQeI9\n→ https://t.co/5btYa8rzIK",
+    "rest_id": "752585626302574592",
+    "followers_count": 7320,
+    "favourites_count": 17120,
+    "avatar": "https://pbs.twimg.com/profile_images/1747089832277315584/Sj18tT6__normal.jpg",
+    "verified": false,
+    "friends_count": 342
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQdaZxhXsAA4izJ.png",
+        "id": "1803509574621704192"
+      }
+    ]
+  }
+}

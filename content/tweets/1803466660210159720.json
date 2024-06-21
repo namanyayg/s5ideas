@@ -1,0 +1,42 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803466660210159720",
+  "screen_name": "PRE_BENJI",
+  "bookmarks": 0,
+  "favorites": 1,
+  "created_at": "Wed Jun 19 16:35:33 +0000 2024",
+  "text": "Day one \nBringing an idea to life.\nCc @_buildspace @_nightsweekends https://t.co/aqGFwdI5CF",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803466660210159720",
+  "retweets": 0,
+  "views": "23",
+  "user_info": {
+    "screen_name": "PRE_BENJI",
+    "name": "Franklin",
+    "description": "Startup tech founder.\nWorking a project at  gaudmire @_buildspace",
+    "rest_id": "1784339654487027712",
+    "followers_count": 9,
+    "favourites_count": 9,
+    "avatar": "https://pbs.twimg.com/profile_images/1784340037603135488/LIzFPSxH_normal.jpg",
+    "verified": false,
+    "friends_count": 38
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQczWy-WkAA6LNn.jpg",
+        "id": "1803466642518609920"
+      }
+    ]
+  },
+  "place": {
+    "country": "Uganda",
+    "country_code": "UG",
+    "name": "Kampala",
+    "full_name": "Kampala, Uganda",
+    "place_type": "admin",
+    "more_data_url": "https://api.twitter.com/1.1/geo/id/000c69ad123213a8.json"
+  }
+}

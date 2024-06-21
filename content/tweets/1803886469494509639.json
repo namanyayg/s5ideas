@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803886469494509639",
+  "screen_name": "rockbison__ot7",
+  "bookmarks": 0,
+  "favorites": 2,
+  "created_at": "Thu Jun 20 20:23:43 +0000 2024",
+  "text": "made some changes with the previous one-liner, what are y'all's thoughts on this? \n\ncc: @_buildspace @_nightsweekends https://t.co/eOp2RPuTml",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 2,
+  "conversation_id": "1803886469494509639",
+  "retweets": 0,
+  "views": "55",
+  "user_info": {
+    "screen_name": "rockbison__ot7",
+    "name": "Rockbison.ot⁷",
+    "description": "⟭⟬ 지나가 🐳\n💗💛💙",
+    "rest_id": "1139915608391184390",
+    "followers_count": 309,
+    "favourites_count": 180555,
+    "avatar": "https://pbs.twimg.com/profile_images/1479898764663947266/cb_gkHMh_normal.jpg",
+    "verified": false,
+    "friends_count": 698
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQixKBEbcAAX6Eu.jpg",
+        "id": "1803886436405702656"
+      }
+    ]
+  }
+}

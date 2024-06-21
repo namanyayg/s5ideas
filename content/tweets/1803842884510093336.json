@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803842884510093336",
+  "screen_name": "makeitmania",
+  "bookmarks": 0,
+  "favorites": 24,
+  "created_at": "Thu Jun 20 17:30:32 +0000 2024",
+  "text": "time to share my idea for s5! 👀\n\nthoughts? 🙏\n\ni enjoy being roasted btw, feel free 😂\n\ncc @_buildspace @_nightsweekends https://t.co/oB6iteyi72",
+  "lang": "en",
+  "quotes": 2,
+  "replies": 10,
+  "conversation_id": "1803842884510093336",
+  "retweets": 0,
+  "views": "617",
+  "user_info": {
+    "screen_name": "makeitmania",
+    "name": "Adil Mania.",
+    "description": "27. building #StoryX. s5 @_buildspace. 💚 🇫🇷 🇲🇦",
+    "rest_id": "1652815265741037570",
+    "followers_count": 464,
+    "favourites_count": 4980,
+    "avatar": "https://pbs.twimg.com/profile_images/1774544227369730048/H61Lkx5J_normal.jpg",
+    "verified": false,
+    "friends_count": 1198
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQiJP7_WIAAI3jx.jpg",
+        "id": "1803842557656309760"
+      }
+    ]
+  }
+}

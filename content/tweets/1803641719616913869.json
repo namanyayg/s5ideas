@@ -1,0 +1,42 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803641719616913869",
+  "screen_name": "paa_asamoah1",
+  "bookmarks": 0,
+  "favorites": 3,
+  "created_at": "Thu Jun 20 04:11:10 +0000 2024",
+  "text": "Midnight project….. day 2 \n\nCc: @_buildspace https://t.co/3iOZuiqetJ",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803641719616913869",
+  "retweets": 0,
+  "views": "44",
+  "user_info": {
+    "screen_name": "paa_asamoah1",
+    "name": "Paa Kwesi Asamoah🥷",
+    "description": "Becoming the needed change in the creative industry... I'm basically a creative director 🙄 what's this⤵️ oh it's my podcast link Check it out it's prolly fun",
+    "rest_id": "1595183869841612802",
+    "followers_count": 238,
+    "favourites_count": 679,
+    "avatar": "https://pbs.twimg.com/profile_images/1791434328318107648/dsIphrb4_normal.jpg",
+    "verified": false,
+    "friends_count": 809
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQfSh6OWYAA_pp6.jpg",
+        "id": "1803641655792132096"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQfSh6PWIAAYVqC.jpg",
+        "id": "1803641655796310016"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQfSh6PXAAAu5kM.jpg",
+        "id": "1803641655796367360"
+      }
+    ]
+  }
+}

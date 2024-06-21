@@ -1,0 +1,62 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803866829720522947",
+  "screen_name": "sunosuporno",
+  "bookmarks": 0,
+  "favorites": 3,
+  "created_at": "Thu Jun 20 19:05:41 +0000 2024",
+  "text": "Update one. Done.\n\ncheck out my idea (if you're a dev, it should sound quite interesting): https://t.co/7MaGWUmMer\n\n@_buildspace @_nightsweekends https://t.co/xvlvmNl900",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803866829720522947",
+  "retweets": 0,
+  "views": "54",
+  "user_info": {
+    "screen_name": "sunosuporno",
+    "name": "Suporno",
+    "description": "Blockchain developer with ai/ml interest\n\n@_nightsweekends S5",
+    "rest_id": "1296143582449950720",
+    "followers_count": 170,
+    "favourites_count": 15444,
+    "avatar": "https://pbs.twimg.com/profile_images/1800427617616834560/gHr-t1IB_normal.jpg",
+    "verified": false,
+    "friends_count": 619
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQie7bYWkAA4Q1m.png",
+        "id": "1803866394561253376"
+      }
+    ]
+  },
+  "quoted": {
+    "tweet_id": "1803805867474587838",
+    "bookmarks": 1,
+    "created_at": "Thu Jun 20 15:03:26 +0000 2024",
+    "favorites": 11,
+    "text": "friends at @_buildspace, after much thought, i present my idea for @_nightsweekends s5 - NeuralType! \n⌨️ 🔜 🗑️\ni know i am late but hopefully not too late feedback lol. would appreciate all types of advice and ideas!\n\ncc @FarzaTV @tair @stavanpatel @alec_dilanchian https://t.co/2p8wL0vyav",
+    "lang": "en",
+    "views": "303",
+    "quotes": 1,
+    "replies": 8,
+    "retweets": 0,
+    "conversation_id": "1803805867474587838",
+    "author": {
+      "rest_id": "1296143582449950720",
+      "name": "Suporno",
+      "screen_name": "sunosuporno",
+      "avatar": "https://pbs.twimg.com/profile_images/1800427617616834560/gHr-t1IB_normal.jpg",
+      "blue_verified": false
+    },
+    "media": {
+      "photo": [
+        {
+          "media_url_https": "https://pbs.twimg.com/media/GQhjXr1XMAE3-Cg.png",
+          "id": "1803800909316567041"
+        }
+      ]
+    }
+  }
+}

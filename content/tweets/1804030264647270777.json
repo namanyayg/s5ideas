@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1804030264647270777",
+  "screen_name": "boogiekekhakay_",
+  "bookmarks": 0,
+  "favorites": 3,
+  "created_at": "Fri Jun 21 05:55:07 +0000 2024",
+  "text": "Here we go!! Super pumped for what is coming next!! @broken_comics \n\ncc @_buildspace @_nightsweekends https://t.co/5LjkWas5ch",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1804030264647270777",
+  "retweets": 0,
+  "views": "27",
+  "user_info": {
+    "screen_name": "boogiekekhakay_",
+    "name": "Abdul Moiz",
+    "description": "ya boi",
+    "rest_id": "1310303717904863232",
+    "followers_count": 18,
+    "favourites_count": 299,
+    "avatar": "https://pbs.twimg.com/profile_images/1310304029784842241/tADHzhhV_normal.jpg",
+    "verified": false,
+    "friends_count": 25
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQkz0BkbAAAH7vk.jpg",
+        "id": "1804030094606008320"
+      }
+    ]
+  }
+}

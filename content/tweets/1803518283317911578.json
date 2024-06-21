@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803518283317911578",
+  "screen_name": "DeetSchoe",
+  "bookmarks": 2,
+  "favorites": 17,
+  "created_at": "Wed Jun 19 20:00:41 +0000 2024",
+  "text": "Kōdan\nedit videos with your voice using ai. Upload clips, voice your vision, and let AI edit your video for you from the Kōdan app on your phone.  Nights &amp; Weekends project (concept stage rn) \n\n@thomas_hacks\n\n https://t.co/m9Mv13kZZK #buildspace #buildspaces5 @_buildspace https://t.co/G1rxIgIpze",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 14,
+  "conversation_id": "1803518283317911578",
+  "retweets": 0,
+  "views": "342",
+  "user_info": {
+    "screen_name": "DeetSchoe",
+    "name": "Deet",
+    "description": "19 / XR @bldgserenidad / Filming @hackclub",
+    "rest_id": "2974285970",
+    "followers_count": 313,
+    "favourites_count": 904,
+    "avatar": "https://pbs.twimg.com/profile_images/1787608277720743936/xIwFG209_normal.jpg",
+    "verified": false,
+    "friends_count": 295
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQdiTIMXUAA41IZ.jpg",
+        "id": "1803518256541552640"
+      }
+    ]
+  }
+}

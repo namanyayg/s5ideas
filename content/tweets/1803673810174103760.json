@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803673810174103760",
+  "screen_name": "blakssh",
+  "bookmarks": 0,
+  "favorites": 2,
+  "created_at": "Thu Jun 20 06:18:41 +0000 2024",
+  "text": "update #1 submitted fk yea!\n@_nightsweekends @_buildspace https://t.co/udQ0MaL0JN",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803673810174103760",
+  "retweets": 0,
+  "views": "48",
+  "user_info": {
+    "screen_name": "blakssh",
+    "name": "lakshay bhushan",
+    "description": "CS @IIITDelhi | XR Enthusiast | Undergrad Researcher | everald @_nightsweekends",
+    "rest_id": "1157309597771677696",
+    "followers_count": 26,
+    "favourites_count": 239,
+    "avatar": "https://pbs.twimg.com/profile_images/1772336222112792576/5X4OPM3l_normal.jpg",
+    "verified": false,
+    "friends_count": 125
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQfvb07aIAEHP3V.png",
+        "id": "1803673437128499201"
+      }
+    ]
+  }
+}

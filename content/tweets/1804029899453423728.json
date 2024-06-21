@@ -1,0 +1,55 @@
+{
+  "type": "tweet",
+  "tweet_id": "1804029899453423728",
+  "screen_name": "_jzaleta",
+  "bookmarks": 0,
+  "favorites": 3,
+  "created_at": "Fri Jun 21 05:53:39 +0000 2024",
+  "text": "Day 5/42 of my @_buildspace n&amp;w s5 journey.    \n\nToday I watched the new lab lecture and finally did my project idea slide and one-liner like I promised.  🫡✨\n\ncc: @_nightsweekends @FarzaTV https://t.co/pnIxTaLIP1",
+  "lang": "en",
+  "quotes": 1,
+  "replies": 3,
+  "conversation_id": "1804029899453423728",
+  "retweets": 0,
+  "views": "58",
+  "user_info": {
+    "screen_name": "_jzaleta",
+    "name": "Javi 🔭",
+    "description": "{\\infty} y/o med undergrad & biomed nerd • software/ml eng @ stealth • maker of things  • photographer • sci-fi bookworm • alterok @_buildspace • prev @hackclub",
+    "rest_id": "1792016782418747393",
+    "followers_count": 8,
+    "favourites_count": 91,
+    "avatar": "https://pbs.twimg.com/profile_images/1799279789649321984/XQ5krB2e_normal.jpg",
+    "verified": false,
+    "friends_count": 177
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQkzkTSakAI2gyJ.jpg",
+        "id": "1804029824484413442"
+      }
+    ]
+  },
+  "quoted": {
+    "tweet_id": "1803668724068872247",
+    "bookmarks": 0,
+    "created_at": "Thu Jun 20 05:58:29 +0000 2024",
+    "favorites": 1,
+    "text": "Day 4/42 of my @_buildspace n&amp;w s5 journey.\n\n- No update today, I started  to write my one-liner and idea slide tho 😭\n- Will be back tomorrow fr 🫡✨",
+    "lang": "en",
+    "views": "77",
+    "quotes": 1,
+    "replies": 0,
+    "retweets": 0,
+    "conversation_id": "1803668724068872247",
+    "author": {
+      "rest_id": "1792016782418747393",
+      "name": "Javi 🔭",
+      "screen_name": "_jzaleta",
+      "avatar": "https://pbs.twimg.com/profile_images/1799279789649321984/XQ5krB2e_normal.jpg",
+      "blue_verified": false
+    },
+    "media": []
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803857038541525430",
+  "screen_name": "BafnaVibhuti",
+  "bookmarks": 0,
+  "favorites": 40,
+  "created_at": "Thu Jun 20 18:26:46 +0000 2024",
+  "text": "Love the feedback system, brb after implementing it @_buildspace (it does sounds scien-cy lol) https://t.co/D9l9Ekuroz",
+  "lang": "en",
+  "quotes": 1,
+  "replies": 8,
+  "conversation_id": "1803857038541525430",
+  "retweets": 1,
+  "views": "943",
+  "user_info": {
+    "screen_name": "BafnaVibhuti",
+    "name": "vibhuti",
+    "description": "17. alum @tksworldhq | material science, energy tech & cs @1517fund | building a sodium battery bms for EVs + improving Na battery density",
+    "rest_id": "1271437110885494791",
+    "followers_count": 632,
+    "favourites_count": 6734,
+    "avatar": "https://pbs.twimg.com/profile_images/1802592996522897408/3W63sid4_normal.jpg",
+    "verified": false,
+    "friends_count": 1108
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQiWabRWwAAwFIf.jpg",
+        "id": "1803857031503200256"
+      }
+    ]
+  },
+  "quoted": {
+    "tweet_id": "1803280868326383631",
+    "bookmarks": 19,
+    "created_at": "Wed Jun 19 04:17:17 +0000 2024",
+    "favorites": 242,
+    "text": "Existing sodium batteries aren’t great for a number of reasons. Majorly because of the incomparable density of Li ones. \n\n@_buildspace So introducing…\n\nSoDense: project to improve sodium batteries within 6 weeks &amp; be on-par, if not more, than Li ones https://t.co/qJBMVbfuP5",
+    "lang": "en",
+    "views": "11100",
+    "quotes": 3,
+    "replies": 56,
+    "retweets": 4,
+    "conversation_id": "1803280868326383631",
+    "author": {
+      "rest_id": "1271437110885494791",
+      "name": "vibhuti",
+      "screen_name": "BafnaVibhuti",
+      "avatar": "https://pbs.twimg.com/profile_images/1802592996522897408/3W63sid4_normal.jpg",
+      "blue_verified": false
+    },
+    "media": {
+      "photo": [
+        {
+          "media_url_https": "https://pbs.twimg.com/media/GQaKY1JW0AExjbo.jpg",
+          "id": "1803280859996278785"
+        }
+      ]
+    }
+  }
+}

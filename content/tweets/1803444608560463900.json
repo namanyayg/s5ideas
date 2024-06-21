@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803444608560463900",
+  "screen_name": "newpareto",
+  "bookmarks": 1,
+  "favorites": 21,
+  "created_at": "Wed Jun 19 15:07:55 +0000 2024",
+  "text": "We're solving a problem we all can relate to.\n\n@_buildspace @_nightsweekends https://t.co/cCZwQF3u0h",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 19,
+  "conversation_id": "1803444608560463900",
+  "retweets": 0,
+  "views": "533",
+  "user_info": {
+    "screen_name": "newpareto",
+    "name": "Pareto",
+    "description": "Enlightened Homosapien",
+    "rest_id": "1305209269076267009",
+    "followers_count": 292,
+    "favourites_count": 948,
+    "avatar": "https://pbs.twimg.com/profile_images/1765823297890013184/OQ5ohlm0_normal.jpg",
+    "verified": false,
+    "friends_count": 490
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQcfE5zWIAAeJWi.jpg",
+        "id": "1803444344881291264"
+      }
+    ]
+  }
+}

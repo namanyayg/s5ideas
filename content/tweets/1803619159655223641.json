@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803619159655223641",
+  "screen_name": "niyonx",
+  "bookmarks": 2,
+  "favorites": 28,
+  "created_at": "Thu Jun 20 02:41:31 +0000 2024",
+  "text": "This is what I'll be working on during @_nightsweekends @_buildspace . ⚠️\n\nDuring the next 6 weeks, I'll be building and launching this chrome extension and hopefully get my first users!\n\nJoin the wait list to be notified when launched ⬇️\n\nhttps://t.co/woul4c2ObO\n\n#buildspace https://t.co/7BeyMUzBX7",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 18,
+  "conversation_id": "1803619159655223641",
+  "retweets": 0,
+  "views": "749",
+  "user_info": {
+    "screen_name": "niyonx",
+    "name": "Nigel Yong",
+    "description": "Founded a 100k MRR start up and exited with 0$ in profit.\n\nNow making it building in public!\n\nDo you use YouTube? Join TimeSkip waitlist 👇",
+    "rest_id": "3183099291",
+    "followers_count": 663,
+    "favourites_count": 2376,
+    "avatar": "https://pbs.twimg.com/profile_images/1745929918150479872/nCS-to_f_normal.jpg",
+    "verified": false,
+    "friends_count": 412
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQe90eAXwAAagq-.jpg",
+        "id": "1803618884890640384"
+      }
+    ]
+  }
+}

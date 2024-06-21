@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803794124006437360",
+  "screen_name": "LionessandEagle",
+  "bookmarks": 0,
+  "favorites": 1,
+  "created_at": "Thu Jun 20 14:16:46 +0000 2024",
+  "text": "this one is done, but I guess the next step would be to organize space around Speakjourney/ building a game as a non-tech who is interested?\n@buildspace @_nightsweekends @FarzaTV https://t.co/dRRdZbQoai",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803794124006437360",
+  "retweets": 0,
+  "views": "60",
+  "user_info": {
+    "screen_name": "LionessandEagle",
+    "name": "Eagle Victory 👽🌶 $BUBBLE",
+    "description": "Web3 content creator\nBuilding a language learning web3 Game: https://t.co/JTe3FIag00\nSubscribe to my Newsletter to follow my Adventure!",
+    "rest_id": "1551876907247042563",
+    "followers_count": 341,
+    "favourites_count": 7110,
+    "avatar": "https://pbs.twimg.com/profile_images/1714191788712296448/r34mCDgF_normal.jpg",
+    "verified": false,
+    "friends_count": 870
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQhc8rDXUAAf8F1.png",
+        "id": "1803793848180625408"
+      }
+    ]
+  }
+}

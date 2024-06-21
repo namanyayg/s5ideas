@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803564730520576325",
+  "screen_name": "SikkAnson",
+  "bookmarks": 0,
+  "favorites": 3,
+  "created_at": "Wed Jun 19 23:05:15 +0000 2024",
+  "text": "building @directr_  a place for you to begin or grow your film career. Direct'r aims to be the 'townhall' for all film creatives, empowering their careers and streamlining the complexities of the film industry to level the playing field.\n@_buildspace @_nightsweekends https://t.co/Eckgr7AJWa",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 2,
+  "conversation_id": "1803564730520576325",
+  "retweets": 1,
+  "views": "88",
+  "user_info": {
+    "screen_name": "SikkAnson",
+    "name": "sonnet818",
+    "description": "co-founder @directr_",
+    "rest_id": "700843290015338496",
+    "followers_count": 34,
+    "favourites_count": 164,
+    "avatar": "https://pbs.twimg.com/profile_images/1800944298701226013/3I_fETL-_normal.jpg",
+    "verified": false,
+    "friends_count": 17
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQeMCfUakAABR7p.jpg",
+        "id": "1803564150179926016"
+      }
+    ]
+  }
+}

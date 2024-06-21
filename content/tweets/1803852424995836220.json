@@ -1,0 +1,38 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803852424995836220",
+  "screen_name": "Jayanthsriniv13",
+  "bookmarks": 0,
+  "favorites": 1,
+  "created_at": "Thu Jun 20 18:08:26 +0000 2024",
+  "text": "Day 5 of @_nightsweekends, jwt token integration done for Metiertips... working on ios version of my sign language app tomorrow. Find the Splashscreen of Metiertips below \ncc: @_buildspace @FarzaTV https://t.co/znc87PISEe",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803852424995836220",
+  "retweets": 0,
+  "views": "19",
+  "user_info": {
+    "screen_name": "Jayanthsriniv13",
+    "name": "Jayanthsrinivasan",
+    "description": "",
+    "rest_id": "1370041707778076674",
+    "followers_count": 67,
+    "favourites_count": 962,
+    "avatar": "https://pbs.twimg.com/profile_images/1370042204094296065/DVbqLPwr_normal.jpg",
+    "verified": false,
+    "friends_count": 312
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQiSN_oXsAAvuGM.jpg",
+        "id": "1803852419878596608"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQiSN_zWQAALuIp.jpg",
+        "id": "1803852419924639744"
+      }
+    ]
+  }
+}

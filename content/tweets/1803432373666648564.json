@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803432373666648564",
+  "screen_name": "armaan23____",
+  "bookmarks": 0,
+  "favorites": 5,
+  "created_at": "Wed Jun 19 14:19:18 +0000 2024",
+  "text": "Here's my idea for @_buildspace s5 cc @_nightsweekends\n\nWhat do you think? https://t.co/Q27EsuVTIR",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 2,
+  "conversation_id": "1803432373666648564",
+  "retweets": 0,
+  "views": "43",
+  "user_info": {
+    "screen_name": "armaan23____",
+    "name": "Armaan Thakur",
+    "description": "17 | Fullstack developer | MERN Stack | DSA 🙌🏻 | Learning life🍀| Let's build cool stuff 🔧 | जय श्री कृष्ण 🦚\nhttps://t.co/cV3dqpkbab\n#100DaysOfCode",
+    "rest_id": "1587128691720851456",
+    "followers_count": 113,
+    "favourites_count": 479,
+    "avatar": "https://pbs.twimg.com/profile_images/1741341502276780032/DPWMXm4w_normal.jpg",
+    "verified": false,
+    "friends_count": 246
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQcT6NGWIAAZw5H.png",
+        "id": "1803432066454790144"
+      }
+    ]
+  }
+}

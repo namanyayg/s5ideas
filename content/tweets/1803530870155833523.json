@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803530870155833523",
+  "screen_name": "pragyam_soni",
+  "bookmarks": 0,
+  "favorites": 11,
+  "created_at": "Wed Jun 19 20:50:42 +0000 2024",
+  "text": "gearing up for @_buildspace @_nightsweekends.\nhere we go.... https://t.co/e0WflSfYUd",
+  "lang": "en",
+  "quotes": 1,
+  "replies": 5,
+  "conversation_id": "1803530870155833523",
+  "retweets": 2,
+  "views": "187",
+  "user_info": {
+    "screen_name": "pragyam_soni",
+    "name": "Pragyam Soni",
+    "description": "17 | intern @supply6official | self-taught programmer | marketer ✨\nbrewing some cool shit ⚗️| alterok @_buildspace.",
+    "rest_id": "1374024888055255043",
+    "followers_count": 254,
+    "favourites_count": 2152,
+    "avatar": "https://pbs.twimg.com/profile_images/1679952892764262406/hkffiqPd_normal.jpg",
+    "verified": false,
+    "friends_count": 1725
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQdthXkWIAECt-_.jpg",
+        "id": "1803530595814744065"
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803649869044748525",
+  "screen_name": "ogbonnasteven",
+  "bookmarks": 1,
+  "favorites": 4,
+  "created_at": "Thu Jun 20 04:43:33 +0000 2024",
+  "text": "I'm really excited about this. I've done a couple of things over the last few months, but let's make this public! \n\nCc @_buildspace @_nightsweekends https://t.co/mOnCoQffVn",
+  "lang": "en",
+  "quotes": 1,
+  "replies": 1,
+  "conversation_id": "1803649869044748525",
+  "retweets": 0,
+  "views": "115",
+  "user_info": {
+    "screen_name": "ogbonnasteven",
+    "name": "Big S.O",
+    "description": "#Product, Doing the most",
+    "rest_id": "1427965633",
+    "followers_count": 204,
+    "favourites_count": 19927,
+    "avatar": "https://pbs.twimg.com/profile_images/1492702738341408778/0RFGhVTt_normal.jpg",
+    "verified": false,
+    "friends_count": 678
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQfZ_WMWwAAxUbw.jpg",
+        "id": "1803649858097561600"
+      }
+    ]
+  }
+}

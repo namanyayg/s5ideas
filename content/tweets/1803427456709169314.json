@@ -1,0 +1,38 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803427456709169314",
+  "screen_name": "rajni2k2",
+  "bookmarks": 0,
+  "favorites": 3,
+  "created_at": "Wed Jun 19 13:59:46 +0000 2024",
+  "text": "# week - 1 is a blast\nwhat a amazing insights given by @FarzaTV on ideas especially the angry birds.\n\nNow here's my one liner of my idea.\n\ncc : @_buildspace @_nightsweekends \n\nCheckout ➡️ : https://t.co/PqFmYALDGl https://t.co/Il5qXak2ul",
+  "lang": "en",
+  "quotes": 1,
+  "replies": 0,
+  "conversation_id": "1803427456709169314",
+  "retweets": 1,
+  "views": "133",
+  "user_info": {
+    "screen_name": "rajni2k2",
+    "name": "Rajnikant dash ⚛️",
+    "description": "SDE - https://t.co/bSIUVQNOpW | ✨ #Buildinpublic @FoliofyJS | Help you with Building your web products",
+    "rest_id": "1434055245139628036",
+    "followers_count": 36,
+    "favourites_count": 2187,
+    "avatar": "https://pbs.twimg.com/profile_images/1688964395848634369/QGC4TnbK_normal.jpg",
+    "verified": false,
+    "friends_count": 109
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQcPpLPXgAAjPNc.jpg",
+        "id": "1803427375851470848"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQcPj6pWEAAjaJe.png",
+        "id": "1803427285497679872"
+      }
+    ]
+  }
+}

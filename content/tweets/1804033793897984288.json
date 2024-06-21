@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1804033793897984288",
+  "screen_name": "CuriousRabeet",
+  "bookmarks": 0,
+  "favorites": 2,
+  "created_at": "Fri Jun 21 06:09:08 +0000 2024",
+  "text": "Building this in @_buildspace s5 \n\nLFG 🚀 https://t.co/W7n1Lhw2e4",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1804033793897984288",
+  "retweets": 0,
+  "views": "26",
+  "user_info": {
+    "screen_name": "CuriousRabeet",
+    "name": "Syed Rabeet",
+    "description": "21 | Muslim | CS Student | Blockchain Dev @0x_equity  | Technical Writer | Building in Public | Sophomore student @LearnWeb3Dao | Ambassador @BlockshipDAO",
+    "rest_id": "1483810441348493314",
+    "followers_count": 414,
+    "favourites_count": 4711,
+    "avatar": "https://pbs.twimg.com/profile_images/1592048188550258688/x5BOE6F9_normal.jpg",
+    "verified": false,
+    "friends_count": 145
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQk3EOpXQAEgm1_.jpg",
+        "id": "1804033671529185281"
+      }
+    ]
+  }
+}

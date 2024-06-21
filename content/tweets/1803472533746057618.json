@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803472533746057618",
+  "screen_name": "0xAira",
+  "bookmarks": 0,
+  "favorites": 2,
+  "created_at": "Wed Jun 19 16:58:53 +0000 2024",
+  "text": "Day 1 ✅🚀\ncc: @_nightsweekends @_buildspace https://t.co/5IbDywOjVG",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803472533746057618",
+  "retweets": 0,
+  "views": "36",
+  "user_info": {
+    "screen_name": "0xAira",
+    "name": "0xAira",
+    "description": "Full Stack Developer@MERN | @_buildspace S4 | SDE Intern @ITJOBSX",
+    "rest_id": "1430878522990501889",
+    "followers_count": 368,
+    "favourites_count": 1353,
+    "avatar": "https://pbs.twimg.com/profile_images/1671765308401659905/vmUkk4Ch_normal.jpg",
+    "verified": false,
+    "friends_count": 548
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQc4nT5bkAEQR1N.jpg",
+        "id": "1803472423792381953"
+      }
+    ]
+  }
+}

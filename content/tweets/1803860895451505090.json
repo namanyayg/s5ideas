@@ -1,0 +1,38 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803860895451505090",
+  "screen_name": "Naveen_KumarV2",
+  "bookmarks": 0,
+  "favorites": 6,
+  "created_at": "Thu Jun 20 18:42:06 +0000 2024",
+  "text": "12:00am attending lab 1 for @_buildspace n&amp;w s5 and\nsubmitted my first weekly update\n\np.s. changed my profile pic to og old pic that i took before 1-2 years (Me searching for good pic)\n@PLBompard - gave a suggestion to change pic https://t.co/0OoyOM1Gn9",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 1,
+  "conversation_id": "1803860895451505090",
+  "retweets": 0,
+  "views": "66",
+  "user_info": {
+    "screen_name": "Naveen_KumarV2",
+    "name": "Naveen Kumar .V",
+    "description": "A Personal Journal of myself for the public\nGAUDMIRE - @_nightsweekends @_buildspace",
+    "rest_id": "1721431727955189760",
+    "followers_count": 9,
+    "favourites_count": 203,
+    "avatar": "https://pbs.twimg.com/profile_images/1803835976579715072/yqZfWN5V_normal.jpg",
+    "verified": false,
+    "friends_count": 11
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQiW6gPakAQ4-gB.jpg",
+        "id": "1803857582593052676"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQiW_FgakAA1xtB.png",
+        "id": "1803857661315944448"
+      }
+    ]
+  }
+}

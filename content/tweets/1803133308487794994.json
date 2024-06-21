@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803133308487794994",
+  "screen_name": "NileshAggarwa20",
+  "bookmarks": 22,
+  "favorites": 420,
+  "created_at": "Tue Jun 18 18:30:55 +0000 2024",
+  "text": "My plan for next 6 weeks\n\n@_buildspace @_nightsweekends https://t.co/oyrVrYEqK1",
+  "lang": "en",
+  "quotes": 2,
+  "replies": 201,
+  "conversation_id": "1803133308487794994",
+  "retweets": 9,
+  "views": "10850",
+  "user_info": {
+    "screen_name": "NileshAggarwa20",
+    "name": "Nilesh Aggarwal (Developer)",
+    "description": "On a mission: Build, Ship, Sell\n\nAlterok @_buildspace\n\nPresently: https://t.co/btqmW9kpRN / https://t.co/7QviuAaQXE",
+    "rest_id": "1301162541163229184",
+    "followers_count": 103,
+    "favourites_count": 1210,
+    "avatar": "https://pbs.twimg.com/profile_images/1778869462533390336/nJlH5r-7_normal.jpg",
+    "verified": false,
+    "friends_count": 164
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQYD2lKWMAAzVyT.jpg",
+        "id": "1803132937031790592"
+      }
+    ]
+  }
+}

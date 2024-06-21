@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803754799730675819",
+  "screen_name": "kr_sahil",
+  "bookmarks": 0,
+  "favorites": 3,
+  "created_at": "Thu Jun 20 11:40:31 +0000 2024",
+  "text": "head to https://t.co/eFhMjabB52,  drop review\n\n@_buildspace @_nightsweekends https://t.co/mBtuQWywV2",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 2,
+  "conversation_id": "1803754799730675819",
+  "retweets": 0,
+  "views": "65",
+  "user_info": {
+    "screen_name": "kr_sahil",
+    "name": "Sahil Kumar",
+    "description": "half developer half designer 😭",
+    "rest_id": "1267852781630578689",
+    "followers_count": 13,
+    "favourites_count": 468,
+    "avatar": "https://pbs.twimg.com/profile_images/1744758274476699648/hO4p_2fx_normal.jpg",
+    "verified": false,
+    "friends_count": 64
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQg5WWMacAAuaj7.jpg",
+        "id": "1803754706839433216"
+      }
+    ]
+  }
+}

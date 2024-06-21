@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803958702422266155",
+  "screen_name": "WilsonLimSet",
+  "bookmarks": 0,
+  "favorites": 0,
+  "created_at": "Fri Jun 21 01:10:45 +0000 2024",
+  "text": "37 days left in @_nightsweekends\n\n-  figured out google oauth2 to get a basic script to add latest podcasts to a playlist (automating what I was doing manually)  \n\ncc: @_buildspace https://t.co/0SH8I7bSH4",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803958702422266155",
+  "retweets": 0,
+  "views": "37",
+  "user_info": {
+    "screen_name": "WilsonLimSet",
+    "name": "Wilson Lim Setiawan",
+    "description": "new grad cs @USC\nbuilding blinkist for podcasts - https://t.co/V0PvE54JAE",
+    "rest_id": "1585379722564804608",
+    "followers_count": 83,
+    "favourites_count": 153,
+    "avatar": "https://pbs.twimg.com/profile_images/1746035102667386880/VXH13Ma-_normal.jpg",
+    "verified": false,
+    "friends_count": 52
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQjy4L5bsAAUBhw.png",
+        "id": "1803958697842159616"
+      }
+    ]
+  }
+}

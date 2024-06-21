@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803620013388992603",
+  "screen_name": "swanhtet1992",
+  "bookmarks": 1,
+  "favorites": 3,
+  "created_at": "Thu Jun 20 02:44:55 +0000 2024",
+  "text": "Not sure who is going to see this but here we go.\n\nImagine if you could get a mini-app/site that can engage your audience w/ personalized, interactive experiences, all generated from a single prompt without any coding.\n\nInternal testing stage atm.\n\n@_buildspace @_nightsweekends https://t.co/SnYnrO54Wu",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803620013388992603",
+  "retweets": 0,
+  "views": "60",
+  "user_info": {
+    "screen_name": "swanhtet1992",
+    "name": "Swan 💮",
+    "description": "Finite Attention. AI Engineer & CEO @ https://t.co/r6FQH25FwP // https://t.co/q9DZ4WTPGA // https://t.co/N07uE4BpMI",
+    "rest_id": "18898899",
+    "followers_count": 2076,
+    "favourites_count": 778,
+    "avatar": "https://pbs.twimg.com/profile_images/1778261053064765440/Dg5RRQCS_normal.jpg",
+    "verified": false,
+    "friends_count": 818
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQe9rdKW8AEJOM6.jpg",
+        "id": "1803618730045272065"
+      }
+    ]
+  }
+}

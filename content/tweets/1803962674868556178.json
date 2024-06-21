@@ -1,0 +1,70 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803962674868556178",
+  "screen_name": "_mv_codes",
+  "bookmarks": 0,
+  "favorites": 0,
+  "created_at": "Fri Jun 21 01:26:32 +0000 2024",
+  "text": "The reason behind why I created LazySub is this. Also, I'm building this web app while I'm at @_nightsweekends @_buildspace\ncc: @FarzaTV\n\nLet me know what you think!\n\nMusic: Swimming by Flawed Mangoes https://t.co/xG7Kmns9Js",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803962674868556178",
+  "retweets": 0,
+  "views": "29",
+  "user_info": {
+    "screen_name": "_mv_codes",
+    "name": "Marcy Villegas",
+    "description": "creator of LazySub || a software engineer that is trying to be 1% better everyday 🤓",
+    "rest_id": "1425066915542622214",
+    "followers_count": 13,
+    "favourites_count": 209,
+    "avatar": "https://pbs.twimg.com/profile_images/1803210158216208384/qtMopctf_normal.jpg",
+    "verified": false,
+    "friends_count": 22
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQj2dLAakAY3B5_.jpg",
+        "id": "1803962631793053702"
+      }
+    ],
+    "video": [
+      {
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1803962634343190530/pu/img/5XsfQS3AZUR4-yDh.jpg",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1803962634343190530/pu/pl/rFuTdCPc2WLNH8Fa.m3u8?tag=12"
+          },
+          {
+            "bitrate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1803962634343190530/pu/vid/avc1/320x320/ZTNDNs7LujUWugWr.mp4?tag=12"
+          },
+          {
+            "bitrate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1803962634343190530/pu/vid/avc1/540x540/K3rjVgye5uEDF8u1.mp4?tag=12"
+          },
+          {
+            "bitrate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1803962634343190530/pu/vid/avc1/720x720/LXzN0IPlTtcxLyUX.mp4?tag=12"
+          }
+        ],
+        "aspect_ratio": [
+          1,
+          1
+        ],
+        "original_info": {
+          "height": 720,
+          "width": 720,
+          "focus_rects": []
+        },
+        "id": "1803962634343190530"
+      }
+    ]
+  }
+}

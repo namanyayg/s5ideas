@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803660750101020763",
+  "screen_name": "c0nd0r1n3e94",
+  "bookmarks": 0,
+  "favorites": 3,
+  "created_at": "Thu Jun 20 05:26:47 +0000 2024",
+  "text": "Excited to announce the project InternHive! 🚀 We connect students with exclusive internships, send personalized notifications, and provide a starter pack to kickstart their careers. Your feedback would mean the world to us! 🌟 \ncc_ @_buildspace @_nightsweekends https://t.co/zlQ3O8wtHa",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 2,
+  "conversation_id": "1803660750101020763",
+  "retweets": 0,
+  "views": "52",
+  "user_info": {
+    "screen_name": "c0nd0r1n3e94",
+    "name": "انضمام الحق",
+    "description": "You didn’t lose the game. You just ran out of time.\n#Typescript | #Javascript | #creativedeveloper | #kerneldevelopment | #Rust #rustacean",
+    "rest_id": "974529704685330432",
+    "followers_count": 78,
+    "favourites_count": 113,
+    "avatar": "https://pbs.twimg.com/profile_images/1680670397405224960/90omkfNH_normal.jpg",
+    "verified": false,
+    "friends_count": 295
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQfi7d9W4AAdHqE.jpg",
+        "id": "1803659687067312128"
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803412789727470045",
+  "screen_name": "ChenChien26053",
+  "bookmarks": 0,
+  "favorites": 2,
+  "created_at": "Wed Jun 19 13:01:29 +0000 2024",
+  "text": "cc:-\nWeek #1 Sharing\n\n@_buildspace\n@_nightsweekends https://t.co/O65wIksZUU",
+  "lang": "in",
+  "quotes": 0,
+  "replies": 1,
+  "conversation_id": "1803412789727470045",
+  "retweets": 0,
+  "views": "37",
+  "user_info": {
+    "screen_name": "ChenChien26053",
+    "name": "Chen Chien Chih",
+    "description": "",
+    "rest_id": "1711560582586077184",
+    "followers_count": 9,
+    "favourites_count": 2,
+    "avatar": "https://pbs.twimg.com/profile_images/1803412138784088064/moVWUdFH_normal.jpg",
+    "verified": false,
+    "friends_count": 17
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQcBNKCbsAAqc0u.jpg",
+        "id": "1803411501329657856"
+      }
+    ]
+  }
+}

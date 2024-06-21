@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803847547519406108",
+  "screen_name": "mohito1906",
+  "bookmarks": 1,
+  "favorites": 4,
+  "created_at": "Thu Jun 20 17:49:03 +0000 2024",
+  "text": "hey folks, super excited for s5 of nights and weekends. do share your thoughts on my idea!\n\ncalling it brian because the dream would be to have it sound like brian from family guy \n\ncc: @_nightsweekends @_buildspace https://t.co/ga1vsOYejg",
+  "lang": "en",
+  "quotes": 1,
+  "replies": 4,
+  "conversation_id": "1803847547519406108",
+  "retweets": 0,
+  "views": "84",
+  "user_info": {
+    "screen_name": "mohito1906",
+    "name": "Mohit Motwani",
+    "description": "",
+    "rest_id": "1468263602066964480",
+    "followers_count": 9,
+    "favourites_count": 41,
+    "avatar": "https://pbs.twimg.com/profile_images/1791207367419293697/BEaW5s_e_normal.jpg",
+    "verified": false,
+    "friends_count": 218
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQiNqzKWoAAseVL.jpg",
+        "id": "1803847417189539840"
+      }
+    ]
+  }
+}

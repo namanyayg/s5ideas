@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803883929222394017",
+  "screen_name": "anv3shh",
+  "bookmarks": 0,
+  "favorites": 13,
+  "created_at": "Thu Jun 20 20:13:37 +0000 2024",
+  "text": "here's my project 'beatsmith' for @_buildspace @_nightsweekends.\nhope this helps people with easily adding background music to their videos without the thought of copyright issues.\nI will alongside learn more about deep learning, LLMs, rag and music production.  \ncc: @FarzaTV https://t.co/UHzOieqnJV",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 7,
+  "conversation_id": "1803883929222394017",
+  "retweets": 0,
+  "views": "165",
+  "user_info": {
+    "screen_name": "anv3shh",
+    "name": "Anvesh Mishra",
+    "description": "Contributor @djangoproject | Ex-Engineering @Humalect | Core Team Member @TheElixirTech",
+    "rest_id": "1140137223959932929",
+    "followers_count": 230,
+    "favourites_count": 2655,
+    "avatar": "https://pbs.twimg.com/profile_images/1794995357220519936/ZxFLW3At_normal.jpg",
+    "verified": false,
+    "friends_count": 151
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQiuiqCWAAAnETn.jpg",
+        "id": "1803883561184788480"
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1804059433506320525",
+  "screen_name": "UmeshKonduru",
+  "bookmarks": 0,
+  "favorites": 0,
+  "created_at": "Fri Jun 21 07:51:01 +0000 2024",
+  "text": "so i joined buildspace nights &amp; weekends s5 with no idea what i was going to do\n\ni've decided on starting a blog - my goal at this point is to just stick around for 6 weeks and see what happens :)\n\n@_buildspace @_nightsweekends https://t.co/NtXO9RLQhR",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 1,
+  "conversation_id": "1804059433506320525",
+  "retweets": 0,
+  "views": "25",
+  "user_info": {
+    "screen_name": "UmeshKonduru",
+    "name": "Umesh",
+    "description": "",
+    "rest_id": "1623556112791527424",
+    "followers_count": 0,
+    "favourites_count": 8,
+    "avatar": "https://pbs.twimg.com/profile_images/1623556411941863425/Soz6oInT_normal.jpg",
+    "verified": false,
+    "friends_count": 20
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQlOdHKXAAA_G6P.jpg",
+        "id": "1804059387784265728"
+      }
+    ]
+  }
+}

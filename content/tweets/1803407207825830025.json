@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803407207825830025",
+  "screen_name": "shivamhwp",
+  "bookmarks": 0,
+  "favorites": 4,
+  "created_at": "Wed Jun 19 12:39:18 +0000 2024",
+  "text": "i'm building zero in @_nightsweekends .\n\ncc @_buildspace @FarzaTV https://t.co/qvaxFLa8WI",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 4,
+  "conversation_id": "1803407207825830025",
+  "retweets": 0,
+  "views": "83",
+  "user_info": {
+    "screen_name": "shivamhwp",
+    "name": "shivam",
+    "description": "web dev. erevald @_buildspace",
+    "rest_id": "1354295246042009603",
+    "followers_count": 86,
+    "favourites_count": 1314,
+    "avatar": "https://pbs.twimg.com/profile_images/1721581809836990464/Z1zTYjDx_normal.jpg",
+    "verified": false,
+    "friends_count": 1256
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQb6_O5WAAA_YEp.jpg",
+        "id": "1803404665045778432"
+      }
+    ]
+  }
+}

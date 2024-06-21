@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803782678740873693",
+  "screen_name": "kshitijdomadia",
+  "bookmarks": 0,
+  "favorites": 0,
+  "created_at": "Thu Jun 20 13:31:17 +0000 2024",
+  "text": "we're developing an AI-hiring assistant that allows you to describe your ideal candidate, and it will find matches that meet your criteria.\n\nenter the waitlist @ https://t.co/AOLLm8IsoI 📒\n\ncc: @_nightsweekends @_buildspace @FarzaTV https://t.co/lgGT65l4bD",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803782678740873693",
+  "retweets": 0,
+  "views": "38",
+  "user_info": {
+    "screen_name": "kshitijdomadia",
+    "name": "Kshitij Domadia",
+    "description": "I eat blockchains for breakfast",
+    "rest_id": "360570590",
+    "followers_count": 271,
+    "favourites_count": 110,
+    "avatar": "https://pbs.twimg.com/profile_images/1391123216085700608/DgS859no_normal.jpg",
+    "verified": false,
+    "friends_count": 390
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQhSFZkaYAACSCA.jpg",
+        "id": "1803781903478317056"
+      }
+    ]
+  }
+}

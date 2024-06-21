@@ -1,0 +1,38 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803752147269358033",
+  "screen_name": "valentinrudlof1",
+  "bookmarks": 0,
+  "favorites": 5,
+  "created_at": "Thu Jun 20 11:29:58 +0000 2024",
+  "text": "It’s interesting to observe the difference in language used on X and LinkedIn for @_buildspace \n\n\"cool shit\" on X\n\"cool stuff\" on Linkedin https://t.co/NxksBUK7od",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 2,
+  "conversation_id": "1803752147269358033",
+  "retweets": 0,
+  "views": "426",
+  "user_info": {
+    "screen_name": "valentinrudlof1",
+    "name": "Valentin Rudloff",
+    "description": "French 🇫🇷 engineer based in Paris, committed to developing exceptional tools to enhance the productivity 🚀 of other engineers.\nCurrently building https://t.co/QVUetKCo1v",
+    "rest_id": "1504572397491474441",
+    "followers_count": 69,
+    "favourites_count": 115,
+    "avatar": "https://pbs.twimg.com/profile_images/1789743293275774976/9avsXvVB_normal.jpg",
+    "verified": false,
+    "friends_count": 94
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQg2uESW0AARV0h.png",
+        "id": "1803751815814500352"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQg21WNXYAAP7UK.png",
+        "id": "1803751940884488192"
+      }
+    ]
+  }
+}

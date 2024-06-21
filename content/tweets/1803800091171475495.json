@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803800091171475495",
+  "screen_name": "sequoiabeats_",
+  "bookmarks": 0,
+  "favorites": 1,
+  "created_at": "Thu Jun 20 14:40:29 +0000 2024",
+  "text": "I wanted to make it more direct and simple. \n\ncc @_buildspace @_nightsweekends https://t.co/PhIUz9rVaw",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 1,
+  "conversation_id": "1803800091171475495",
+  "retweets": 0,
+  "views": "41",
+  "user_info": {
+    "screen_name": "sequoiabeats_",
+    "name": "Sequoia",
+    "description": "Non-fungible human",
+    "rest_id": "1273278344423829505",
+    "followers_count": 62,
+    "favourites_count": 476,
+    "avatar": "https://pbs.twimg.com/profile_images/1803128255198695424/9vbmWDVv_normal.jpg",
+    "verified": false,
+    "friends_count": 106
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQhin2_XYAAieWx.jpg",
+        "id": "1803800087677591552"
+      }
+    ]
+  }
+}

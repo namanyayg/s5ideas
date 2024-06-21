@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1804026910596342176",
+  "screen_name": "iam_hasan_raja",
+  "bookmarks": 1,
+  "favorites": 2,
+  "created_at": "Fri Jun 21 05:41:47 +0000 2024",
+  "text": "the journey begins with a first step 🔥 \nhave you taken yours with @_buildspace &amp; @_nightsweekends?\n if so, give me a 🙌 let's celebrate those small victories together! https://t.co/rQRLxEs4nu",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1804026910596342176",
+  "retweets": 0,
+  "views": "46",
+  "user_info": {
+    "screen_name": "iam_hasan_raja",
+    "name": "iam.hasan_raja",
+    "description": "🦀 Rustacean | Seasoned in JavaScript & Java | Embracing the Rustacean journey 🚀 | Let's code for a better tomorrow!🌎🇮🇳",
+    "rest_id": "1676936982738644995",
+    "followers_count": 34,
+    "favourites_count": 983,
+    "avatar": "https://pbs.twimg.com/profile_images/1676937333722193920/qSuNDtVM_normal.jpg",
+    "verified": false,
+    "friends_count": 328
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQkw6iHakAUmNeF.jpg",
+        "id": "1804026907887046661"
+      }
+    ]
+  }
+}

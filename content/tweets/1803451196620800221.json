@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803451196620800221",
+  "screen_name": "andersbragee",
+  "bookmarks": 1,
+  "favorites": 4,
+  "created_at": "Wed Jun 19 15:34:06 +0000 2024",
+  "text": "My nights&amp;weekends project\n\n@_nightsweekends https://t.co/xQoQ3xpkRn",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 2,
+  "conversation_id": "1803451196620800221",
+  "retweets": 0,
+  "views": "91",
+  "user_info": {
+    "screen_name": "andersbragee",
+    "name": "Anders @ Fika.design",
+    "description": "I help scale your startup through web design & branding → https://t.co/KysJkN7QhP",
+    "rest_id": "1701499729941520384",
+    "followers_count": 68,
+    "favourites_count": 692,
+    "avatar": "https://pbs.twimg.com/profile_images/1701499767187009536/9RzC0vPZ_normal.jpg",
+    "verified": false,
+    "friends_count": 86
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQclTXFWYAEif5M.jpg",
+        "id": "1803451190329368577"
+      }
+    ]
+  }
+}

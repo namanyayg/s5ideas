@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803424522353467834",
+  "screen_name": "M_TomorrowLab",
+  "bookmarks": 1,
+  "favorites": 9,
+  "created_at": "Wed Jun 19 13:48:06 +0000 2024",
+  "text": "it's a no brainer\n\nimagine you 5x your potential customers\n\ncare to know more about it?\n\ncc: @FarzaTV @_nightsweekends @_buildspace",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803424522353467834",
+  "retweets": 0,
+  "views": "172",
+  "user_info": {
+    "screen_name": "M_TomorrowLab",
+    "name": "Matt | TomorrowLab",
+    "description": "Scaling TomorrowLab | No BS - real sh*t| Daily progress 🔝",
+    "rest_id": "1792518507487215616",
+    "followers_count": 230,
+    "favourites_count": 667,
+    "avatar": "https://pbs.twimg.com/profile_images/1792524927863562240/QjJUF9fO_normal.jpg",
+    "verified": false,
+    "friends_count": 563
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQcLTDAWkAAi5gc.jpg",
+        "id": "1803422597637378048"
+      }
+    ]
+  }
+}

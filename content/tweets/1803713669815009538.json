@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803713669815009538",
+  "screen_name": "ShaikMohdHuzaif",
+  "bookmarks": 0,
+  "favorites": 2,
+  "created_at": "Thu Jun 20 08:57:04 +0000 2024",
+  "text": "Get ready for amazing innovation that will elevate freelancing to new heights with Wizards AI!\n\nWorking with @_buildspace on @_nightsweekends \n\nStay tuned for updates. https://t.co/Cf9EemEVxC",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 2,
+  "conversation_id": "1803713669815009538",
+  "retweets": 0,
+  "views": "58",
+  "user_info": {
+    "screen_name": "ShaikMohdHuzaif",
+    "name": "Shaik Mohd Huzaifa 🐱‍💻",
+    "description": "Frontend Developer | Curious about new tech & outer space | Loves to write tech blogs & curious tweets | Lifelong learner | Rocket science enthusiast 🚀🌟",
+    "rest_id": "1384079018643759110",
+    "followers_count": 26,
+    "favourites_count": 1635,
+    "avatar": "https://pbs.twimg.com/profile_images/1583468201416921089/YzO5NjnY_normal.jpg",
+    "verified": false,
+    "friends_count": 136
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQgSsZqW4AAKfr4.jpg",
+        "id": "1803712204773974016"
+      }
+    ]
+  }
+}

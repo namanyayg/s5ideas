@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803421519873450272",
+  "screen_name": "itsrpatel",
+  "bookmarks": 0,
+  "favorites": 3,
+  "created_at": "Wed Jun 19 13:36:10 +0000 2024",
+  "text": "Got a Rejection mail from @ycombinator startup 🥲.\n\nNo problem. I will continue learning and applying.\n\nI am working on my Idea for @_buildspace . \n\nanyone here... https://t.co/0s5QKzp33Y",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803421519873450272",
+  "retweets": 0,
+  "views": "154",
+  "user_info": {
+    "screen_name": "itsrpatel",
+    "name": "Rajendra Patel",
+    "description": "Creating my own Alexa called KALI 🤖 | Full stack developer 👩‍💻| Freelancer | Startup Enthusiast and a Solo traveler 🧳",
+    "rest_id": "1626583512131440649",
+    "followers_count": 160,
+    "favourites_count": 1583,
+    "avatar": "https://pbs.twimg.com/profile_images/1799668068685373440/26QgqUfB_normal.jpg",
+    "verified": false,
+    "friends_count": 160
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQcJzelaIAQF3Lw.jpg",
+        "id": "1803420955773116420"
+      }
+    ]
+  }
+}

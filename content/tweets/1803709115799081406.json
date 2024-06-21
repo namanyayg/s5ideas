@@ -1,0 +1,38 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803709115799081406",
+  "screen_name": "mark_01010011",
+  "bookmarks": 0,
+  "favorites": 2,
+  "created_at": "Thu Jun 20 08:38:59 +0000 2024",
+  "text": "Got into Buildspace Nights &amp; Weekends S5 (Spectreseek)\n\nSo in the next 6 weeks, I'm building a small autonomous car for food delivery.\n\n@_buildspace @_nightsweekends https://t.co/3rTal556wU",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 2,
+  "conversation_id": "1803709115799081406",
+  "retweets": 0,
+  "views": "68",
+  "user_info": {
+    "screen_name": "mark_01010011",
+    "name": "Mark Leupold",
+    "description": "",
+    "rest_id": "1643327774264811524",
+    "followers_count": 35,
+    "favourites_count": 60,
+    "avatar": "https://pbs.twimg.com/profile_images/1801986795787186176/LqC9L13O_normal.jpg",
+    "verified": false,
+    "friends_count": 30
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQgP36aXUAEN_n3.jpg",
+        "id": "1803709104008941569"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQgP36bWQAA_SrP.jpg",
+        "id": "1803709104013066240"
+      }
+    ]
+  }
+}

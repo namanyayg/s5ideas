@@ -1,0 +1,38 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803998105970577677",
+  "screen_name": "DuckyStamp",
+  "bookmarks": 0,
+  "favorites": 1,
+  "created_at": "Fri Jun 21 03:47:19 +0000 2024",
+  "text": "Week 1 @_nightsweekends \n\nThis week was productive to say the least. Feeling really energized 💪\n\nRecap:\n- worked on the user flow and finalizing the features of Chamingle\n- will get started on weekly update #1 really soon\n\nCan't wait for week 2!\n\ncc: @_buildspace https://t.co/4tehxfcpog",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803998105970577677",
+  "retweets": 0,
+  "views": "21",
+  "user_info": {
+    "screen_name": "DuckyStamp",
+    "name": "Ducky Stamp",
+    "description": "16-year-old entrepreneur building a social media startup",
+    "rest_id": "1663781787653537792",
+    "followers_count": 12,
+    "favourites_count": 21,
+    "avatar": "https://pbs.twimg.com/profile_images/1663781907505741824/QGWg-2aF_normal.jpg",
+    "verified": false,
+    "friends_count": 11
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQkWt1PaMAAQMvc.jpg",
+        "id": "1803998102380228608"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQkWt4RbIAACKru.jpg",
+        "id": "1803998103193985024"
+      }
+    ]
+  }
+}

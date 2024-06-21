@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803540230395371562",
+  "screen_name": "KautaMavin",
+  "bookmarks": 0,
+  "favorites": 2,
+  "created_at": "Wed Jun 19 21:27:53 +0000 2024",
+  "text": "marco,a project  I'm developing in my nights and weekends. its all about event discovery on WhatsApp . With Marco, you can effortlessly discover, manage, and engage with events. Stay tuned for more updates \n@_nightsweekends https://t.co/l2Icvm8qCh",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803540230395371562",
+  "retweets": 0,
+  "views": "56",
+  "user_info": {
+    "screen_name": "KautaMavin",
+    "name": "Kauta Marvin",
+    "description": "Developer",
+    "rest_id": "1427019466026725379",
+    "followers_count": 32,
+    "favourites_count": 86,
+    "avatar": "https://pbs.twimg.com/profile_images/1648218733775577089/wa6Fl9E8_normal.jpg",
+    "verified": false,
+    "friends_count": 214
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQd12c2XwAA8XQ-.jpg",
+        "id": "1803539754102800384"
+      }
+    ]
+  }
+}

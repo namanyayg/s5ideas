@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803910714656198832",
+  "screen_name": "ChiragA74055190",
+  "bookmarks": 0,
+  "favorites": 3,
+  "created_at": "Thu Jun 20 22:00:04 +0000 2024",
+  "text": "Just joined Twitter! Kicked off my journey here after an amazing start with the S5 N&amp;W program at @_buildspace. Better late than never, right? Ready to share and connect! #NewToTwitter #AcceptedS5 #buildspace #nightsandweekends https://t.co/frwhkksfs3",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803910714656198832",
+  "retweets": 0,
+  "views": "43",
+  "user_info": {
+    "screen_name": "ChiragA74055190",
+    "name": "Chirag Agarwal",
+    "description": "Prefinal year engineering student at VIT-AP\nBuildspace s5 N&W | Guadmire 🟨",
+    "rest_id": "1522095751798525955",
+    "followers_count": 0,
+    "favourites_count": 2,
+    "avatar": "https://pbs.twimg.com/profile_images/1803907664461860868/fdvFEeyu_normal.jpg",
+    "verified": false,
+    "friends_count": 16
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQjHPC7aMAAtSaV.jpg",
+        "id": "1803910712059899904"
+      }
+    ]
+  }
+}

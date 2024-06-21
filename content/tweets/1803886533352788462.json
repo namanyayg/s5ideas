@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803886533352788462",
+  "screen_name": "DhyeyHk",
+  "bookmarks": 0,
+  "favorites": 3,
+  "created_at": "Thu Jun 20 20:23:58 +0000 2024",
+  "text": "my idea for n&amp;w\n\nyou can share everything you came across internet to mindme and it remember that, mindme will generate tags (using ai, text and image classification) that will help you find it even if you don't remember exact thing.\n\ncc : @_buildspace  @_nightsweekends https://t.co/xkfRwFkYNE",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 3,
+  "conversation_id": "1803886533352788462",
+  "retweets": 0,
+  "views": "65",
+  "user_info": {
+    "screen_name": "DhyeyHk",
+    "name": "DhyeyK",
+    "description": "I write for computers.",
+    "rest_id": "1259234685303037952",
+    "followers_count": 16,
+    "favourites_count": 206,
+    "avatar": "https://pbs.twimg.com/profile_images/1681226977821491200/Ctm_4Uj-_normal.jpg",
+    "verified": false,
+    "friends_count": 154
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQixOpYWIAQF5T0.jpg",
+        "id": "1803886515946135556"
+      }
+    ]
+  }
+}

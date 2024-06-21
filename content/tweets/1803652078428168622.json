@@ -1,0 +1,38 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803652078428168622",
+  "screen_name": "NileshArnaiya",
+  "bookmarks": 0,
+  "favorites": 3,
+  "created_at": "Thu Jun 20 04:52:20 +0000 2024",
+  "text": "Day 5 of @_buildspace learnt something new today about selling. \nI put out an invitation form for my AI learning tool and here are the results. \nmatches with a video from buildspace on selling. \n@FarzaTV is speaking facts.\nPS: can I get more signups, please help? Links⬇️ https://t.co/lWgohQxC6F",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 1,
+  "conversation_id": "1803652078428168622",
+  "retweets": 0,
+  "views": "119",
+  "user_info": {
+    "screen_name": "NileshArnaiya",
+    "name": "Nilesh Arnaiya @Buildspace s5",
+    "description": "in spectreseek - buildspace s5, Rize '24\nLOVE AI + ART + Education combination. \nPro Sneezer\nAndroid & ML developer. \nMentoring at Mentorcruise.",
+    "rest_id": "989860160616189952",
+    "followers_count": 218,
+    "favourites_count": 6369,
+    "avatar": "https://pbs.twimg.com/profile_images/1589352238677458944/TDiup5Og_normal.jpg",
+    "verified": false,
+    "friends_count": 1146
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQfab4VaIAEOjWO.jpg",
+        "id": "1803650348298674177"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQfa1gIaQAA2oU2.jpg",
+        "id": "1803650788478304256"
+      }
+    ]
+  }
+}

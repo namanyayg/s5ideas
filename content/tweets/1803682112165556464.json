@@ -1,0 +1,62 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803682112165556464",
+  "screen_name": "cashcowlabs",
+  "bookmarks": 1,
+  "favorites": 3,
+  "created_at": "Thu Jun 20 06:51:40 +0000 2024",
+  "text": "Building Flüff (AI Marketeer)\n\nWe’re getting prepared to build Flüff @_buildspace, Flüff will not only strategise your Marketing Funnel, but will also execute your marketing plan for you.\n\nSimply put, it’s an AI that can increase the execution rate of your marketing department by 10x.\n\nThis next 6 weeks we’ll be focusing on getting a toy version of the product done, eventually iterating the product rapidly.\n\nMaybe eventually get some people to use Flüff and help improving it over a period of time.\n\nLooking forward to @_nightsweekends & meeting some cool people with cool ideas. 🙄",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803682112165556464",
+  "retweets": 0,
+  "views": "94",
+  "user_info": {
+    "screen_name": "cashcowlabs",
+    "name": "The Cash Cow 🐮",
+    "description": "Building Products & Helping Businesses make more PROFIT organically with AI-powered SEO v3.0 | (Platform coming soon)",
+    "rest_id": "1738140855280496640",
+    "followers_count": 108,
+    "favourites_count": 936,
+    "avatar": "https://pbs.twimg.com/profile_images/1739686132428795904/e5nvVG0O_normal.jpg",
+    "verified": false,
+    "friends_count": 86
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQf3TMraIAA6sTG.jpg",
+        "id": "1803682084978040832"
+      }
+    ]
+  },
+  "quoted": {
+    "tweet_id": "1803677446149132383",
+    "bookmarks": 1,
+    "created_at": "Thu Jun 20 06:33:08 +0000 2024",
+    "favorites": 5,
+    "text": "@_nightsweekends s5 kicks off &amp; it feels so aligned fr\n\nIt’s month 3 at @cashcowlabs and the we’re on $15k &amp; trying to scale.\n\ni want to build an ai saas that can take marketing decisions &amp; execute it on your behalf.\n\nFeel free to give feedback, connect &amp; chillout 🤘🏻 https://t.co/NhedrqQbTa",
+    "lang": "en",
+    "views": "230",
+    "quotes": 1,
+    "replies": 2,
+    "retweets": 0,
+    "conversation_id": "1803677446149132383",
+    "author": {
+      "rest_id": "1383719953648418819",
+      "name": "Agniva Mahata - e/acc",
+      "screen_name": "mragniva",
+      "avatar": "https://pbs.twimg.com/profile_images/1779545511022010368/uRvjSQqu_normal.jpg",
+      "blue_verified": true
+    },
+    "media": {
+      "photo": [
+        {
+          "media_url_https": "https://pbs.twimg.com/media/GQfzEdxbAAAgvb2.jpg",
+          "id": "1803677433822117888"
+        }
+      ]
+    }
+  }
+}

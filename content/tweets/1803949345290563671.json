@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803949345290563671",
+  "screen_name": "_worldsinmyhead",
+  "bookmarks": 0,
+  "favorites": 0,
+  "created_at": "Fri Jun 21 00:33:34 +0000 2024",
+  "text": "This graphic is something you already had drilled into you all through school.  It is also the guiding light of my early childhood picture book filled with animal friends and light toilet humor (cauz little kids). Hey, @_buildspace : project video tomorrow! https://t.co/THZNMbUzMK",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803949345290563671",
+  "retweets": 0,
+  "views": "37",
+  "user_info": {
+    "screen_name": "_worldsinmyhead",
+    "name": "Zachary Childress",
+    "description": "Security Researcher | Game Developer | I'm writing Moonboogers in Guadmire via https://t.co/DBl7rBIoc2| https://t.co/X9IqxNwPOG (sites in dev/up by s5 w6)",
+    "rest_id": "1735373371943026688",
+    "followers_count": 120,
+    "favourites_count": 41,
+    "avatar": "https://pbs.twimg.com/profile_images/1803312637746327552/wZUoWs-3_normal.jpg",
+    "verified": false,
+    "friends_count": 138
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQjpxmGWAAA5JJV.png",
+        "id": "1803948689011900416"
+      }
+    ]
+  }
+}

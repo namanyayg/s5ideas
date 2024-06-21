@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803976034707968217",
+  "screen_name": "AkshatShah_05",
+  "bookmarks": 0,
+  "favorites": 2,
+  "created_at": "Fri Jun 21 02:19:37 +0000 2024",
+  "text": "I've been spending too much time staring at my fridge, having no clue what to make. Lets fix that with Fridge Whiz!\n\n@_buildspace\n@_nightsweekends \n@FarzaTV https://t.co/LFXTMrC0o3",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803976034707968217",
+  "retweets": 0,
+  "views": "19",
+  "user_info": {
+    "screen_name": "AkshatShah_05",
+    "name": "Akshat Shah",
+    "description": "",
+    "rest_id": "1657230170808254465",
+    "followers_count": 1,
+    "favourites_count": 1,
+    "avatar": "https://pbs.twimg.com/profile_images/1657230359338049536/Q2YmOkGA_normal.png",
+    "verified": false,
+    "friends_count": 134
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQkCoOWXsAArOEV.jpg",
+        "id": "1803976015808540672"
+      }
+    ]
+  }
+}

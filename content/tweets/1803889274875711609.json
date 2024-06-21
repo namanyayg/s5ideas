@@ -1,0 +1,66 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803889274875711609",
+  "screen_name": "Elizstrations",
+  "bookmarks": 0,
+  "favorites": 1,
+  "created_at": "Thu Jun 20 20:34:52 +0000 2024",
+  "text": "Got some great feedback from a friend and rewrote the shop idea a bit:\n@_nightsweekends @_buildspace https://t.co/Gv7BuVO9qB",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 1,
+  "conversation_id": "1803889274875711609",
+  "retweets": 0,
+  "views": "83",
+  "user_info": {
+    "screen_name": "Elizstrations",
+    "name": "Ro be upon ye",
+    "description": "Writer/Illustrator | 20-something | She/They | INFP | goes by Liz or Ro",
+    "rest_id": "798256574477135874",
+    "followers_count": 23,
+    "favourites_count": 143,
+    "avatar": "https://pbs.twimg.com/profile_images/1536258118937501696/R0my-SK3_normal.jpg",
+    "verified": false,
+    "friends_count": 58
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQiznyPakAQFwDL.png",
+        "id": "1803889146844581892"
+      }
+    ]
+  },
+  "quoted": {
+    "tweet_id": "1803671859894046907",
+    "bookmarks": 0,
+    "created_at": "Thu Jun 20 06:10:56 +0000 2024",
+    "favorites": 7,
+    "text": "Doing @_nightsweekends on hard mode by working on two projects:\n\n1. Expanding art I sell at conventions w/ a digital shop. Also learning how to design art print clothing\n\n2. Developing the novel I'm co-writing w/ my partner that challenges the chosen hero narrative\n\n@_buildspace https://t.co/tM45s3jooJ",
+    "lang": "en",
+    "views": "185",
+    "quotes": 1,
+    "replies": 3,
+    "retweets": 0,
+    "conversation_id": "1803671859894046907",
+    "author": {
+      "rest_id": "798256574477135874",
+      "name": "Ro be upon ye",
+      "screen_name": "Elizstrations",
+      "avatar": "https://pbs.twimg.com/profile_images/1536258118937501696/R0my-SK3_normal.jpg",
+      "blue_verified": false
+    },
+    "media": {
+      "photo": [
+        {
+          "media_url_https": "https://pbs.twimg.com/media/GQfeSUfaIAEbr1o.png",
+          "id": "1803654582104629249"
+        },
+        {
+          "media_url_https": "https://pbs.twimg.com/media/GQft0yab0AAXPFy.png",
+          "id": "1803671666926800896"
+        }
+      ]
+    }
+  }
+}

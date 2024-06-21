@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803485164137320626",
+  "screen_name": "laganXpress",
+  "bookmarks": 0,
+  "favorites": 3,
+  "created_at": "Wed Jun 19 17:49:04 +0000 2024",
+  "text": "here's what i am building for s5\n\nadulting can be hard but it becomes easier with homies around. it gets even better when you don't have to worry about what to do each time you meet\n\ngot you covered for both new &amp; old homies, thoughts?\n\ncc: @_buildspace @_nightsweekends @FarzaTV https://t.co/VUXxHaOYbf",
+  "lang": "en",
+  "quotes": 1,
+  "replies": 2,
+  "conversation_id": "1803485164137320626",
+  "retweets": 0,
+  "views": "87",
+  "user_info": {
+    "screen_name": "laganXpress",
+    "name": "lagannnn",
+    "description": "turns out i am a yapper",
+    "rest_id": "1781287759769985025",
+    "followers_count": 24,
+    "favourites_count": 167,
+    "avatar": "https://pbs.twimg.com/profile_images/1781296564335529984/NDvBq_WQ_normal.jpg",
+    "verified": false,
+    "friends_count": 62
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQdD50uWIAAuBlP.png",
+        "id": "1803484836469809152"
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803490588131729856",
+  "screen_name": "priyanshudesign",
+  "bookmarks": 0,
+  "favorites": 5,
+  "created_at": "Wed Jun 19 18:10:38 +0000 2024",
+  "text": "I've always loved the minimalist look, typography, grid systems and layout of Swiss design. I'm going to spend the next six weeks working on these skills. \n\ncc - @_buildspace @_nightsweekends https://t.co/dj9KU2JwN7",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803490588131729856",
+  "retweets": 0,
+  "views": "128",
+  "user_info": {
+    "screen_name": "priyanshudesign",
+    "name": "Priyanshu Verma",
+    "description": "✨design @gosatsapp | alterok @_buildspace | 🎓alumni @10kdesigners",
+    "rest_id": "1299968618906574848",
+    "followers_count": 327,
+    "favourites_count": 1384,
+    "avatar": "https://pbs.twimg.com/profile_images/1660547863594827776/SCnnh2op_normal.jpg",
+    "verified": false,
+    "friends_count": 674
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQdGG5qaIAAwBhq.jpg",
+        "id": "1803487260157026304"
+      }
+    ]
+  }
+}

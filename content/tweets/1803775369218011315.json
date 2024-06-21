@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803775369218011315",
+  "screen_name": "Lilito200",
+  "bookmarks": 1,
+  "favorites": 3,
+  "created_at": "Thu Jun 20 13:02:15 +0000 2024",
+  "text": "I absolutely love local businesses and my aim is to help them get noticed and grow.\n\nThoughts?\n\n@FarzaTV @_buildspace @_nightsweekends https://t.co/u7O1XTSaKV",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 2,
+  "conversation_id": "1803775369218011315",
+  "retweets": 0,
+  "views": "42",
+  "user_info": {
+    "screen_name": "Lilito200",
+    "name": "Lilit",
+    "description": "Illustrator,designer| launching my design studio , bárka creative room to help local businesses stand out | s5 - alterok |",
+    "rest_id": "1789730772489797632",
+    "followers_count": 12,
+    "favourites_count": 36,
+    "avatar": "https://pbs.twimg.com/profile_images/1789730971933093888/8E-zFzGF_normal.jpg",
+    "verified": false,
+    "friends_count": 13
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQhIKv8XgAAchLv.jpg",
+        "id": "1803771000267440128"
+      }
+    ]
+  }
+}

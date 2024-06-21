@@ -1,0 +1,42 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803589148105670803",
+  "screen_name": "rishistyping",
+  "bookmarks": 1,
+  "favorites": 2,
+  "created_at": "Thu Jun 20 00:42:16 +0000 2024",
+  "text": "Computational Artistry — Building New Media Tools and Interfaces for Aesthetic Capture \n\nFor Paris Olympics 2024 @Paris2024 — Machine Intelligence — Computational Design — Experimental Capture\n\n——————————\n@_buildspace @_nightsweekends @iocmedia https://t.co/f9vGjxQuWJ",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803589148105670803",
+  "retweets": 0,
+  "views": "127",
+  "user_info": {
+    "screen_name": "rishistyping",
+    "name": "Rish",
+    "description": "Computational Media Arts + Sciences",
+    "rest_id": "1153037978882592773",
+    "followers_count": 2009,
+    "favourites_count": 69270,
+    "avatar": "https://pbs.twimg.com/profile_images/1803599062207254528/oYh-RjQW_normal.jpg",
+    "verified": false,
+    "friends_count": 5017
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQeixP2XwAANHQ2.jpg",
+        "id": "1803589142737043456"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQeixP1WIAAMAha.jpg",
+        "id": "1803589142732742656"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQeixPqWUAEuJYt.jpg",
+        "id": "1803589142686617601"
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803639414154993809",
+  "screen_name": "tharakdotAI",
+  "bookmarks": 0,
+  "favorites": 1,
+  "created_at": "Thu Jun 20 04:02:00 +0000 2024",
+  "text": "Which one do you guys like better ?!?!?\ncc : @_buildspace  @_nightsweekends https://t.co/q3yBYAzP5n",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 2,
+  "conversation_id": "1803639414154993809",
+  "retweets": 0,
+  "views": "82",
+  "user_info": {
+    "screen_name": "tharakdotAI",
+    "name": "Tharagaraman Balaji",
+    "description": "Posts about AI , ML • Sharing my journey • Tryna become a Gen AI engineer • blogs @hashnode",
+    "rest_id": "1448946592581517312",
+    "followers_count": 41,
+    "favourites_count": 1436,
+    "avatar": "https://pbs.twimg.com/profile_images/1742831451576614912/VrP7oCgY_normal.jpg",
+    "verified": false,
+    "friends_count": 192
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQfQedta4AApjI6.jpg",
+        "id": "1803639397574959104"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQfQedraIAAAaL_.jpg",
+        "id": "1803639397566521344"
+      }
+    ]
+  }
+}

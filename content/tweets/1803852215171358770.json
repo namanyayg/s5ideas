@@ -1,0 +1,42 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803852215171358770",
+  "screen_name": "iamtusharsinha",
+  "bookmarks": 1,
+  "favorites": 9,
+  "created_at": "Thu Jun 20 18:07:36 +0000 2024",
+  "text": "9000 endocrinologists can't help 158M diabetics in the USA; Sync can with community, tech, and AI.\n\ncc: @_buildspace @_nightsweekends https://t.co/KA7D1c0rjP",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 6,
+  "conversation_id": "1803852215171358770",
+  "retweets": 2,
+  "views": "202",
+  "user_info": {
+    "screen_name": "iamtusharsinha",
+    "name": "Tushar",
+    "description": "Preventing prediabetes from turning into diabetes, one person at a time.🪽",
+    "rest_id": "784381803696041985",
+    "followers_count": 419,
+    "favourites_count": 4934,
+    "avatar": "https://pbs.twimg.com/profile_images/1768951226392064000/cCgS_lSi_normal.jpg",
+    "verified": false,
+    "friends_count": 1986
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQiPtx-XQAAGPs9.jpg",
+        "id": "1803849667433676800"
+      }
+    ]
+  },
+  "place": {
+    "country": "United States",
+    "country_code": "US",
+    "name": "Manhattan",
+    "full_name": "Manhattan, NY",
+    "place_type": "city",
+    "more_data_url": "https://api.twitter.com/1.1/geo/id/01a9a39529b27f36.json"
+  }
+}

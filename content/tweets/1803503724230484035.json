@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803503724230484035",
+  "screen_name": "dipanshu0405",
+  "bookmarks": 0,
+  "favorites": 2,
+  "created_at": "Wed Jun 19 19:02:49 +0000 2024",
+  "text": "hey there, i'm dipanshu sharma. a young tech enthusiast who just joined @_buildspace's n&amp;w s5. i'm currently learning web dev and in this season of n&amp;w, i'm thinking to film my coding journey, i know this sounds boring but i wanna try this\n(1/2) https://t.co/YMkE05RLMd",
+  "lang": "en",
+  "quotes": 1,
+  "replies": 2,
+  "conversation_id": "1803503724230484035",
+  "retweets": 0,
+  "views": "169",
+  "user_info": {
+    "screen_name": "dipanshu0405",
+    "name": "Dipanshu Sharma",
+    "description": "a learner | an explorer | a dreamer | currently in gaudmire @_buildspace's n&w s5",
+    "rest_id": "1399937164910100482",
+    "followers_count": 17,
+    "favourites_count": 332,
+    "avatar": "https://pbs.twimg.com/profile_images/1802066501111021568/QG1GRizu_normal.jpg",
+    "verified": false,
+    "friends_count": 131
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQdVFA4W0AIqsFE.jpg",
+        "id": "1803503720409255938"
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803733958019956914",
+  "screen_name": "NagpalKrishna9",
+  "bookmarks": 0,
+  "favorites": 3,
+  "created_at": "Thu Jun 20 10:17:42 +0000 2024",
+  "text": "I'm really excited to build Protector\n\ncc: @_buildspace @_nightsweekends https://t.co/WjkLG2NAf5",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803733958019956914",
+  "retweets": 0,
+  "views": "23",
+  "user_info": {
+    "screen_name": "NagpalKrishna9",
+    "name": "Krishna Nagpal",
+    "description": "Student | AI Student Community Leader | AWS Deepracer | Machine Learning Enthusiast| gaudmire @_buildspace",
+    "rest_id": "1683002089163706369",
+    "followers_count": 9,
+    "favourites_count": 44,
+    "avatar": "https://pbs.twimg.com/profile_images/1803016871744016384/rETKw6gq_normal.jpg",
+    "verified": false,
+    "friends_count": 29
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQgmd7SW4AEmiZ-.jpg",
+        "id": "1803733946334633985"
+      }
+    ]
+  }
+}

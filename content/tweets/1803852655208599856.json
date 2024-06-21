@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803852655208599856",
+  "screen_name": "delulunikhil",
+  "bookmarks": 0,
+  "favorites": 9,
+  "created_at": "Thu Jun 20 18:09:21 +0000 2024",
+  "text": "As a dev drowning in bug emails and Jira tickets, I knew there had to be a better way. I'm working on logiclens: real-time collaboration, automated test cases, and a smooth UI/API tracking. \n@_buildspace @_nightsweekends \n\nThanks to @kirat_tw for pushing me to build in public! https://t.co/kevZHLNjKb",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 1,
+  "conversation_id": "1803852655208599856",
+  "retweets": 0,
+  "views": "153",
+  "user_info": {
+    "screen_name": "delulunikhil",
+    "name": "Nikhil",
+    "description": "Software Engineer @Bajaj_Finance, moonlighting as an NGO founder by night | Erevald @_buildspace | VIT '22 |  ex intern \n @UTPOfficial  @gurgaonpolice",
+    "rest_id": "1239178361307463680",
+    "followers_count": 260,
+    "favourites_count": 184,
+    "avatar": "https://pbs.twimg.com/profile_images/1772491601782222849/sGdvxpI2_normal.jpg",
+    "verified": false,
+    "friends_count": 288
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQiSRPUXUAATkIn.jpg",
+        "id": "1803852475629260800"
+      }
+    ]
+  }
+}

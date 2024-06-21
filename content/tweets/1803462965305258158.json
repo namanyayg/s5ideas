@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803462965305258158",
+  "screen_name": "twk1518",
+  "bookmarks": 0,
+  "favorites": 6,
+  "created_at": "Wed Jun 19 16:20:52 +0000 2024",
+  "text": "introducing my idea for buildspace :) i'd appreciate any feedback\n\n@_buildspace @_nightsweekends https://t.co/PfomLQ6yck",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 2,
+  "conversation_id": "1803462965305258158",
+  "retweets": 0,
+  "views": "52",
+  "user_info": {
+    "screen_name": "twk1518",
+    "name": "Tiffany",
+    "description": "buildspace s5",
+    "rest_id": "890535880535965696",
+    "followers_count": 2,
+    "favourites_count": 4,
+    "avatar": "https://pbs.twimg.com/profile_images/1803459609459326976/y5RRyHem_normal.jpg",
+    "verified": false,
+    "friends_count": 19
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQcwAgyXkAAOjj6.png",
+        "id": "1803462961144500224"
+      }
+    ]
+  }
+}

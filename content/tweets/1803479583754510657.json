@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803479583754510657",
+  "screen_name": "uibitsco",
+  "bookmarks": 1,
+  "favorites": 3,
+  "created_at": "Wed Jun 19 17:26:54 +0000 2024",
+  "text": "After some thinking yesterday I reduced my scope and made my goal not so \"open-ended\" - let's get to work 🚀@_nightsweekends https://t.co/jOBEVn9bst",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803479583754510657",
+  "retweets": 0,
+  "views": "112",
+  "user_info": {
+    "screen_name": "uibitsco",
+    "name": "Kris ✨",
+    "description": "UI Designer - running https://t.co/C66KekKv7v",
+    "rest_id": "1774797794357751808",
+    "followers_count": 124,
+    "favourites_count": 1088,
+    "avatar": "https://pbs.twimg.com/profile_images/1802615906972880898/GTt5wXyC_normal.jpg",
+    "verified": false,
+    "friends_count": 228
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQc_Ax4WoAA9Yu_.jpg",
+        "id": "1803479458407424000"
+      }
+    ]
+  }
+}

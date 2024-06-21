@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803862988157514218",
+  "screen_name": "itsgivingkyle",
+  "bookmarks": 0,
+  "favorites": 9,
+  "created_at": "Thu Jun 20 18:50:25 +0000 2024",
+  "text": "people say taking the first step is the hardest. in my experience, that first step is customizing my workouts.\n\npetey will help you start working out, fast.\n\ngo team #spectreseek\n\ncc @_buildspace @_nightsweekends https://t.co/Gy9c2IsrcE",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 7,
+  "conversation_id": "1803862988157514218",
+  "retweets": 0,
+  "views": "96",
+  "user_info": {
+    "screen_name": "itsgivingkyle",
+    "name": "Kyle",
+    "description": "Product Designer | Open For Work",
+    "rest_id": "1445060977028968456",
+    "followers_count": 45,
+    "favourites_count": 247,
+    "avatar": "https://pbs.twimg.com/profile_images/1704496199674286081/vv8hvERu_normal.jpg",
+    "verified": false,
+    "friends_count": 133
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQibjuOWQAArRuJ.jpg",
+        "id": "1803862688767819776"
+      }
+    ]
+  }
+}

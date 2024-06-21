@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803517095940071796",
+  "screen_name": "SavannahFeder",
+  "bookmarks": 1,
+  "favorites": 14,
+  "created_at": "Wed Jun 19 19:55:58 +0000 2024",
+  "text": "customer interviews are a pain in the ass to find participants for, filled with no-shows, and take weeks to conduct.\n\nprobe lets you skip over all that with 10 minutes of setup. \n\nlink below 👇 \n\n@_buildspace https://t.co/gdS9Sf0DzV",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 7,
+  "conversation_id": "1803517095940071796",
+  "retweets": 0,
+  "views": "261",
+  "user_info": {
+    "screen_name": "SavannahFeder",
+    "name": "Savannah | HeyProbe.com 👋",
+    "description": "Building Probe (https://t.co/ZBrKSTJ6RU) | 14x faster customer interviews, so you can ship products people love. 💜\n\nguadmire @_buildspace",
+    "rest_id": "290155908",
+    "followers_count": 145,
+    "favourites_count": 1837,
+    "avatar": "https://pbs.twimg.com/profile_images/1632424357959188480/8g9917N5_normal.jpg",
+    "verified": false,
+    "friends_count": 165
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQdg7khakAAmf5D.jpg",
+        "id": "1803516752317550592"
+      }
+    ]
+  }
+}

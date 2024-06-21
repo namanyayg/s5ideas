@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803731466729263303",
+  "screen_name": "droolkrys21226",
+  "bookmarks": 0,
+  "favorites": 3,
+  "created_at": "Thu Jun 20 10:07:48 +0000 2024",
+  "text": "Hey there,  \n\nFor s5, I want to focus on building an AI cohort for women in tech and get atleast 10 women to show up in classes🩷 \n\nDo I know how I'm gona to do it? No. \nIs it going to fail? It might. \nAm I still going to do it? Hell yea. \n\ncc @_buildspace @_nightsweekends https://t.co/ZLQpW3Rsyl",
+  "lang": "en",
+  "quotes": 1,
+  "replies": 2,
+  "conversation_id": "1803731466729263303",
+  "retweets": 0,
+  "views": "59",
+  "user_info": {
+    "screen_name": "droolkrys21226",
+    "name": "iAmDatCoderGorl",
+    "description": "ml/dsa",
+    "rest_id": "1795858355610857472",
+    "followers_count": 0,
+    "favourites_count": 2,
+    "avatar": "https://pbs.twimg.com/profile_images/1795858737670037504/ysL3SVXf_normal.jpg",
+    "verified": false,
+    "friends_count": 0
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQgkD7mWgAED8Ed.jpg",
+        "id": "1803731300718641153"
+      }
+    ]
+  }
+}

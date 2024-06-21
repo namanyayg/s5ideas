@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803922954176352652",
+  "screen_name": "jondeparra",
+  "bookmarks": 0,
+  "favorites": 11,
+  "created_at": "Thu Jun 20 22:48:42 +0000 2024",
+  "text": "Yo @FarzaTV I started an official unofficial @_buildspace chapter in Vegas for @_nightsweekends. Got a group chat of 10 ppl to meet up and cowork once a week.\n\nI think I deserve a Buildspace cap for this. If you think Farza should send me a cap comment “1” below. https://t.co/2zD3f7yk9g",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 8,
+  "conversation_id": "1803922954176352652",
+  "retweets": 4,
+  "views": "341",
+  "user_info": {
+    "screen_name": "jondeparra",
+    "name": "Jonathan Parra",
+    "description": "🤖 Senior Designer @Superwall (YC S21)",
+    "rest_id": "786303797123395584",
+    "followers_count": 355,
+    "favourites_count": 2548,
+    "avatar": "https://pbs.twimg.com/profile_images/1631048059324076032/ysyELsh7_normal.jpg",
+    "verified": false,
+    "friends_count": 343
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQjSXJGakAI-UoW.jpg",
+        "id": "1803922945783533570"
+      }
+    ]
+  }
+}

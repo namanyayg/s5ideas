@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803485163067756609",
+  "screen_name": "Jayanthsriniv13",
+  "bookmarks": 0,
+  "favorites": 5,
+  "created_at": "Wed Jun 19 17:49:04 +0000 2024",
+  "text": "my one-liner for this season of @_buildspace @_nightsweekends nights and weekends. Introducing Metiertips, an app/online community to bridge the communication gap between students and industrial experts. Gain insights by just sharing your thoughts and get advice from experts https://t.co/h0mLX1AI5L",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 1,
+  "conversation_id": "1803485163067756609",
+  "retweets": 0,
+  "views": "76",
+  "user_info": {
+    "screen_name": "Jayanthsriniv13",
+    "name": "Jayanthsrinivasan",
+    "description": "",
+    "rest_id": "1370041707778076674",
+    "followers_count": 67,
+    "favourites_count": 962,
+    "avatar": "https://pbs.twimg.com/profile_images/1370042204094296065/DVbqLPwr_normal.jpg",
+    "verified": false,
+    "friends_count": 312
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQdEMoOWIAAjtRi.jpg",
+        "id": "1803485159531880448"
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803216169286914249",
+  "screen_name": "neuraloverflow",
+  "bookmarks": 1,
+  "favorites": 16,
+  "created_at": "Wed Jun 19 00:00:11 +0000 2024",
+  "text": "I will be hacking nights + weekends for the next 38 days.\n\nI am so happy to participate to s5 @_nightsweekends\n\nMy Initial idea is to build a journaling app that makes you fall in love with journaling. What do you think👀?\n\nWhy am I building this?\n\nThere are a ton of journaling apps, but no one provides guidance. Journaling is hard: it's easy to keep writing the same things, get discouraged, forget to review the past months.\n\nMy goal is to fix this. I want to build a journal that focuses on personal growth and problem-solving.\n\nToday I'm launching the waitlist -> https://t.co/ZPEgb5TOuU\n\nThis week, I have:\n- refined the idea\n- built a mailing list\n- built a landing page\n\nEverything will be built in public, all in 6 weeks. Follow me if you want to see what I end up building.\n\ncc: @_buildspace, @_nightsweekends, #buildinginpublic",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 5,
+  "conversation_id": "1803216169286914249",
+  "retweets": 0,
+  "views": "345",
+  "user_info": {
+    "screen_name": "neuraloverflow",
+    "name": "Jacopo Parvizi",
+    "description": "ML Engineering Leader @ RaysearchLabs, Ex H&M RecSys.  \nSharing my journey and lessons learned as I build https://t.co/zpT1SCqswA",
+    "rest_id": "69409465",
+    "followers_count": 433,
+    "favourites_count": 730,
+    "avatar": "https://pbs.twimg.com/profile_images/1742553441640071168/qd3MZFzY_normal.jpg",
+    "verified": false,
+    "friends_count": 464
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQZO8JQXgAAeZau.png",
+        "id": "1803215495992147968"
+      }
+    ]
+  }
+}

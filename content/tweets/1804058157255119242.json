@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1804058157255119242",
+  "screen_name": "andromeda74356",
+  "bookmarks": 0,
+  "favorites": 0,
+  "created_at": "Fri Jun 21 07:45:57 +0000 2024",
+  "text": "S5\ncc: @_buildspace @_nightsweekends https://t.co/kKOHe5dhxj",
+  "lang": "und",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1804058157255119242",
+  "retweets": 0,
+  "views": "26",
+  "user_info": {
+    "screen_name": "andromeda74356",
+    "name": "MachDiamonds",
+    "description": "UMich CS new grad, Member of unemployed staff. Talk about AI/ML, Semiconductors, VR, Robotics",
+    "rest_id": "1666596137002758144",
+    "followers_count": 584,
+    "favourites_count": 29261,
+    "avatar": "https://pbs.twimg.com/profile_images/1680373560651464705/o77WtqTV_normal.jpg",
+    "verified": false,
+    "friends_count": 1117
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQlL_pbWwAAFyQT.jpg",
+        "id": "1804056682563026944"
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803725013142397027",
+  "screen_name": "ranajakub",
+  "bookmarks": 0,
+  "favorites": 7,
+  "created_at": "Thu Jun 20 09:42:09 +0000 2024",
+  "text": "Even tho I had the idea for 6 months already and even started working on it before @_buildspace , here's my idea slide.\n\nFollow me for regular updates on this project.\n\n@_nightsweekends @FarzaTV https://t.co/oEDcmFKC6Z",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 2,
+  "conversation_id": "1803725013142397027",
+  "retweets": 0,
+  "views": "139",
+  "user_info": {
+    "screen_name": "ranajakub",
+    "name": "Jakub Rana",
+    "description": "Student of IT | Hydroponics | Programming | Investing | Tesla and SpaceX ❤️ | Make the world a better place",
+    "rest_id": "1296083938386092034",
+    "followers_count": 360,
+    "favourites_count": 57504,
+    "avatar": "https://pbs.twimg.com/profile_images/1737734610937905152/wOLFgHlz_normal.jpg",
+    "verified": false,
+    "friends_count": 549
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQgch61WcAEWJHE.jpg",
+        "id": "1803723019816169473"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQgch6sXsAEBhLf.jpg",
+        "id": "1803723019778502657"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQgdEB1WgAAr4w5.jpg",
+        "id": "1803723605810774016"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQgeSK3WUAACcS3.jpg",
+        "id": "1803724948264865792"
+      }
+    ]
+  }
+}

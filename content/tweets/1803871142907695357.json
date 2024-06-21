@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803871142907695357",
+  "screen_name": "Babyion_1",
+  "bookmarks": 0,
+  "favorites": 1,
+  "created_at": "Thu Jun 20 19:22:49 +0000 2024",
+  "text": "Hola!!\n*DRUMROLL* - Here goes our first post on our dream project \"Babyion\":)\nThanks @_buildspace @_nightsweekends @FarzaTV , lemme know what you guys think.\nP.S - can't wait to bring our idea to life\nP.S.S - I'm loving nights and weekends, feels soooooo gooood! https://t.co/ouZeoXMpJ5",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 2,
+  "conversation_id": "1803871142907695357",
+  "retweets": 0,
+  "views": "39",
+  "user_info": {
+    "screen_name": "Babyion_1",
+    "name": "Babyion:)",
+    "description": "hey there!\nwelcome to babyion!",
+    "rest_id": "1765215119024197634",
+    "followers_count": 0,
+    "favourites_count": 0,
+    "avatar": "https://pbs.twimg.com/profile_images/1803441334361137156/ffF7oD14_normal.jpg",
+    "verified": false,
+    "friends_count": 3
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQijPH0akAQGjwM.jpg",
+        "id": "1803871130954141700"
+      }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803860069735358974",
+  "screen_name": "xisvariable",
+  "bookmarks": 0,
+  "favorites": 3,
+  "created_at": "Thu Jun 20 18:38:49 +0000 2024",
+  "text": "lab - 1 @_buildspace with @FarzaTV and Joshh!!\n\nBTW, I need a review..\nhttps://t.co/OEJqQQH5cx https://t.co/8FLbfqZ3U0",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803860069735358974",
+  "retweets": 0,
+  "views": "57",
+  "user_info": {
+    "screen_name": "xisvariable",
+    "name": "var.",
+    "description": "..honing",
+    "rest_id": "1587434043917877249",
+    "followers_count": 62,
+    "favourites_count": 1005,
+    "avatar": "https://pbs.twimg.com/profile_images/1803489403400081409/kuRT_crn_normal.jpg",
+    "verified": false,
+    "friends_count": 50
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQiZKxgXIAAzhbU.jpg",
+        "id": "1803860061128695808"
+      }
+    ]
+  },
+  "quoted": {
+    "tweet_id": "1803252558070255759",
+    "bookmarks": 1,
+    "created_at": "Wed Jun 19 02:24:47 +0000 2024",
+    "favorites": 6,
+    "text": "I've been busy writing docs. 😔\nhere's my project's/ sub-project one-liner... please do rate it. \n\ncc: @_buildspace, @_nightsweekends, @FarzaTV https://t.co/YIKtWZXrCv",
+    "lang": "en",
+    "views": "232",
+    "quotes": 1,
+    "replies": 3,
+    "retweets": 1,
+    "conversation_id": "1803252558070255759",
+    "author": {
+      "rest_id": "1587434043917877249",
+      "name": "var.",
+      "screen_name": "xisvariable",
+      "avatar": "https://pbs.twimg.com/profile_images/1803489403400081409/kuRT_crn_normal.jpg",
+      "blue_verified": false
+    },
+    "media": {
+      "photo": [
+        {
+          "media_url_https": "https://pbs.twimg.com/media/GQZwosHWoAA_mT5.jpg",
+          "id": "1803252545147543552"
+        }
+      ]
+    }
+  }
+}

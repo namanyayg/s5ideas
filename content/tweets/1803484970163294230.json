@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803484970163294230",
+  "screen_name": "oumayma_es_",
+  "bookmarks": 0,
+  "favorites": 27,
+  "created_at": "Wed Jun 19 17:48:18 +0000 2024",
+  "text": "Time to stop overthinking and just do it. \nI've been thinking about this since 2022 and still don't know how to do it. There's no better moment than now.\n\ncc : @_buildspace  @_nightsweekends @FarzaTV https://t.co/WddzSOiaLT",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 3,
+  "conversation_id": "1803484970163294230",
+  "retweets": 0,
+  "views": "422",
+  "user_info": {
+    "screen_name": "oumayma_es_",
+    "name": "Oumayma",
+    "description": "",
+    "rest_id": "1716186207166615553",
+    "followers_count": 265,
+    "favourites_count": 1038,
+    "avatar": "https://pbs.twimg.com/profile_images/1744359136567898112/PsiWQ600_normal.jpg",
+    "verified": false,
+    "friends_count": 250
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQdD4mQWQAAbauR.png",
+        "id": "1803484815406022656"
+      }
+    ]
+  }
+}

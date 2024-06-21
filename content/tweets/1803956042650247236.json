@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803956042650247236",
+  "screen_name": "ShantanuMisra9",
+  "bookmarks": 0,
+  "favorites": 4,
+  "created_at": "Fri Jun 21 01:00:11 +0000 2024",
+  "text": "styleme is for people like me who have no fashion sense at all\n\nwhat are your thoughts on this description?\n\ncc @_buildspace @_nightsweekends https://t.co/kBpDjPCDRH",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 2,
+  "conversation_id": "1803956042650247236",
+  "retweets": 0,
+  "views": "20",
+  "user_info": {
+    "screen_name": "ShantanuMisra9",
+    "name": "Shantanu Misra",
+    "description": "",
+    "rest_id": "1494836271528624129",
+    "followers_count": 22,
+    "favourites_count": 1,
+    "avatar": "https://pbs.twimg.com/profile_images/1494836643789819907/NHOttSIf_normal.png",
+    "verified": false,
+    "friends_count": 59
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQjwPxsXMAASvG_.jpg",
+        "id": "1803955804589993984"
+      }
+    ]
+  }
+}

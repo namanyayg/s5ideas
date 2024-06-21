@@ -1,0 +1,70 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803730831040471410",
+  "screen_name": "futurohq_",
+  "bookmarks": 0,
+  "favorites": 4,
+  "created_at": "Thu Jun 20 10:05:16 +0000 2024",
+  "text": "Week 1/6 @_buildspace\n\n• Idea\n- We will be sharing some of the processes involved in making the headphone stand.\n\nImages 1 and 2 inspired the form.\n\nCan you see it? https://t.co/dhWwyFECKm",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803730831040471410",
+  "retweets": 0,
+  "views": "130",
+  "user_info": {
+    "screen_name": "futurohq_",
+    "name": "Futuro",
+    "description": "We make well-designed functional products that contribute to the comfort and efficiency of individuals in their daily lives",
+    "rest_id": "1727328674054017024",
+    "followers_count": 32,
+    "favourites_count": 57,
+    "avatar": "https://pbs.twimg.com/profile_images/1785051964163739648/b8IYlAh7_normal.jpg",
+    "verified": false,
+    "friends_count": 9
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQgjoFpXoAAU62V.jpg",
+        "id": "1803730822379315200"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQgjoFpXIAAltud.jpg",
+        "id": "1803730822379282432"
+      }
+    ]
+  },
+  "quoted": {
+    "tweet_id": "1802854997404901406",
+    "bookmarks": 2,
+    "created_at": "Tue Jun 18 00:05:01 +0000 2024",
+    "favorites": 22,
+    "text": "week 1/6 of @_buildspace \n\n-brainstorming on distribution; how to make our functional designs accessible on the blockchain 🌐 \n\ncc :@_nightsweekends s5 https://t.co/7ca2x0RJAB",
+    "lang": "en",
+    "views": "1126",
+    "quotes": 1,
+    "replies": 3,
+    "retweets": 0,
+    "conversation_id": "1802854997404901406",
+    "author": {
+      "rest_id": "1727328674054017024",
+      "name": "Futuro",
+      "screen_name": "futurohq_",
+      "avatar": "https://pbs.twimg.com/profile_images/1785051964163739648/b8IYlAh7_normal.jpg",
+      "blue_verified": false
+    },
+    "media": {
+      "photo": [
+        {
+          "media_url_https": "https://pbs.twimg.com/media/GQUHD16W4AE5S3d.jpg",
+          "id": "1802854988424601601"
+        },
+        {
+          "media_url_https": "https://pbs.twimg.com/media/GQUHD15WgAAsS5q.jpg",
+          "id": "1802854988420382720"
+        }
+      ]
+    }
+  }
+}

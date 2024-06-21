@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803644174987669725",
+  "screen_name": "the_chohan",
+  "bookmarks": 0,
+  "favorites": 5,
+  "created_at": "Thu Jun 20 04:20:56 +0000 2024",
+  "text": "eh what the hell, gotta trust the process right? I signed up for @_nightsweekends to get into aircraft design\n\nhere's idea v0 - taken from the Go Aero Prize. key goal however, is to make a big f'in drone in 6 weeks\n\nlet's see if I pull it off? @_buildspace",
+  "lang": "en",
+  "quotes": 1,
+  "replies": 4,
+  "conversation_id": "1803644174987669725",
+  "retweets": 0,
+  "views": "120",
+  "user_info": {
+    "screen_name": "the_chohan",
+    "name": "Ibrahim C",
+    "description": "working on https://t.co/uBZuX8ekx7 formerly https://t.co/lQBRDNVOqR || prev TPM @tesla, @waymo (contract)\n\nalso hosting private dinners for founders in the GTA 😉",
+    "rest_id": "1761212490665566208",
+    "followers_count": 131,
+    "favourites_count": 372,
+    "avatar": "https://pbs.twimg.com/profile_images/1761248725551501312/ztgz0eAD_normal.jpg",
+    "verified": false,
+    "friends_count": 154
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQfUtJLX0AAvFM5.jpg",
+        "id": "1803644047807991808"
+      }
+    ]
+  }
+}

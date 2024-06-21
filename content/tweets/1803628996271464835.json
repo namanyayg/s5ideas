@@ -1,0 +1,38 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803628996271464835",
+  "screen_name": "thisis_arnav",
+  "bookmarks": 1,
+  "favorites": 7,
+  "created_at": "Thu Jun 20 03:20:37 +0000 2024",
+  "text": "on vacation, still shipped a v0 design for my project.\n\nwdyt? rate it outta 10\n\ncc: @_buildspace @_nightsweekends https://t.co/36qDexpGVb",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 1,
+  "conversation_id": "1803628996271464835",
+  "retweets": 0,
+  "views": "166",
+  "user_info": {
+    "screen_name": "thisis_arnav",
+    "name": "Arnav Anand",
+    "description": "fuckin around to find out • \nweb3 @GDSCNitj • \nalterok @_buildspace",
+    "rest_id": "1676236768377720835",
+    "followers_count": 209,
+    "favourites_count": 2163,
+    "avatar": "https://pbs.twimg.com/profile_images/1799457602927206400/ueqRBGSe_normal.jpg",
+    "verified": false,
+    "friends_count": 327
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQfG8jVaIAMNw1M.png",
+        "id": "1803628919364657155"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQfG_aUasAAoH9r.jpg",
+        "id": "1803628968484188160"
+      }
+    ]
+  }
+}

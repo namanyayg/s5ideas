@@ -1,0 +1,46 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803658664848375932",
+  "screen_name": "divax_shah_",
+  "bookmarks": 0,
+  "favorites": 5,
+  "created_at": "Thu Jun 20 05:18:30 +0000 2024",
+  "text": "Just started working on my @_buildspace idea,\n\nI am creating a tool to create a custom help bot powered by llm for your own website in one click.\n\nWill be open source as far as I know. ❤️\n\nStay tuned for final product @FarzaTV @_nightsweekends https://t.co/eMs4od9Z5H",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803658664848375932",
+  "retweets": 0,
+  "views": "77",
+  "user_info": {
+    "screen_name": "divax_shah_",
+    "name": "Divax Shah",
+    "description": "Just proud of my f*cked up life. 👾",
+    "rest_id": "1435683167554326528",
+    "followers_count": 51,
+    "favourites_count": 14922,
+    "avatar": "https://pbs.twimg.com/profile_images/1614302014300880896/f-pzK0cM_normal.jpg",
+    "verified": false,
+    "friends_count": 235
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQfh_tDXUAAlAeN.png",
+        "id": "1803658660326887424"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQfh_vxWIAEYjPR.jpg",
+        "id": "1803658661056618497"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQfh_vEXsAAM5Us.jpg",
+        "id": "1803658660867977216"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQfh_yXWIAAaM1_.jpg",
+        "id": "1803658661752872960"
+      }
+    ]
+  }
+}

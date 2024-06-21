@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803360079758139728",
+  "screen_name": "iam_abdulR",
+  "bookmarks": 0,
+  "favorites": 9,
+  "created_at": "Wed Jun 19 09:32:02 +0000 2024",
+  "text": "Here is what I am building for Nights & Weekends S5.\n\nA site that gives you access to founder case studies that are just a few steps ahead of you. \n\nLearn from other founder mistakes to streamline your journey!\n\nWhat are your thoughts? Drop them below👇🏻\n\ncc : @_buildspace @_nightsweekends @FarzaTV",
+  "lang": "en",
+  "quotes": 2,
+  "replies": 5,
+  "conversation_id": "1803360079758139728",
+  "retweets": 2,
+  "views": "356",
+  "user_info": {
+    "screen_name": "iam_abdulR",
+    "name": "Abdul 🥷🏻",
+    "description": "Left 9-5 to build @LeanLaunchPad_  from 9-9 • passionate dev who ships (a lot) • mission on helping people build their SaaS (right way!)",
+    "rest_id": "1468185360672825346",
+    "followers_count": 932,
+    "favourites_count": 8406,
+    "avatar": "https://pbs.twimg.com/profile_images/1732927479847751680/tRcemFZl_normal.jpg",
+    "verified": false,
+    "friends_count": 292
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQbSUdebEAA1lFd.jpg",
+        "id": "1803359949759909888"
+      }
+    ]
+  }
+}

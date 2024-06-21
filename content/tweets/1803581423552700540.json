@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803581423552700540",
+  "screen_name": "JjXu97",
+  "bookmarks": 0,
+  "favorites": 3,
+  "created_at": "Thu Jun 20 00:11:34 +0000 2024",
+  "text": "Thinking about building something in the clean energy space as part of @_buildspace @_nightsweekends.\n\nStill very much figuring out the direction of this project and would love to chat if you've worked with any part of the electricity grid or clean + renewable energy! https://t.co/hvSqvwLsqr",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 3,
+  "conversation_id": "1803581423552700540",
+  "retweets": 0,
+  "views": "40",
+  "user_info": {
+    "screen_name": "JjXu97",
+    "name": "J.J. Xu",
+    "description": "",
+    "rest_id": "1569874252899225600",
+    "followers_count": 1,
+    "favourites_count": 7,
+    "avatar": "https://pbs.twimg.com/profile_images/1569874301666435072/GeZ_JTJ-_normal.jpg",
+    "verified": false,
+    "friends_count": 9
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQebePKWoAAeDZe.jpg",
+        "id": "1803581119553511424"
+      }
+    ]
+  }
+}

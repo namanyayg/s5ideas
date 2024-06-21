@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803489311494725757",
+  "screen_name": "near0lx",
+  "bookmarks": 5,
+  "favorites": 41,
+  "created_at": "Wed Jun 19 18:05:33 +0000 2024",
+  "text": "Working on the forge.ui landing page. \n\nHow does it look?\n\n@_buildspace @_nightsweekends https://t.co/cnbEtOl568",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 11,
+  "conversation_id": "1803489311494725757",
+  "retweets": 1,
+  "views": "1199",
+  "user_info": {
+    "screen_name": "near0lx",
+    "name": "pawan",
+    "description": "Building online presence through Web3 & Design. | alterok @_buildspace s5.",
+    "rest_id": "1552512010449207296",
+    "followers_count": 480,
+    "favourites_count": 9121,
+    "avatar": "https://pbs.twimg.com/profile_images/1790935387558608897/r2f6UgE7_normal.jpg",
+    "verified": false,
+    "friends_count": 401
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQdHlTzaIAY35kv.jpg",
+        "id": "1803488882081800198"
+      }
+    ]
+  }
+}

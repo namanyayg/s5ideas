@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803909184242815254",
+  "screen_name": "rohinrohin",
+  "bookmarks": 0,
+  "favorites": 4,
+  "created_at": "Thu Jun 20 21:53:59 +0000 2024",
+  "text": "hey X, we're here with our idea for buildspace s5. \nany feedback is welcome! 🙏\n\n@um_vj_ \n\ncc\n@_buildspace\n@_nightsweekends https://t.co/JNaJSwcA8X",
+  "lang": "en",
+  "quotes": 1,
+  "replies": 3,
+  "conversation_id": "1803909184242815254",
+  "retweets": 0,
+  "views": "274",
+  "user_info": {
+    "screen_name": "rohinrohin",
+    "name": "Rohin Gopalakrishnan",
+    "description": "3x Founding Engineer (acquired) | 🏃 https://t.co/pGEQUoDLtF | Frequently forgets where the continents are 🌍\n\n// s5 @_buildspace",
+    "rest_id": "101180672",
+    "followers_count": 241,
+    "favourites_count": 174,
+    "avatar": "https://pbs.twimg.com/profile_images/445446123281739776/Nh99dXFc_normal.jpeg",
+    "verified": false,
+    "friends_count": 216
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQi9HS3akAIi0fO.jpg",
+        "id": "1803899583782883330"
+      }
+    ]
+  }
+}

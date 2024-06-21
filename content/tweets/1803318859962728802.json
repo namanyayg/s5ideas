@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803318859962728802",
+  "screen_name": "YesKhush_5",
+  "bookmarks": 0,
+  "favorites": 16,
+  "created_at": "Wed Jun 19 06:48:14 +0000 2024",
+  "text": "Im really excited to build this &amp; make it happen ! \n\nDrop your thoughts. \n\n✨S5✨\n\ncc: \n@_buildspace @_nightsweekends @FarzaTV https://t.co/QKHgnM9Ctl",
+  "lang": "en",
+  "quotes": 2,
+  "replies": 5,
+  "conversation_id": "1803318859962728802",
+  "retweets": 0,
+  "views": "482",
+  "user_info": {
+    "screen_name": "YesKhush_5",
+    "name": "Khush from Launchify",
+    "description": "- 🚀 https://t.co/o4R1LfPNx5 (Nextjs Boilerplate) \n- ▶️ https://t.co/8pJE1MED3R (Video tool)\n- 🎞️ https://t.co/Q7uWEYf8RQ (Ai content creation)\n- 🙋🏻‍♂️ https://t.co/yTCryGegUj (Hire VA's)",
+    "rest_id": "1568844302155137025",
+    "followers_count": 964,
+    "favourites_count": 7630,
+    "avatar": "https://pbs.twimg.com/profile_images/1760342422859427840/Y5n_G8ET_normal.jpg",
+    "verified": false,
+    "friends_count": 342
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQas7I5WEAA8SCg.jpg",
+        "id": "1803318832808726528"
+      }
+    ]
+  }
+}

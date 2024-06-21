@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803842012808122728",
+  "screen_name": "itssaifbro",
+  "bookmarks": 0,
+  "favorites": 5,
+  "created_at": "Thu Jun 20 17:27:04 +0000 2024",
+  "text": "share your thought regarding the banner. \n\nto become the best of the best join @_buildspace @_nightsweekends !\nbanner credit goes to @FarzaTV https://t.co/sKvt0v5gkx",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 2,
+  "conversation_id": "1803842012808122728",
+  "retweets": 0,
+  "views": "33",
+  "user_info": {
+    "screen_name": "itssaifbro",
+    "name": "Saif",
+    "description": "Junior Front-End Developer with a Growing Backend Focus",
+    "rest_id": "2196661578",
+    "followers_count": 11,
+    "favourites_count": 120,
+    "avatar": "https://pbs.twimg.com/profile_images/1752705636994068480/Tic8_AF6_normal.jpg",
+    "verified": false,
+    "friends_count": 50
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQiHxY8agAAXKjZ.jpg",
+        "id": "1803840933341069312"
+      }
+    ]
+  }
+}

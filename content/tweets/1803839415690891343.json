@@ -1,0 +1,38 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803839415690891343",
+  "screen_name": "e3vector",
+  "bookmarks": 0,
+  "favorites": 0,
+  "created_at": "Thu Jun 20 17:16:45 +0000 2024",
+  "text": "buildspace | n&amp;w5\nLog[0]: Building onboarding flow\n@_buildspace https://t.co/GbfQIEucev",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803839415690891343",
+  "retweets": 0,
+  "views": "39",
+  "user_info": {
+    "screen_name": "e3vector",
+    "name": "Aditya",
+    "description": "Helping people kickstart their programming journey.",
+    "rest_id": "1300770389560143872",
+    "followers_count": 243,
+    "favourites_count": 857,
+    "avatar": "https://pbs.twimg.com/profile_images/1803136520108355584/abs9Pg1S_normal.jpg",
+    "verified": false,
+    "friends_count": 69
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQiGAwMakAMM22q.jpg",
+        "id": "1803838998256979971"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQiGAwMaIAAwb6j.jpg",
+        "id": "1803838998256951296"
+      }
+    ]
+  }
+}

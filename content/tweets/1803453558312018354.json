@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803453558312018354",
+  "screen_name": "kushagras_22",
+  "bookmarks": 0,
+  "favorites": 6,
+  "created_at": "Wed Jun 19 15:43:29 +0000 2024",
+  "text": "Here's what I'm cooking for upcoming weeks @_buildspace \n\nLmk what y'all think?\n\nTeam Erevald. https://t.co/QLsz2K3qoA",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 4,
+  "conversation_id": "1803453558312018354",
+  "retweets": 0,
+  "views": "87",
+  "user_info": {
+    "screen_name": "kushagras_22",
+    "name": "Kushagra Sahu",
+    "description": "a dichotomy between music and coding.",
+    "rest_id": "1124315073478967298",
+    "followers_count": 19,
+    "favourites_count": 435,
+    "avatar": "https://pbs.twimg.com/profile_images/1518172079375273985/Dh_rBtjU_normal.jpg",
+    "verified": false,
+    "friends_count": 64
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQcmHtLaIAAn6_L.jpg",
+        "id": "1803452089613557760"
+      }
+    ]
+  }
+}

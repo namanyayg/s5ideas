@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1801507965616202142",
+  "screen_name": "CodesChrissy",
+  "bookmarks": 0,
+  "favorites": 10,
+  "created_at": "Fri Jun 14 06:52:24 +0000 2024",
+  "text": "Small win 🥇: I got a buddy pass for @_nightsweekends s5! 🥳\n\nIf you wanna join me, reply in this tweet below, and I’ll post a buddy pass. https://t.co/VLQVBWAIIC",
+  "lang": "en",
+  "quotes": 1,
+  "replies": 2,
+  "conversation_id": "1801507965616202142",
+  "retweets": 0,
+  "views": "380",
+  "user_info": {
+    "screen_name": "CodesChrissy",
+    "name": "Chrissy Codes @_nightsweekends",
+    "description": "Top Contributing Writer at @freeCodeCamp | Maintainer at @linkshubdotdev and writer at @saucedopen | Championing #inclusivity and #diversity in #OpenSource",
+    "rest_id": "1614620871892557827",
+    "followers_count": 2510,
+    "favourites_count": 11129,
+    "avatar": "https://pbs.twimg.com/profile_images/1614621336197808129/oxsU_Agl_normal.png",
+    "verified": false,
+    "friends_count": 1593
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQA98gGXYAAKE33.jpg",
+        "id": "1801507960566276096"
+      }
+    ]
+  }
+}

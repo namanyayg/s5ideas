@@ -1,0 +1,38 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803530147485860034",
+  "screen_name": "dimasnal",
+  "bookmarks": 2,
+  "favorites": 10,
+  "created_at": "Wed Jun 19 20:47:49 +0000 2024",
+  "text": "Yo!! here is my idea for s5\n\nI am still confused about the project name, any suggestions?\n\ncc @_buildspace @_nightsweekends https://t.co/a2ThxfMs4b",
+  "lang": "en",
+  "quotes": 1,
+  "replies": 6,
+  "conversation_id": "1803530147485860034",
+  "retweets": 0,
+  "views": "484",
+  "user_info": {
+    "screen_name": "dimasnal",
+    "name": "Dimas N AL",
+    "description": "Remote Fullstack Engineer 🇸🇬 | alterok @_buildspace",
+    "rest_id": "1458409426222665731",
+    "followers_count": 49,
+    "favourites_count": 96,
+    "avatar": "https://pbs.twimg.com/profile_images/1781631455472562176/TkOmnwMP_normal.jpg",
+    "verified": false,
+    "friends_count": 110
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQdUQ-IaIAQQH2J.jpg",
+        "id": "1803502826318077956"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQdrxBgaAAA52n-.png",
+        "id": "1803528665747292160"
+      }
+    ]
+  }
+}

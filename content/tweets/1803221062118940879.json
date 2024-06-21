@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803221062118940879",
+  "screen_name": "TomFromRealLife",
+  "bookmarks": 0,
+  "favorites": 5,
+  "created_at": "Wed Jun 19 00:19:38 +0000 2024",
+  "text": "my idea for buildspace’s nights &amp; weekends s5\n\n- wdyt?\n- do you get it?\n\ncc @_buildspace \n\np.s this idea has evolved through s3 and s4 and is live AF @ https://t.co/4O7MQwsL0t rn https://t.co/or6Ra71Pot",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 3,
+  "conversation_id": "1803221062118940879",
+  "retweets": 0,
+  "views": "126",
+  "user_info": {
+    "screen_name": "TomFromRealLife",
+    "name": "Tom",
+    "description": "Building a personalized picture-book empire @ https://t.co/KU1WHSNXSM. Chasing $20k/month. Building in public ftw - https://t.co/8VvoBKR04F & https://t.co/LFiz6Zy3DS",
+    "rest_id": "3572",
+    "followers_count": 405,
+    "favourites_count": 275,
+    "avatar": "https://pbs.twimg.com/profile_images/1775402215789957120/dE-X1tAw_normal.jpg",
+    "verified": false,
+    "friends_count": 390
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQZMZjPaIAAYfjh.jpg",
+        "id": "1803212702648770560"
+      }
+    ]
+  }
+}

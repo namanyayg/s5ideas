@@ -1,0 +1,38 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803858691311149363",
+  "screen_name": "erickgraciano_",
+  "bookmarks": 0,
+  "favorites": 51,
+  "created_at": "Thu Jun 20 18:33:20 +0000 2024",
+  "text": "I’ve been collecting pokemon cards since I was 3.\n\nthere’s no good marketplace for buying and selling without running into scams or paying super high fees.\n\nany collectors out there??\n\ncc @_buildspace https://t.co/CuYfUluKav",
+  "lang": "en",
+  "quotes": 1,
+  "replies": 26,
+  "conversation_id": "1803858691311149363",
+  "retweets": 1,
+  "views": "924",
+  "user_info": {
+    "screen_name": "erickgraciano_",
+    "name": "erick",
+    "description": "Warden @pokemonprison // I buy and sell exotic pokemon",
+    "rest_id": "1277761882179297280",
+    "followers_count": 540,
+    "favourites_count": 2998,
+    "avatar": "https://pbs.twimg.com/profile_images/1642654826243948545/NoZ7FhKM_normal.jpg",
+    "verified": false,
+    "friends_count": 639
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQiVnnrbsAArATK.jpg",
+        "id": "1803856158660472832"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQiVomCawAALRIo.jpg",
+        "id": "1803856175399878656"
+      }
+    ]
+  }
+}

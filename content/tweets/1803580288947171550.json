@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803580288947171550",
+  "screen_name": "mo_chatr",
+  "bookmarks": 0,
+  "favorites": 0,
+  "created_at": "Thu Jun 20 00:07:04 +0000 2024",
+  "text": "There it is my idea for nights and weekends. \n\nIntroducing Tech Bytes.\n\ncc: @_nightsweekends  @_buildspace  @FarzaTV https://t.co/FceFWpEI8B",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 1,
+  "conversation_id": "1803580288947171550",
+  "retweets": 0,
+  "views": "39",
+  "user_info": {
+    "screen_name": "mo_chatr",
+    "name": "Mohamed Chatr",
+    "description": "Future software engineer | AI enthusiast",
+    "rest_id": "1510974282033156097",
+    "followers_count": 40,
+    "favourites_count": 693,
+    "avatar": "https://pbs.twimg.com/profile_images/1510975635878985728/zOVV1LfG_normal.jpg",
+    "verified": false,
+    "friends_count": 196
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQeaKjyWEAA99QW.jpg",
+        "id": "1803579681980944384"
+      }
+    ]
+  }
+}

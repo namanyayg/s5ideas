@@ -1,0 +1,46 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803775697930088613",
+  "screen_name": "_VinilReddy_",
+  "bookmarks": 0,
+  "favorites": 0,
+  "created_at": "Thu Jun 20 13:03:33 +0000 2024",
+  "text": "I got to attend and be part of @_buildspace's '@_nightsweekends' s5!\n\nA big shoutout to @FarzaTV for creating a place where we could consistently put in the work each week, allowing us to express and work on our ideas, no matter how big or small.\n#buildspace #nightsandweekends https://t.co/qUV3mPP3Qg",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803775697930088613",
+  "retweets": 0,
+  "views": "41",
+  "user_info": {
+    "screen_name": "_VinilReddy_",
+    "name": "Vinil Reddy",
+    "description": "gaudmire @_buildspace | Trying to get out of my comfort zone",
+    "rest_id": "1293043852350119936",
+    "followers_count": 25,
+    "favourites_count": 28,
+    "avatar": "https://pbs.twimg.com/profile_images/1744673339116072960/DK5sIyJO_normal.jpg",
+    "verified": false,
+    "friends_count": 176
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQhL885aYAABANt.jpg",
+        "id": "1803775161273049088"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQhL882bMAA7kkB.jpg",
+        "id": "1803775161260519424"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQhL884a8AAXbsi.jpg",
+        "id": "1803775161268891648"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQhL884aYAAnUNV.jpg",
+        "id": "1803775161268854784"
+      }
+    ]
+  }
+}

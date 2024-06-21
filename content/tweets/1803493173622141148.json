@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803493173622141148",
+  "screen_name": "Sidhanth_here",
+  "bookmarks": 2,
+  "favorites": 15,
+  "created_at": "Wed Jun 19 18:20:54 +0000 2024",
+  "text": "I’m building @Zenet_esports with @hivang26_ \n\nSo we started of with building a gaming tournaments marketplace but after months of effort we have decided to pivot and build the gaming infrastructure over BTC\n\ncc: @_buildspace @_nightsweekends\n\n#gaming #web3 #buildinpublic https://t.co/DgrshjsD2X",
+  "lang": "en",
+  "quotes": 1,
+  "replies": 4,
+  "conversation_id": "1803493173622141148",
+  "retweets": 2,
+  "views": "1010",
+  "user_info": {
+    "screen_name": "Sidhanth_here",
+    "name": "WhySid",
+    "description": "Accidental IITian | Travel, Content and Entrepreneurship Enthusiast | Building @zenet_esports | Check @sid_in_20s",
+    "rest_id": "1564973563743916032",
+    "followers_count": 2093,
+    "favourites_count": 12322,
+    "avatar": "https://pbs.twimg.com/profile_images/1798377324334768128/vqZOc8H__normal.jpg",
+    "verified": false,
+    "friends_count": 797
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQdLekpW4AElLG7.jpg",
+        "id": "1803493164390473729"
+      }
+    ]
+  }
+}

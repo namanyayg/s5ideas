@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1802072688980062375",
+  "screen_name": "therealmms",
+  "bookmarks": 1,
+  "favorites": 21,
+  "created_at": "Sat Jun 15 20:16:24 +0000 2024",
+  "text": "who else in spectreseek ? @_nightsweekends https://t.co/s9Ujk3kAkf",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 8,
+  "conversation_id": "1802072688980062375",
+  "retweets": 1,
+  "views": "1045",
+  "user_info": {
+    "screen_name": "therealmms",
+    "name": "The Double M",
+    "description": "indie hacker by night\n\ndad by day\n\niOS lover",
+    "rest_id": "1579492878300094468",
+    "followers_count": 2610,
+    "favourites_count": 563,
+    "avatar": "https://pbs.twimg.com/profile_images/1802070968929558529/yeYpXzg6_normal.jpg",
+    "verified": false,
+    "friends_count": 322
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQI_bKSXwAAM3R8.jpg",
+        "id": "1802072536752046080"
+      }
+    ]
+  }
+}

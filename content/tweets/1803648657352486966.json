@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803648657352486966",
+  "screen_name": "onlymohit18",
+  "bookmarks": 0,
+  "favorites": 2,
+  "created_at": "Thu Jun 20 04:38:44 +0000 2024",
+  "text": "I am happy to share something I was working on. I am excited to meet new people in this 6 week in Build Space. Let's see how these 6 weeks unfold for me to execute and test the idea to initial audiences.\n\nMore updates are on the way.\n\n@_buildspace @FarzaTV https://t.co/LHNOu5I2Nd",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 3,
+  "conversation_id": "1803648657352486966",
+  "retweets": 0,
+  "views": "78",
+  "user_info": {
+    "screen_name": "onlymohit18",
+    "name": "Mohit",
+    "description": "Building UnleashIt. A mentor marketplace platform.",
+    "rest_id": "1241936854686920706",
+    "followers_count": 48,
+    "favourites_count": 549,
+    "avatar": "https://pbs.twimg.com/profile_images/1787931702385360896/eswF8u3V_normal.png",
+    "verified": false,
+    "friends_count": 195
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQfY2P-aUAA7kSk.jpg",
+        "id": "1803648602298011648"
+      }
+    ]
+  }
+}

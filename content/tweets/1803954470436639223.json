@@ -1,0 +1,38 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803954470436639223",
+  "screen_name": "iniidawestan",
+  "bookmarks": 0,
+  "favorites": 2,
+  "created_at": "Fri Jun 21 00:53:56 +0000 2024",
+  "text": "About #buildspace #nightsandweekends @_nightsweekends \n\nI am doing all my rendering for my animation on a laptop which can get very slow.\n\nWhich is also why I'm trying to set up a Server.\n\nThe left is from a very early render of my animation! It gets a lot more complex! https://t.co/GMjf2VAMY2",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 1,
+  "conversation_id": "1803954470436639223",
+  "retweets": 0,
+  "views": "38",
+  "user_info": {
+    "screen_name": "iniidawestan",
+    "name": "Amber TC ❗PROGRESS OPEN❗",
+    "description": "@daepicfirestar alt. The real Amber TC.\n\nFan of Siegfried Fate/Apocrypha, Fate/Grand Order, ジークフリート FGO.\n\n#SaveRWBY",
+    "rest_id": "1283110849570373637",
+    "followers_count": 56,
+    "favourites_count": 13401,
+    "avatar": "https://pbs.twimg.com/profile_images/1770583031163846656/bA0Dz5q4_normal.jpg",
+    "verified": false,
+    "friends_count": 178
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQjufZBXgAAaF7O.jpg",
+        "id": "1803953873821859840"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQjulAzWQAE84wf.jpg",
+        "id": "1803953970399821825"
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803486147307511925",
+  "screen_name": "yuvamytr",
+  "bookmarks": 1,
+  "favorites": 2,
+  "created_at": "Wed Jun 19 17:52:59 +0000 2024",
+  "text": "feedback please  \n\n left  or right ?\n\n#nightsandweekendsS5 #buildspace #s5 #sagemembermasterclass @_buildspace https://t.co/aosGmHM08m",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 2,
+  "conversation_id": "1803486147307511925",
+  "retweets": 1,
+  "views": "87",
+  "user_info": {
+    "screen_name": "yuvamytr",
+    "name": "yuvamytr",
+    "description": "Welcome to YuvaMytr, a one-of-a-kind Ecosystem that brings Students, Trainers, Corporates, and Institutions together to achieve a common goal.",
+    "rest_id": "1509501299171393541",
+    "followers_count": 35,
+    "favourites_count": 40,
+    "avatar": "https://pbs.twimg.com/profile_images/1567530594040705024/T-g4fi8Y_normal.png",
+    "verified": false,
+    "friends_count": 98
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQdDfz5X0AAuhdI.jpg",
+        "id": "1803484389571022848"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQdDIycXMAA0Pa0.jpg",
+        "id": "1803483994043920384"
+      }
+    ]
+  }
+}

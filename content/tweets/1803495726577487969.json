@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803495726577487969",
+  "screen_name": "notyourmilff",
+  "bookmarks": 0,
+  "favorites": 5,
+  "created_at": "Wed Jun 19 18:31:03 +0000 2024",
+  "text": "Apparently I am gonna stick to this now.\ncc: @_buildspace @_nightsweekends @FarzaTV https://t.co/Fzl2vlkU5r",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803495726577487969",
+  "retweets": 0,
+  "views": "76",
+  "user_info": {
+    "screen_name": "notyourmilff",
+    "name": "Suryanshi Sharma",
+    "description": "24/7 sylvia plath",
+    "rest_id": "1526527175683280896",
+    "followers_count": 124,
+    "favourites_count": 274,
+    "avatar": "https://pbs.twimg.com/profile_images/1770188146254528512/fiT2gXfR_normal.jpg",
+    "verified": false,
+    "friends_count": 131
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQdNjT3W4AAHc9y.png",
+        "id": "1803495444808392704"
+      }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803817875192287489",
+  "screen_name": "thisTlale",
+  "bookmarks": 0,
+  "favorites": 6,
+  "created_at": "Thu Jun 20 15:51:09 +0000 2024",
+  "text": "I have lived in 3 countries, and finding a place is always painful… \n\nYou scroll through hundreds of listings, to then have to complete many applications (of which some require payment), to hopefully get your place.\n\nLets try change that @_buildspace @_nightsweekends https://t.co/p7VPnytHde",
+  "lang": "en",
+  "quotes": 2,
+  "replies": 3,
+  "conversation_id": "1803817875192287489",
+  "retweets": 6,
+  "views": "605",
+  "user_info": {
+    "screen_name": "thisTlale",
+    "name": "Bo",
+    "description": "My biggest fear is believing in myself. @_buildspace s5",
+    "rest_id": "3337291840",
+    "followers_count": 636,
+    "favourites_count": 5643,
+    "avatar": "https://pbs.twimg.com/profile_images/1764212917174423552/jd0-i7Q2_normal.jpg",
+    "verified": false,
+    "friends_count": 397
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQhyyoqWUAASaJw.jpg",
+        "id": "1803817864995950592"
+      }
+    ]
+  },
+  "quoted": {
+    "tweet_id": "1800592902839812558",
+    "bookmarks": 0,
+    "created_at": "Tue Jun 11 18:16:16 +0000 2024",
+    "favorites": 2,
+    "text": "You miss 💯 of the shots you don’t take. Time to face my biggest fear https://t.co/SWIK758bnH",
+    "lang": "en",
+    "views": "606",
+    "quotes": 1,
+    "replies": 0,
+    "retweets": 1,
+    "conversation_id": "1800592902839812558",
+    "author": {
+      "rest_id": "3337291840",
+      "name": "Bo",
+      "screen_name": "thisTlale",
+      "avatar": "https://pbs.twimg.com/profile_images/1764212917174423552/jd0-i7Q2_normal.jpg",
+      "blue_verified": false
+    },
+    "media": {
+      "photo": [
+        {
+          "media_url_https": "https://pbs.twimg.com/media/GPz9sfEWwAAZJ1_.jpg",
+          "id": "1800592891737194496"
+        }
+      ]
+    }
+  }
+}

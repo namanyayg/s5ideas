@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803442660536877442",
+  "screen_name": "SlavicAlberto",
+  "bookmarks": 0,
+  "favorites": 1,
+  "created_at": "Wed Jun 19 15:00:11 +0000 2024",
+  "text": "Just sent the first newsletter of Benkyu!\n\nSubscribe here if you want to try the game when it's ready! \n\nhttps://t.co/MO3xZbtbV3\n\ncc: @_buildspace @_nightsweekends https://t.co/F0CX8KgVEs",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803442660536877442",
+  "retweets": 0,
+  "views": "87",
+  "user_info": {
+    "screen_name": "SlavicAlberto",
+    "name": "Alberto Slavica",
+    "description": "Software Engineer Born in Italy 🇮🇹 Living in Japan 🇯🇵 \n\nBuilding a game for people with ADHD to study things",
+    "rest_id": "1527204923070459907",
+    "followers_count": 132,
+    "favourites_count": 225,
+    "avatar": "https://pbs.twimg.com/profile_images/1712045064942235648/gM62BN7G_normal.jpg",
+    "verified": false,
+    "friends_count": 217
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQcdXOZXIAABYCs.jpg",
+        "id": "1803442460623839232"
+      }
+    ]
+  }
+}

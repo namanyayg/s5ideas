@@ -1,0 +1,62 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803922243900101003",
+  "screen_name": "invarr0w",
+  "bookmarks": 0,
+  "favorites": 17,
+  "created_at": "Thu Jun 20 22:45:52 +0000 2024",
+  "text": "Accountability partner that calls and roasts you for being lazy \n\nbuilding @_nightsweekends \n&gt; features \n- calls everyday to checkup on you\n- customizable harshness on the roasts\n- effective habit tracking from the call sessions\n- provides insights and guidance \n\ncc: @_buildspace https://t.co/eUkmuOzllr",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 3,
+  "conversation_id": "1803922243900101003",
+  "retweets": 0,
+  "views": "595",
+  "user_info": {
+    "screen_name": "invarr0w",
+    "name": "Abdul Rahman ArM🌌",
+    "description": "tinkerer AI & robots",
+    "rest_id": "1448148842428329986",
+    "followers_count": 130,
+    "favourites_count": 751,
+    "avatar": "https://pbs.twimg.com/profile_images/1763571906261770240/rsbPjcSv_normal.jpg",
+    "verified": false,
+    "friends_count": 298
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQjPXHpXMAALW0S.jpg",
+        "id": "1803919646858358784"
+      }
+    ]
+  },
+  "quoted": {
+    "tweet_id": "1803153699449057443",
+    "bookmarks": 38,
+    "created_at": "Tue Jun 18 19:51:57 +0000 2024",
+    "favorites": 685,
+    "text": "your personal accountability partner\nthoughts?\n\ncc:@_buildspace @_nightsweekends https://t.co/SUWfXjwAGX",
+    "lang": "en",
+    "views": "19748",
+    "quotes": 2,
+    "replies": 415,
+    "retweets": 10,
+    "conversation_id": "1803153699449057443",
+    "author": {
+      "rest_id": "1448148842428329986",
+      "name": "Abdul Rahman ArM🌌",
+      "screen_name": "invarr0w",
+      "avatar": "https://pbs.twimg.com/profile_images/1763571906261770240/rsbPjcSv_normal.jpg",
+      "blue_verified": false
+    },
+    "media": {
+      "photo": [
+        {
+          "media_url_https": "https://pbs.twimg.com/media/GQYWTuHWgAAJ_Gx.jpg",
+          "id": "1803153228860653568"
+        }
+      ]
+    }
+  }
+}

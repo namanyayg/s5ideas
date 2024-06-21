@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803799185163981000",
+  "screen_name": "isaacngggg",
+  "bookmarks": 0,
+  "favorites": 0,
+  "created_at": "Thu Jun 20 14:36:53 +0000 2024",
+  "text": "hey n&amp;w, i did a thing !\n\ni have always had multiple chats going on for a project, but giving it the same context again is annoying \n\nso... I've built this plugin that lets user just add preset context with a single click!\n\ncc @_buildspace &amp; @_nightsweekends https://t.co/p44jfjFuf7",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 1,
+  "conversation_id": "1803799185163981000",
+  "retweets": 0,
+  "views": "18",
+  "user_info": {
+    "screen_name": "isaacngggg",
+    "name": "Isaac Ng",
+    "description": "making silly ideas real",
+    "rest_id": "930209698044940288",
+    "followers_count": 9,
+    "favourites_count": 8,
+    "avatar": "https://pbs.twimg.com/profile_images/1572884473418584064/0KdAPWMz_normal.jpg",
+    "verified": false,
+    "friends_count": 130
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQhhR3_WMAAPt-N.png",
+        "id": "1803798610477199360"
+      }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803870602891268599",
+  "screen_name": "asapdar",
+  "bookmarks": 0,
+  "favorites": 4,
+  "created_at": "Thu Jun 20 19:20:40 +0000 2024",
+  "text": "which one-liner do you like better 4 @so_claros?\n\ncc: @_buildspace  @_nightsweekends https://t.co/w0dXLr4xZc",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 4,
+  "conversation_id": "1803870602891268599",
+  "retweets": 0,
+  "views": "444",
+  "user_info": {
+    "screen_name": "asapdar",
+    "name": "Ammar Safdari",
+    "description": "building AI shopping assistants @so_claros | sf2",
+    "rest_id": "1480944076459593736",
+    "followers_count": 232,
+    "favourites_count": 418,
+    "avatar": "https://pbs.twimg.com/profile_images/1595291340354383872/qalsUIZK_normal.jpg",
+    "verified": false,
+    "friends_count": 334
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQiiUWbakAkOczP.jpg",
+        "id": "1803870121263534089"
+      }
+    ]
+  },
+  "quoted": {
+    "tweet_id": "1803865792926380163",
+    "bookmarks": 5,
+    "created_at": "Thu Jun 20 19:01:33 +0000 2024",
+    "favorites": 124,
+    "text": "i'm never buying shitty headphones again\n\ncc: @_nightsweekends @_buildspace https://t.co/o9VvQ9UChv",
+    "lang": "en",
+    "views": "3332",
+    "quotes": 1,
+    "replies": 51,
+    "retweets": 1,
+    "conversation_id": "1803865792926380163",
+    "author": {
+      "rest_id": "814656123055775744",
+      "name": "anish",
+      "screen_name": "thiteanish",
+      "avatar": "https://pbs.twimg.com/profile_images/1553201125632901121/6xsXEq4k_normal.jpg",
+      "blue_verified": true
+    },
+    "media": {
+      "photo": [
+        {
+          "media_url_https": "https://pbs.twimg.com/media/GQidjmqakAMX-Os.png",
+          "id": "1803864885761314819"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803708722415624339",
+  "screen_name": "derekxinzhewang",
+  "bookmarks": 0,
+  "favorites": 7,
+  "created_at": "Thu Jun 20 08:37:25 +0000 2024",
+  "text": "If you do live streaming, why not leverage that to boost the conversion rate of your storefront? 🎥✨\n\nUnishow is a simple drop-in plugin that helps you achieve that effortlessly.\n\nlet me know what you think 🧐\n\ncc: @_buildspace @_nightsweekends https://t.co/f3CmhP61P5",
+  "lang": "en",
+  "quotes": 1,
+  "replies": 3,
+  "conversation_id": "1803708722415624339",
+  "retweets": 0,
+  "views": "114",
+  "user_info": {
+    "screen_name": "derekxinzhewang",
+    "name": "Derek X Wang",
+    "description": "Balabalabala",
+    "rest_id": "1237290591425200128",
+    "followers_count": 56,
+    "favourites_count": 50,
+    "avatar": "https://pbs.twimg.com/profile_images/1615156870490259459/DGypDegb_normal.jpg",
+    "verified": false,
+    "friends_count": 75
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQgOJP6bUAAjy5j.jpg",
+        "id": "1803707202815086592"
+      }
+    ]
+  }
+}

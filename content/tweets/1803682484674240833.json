@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803682484674240833",
+  "screen_name": "saurabhp75",
+  "bookmarks": 0,
+  "favorites": 6,
+  "created_at": "Thu Jun 20 06:53:09 +0000 2024",
+  "text": "here's my idea for nights &amp; weekends s5!\n\nEpicCourse is a platform to create any course and share it with the world.\n\nLemme know what you think.\n\ncc: @_buildspace @_nightsweekends https://t.co/nXEqEZnJKv",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 2,
+  "conversation_id": "1803682484674240833",
+  "retweets": 0,
+  "views": "80",
+  "user_info": {
+    "screen_name": "saurabhp75",
+    "name": "saurabh prakash",
+    "description": "Tech agnostic",
+    "rest_id": "76012595",
+    "followers_count": 29,
+    "favourites_count": 1590,
+    "avatar": "https://pbs.twimg.com/profile_images/1516503252048945153/iL8AjwDE_normal.jpg",
+    "verified": false,
+    "friends_count": 143
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQf3na7aIAU-3Bs.jpg",
+        "id": "1803682432400629765"
+      }
+    ]
+  }
+}

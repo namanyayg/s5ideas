@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803988856527818849",
+  "screen_name": "ygee07",
+  "bookmarks": 0,
+  "favorites": 0,
+  "created_at": "Fri Jun 21 03:10:34 +0000 2024",
+  "text": "Day 20 of 30 #buildinpublic #30daychallenge @_buildspace @_nightsweekends \n\nAfter I created the demo video, daily challenge update, and w1 update for n&amp;w s5…\nRead more: https://t.co/puXCr7NuXX https://t.co/o8bKzV80wI",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803988856527818849",
+  "retweets": 0,
+  "views": "48",
+  "user_info": {
+    "screen_name": "ygee07",
+    "name": "Ygee",
+    "description": "💻 Software Engineer ❤️ making 📱 apps, 📚 books, and 🎧 music \n🚀 @_buildspace s5\n📚 https://t.co/baXFKGDSqc \n🎧 https://t.co/mgYhXu2vyD",
+    "rest_id": "64353667",
+    "followers_count": 281,
+    "favourites_count": 299,
+    "avatar": "https://pbs.twimg.com/profile_images/1624988589024239616/8nkUIiEQ_normal.jpg",
+    "verified": false,
+    "friends_count": 2050
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQkOPktakAAD5GB.jpg",
+        "id": "1803988786453581824"
+      }
+    ]
+  }
+}

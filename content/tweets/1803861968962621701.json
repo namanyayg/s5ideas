@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803861968962621701",
+  "screen_name": "vazmeee_stfu",
+  "bookmarks": 0,
+  "favorites": 3,
+  "created_at": "Thu Jun 20 18:46:22 +0000 2024",
+  "text": "My first time using framer with some templates. \nlooking to give the gym folks a virtual workout buddy\n\n@_buildspace @_nightsweekends @FarzaTV  it seems i am making some progress.\n \nfolks, sign up on the waitlist now if you're interested\nhttps://t.co/EXfOcw8jhe https://t.co/1mrxBkjVHO",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 2,
+  "conversation_id": "1803861968962621701",
+  "retweets": 0,
+  "views": "50",
+  "user_info": {
+    "screen_name": "vazmeee_stfu",
+    "name": "vazmeee.stfu",
+    "description": "time to do something new",
+    "rest_id": "1791749115350818816",
+    "followers_count": 38,
+    "favourites_count": 70,
+    "avatar": "https://pbs.twimg.com/profile_images/1791761995399892992/EruYg5KG_normal.jpg",
+    "verified": false,
+    "friends_count": 25
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQiaNucWgAE_505.jpg",
+        "id": "1803861211357806593"
+      }
+    ]
+  }
+}

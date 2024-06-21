@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803767276589703365",
+  "screen_name": "pedrooladeira",
+  "bookmarks": 1,
+  "favorites": 7,
+  "created_at": "Thu Jun 20 12:30:05 +0000 2024",
+  "text": "We are just getting started and have reached 15 people on the waitlist in just 3 days.\n\nIt’s not a lot, but small achievements need to be celebrated. I can't wait to deliver the first version.\n\ncc @_buildspace @_nightsweekends #buildinginpublic https://t.co/PnhQFgxp6N",
+  "lang": "en",
+  "quotes": 1,
+  "replies": 3,
+  "conversation_id": "1803767276589703365",
+  "retweets": 0,
+  "views": "571",
+  "user_info": {
+    "screen_name": "pedrooladeira",
+    "name": "Pedro Ladeira",
+    "description": "building until I make it • @_buildspace alterok 💎\n\n💌 https://t.co/aPhAZ0wxKW (NEW)\n🎧 https://t.co/gAIAvDcYof",
+    "rest_id": "1211129202834956288",
+    "followers_count": 643,
+    "favourites_count": 4396,
+    "avatar": "https://pbs.twimg.com/profile_images/1659723412539858947/dfO76eJX_normal.jpg",
+    "verified": false,
+    "friends_count": 659
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQhExxyagAA8ivY.png",
+        "id": "1803767272730951680"
+      }
+    ]
+  }
+}

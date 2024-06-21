@@ -1,0 +1,62 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803621778272759854",
+  "screen_name": "xmigasari",
+  "bookmarks": 0,
+  "favorites": 1,
+  "created_at": "Thu Jun 20 02:51:56 +0000 2024",
+  "text": "Day 3 @_nightsweekends @_buildspace , choose name for the project 'zoongle` and create logo with kawaii style inspired by @sawaratsuki1004 https://t.co/JNKuG4mHEX",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803621778272759854",
+  "retweets": 0,
+  "views": "106",
+  "user_info": {
+    "screen_name": "xmigasari",
+    "name": "Xmigas",
+    "description": "Just started learning code six months ago, currently building my first product for my pets on @_buildspace",
+    "rest_id": "1673327604022095872",
+    "followers_count": 8,
+    "favourites_count": 9,
+    "avatar": "https://pbs.twimg.com/profile_images/1802242663451955200/-s1CdgMF_normal.jpg",
+    "verified": false,
+    "friends_count": 34
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQfAY5BaIAI74E9.png",
+        "id": "1803621709641293826"
+      }
+    ]
+  },
+  "quoted": {
+    "tweet_id": "1803612363612102668",
+    "bookmarks": 0,
+    "created_at": "Thu Jun 20 02:14:31 +0000 2024",
+    "favorites": 1,
+    "text": "Over the last few months, I've been learning how to code from scratch. When it comes to thinking up ideas, it's been tough because I always want to build something \"great\" or the \"next facebook\"\n\nBut then I changed my mindset from building something \"great\" to building something https://t.co/eIpvqydnr4",
+    "lang": "en",
+    "views": "201",
+    "quotes": 1,
+    "replies": 1,
+    "retweets": 0,
+    "conversation_id": "1803612363612102668",
+    "author": {
+      "rest_id": "1673327604022095872",
+      "name": "Xmigas",
+      "screen_name": "xmigasari",
+      "avatar": "https://pbs.twimg.com/profile_images/1802242663451955200/-s1CdgMF_normal.jpg",
+      "blue_verified": false
+    },
+    "media": {
+      "photo": [
+        {
+          "media_url_https": "https://pbs.twimg.com/media/GQe3M-waIAEl3et.jpg",
+          "id": "1803611609417523201"
+        }
+      ]
+    }
+  }
+}

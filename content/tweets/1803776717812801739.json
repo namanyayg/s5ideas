@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803776717812801739",
+  "screen_name": "Aashish99161431",
+  "bookmarks": 0,
+  "favorites": 8,
+  "created_at": "Thu Jun 20 13:07:36 +0000 2024",
+  "text": "will be working on this idea for the next 6 weeks.\nwould love to know your thoughts and feedback 🙏\ncc:@_nightsweekends @FarzaTV @_buildspace \n(ps: hope I'm not too late) https://t.co/nxKWc1eXCz",
+  "lang": "en",
+  "quotes": 1,
+  "replies": 4,
+  "conversation_id": "1803776717812801739",
+  "retweets": 0,
+  "views": "128",
+  "user_info": {
+    "screen_name": "Aashish99161431",
+    "name": "Aashish",
+    "description": "CSE undergrad | DSA and Web Dev | Cricket, F1 and anime aficionado | Documenting my coding journey and life updates online| \n Spectreseek @_nightsweekends",
+    "rest_id": "1427548476489928704",
+    "followers_count": 33,
+    "favourites_count": 1023,
+    "avatar": "https://pbs.twimg.com/profile_images/1725556570568957954/8xia0Kcw_normal.jpg",
+    "verified": false,
+    "friends_count": 382
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQhNJKUbMAA3nEL.png",
+        "id": "1803776470546067456"
+      }
+    ]
+  }
+}

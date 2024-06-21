@@ -1,0 +1,104 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803617087723610296",
+  "screen_name": "Jaskiratxyz",
+  "bookmarks": 2,
+  "favorites": 70,
+  "created_at": "Thu Jun 20 02:33:17 +0000 2024",
+  "text": "Vancouver’s @_buildspace community is amazing! We hosted a meetup and were blown away by the incredible projects. \n@Bluezmango123 https://t.co/SFKWlvsjPU",
+  "lang": "en",
+  "quotes": 3,
+  "replies": 7,
+  "conversation_id": "1803617087723610296",
+  "retweets": 1,
+  "views": "3364",
+  "user_info": {
+    "screen_name": "Jaskiratxyz",
+    "name": "Jaskirat Singh",
+    "description": "Building Aeroc Systems",
+    "rest_id": "1521276848507817985",
+    "followers_count": 195,
+    "favourites_count": 2224,
+    "avatar": "https://pbs.twimg.com/profile_images/1759478458025947136/tGZG5uSE_normal.jpg",
+    "verified": false,
+    "friends_count": 392
+  },
+  "media": {
+    "video": [
+      {
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1803617057893707776/pu/img/U45Qct58r9RHIiWo.jpg",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1803617057893707776/pu/pl/T56iae9AT_1UFhFw.m3u8?tag=12"
+          },
+          {
+            "bitrate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1803617057893707776/pu/vid/avc1/320x568/j_w2n_M7uDaxwHg9.mp4?tag=12"
+          },
+          {
+            "bitrate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1803617057893707776/pu/vid/avc1/480x852/rt1ChbcgsSZmB7ny.mp4?tag=12"
+          },
+          {
+            "bitrate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1803617057893707776/pu/vid/avc1/720x1280/7v2oG2KO4L7gXYjf.mp4?tag=12"
+          }
+        ],
+        "aspect_ratio": [
+          9,
+          16
+        ],
+        "original_info": {
+          "height": 1280,
+          "width": 720,
+          "focus_rects": []
+        },
+        "id": "1803617057893707776"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1803617057902071809/pu/img/tE4I0ngwQM3_EJjq.jpg",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1803617057902071809/pu/pl/-jpXSI00HvDZwLmk.m3u8?tag=12"
+          },
+          {
+            "bitrate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1803617057902071809/pu/vid/avc1/320x568/q6UldelN8cUlzLnk.mp4?tag=12"
+          },
+          {
+            "bitrate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1803617057902071809/pu/vid/avc1/480x852/TBevmALyHexMVKD-.mp4?tag=12"
+          },
+          {
+            "bitrate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1803617057902071809/pu/vid/avc1/720x1280/AKvZ7VPw5BOMWzCs.mp4?tag=12"
+          }
+        ],
+        "aspect_ratio": [
+          9,
+          16
+        ],
+        "original_info": {
+          "height": 1280,
+          "width": 720,
+          "focus_rects": []
+        },
+        "id": "1803617057902071809"
+      }
+    ],
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQe8KH4WAAADnD_.jpg",
+        "id": "1803617057885257728"
+      }
+    ]
+  }
+}

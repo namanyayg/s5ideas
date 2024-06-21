@@ -1,0 +1,42 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803417075127357673",
+  "screen_name": "SereneGeek",
+  "bookmarks": 0,
+  "favorites": 6,
+  "created_at": "Wed Jun 19 13:18:31 +0000 2024",
+  "text": "I haven't posted this on X yet, but I just got accepted into @_buildspace 's Nights and Weekends Season 5! Super excited to say hi to fellow creators and people from different career paths! https://t.co/fUyDqJsCZ8",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 1,
+  "conversation_id": "1803417075127357673",
+  "retweets": 0,
+  "views": "189",
+  "user_info": {
+    "screen_name": "SereneGeek",
+    "name": "Aashi",
+    "description": "",
+    "rest_id": "1470382901086724098",
+    "followers_count": 162,
+    "favourites_count": 1542,
+    "avatar": "https://pbs.twimg.com/profile_images/1797324411428552704/OxjFeWLz_normal.jpg",
+    "verified": false,
+    "friends_count": 228
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQcF4ObWwAA1gAg.jpg",
+        "id": "1803416639288819712"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQcF4OaW8AAUvpe.jpg",
+        "id": "1803416639284637696"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQcF4OZWQAAmby_.jpg",
+        "id": "1803416639280398336"
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803830528572899450",
+  "screen_name": "rodikana",
+  "bookmarks": 0,
+  "favorites": 7,
+  "created_at": "Thu Jun 20 16:41:26 +0000 2024",
+  "text": "I joined some cool people to force me to learn @rustlang  and TUIs (terminal user interface) @_buildspace @_nightsweekends https://t.co/hYpuJdiyhn",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 3,
+  "conversation_id": "1803830528572899450",
+  "retweets": 0,
+  "views": "164",
+  "user_info": {
+    "screen_name": "rodikana",
+    "name": "rodrigo q",
+    "description": "JS programmer, organizer @jsconfmx, he/him",
+    "rest_id": "244221743",
+    "followers_count": 550,
+    "favourites_count": 905,
+    "avatar": "https://pbs.twimg.com/profile_images/1748400657193713664/gyePDFGD_normal.jpg",
+    "verified": false,
+    "friends_count": 603
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQh97dpXsAA0hQU.jpg",
+        "id": "1803830111285784576"
+      }
+    ]
+  }
+}

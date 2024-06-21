@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803962647387475994",
+  "screen_name": "BankaguoO",
+  "bookmarks": 0,
+  "favorites": 5,
+  "created_at": "Fri Jun 21 01:26:25 +0000 2024",
+  "text": "Hi everyone from @_nightsweekends @_buildspace ! Excited to be on this journey. Any comments on my idea? https://t.co/FHFUvmSWrb",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 2,
+  "conversation_id": "1803962647387475994",
+  "retweets": 0,
+  "views": "44",
+  "user_info": {
+    "screen_name": "BankaguoO",
+    "name": "Heidi Gu",
+    "description": "I want to be remembered by my creativity. nice to meet you :D",
+    "rest_id": "1538868211294392322",
+    "followers_count": 10,
+    "favourites_count": 36,
+    "avatar": "https://pbs.twimg.com/profile_images/1804035277088030720/qDwBHkDQ_normal.jpg",
+    "verified": false,
+    "friends_count": 12
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQj2dm9akAQWVMC.jpg",
+        "id": "1803962639296663556"
+      }
+    ]
+  }
+}

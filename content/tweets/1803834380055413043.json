@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803834380055413043",
+  "screen_name": "ms__chandana",
+  "bookmarks": 7,
+  "favorites": 116,
+  "created_at": "Thu Jun 20 16:56:44 +0000 2024",
+  "text": "So, here's what I'll be building over the next few weeks alongside 2 of my other teammates at @_buildspace 's @_nightsweekends s5.\n\nLemme know your thoughts on this people.\nAny feedback or recommendations are appreciated.\n\n@FarzaTV https://t.co/jHXW6yeGwt",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 19,
+  "conversation_id": "1803834380055413043",
+  "retweets": 2,
+  "views": "3692",
+  "user_info": {
+    "screen_name": "ms__chandana",
+    "name": "Chandana M S",
+    "description": "CS undergrad @PESUniversity\nAlterok @_buildspace 's @_nightsweekends s5",
+    "rest_id": "1591094724974194688",
+    "followers_count": 334,
+    "favourites_count": 1958,
+    "avatar": "https://pbs.twimg.com/profile_images/1800575454333784065/bfecVmlL_normal.jpg",
+    "verified": false,
+    "friends_count": 220
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQiBenRbAAAvx3_.jpg",
+        "id": "1803834013699997696"
+      }
+    ]
+  }
+}

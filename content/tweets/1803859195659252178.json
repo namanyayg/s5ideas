@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803859195659252178",
+  "screen_name": "AdrianKrywiak",
+  "bookmarks": 0,
+  "favorites": 7,
+  "created_at": "Thu Jun 20 18:35:20 +0000 2024",
+  "text": "posting again and asking for some more feedback\n\ncc. @FarzaTV @_buildspace @_nightsweekends https://t.co/X8lvQoq2sF",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 2,
+  "conversation_id": "1803859195659252178",
+  "retweets": 0,
+  "views": "60",
+  "user_info": {
+    "screen_name": "AdrianKrywiak",
+    "name": "Adrian Krywiak",
+    "description": "",
+    "rest_id": "1701173307704221696",
+    "followers_count": 11,
+    "favourites_count": 18,
+    "avatar": "https://pbs.twimg.com/profile_images/1701173852653363200/mJlaXxgc_normal.jpg",
+    "verified": false,
+    "friends_count": 12
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQiYYKXWQAEJ7Kd.jpg",
+        "id": "1803859191628447745"
+      }
+    ]
+  }
+}

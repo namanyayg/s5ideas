@@ -1,0 +1,98 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803488403507323024",
+  "screen_name": "Mike_Andreuzza",
+  "bookmarks": 2,
+  "favorites": 30,
+  "created_at": "Wed Jun 19 18:01:57 +0000 2024",
+  "text": "Hey @_buildspace, I would be ashamed having this person on your platform, look at the comments he goes around with... \n\nhttps://t.co/HTI7eJGCBr\n\n🤦 https://t.co/CLPPNrtJWe",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 17,
+  "conversation_id": "1803488403507323024",
+  "retweets": 0,
+  "views": "13414",
+  "user_info": {
+    "screen_name": "Mike_Andreuzza",
+    "name": "Michael Andreuzza",
+    "description": "Design & Code\n\nProject: https://t.co/ZVDqv2KNfl\n— Free & premium multipage themes and UI  Kits crafted with Astro.js & Tailwind CSS",
+    "rest_id": "953420111305760769",
+    "followers_count": 9569,
+    "favourites_count": 18047,
+    "avatar": "https://pbs.twimg.com/profile_images/1795910538582532096/xV_YVl9e_normal.jpg",
+    "verified": false,
+    "friends_count": 290
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQdHJEhXUAAFg51.jpg",
+        "id": "1803488396943249408"
+      }
+    ]
+  },
+  "quoted": {
+    "tweet_id": "1801104613556527506",
+    "bookmarks": 1,
+    "created_at": "Thu Jun 13 04:09:37 +0000 2024",
+    "favorites": 1,
+    "text": "Yess , I'm in . @_buildspace 💙✌🏻\n#buildspace https://t.co/3thiMFIcdF",
+    "lang": "en",
+    "views": "14072",
+    "quotes": 1,
+    "replies": 0,
+    "retweets": 0,
+    "conversation_id": "1801104613556527506",
+    "author": {
+      "rest_id": "1643840488502620160",
+      "name": "Anish Biswas",
+      "screen_name": "xevenbiswas",
+      "avatar": "https://pbs.twimg.com/profile_images/1802589730191884288/2iywd8QE_normal.jpg",
+      "blue_verified": false
+    },
+    "media": {
+      "video": [
+        {
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1801104570057146368/pu/img/8bRAZH2tS8mixkUy.jpg",
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1801104570057146368/pu/pl/KP5-JgxQSuZX6ACA.m3u8?tag=12"
+            },
+            {
+              "bitrate": 632000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1801104570057146368/pu/vid/avc1/320x568/keHXv7nTKWdQxA5p.mp4?tag=12"
+            },
+            {
+              "bitrate": 950000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1801104570057146368/pu/vid/avc1/480x852/7sMs-MobwbqZkR5D.mp4?tag=12"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1801104570057146368/pu/vid/avc1/720x1280/rxCzIUYEmx9Ge4Ig.mp4?tag=12"
+            }
+          ],
+          "aspect_ratio": [
+            9,
+            16
+          ],
+          "original_info": {
+            "height": 1280,
+            "width": 720,
+            "focus_rects": []
+          },
+          "id": "1801104570057146368"
+        }
+      ],
+      "photo": [
+        {
+          "media_url_https": "https://pbs.twimg.com/media/GP7PGPfWkAAx8ov.jpg",
+          "id": "1801104607138975744"
+        }
+      ]
+    }
+  }
+}

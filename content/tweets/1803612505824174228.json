@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803612505824174228",
+  "screen_name": "ilyasdey",
+  "bookmarks": 3,
+  "favorites": 113,
+  "created_at": "Thu Jun 20 02:15:05 +0000 2024",
+  "text": "Here’s my one liner for what I’ll officially be working on for the next six weeks @_buildspace and @_nightsweekends \n\nI’ll be traveling between these countries in the summer so I figured I’d take the opportunity and make something \n\nLmk what you all think 💭 https://t.co/QCZTHX3OPL",
+  "lang": "en",
+  "quotes": 1,
+  "replies": 48,
+  "conversation_id": "1803612505824174228",
+  "retweets": 3,
+  "views": "2975",
+  "user_info": {
+    "screen_name": "ilyasdey",
+    "name": "Ilyas Dey",
+    "description": "Developing Filmmaker\n🎥 Dey2Dey Films\n📍Bay Area\n💬 DM for Work",
+    "rest_id": "1794482982461575168",
+    "followers_count": 16,
+    "favourites_count": 42,
+    "avatar": "https://pbs.twimg.com/profile_images/1794483738757488640/8Pw5lV0d_normal.jpg",
+    "verified": false,
+    "friends_count": 18
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQe4A8gaIAQ-Be1.jpg",
+        "id": "1803612502166740996"
+      }
+    ]
+  }
+}

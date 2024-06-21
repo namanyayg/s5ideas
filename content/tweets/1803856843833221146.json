@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803856843833221146",
+  "screen_name": "artifyr01",
+  "bookmarks": 0,
+  "favorites": 2,
+  "created_at": "Thu Jun 20 18:26:00 +0000 2024",
+  "text": "probably a bit late to post it, but here we go!\n\nworking on an abstract art piece that mixes live videos of cityscapes, and creates a real-time video using machine learning.\n\nhere's my one-liner for @_nightsweekends s5 \nwhat are your thoughts? @_buildspace https://t.co/tJT9HaLUC3",
+  "lang": "en",
+  "quotes": 1,
+  "replies": 1,
+  "conversation_id": "1803856843833221146",
+  "retweets": 0,
+  "views": "66",
+  "user_info": {
+    "screen_name": "artifyr01",
+    "name": "Artifyr",
+    "description": "i create",
+    "rest_id": "1025266217211191299",
+    "followers_count": 106,
+    "favourites_count": 2361,
+    "avatar": "https://pbs.twimg.com/profile_images/1390012754325434370/X0acQhy2_normal.jpg",
+    "verified": false,
+    "friends_count": 274
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQiWBH5WQAAXoBF.jpg",
+        "id": "1803856596805500928"
+      }
+    ]
+  }
+}

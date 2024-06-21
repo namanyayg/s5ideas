@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803994920304435642",
+  "screen_name": "CodesKae",
+  "bookmarks": 1,
+  "favorites": 9,
+  "created_at": "Fri Jun 21 03:34:40 +0000 2024",
+  "text": "Posting once more to get some cool feedback!!\nHey YOU 🫵 ! Stop scrolling and look at my idea slide! \n@_nightsweekends @_buildspace @FarzaTV https://t.co/NkAgUJrRii",
+  "lang": "en",
+  "quotes": 1,
+  "replies": 5,
+  "conversation_id": "1803994920304435642",
+  "retweets": 0,
+  "views": "230",
+  "user_info": {
+    "screen_name": "CodesKae",
+    "name": "Krishna Sarathi Ghosh",
+    "description": "14yo web dev • python • go • c • part time designer, video & audio editor • s4, s5 @_buildspace • alterok 🟦 • learning cybersecurity • sharing what i learn",
+    "rest_id": "1495009262070026242",
+    "followers_count": 935,
+    "favourites_count": 3819,
+    "avatar": "https://pbs.twimg.com/profile_images/1802663719119536128/KYL0-OB4_normal.jpg",
+    "verified": false,
+    "friends_count": 928
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQkTz7ZakAEf9En.jpg",
+        "id": "1803994908577140737"
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803882026191442242",
+  "screen_name": "lych3es",
+  "bookmarks": 0,
+  "favorites": 6,
+  "created_at": "Thu Jun 20 20:06:04 +0000 2024",
+  "text": "not the most innovative idea, but this is my way of combining two things i've been interested in for a while now!\n\n@_buildspace @_nightsweekends https://t.co/S1wvMKlmvz",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 4,
+  "conversation_id": "1803882026191442242",
+  "retweets": 0,
+  "views": "54",
+  "user_info": {
+    "screen_name": "lych3es",
+    "name": "e",
+    "description": "",
+    "rest_id": "1315334568787017728",
+    "followers_count": 1,
+    "favourites_count": 474,
+    "avatar": "https://pbs.twimg.com/profile_images/1525772050270285824/c8JH9Kat_normal.jpg",
+    "verified": false,
+    "friends_count": 43
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQitHwsakAI_Z--.jpg",
+        "id": "1803881999603765250"
+      }
+    ]
+  }
+}

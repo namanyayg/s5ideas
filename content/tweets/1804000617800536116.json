@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1804000617800536116",
+  "screen_name": "ivanjsoria",
+  "bookmarks": 0,
+  "favorites": 4,
+  "created_at": "Fri Jun 21 03:57:18 +0000 2024",
+  "text": "i've had this idea in my head for almost 2 years now, it's time to build it! i'll be working on edgelawyer for @_nightsweekends s5!\n\nroast my idea 🔥\n\ncc @_buildspace @FarzaTV https://t.co/DS4mGohdaq",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 1,
+  "conversation_id": "1804000617800536116",
+  "retweets": 1,
+  "views": "238",
+  "user_info": {
+    "screen_name": "ivanjsoria",
+    "name": "Iván",
+    "description": "Lawyer, CS Engineering Student/Fighting against old-school lawyering #LeXpunK / s5 @_buildspace",
+    "rest_id": "1171256013472718849",
+    "followers_count": 832,
+    "favourites_count": 6778,
+    "avatar": "https://pbs.twimg.com/profile_images/1759400784997834752/YSBXjgHg_normal.jpg",
+    "verified": false,
+    "friends_count": 5315
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQkXsRYXgAABiy1.png",
+        "id": "1803999175085883392"
+      }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803833177481281600",
+  "screen_name": "beefbonecapone",
+  "bookmarks": 0,
+  "favorites": 0,
+  "created_at": "Thu Jun 20 16:51:57 +0000 2024",
+  "text": "Revising my idea slide. Still looking for more feedback!\n\ncc\n@_buildspace\n@_nightsweekends https://t.co/e7rlxIrMw3",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803833177481281600",
+  "retweets": 0,
+  "views": "27",
+  "user_info": {
+    "screen_name": "beefbonecapone",
+    "name": "beefbonecapone",
+    "description": "Business. Business. Business.\n\nThere is no such thing as luck. There is only adequate or inadequate preparation to cope with a statistical universe.",
+    "rest_id": "1790960622655422464",
+    "followers_count": 42,
+    "favourites_count": 33,
+    "avatar": "https://pbs.twimg.com/profile_images/1790960996246331392/4bZZCQAY_normal.jpg",
+    "verified": false,
+    "friends_count": 79
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQiAtQTWQAATP7t.jpg",
+        "id": "1803833165720469504"
+      }
+    ]
+  },
+  "quoted": {
+    "tweet_id": "1803196051525923122",
+    "bookmarks": 0,
+    "created_at": "Tue Jun 18 22:40:15 +0000 2024",
+    "favorites": 0,
+    "text": "People currently have to maintain 5-6 different SaaS tools/sites to do domain registration, DNS, hosting, email, SEO, and analytics. \n\nI want to make it easier and cheaper for makers to launch and test multiple ideas. \n\nIntroducing smolhost.\n\n@_buildspace\n@_nightsweekends https://t.co/saGbRSHY1c",
+    "lang": "en",
+    "views": "90",
+    "quotes": 1,
+    "replies": 1,
+    "retweets": 0,
+    "conversation_id": "1803196051525923122",
+    "author": {
+      "rest_id": "1790960622655422464",
+      "name": "beefbonecapone",
+      "screen_name": "beefbonecapone",
+      "avatar": "https://pbs.twimg.com/profile_images/1790960996246331392/4bZZCQAY_normal.jpg",
+      "blue_verified": false
+    },
+    "media": {
+      "photo": [
+        {
+          "media_url_https": "https://pbs.twimg.com/media/GQY9BWOX0AADusf.jpg",
+          "id": "1803195794163486720"
+        }
+      ]
+    }
+  }
+}

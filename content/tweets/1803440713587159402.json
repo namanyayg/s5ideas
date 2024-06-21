@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803440713587159402",
+  "screen_name": "FelipoCruz",
+  "bookmarks": 0,
+  "favorites": 2,
+  "created_at": "Wed Jun 19 14:52:27 +0000 2024",
+  "text": "i do this with some friends, and thought it could be fun to expand 💥 the idea.\nthinking about building it\nwould love to know your thoughts 🤔! \n\ncc @_buildspace @_nightsweekends https://t.co/gP7FmR9hC6",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 1,
+  "conversation_id": "1803440713587159402",
+  "retweets": 0,
+  "views": "31",
+  "user_info": {
+    "screen_name": "FelipoCruz",
+    "name": "Felipo Cruz",
+    "description": "Let's make life about,\nMaking the best we can make,\nTo the best of our ability,\nOut of love and devotion,\nAs an offer to God ❤️",
+    "rest_id": "1184486155393343488",
+    "followers_count": 54,
+    "favourites_count": 433,
+    "avatar": "https://pbs.twimg.com/profile_images/1755177902620938240/rslj4ETH_normal.jpg",
+    "verified": false,
+    "friends_count": 453
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQcakyTXoAA8X0F.jpg",
+        "id": "1803439395065798656"
+      }
+    ]
+  }
+}

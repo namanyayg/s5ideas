@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803815913977700857",
+  "screen_name": "MilNayrb",
+  "bookmarks": 1,
+  "favorites": 7,
+  "created_at": "Thu Jun 20 15:43:21 +0000 2024",
+  "text": "had this idea since covid + lockdown happened but never took action. \n\ni know this kinda subscription service exists already, but no harm done attempting to create my own one anyway. \n\nno matter what happens, i will have a lesson to learn. \n\n@_buildspace @_nightsweekends https://t.co/3ZKT7e0s1i",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 2,
+  "conversation_id": "1803815913977700857",
+  "retweets": 0,
+  "views": "66",
+  "user_info": {
+    "screen_name": "MilNayrb",
+    "name": "0xMilnayrb",
+    "description": "Part-time degen. Full-time hodler.\n\nfyi, this account is my alter-ego.",
+    "rest_id": "1449747751151960066",
+    "followers_count": 183,
+    "favourites_count": 564,
+    "avatar": "https://pbs.twimg.com/profile_images/1584571263888261120/H3SMqo3s_normal.jpg",
+    "verified": false,
+    "friends_count": 1019
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQhvlxsbQAADbUm.jpg",
+        "id": "1803814345547399168"
+      }
+    ]
+  }
+}

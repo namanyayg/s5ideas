@@ -1,0 +1,38 @@
+{
+  "type": "tweet",
+  "tweet_id": "1804048329644609580",
+  "screen_name": "mannyyang",
+  "bookmarks": 0,
+  "favorites": 1,
+  "created_at": "Fri Jun 21 07:06:54 +0000 2024",
+  "text": "About to deploy a prototype for https://t.co/PVH529fb1P soon and whipped up a quick logo in canva for it. \n\nwdyt?\n\ncc @_buildspace @_nightsweekends https://t.co/Wq2BBiS3iy",
+  "lang": "en",
+  "quotes": 1,
+  "replies": 0,
+  "conversation_id": "1804048329644609580",
+  "retweets": 0,
+  "views": "59",
+  "user_info": {
+    "screen_name": "mannyyang",
+    "name": "mannyyang 🍊",
+    "description": "Clementine studios\n\n🔨 https://t.co/Wrlztl8d0S\n🔨 https://t.co/kcBNbiLI34\n\nhttps://t.co/nOOLTTKpi5 | alterok @_buildspace | n&w s5",
+    "rest_id": "42838121",
+    "followers_count": 358,
+    "favourites_count": 1053,
+    "avatar": "https://pbs.twimg.com/profile_images/1763450729656979456/2yhfqYV__normal.jpg",
+    "verified": false,
+    "friends_count": 547
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQlEDZKaIAAPRpO.png",
+        "id": "1804047950823432192"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQlD_JbakAA2PYP.png",
+        "id": "1804047877880320000"
+      }
+    ]
+  }
+}

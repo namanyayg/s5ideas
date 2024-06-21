@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803529260168257596",
+  "screen_name": "nishiThinks",
+  "bookmarks": 0,
+  "favorites": 3,
+  "created_at": "Wed Jun 19 20:44:18 +0000 2024",
+  "text": "Excited to get started with my idea for nights and weekends s5! I want to continue exploring 3d ui design, so I am making this project with a friend in the same domain!\n#nightsandweekendss5 @_buildspace #3ddesign #materialdesignsystem https://t.co/2z0IFlhwph",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803529260168257596",
+  "retweets": 0,
+  "views": "45",
+  "user_info": {
+    "screen_name": "nishiThinks",
+    "name": "Nishigandha",
+    "description": "Product Designer building @_builldspace s5, Prev associate @NNgroup Design Grad @PrattInstitute ; Prev @SAP_Designs; Here for books, reflections and design",
+    "rest_id": "764390554188689408",
+    "followers_count": 22,
+    "favourites_count": 26,
+    "avatar": "https://pbs.twimg.com/profile_images/1737509280998375424/0PRyLpQt_normal.jpg",
+    "verified": false,
+    "friends_count": 97
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQdsCCJaIAEZJKn.jpg",
+        "id": "1803528957977042945"
+      }
+    ]
+  }
+}

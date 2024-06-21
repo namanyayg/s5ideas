@@ -1,0 +1,38 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803449234693198284",
+  "screen_name": "NilsWestgardh",
+  "bookmarks": 1,
+  "favorites": 2,
+  "created_at": "Wed Jun 19 15:26:18 +0000 2024",
+  "text": "Took another stab at making what I'm doing during @_buildspace's @_nightsweekends S5 as clear and specific as possible.\n\nIf you're in N&amp;W I would love your feedback.\n\nLeft: first version                                   Right: second version https://t.co/xraeoZzMdq",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 2,
+  "conversation_id": "1803449234693198284",
+  "retweets": 0,
+  "views": "57",
+  "user_info": {
+    "screen_name": "NilsWestgardh",
+    "name": "Nils Westgårdh — e/acc",
+    "description": "Building @PlayNexusTcg a TCG with AI UGC: https://t.co/yl8cwZPIg7 / Novice web dev. Game dev n00b. Marketing & design pro. / Ex. Lyft / @_buildspace Nights & Weekends S5",
+    "rest_id": "976370636778909696",
+    "followers_count": 223,
+    "favourites_count": 2203,
+    "avatar": "https://pbs.twimg.com/profile_images/1803297811405910016/HE3TaV_2_normal.jpg",
+    "verified": false,
+    "friends_count": 556
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQcixhiXMAIWmrH.jpg",
+        "id": "1803448409996603394"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQcixhhWMAAtxSh.jpg",
+        "id": "1803448409992343552"
+      }
+    ]
+  }
+}

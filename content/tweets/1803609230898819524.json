@@ -1,0 +1,62 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803609230898819524",
+  "screen_name": "henqsoft",
+  "bookmarks": 0,
+  "favorites": 1,
+  "created_at": "Thu Jun 20 02:02:04 +0000 2024",
+  "text": "i could not wait to ship🚀🚀🙌 i just finished the login and signup though i have not added backend too. i have added basic routing!\n\ncc: @_buildspace @_nightsweekends @FarzaTV https://t.co/UouL7lAzlx",
+  "lang": "en",
+  "quotes": 1,
+  "replies": 0,
+  "conversation_id": "1803609230898819524",
+  "retweets": 0,
+  "views": "101",
+  "user_info": {
+    "screen_name": "henqsoft",
+    "name": "Henry Fasakin",
+    "description": "God's own boy, Fullstack Web developer, UI UX designer and game dev. I am basically the vibe tech bro. Founder @usebegg. everald @_buildspace @_nightsweekends",
+    "rest_id": "1570277251698106369",
+    "followers_count": 317,
+    "favourites_count": 8384,
+    "avatar": "https://pbs.twimg.com/profile_images/1744872239906836480/VK6j_nhR_normal.jpg",
+    "verified": false,
+    "friends_count": 717
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQe0_DyWEAAa0UT.jpg",
+        "id": "1803609171226398720"
+      }
+    ]
+  },
+  "quoted": {
+    "tweet_id": "1803594254767329383",
+    "bookmarks": 0,
+    "created_at": "Thu Jun 20 01:02:34 +0000 2024",
+    "favorites": 11,
+    "text": "i want to encourage the habit of recycling by allowing them to make extra cash from recycling their household or business waste.\n\ncc: @_buildspace @_nightsweekends \n\nThanks to @FarzaTV for the explanation. Please check it out @mrmagan_ and thanks for the tip also https://t.co/315RTu8L31",
+    "lang": "en",
+    "views": "270",
+    "quotes": 1,
+    "replies": 6,
+    "retweets": 1,
+    "conversation_id": "1803594254767329383",
+    "author": {
+      "rest_id": "1570277251698106369",
+      "name": "Henry Fasakin",
+      "screen_name": "henqsoft",
+      "avatar": "https://pbs.twimg.com/profile_images/1744872239906836480/VK6j_nhR_normal.jpg",
+      "blue_verified": false
+    },
+    "media": {
+      "photo": [
+        {
+          "media_url_https": "https://pbs.twimg.com/media/GQenIWOWoAAeE6e.jpg",
+          "id": "1803593937631748096"
+        }
+      ]
+    }
+  }
+}

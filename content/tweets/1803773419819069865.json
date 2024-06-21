@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803773419819069865",
+  "screen_name": "TzeChong2",
+  "bookmarks": 0,
+  "favorites": 2,
+  "created_at": "Thu Jun 20 12:54:30 +0000 2024",
+  "text": "my nights and weekends project! and my first twitter post haha no idea how to use twitter actually i'm a noob\n\ncc @_nightsweekends @_buildspace https://t.co/B1V8kZokEw",
+  "lang": "en",
+  "quotes": 1,
+  "replies": 2,
+  "conversation_id": "1803773419819069865",
+  "retweets": 0,
+  "views": "81",
+  "user_info": {
+    "screen_name": "TzeChong2",
+    "name": "Tze Chong",
+    "description": "",
+    "rest_id": "1552555059417780224",
+    "followers_count": 7,
+    "favourites_count": 4,
+    "avatar": "https://pbs.twimg.com/profile_images/1552555129739456512/PajTroNo_normal.jpg",
+    "verified": false,
+    "friends_count": 8
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQhKAdMaQAAdRuQ.jpg",
+        "id": "1803773022459019264"
+      }
+    ]
+  }
+}

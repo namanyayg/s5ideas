@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1804030317885559127",
+  "screen_name": "thetulipjani",
+  "bookmarks": 0,
+  "favorites": 8,
+  "created_at": "Fri Jun 21 05:55:19 +0000 2024",
+  "text": "yoo, this is me, tulip.\n\nthis is week 1, for @_nightsweekends s5 \ndone for the idea.\n\nthis will be fun. \n\nthank you @_buildspace\nily @FarzaTV https://t.co/mP4Fc6LJNk",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1804030317885559127",
+  "retweets": 0,
+  "views": "129",
+  "user_info": {
+    "screen_name": "thetulipjani",
+    "name": "tulip;",
+    "description": "front end dev. 3d artist. erevald",
+    "rest_id": "1758908435582611456",
+    "followers_count": 47,
+    "favourites_count": 204,
+    "avatar": "https://pbs.twimg.com/profile_images/1801292585295818752/hwA9aS43_normal.jpg",
+    "verified": false,
+    "friends_count": 149
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQky7y8akAQ5gN6.jpg",
+        "id": "1804029128607436804"
+      }
+    ]
+  }
+}

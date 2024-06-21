@@ -1,0 +1,42 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803904725407924618",
+  "screen_name": "focased_",
+  "bookmarks": 1,
+  "favorites": 21,
+  "created_at": "Thu Jun 20 21:36:16 +0000 2024",
+  "text": "It seems like people liked my tiktok for games idea. Made some mockups for it.\n\nIt's my first time building in public. Show me the power of it. Look forward to seeing what everyone thinks 🤠\n\nThanks to @FarzaTV, @_buildspace, and @_nightsweekends for the inspiration and advice. https://t.co/4VBgbe6ht0",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 8,
+  "conversation_id": "1803904725407924618",
+  "retweets": 0,
+  "views": "706",
+  "user_info": {
+    "screen_name": "focased_",
+    "name": "CAS",
+    "description": "Founder of a tutoring business and a bunch of gaming sites. When online, I like to stay focased 🤠",
+    "rest_id": "1778983964079714305",
+    "followers_count": 104,
+    "favourites_count": 39,
+    "avatar": "https://pbs.twimg.com/profile_images/1803304328687464448/yTlgSWjS_normal.jpg",
+    "verified": false,
+    "friends_count": 87
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQjBoU8XoAErUQ5.jpg",
+        "id": "1803904549322727425"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQjBoS9WEAAYRQm.jpg",
+        "id": "1803904548789948416"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQjBrQ-WUAAOe5H.jpg",
+        "id": "1803904599796895744"
+      }
+    ]
+  }
+}

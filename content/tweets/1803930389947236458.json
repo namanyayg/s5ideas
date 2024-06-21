@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803930389947236458",
+  "screen_name": "Greatwitness_",
+  "bookmarks": 0,
+  "favorites": 4,
+  "created_at": "Thu Jun 20 23:18:15 +0000 2024",
+  "text": "For the next 6 weeks, I will be designing and developing my Webflow portfolio.\n\ncc: @_buildspace @_nightsweekends https://t.co/Yp0MuU98r6",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 2,
+  "conversation_id": "1803930389947236458",
+  "retweets": 0,
+  "views": "65",
+  "user_info": {
+    "screen_name": "Greatwitness_",
+    "name": "Greatness",
+    "description": "✝️ WITNESS ✦ Freelance Web Designer ✦ Webflow Developer ✦ Front-end Developer ✦ Designing result driven websites for businesses",
+    "rest_id": "1293534476992118785",
+    "followers_count": 896,
+    "favourites_count": 2266,
+    "avatar": "https://pbs.twimg.com/profile_images/1725819229948039168/CnHmhRrw_normal.jpg",
+    "verified": false,
+    "friends_count": 847
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQjYoNGWsAAnOsY.jpg",
+        "id": "1803929835984564224"
+      }
+    ]
+  }
+}

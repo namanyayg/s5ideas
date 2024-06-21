@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803498944233607379",
+  "screen_name": "JuanJosAO1",
+  "bookmarks": 0,
+  "favorites": 1,
+  "created_at": "Wed Jun 19 18:43:50 +0000 2024",
+  "text": "Hey what’s up check Global Developer Clubs: https://t.co/T78yYBeXvU\n\nWhat we want is for you to leave your college club with a job or with a startup :D\n\n@_buildspace\n@FarzaTV\n@_nightsweekends https://t.co/fZMQpKxXPy",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803498944233607379",
+  "retweets": 0,
+  "views": "45",
+  "user_info": {
+    "screen_name": "JuanJosAO1",
+    "name": "RedFace",
+    "description": "Software engineer. I like to build things.",
+    "rest_id": "1046240964396961792",
+    "followers_count": 1,
+    "favourites_count": 32,
+    "avatar": "https://pbs.twimg.com/profile_images/1803486451885023232/KnXe4f3k_normal.jpg",
+    "verified": false,
+    "friends_count": 51
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQdQbzhWEAE40cD.png",
+        "id": "1803498614401929217"
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803865263806218262",
+  "screen_name": "gjoddoye",
+  "bookmarks": 0,
+  "favorites": 4,
+  "created_at": "Thu Jun 20 18:59:27 +0000 2024",
+  "text": "here’s my polished idea. i’m confident, i hope you are too @_nightsweekends @_buildspace \nany thoughts? https://t.co/3rcTpVV5ZC",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 2,
+  "conversation_id": "1803865263806218262",
+  "retweets": 0,
+  "views": "104",
+  "user_info": {
+    "screen_name": "gjoddoye",
+    "name": "GJ",
+    "description": "",
+    "rest_id": "466802952",
+    "followers_count": 403,
+    "favourites_count": 10816,
+    "avatar": "https://pbs.twimg.com/profile_images/1369246696115437568/J9Ov0Lh1_normal.jpg",
+    "verified": false,
+    "friends_count": 308
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQid4UbWoAAJPXZ.jpg",
+        "id": "1803865241643556864"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQid4UkXsAAHaKd.jpg",
+        "id": "1803865241681375232"
+      }
+    ]
+  }
+}

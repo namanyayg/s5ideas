@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803653945380020481",
+  "screen_name": "sxhxuknaman",
+  "bookmarks": 0,
+  "favorites": 1,
+  "created_at": "Thu Jun 20 04:59:45 +0000 2024",
+  "text": "well well , looks like someone hit  the workstation this morning!\n@_buildspace https://t.co/YMALsi8vyC",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803653945380020481",
+  "retweets": 0,
+  "views": "30",
+  "user_info": {
+    "screen_name": "sxhxuknaman",
+    "name": "Naman Shukla",
+    "description": "more alarms and more surprises | \nbuilding femto(temp name) | gaudmire @buildspace",
+    "rest_id": "1195557881082368001",
+    "followers_count": 30,
+    "favourites_count": 318,
+    "avatar": "https://pbs.twimg.com/profile_images/1796220819326066688/yZThB9V8_normal.jpg",
+    "verified": false,
+    "friends_count": 167
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQfdizhaIAMBYC3.jpg",
+        "id": "1803653765800796163"
+      }
+    ]
+  }
+}

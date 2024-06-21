@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803648863774859746",
+  "screen_name": "niyonx",
+  "bookmarks": 0,
+  "favorites": 10,
+  "created_at": "Thu Jun 20 04:39:33 +0000 2024",
+  "text": "1/6 fk yea 🫡\n\n@_buildspace @_nightsweekends https://t.co/g5oKm1b41j",
+  "lang": "lv",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803648863774859746",
+  "retweets": 0,
+  "views": "206",
+  "user_info": {
+    "screen_name": "niyonx",
+    "name": "Nigel Yong",
+    "description": "Founded a 100k MRR start up and exited with 0$ in profit.\n\nNow making it building in public!\n\nDo you use YouTube? Join TimeSkip waitlist 👇",
+    "rest_id": "3183099291",
+    "followers_count": 662,
+    "favourites_count": 2376,
+    "avatar": "https://pbs.twimg.com/profile_images/1745929918150479872/nCS-to_f_normal.jpg",
+    "verified": false,
+    "friends_count": 412
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQfZEMdWQAAvFnt.jpg",
+        "id": "1803648841872195584"
+      }
+    ]
+  }
+}

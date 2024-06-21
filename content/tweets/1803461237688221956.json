@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803461237688221956",
+  "screen_name": "Mariana0ka",
+  "bookmarks": 1,
+  "favorites": 5,
+  "created_at": "Wed Jun 19 16:14:00 +0000 2024",
+  "text": "what’s up this is my plan for the next 6 weeks. \ns5 people here? let's be feedback and accountability homies \ncc: @_buildspace @_nightsweekends @FarzaTV https://t.co/XRkfBXWKKF",
+  "lang": "en",
+  "quotes": 1,
+  "replies": 1,
+  "conversation_id": "1803461237688221956",
+  "retweets": 0,
+  "views": "369",
+  "user_info": {
+    "screen_name": "Mariana0ka",
+    "name": "mariana oka",
+    "description": "👩🏻‍💻 Senior Product Designer for emergent technology | Gaudmire @_buildspace @nightsweekends s5",
+    "rest_id": "1324829058643992578",
+    "followers_count": 400,
+    "favourites_count": 375,
+    "avatar": "https://pbs.twimg.com/profile_images/1803608454650580994/Bp3eh8Y5_normal.jpg",
+    "verified": false,
+    "friends_count": 208
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQcr7U6WEAANjbB.jpg",
+        "id": "1803458474010873856"
+      }
+    ]
+  }
+}

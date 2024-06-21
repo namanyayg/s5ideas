@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1801468657769329079",
+  "screen_name": "uxbykai",
+  "bookmarks": 0,
+  "favorites": 18,
+  "created_at": "Fri Jun 14 04:16:12 +0000 2024",
+  "text": "day 7 of #30NitesOfCode:\n\n✔️ finished @codedex_io CSS course\n✔️ downloaded cursor\n✔️ started sketching for HTML/CSS web project\n\nwas inspired by @_buildspace swag + was thinkin theme is like 'designer dev diary' notebook-esque 8bit style https://t.co/rqOwBGhb2j",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 1,
+  "conversation_id": "1801468657769329079",
+  "retweets": 0,
+  "views": "693",
+  "user_info": {
+    "screen_name": "uxbykai",
+    "name": "Howdy Im Kai",
+    "description": "Cofounder + Product Designer of @sprintfolio_co | I empower designers to upskill and leverage AI to grow their careers | @_buildspace sf1",
+    "rest_id": "1629549375142723584",
+    "followers_count": 883,
+    "favourites_count": 3396,
+    "avatar": "https://pbs.twimg.com/profile_images/1745903824164839424/aBivWhic_normal.jpg",
+    "verified": false,
+    "friends_count": 725
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQAZEH0X0AAJ00l.jpg",
+        "id": "1801467409557082112"
+      }
+    ]
+  }
+}

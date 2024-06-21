@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803842323476025550",
+  "screen_name": "_Abhinavgpt_",
+  "bookmarks": 0,
+  "favorites": 3,
+  "created_at": "Thu Jun 20 17:28:18 +0000 2024",
+  "text": "Here's what I am going to build for the next 6 weeks.  \n\nI will be working on a personal management agent(Chronos) apart from this I am also building a chrome extension(fanfiction downloader) it's version 1 is already out working on next version.\n\n@_buildspace  @_nightsweekends https://t.co/FesgMhJQLT",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 4,
+  "conversation_id": "1803842323476025550",
+  "retweets": 0,
+  "views": "35",
+  "user_info": {
+    "screen_name": "_Abhinavgpt_",
+    "name": "Abhinav Gupta",
+    "description": "AI Enthusiast | Web Developer | Computer Science Student at @Scaler_SSt",
+    "rest_id": "1688813753318682624",
+    "followers_count": 13,
+    "favourites_count": 59,
+    "avatar": "https://pbs.twimg.com/profile_images/1757347948940378112/WYvYGBCa_normal.jpg",
+    "verified": false,
+    "friends_count": 38
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQiI44hWEAA6Jsm.jpg",
+        "id": "1803842161588178944"
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803634631230840880",
+  "screen_name": "dhungjoo",
+  "bookmarks": 3,
+  "favorites": 89,
+  "created_at": "Thu Jun 20 03:43:00 +0000 2024",
+  "text": "I've built multiple e-commerce businesses ranging from $1k to $500k+.\n\nBuilding a new one from scratch with @katiewpeace and publicly documenting the whole process through @_buildspace nws5 https://t.co/a4x9H51SLn",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 34,
+  "conversation_id": "1803634631230840880",
+  "retweets": 2,
+  "views": "3350",
+  "user_info": {
+    "screen_name": "dhungjoo",
+    "name": "DJ Kim",
+    "description": "2x exited founder (e-commerce & saas)\n🧑🏻‍💻 https://t.co/MnY4b8DdWr\n📝 https://t.co/fbRA5Hhd3M",
+    "rest_id": "1192203210511077379",
+    "followers_count": 2191,
+    "favourites_count": 1488,
+    "avatar": "https://pbs.twimg.com/profile_images/1750647208062668800/2ErjYRoJ_normal.jpg",
+    "verified": false,
+    "friends_count": 1775
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQfMAIMbYAAoayo.jpg",
+        "id": "1803634478356848640"
+      }
+    ]
+  }
+}

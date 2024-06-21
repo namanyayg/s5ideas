@@ -1,0 +1,62 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803850915465826806",
+  "screen_name": "tarungiriraj",
+  "bookmarks": 0,
+  "favorites": 14,
+  "created_at": "Thu Jun 20 18:02:26 +0000 2024",
+  "text": "After few f/b , I have updated my idea slide. \n\nWould love to know your thoughts on the new idea slide. \n\nBtw, watching the lab-1 rn. @FarzaTV it’s really helpful breaking down of idea slides. \n\n@_buildspace @_nightsweekends \n\n#buildspace https://t.co/OsXbVe5vTH",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 3,
+  "conversation_id": "1803850915465826806",
+  "retweets": 0,
+  "views": "222",
+  "user_info": {
+    "screen_name": "tarungiriraj",
+    "name": "Tarun",
+    "description": "Content & Community | Building my first product public | \nGaudmire @_nightsweekends S5",
+    "rest_id": "1689327451846123521",
+    "followers_count": 38,
+    "favourites_count": 189,
+    "avatar": "https://pbs.twimg.com/profile_images/1689345924349440004/7HB92yKJ_normal.jpg",
+    "verified": false,
+    "friends_count": 33
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQiQ1rwXQAE8RAX.jpg",
+        "id": "1803850902714925057"
+      }
+    ]
+  },
+  "quoted": {
+    "tweet_id": "1803134870723633648",
+    "bookmarks": 0,
+    "created_at": "Tue Jun 18 18:37:08 +0000 2024",
+    "favorites": 19,
+    "text": "We have an idea slide now. \n\nQuotient - An exclusive community for micro &amp; nano creators for 6-12 weeks where we help them grow &amp; scale in terms of revenue streams. \n\nThe statement “YC for creators” is a long term vision I have for Quotient. \n\ncc @_buildspace @_nightsweekends https://t.co/pPodLq9Lln",
+    "lang": "en",
+    "views": "495",
+    "quotes": 1,
+    "replies": 11,
+    "retweets": 0,
+    "conversation_id": "1803134870723633648",
+    "author": {
+      "rest_id": "1689327451846123521",
+      "name": "Tarun",
+      "screen_name": "tarungiriraj",
+      "avatar": "https://pbs.twimg.com/profile_images/1689345924349440004/7HB92yKJ_normal.jpg",
+      "blue_verified": false
+    },
+    "media": {
+      "photo": [
+        {
+          "media_url_https": "https://pbs.twimg.com/media/GQYFmWgXUAAkUGK.jpg",
+          "id": "1803134857242955776"
+        }
+      ]
+    }
+  }
+}

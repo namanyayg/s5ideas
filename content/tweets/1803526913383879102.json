@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803526913383879102",
+  "screen_name": "exportpng",
+  "bookmarks": 1,
+  "favorites": 18,
+  "created_at": "Wed Jun 19 20:34:58 +0000 2024",
+  "text": "For the next 6 weeks, I will be posting daily threads to make it easy for people to onboard onto web3\n\nthoughts on this? \n\ncc @_buildspace @_nightsweekends @FarzaTV https://t.co/V4uduz1upI",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 11,
+  "conversation_id": "1803526913383879102",
+  "retweets": 1,
+  "views": "496",
+  "user_info": {
+    "screen_name": "exportpng",
+    "name": "Varun Satyam",
+    "description": "✦ Ex-@Tether_to & @Ankr \n7+ years in crypto \n✦ Sharing daily threads to help first-timers become crypto natives in 45 days  \n🏆 Honored 35u35 by @Entrepreneur",
+    "rest_id": "2862734838",
+    "followers_count": 2034,
+    "favourites_count": 866,
+    "avatar": "https://pbs.twimg.com/profile_images/1797013173452832769/s_ndOeL5_normal.jpg",
+    "verified": false,
+    "friends_count": 1669
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQdpOfOaMAArLIq.jpg",
+        "id": "1803525873406193664"
+      }
+    ]
+  }
+}

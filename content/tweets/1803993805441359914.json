@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803993805441359914",
+  "screen_name": "yugpatel8767",
+  "bookmarks": 0,
+  "favorites": 1,
+  "created_at": "Fri Jun 21 03:30:14 +0000 2024",
+  "text": "End of night 5 for @_nightsweekends \nCreated a function from scratch to compare dates for Homeworks since python's inbuilt functions were troubling me. https://t.co/Ms848LKaTn",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803993805441359914",
+  "retweets": 0,
+  "views": "33",
+  "user_info": {
+    "screen_name": "yugpatel8767",
+    "name": "Yug Patel",
+    "description": "Alterock @ buildspace | Codepath",
+    "rest_id": "1738219892870963200",
+    "followers_count": 12,
+    "favourites_count": 93,
+    "avatar": "https://pbs.twimg.com/profile_images/1791196058464206848/KuXj1E7J_normal.jpg",
+    "verified": false,
+    "friends_count": 305
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQkSzm2XoAA1JVq.jpg",
+        "id": "1803993803549810688"
+      }
+    ]
+  }
+}

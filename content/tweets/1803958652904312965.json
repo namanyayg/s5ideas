@@ -1,0 +1,42 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803958652904312965",
+  "screen_name": "fareehasala",
+  "bookmarks": 0,
+  "favorites": 6,
+  "created_at": "Fri Jun 21 01:10:33 +0000 2024",
+  "text": "just launched the waitlist for https://t.co/18HdypOWoi!\n\nwould love feedback from the wonderful buildspace s5 community 💛 \n\ncc: @_buildspace @_nightsweekends https://t.co/YPUKUHF2kn",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 2,
+  "conversation_id": "1803958652904312965",
+  "retweets": 0,
+  "views": "146",
+  "user_info": {
+    "screen_name": "fareehasala",
+    "name": "Fareeha S",
+    "description": "founder @tesselapp",
+    "rest_id": "1177273100552921088",
+    "followers_count": 33,
+    "favourites_count": 41,
+    "avatar": "https://pbs.twimg.com/profile_images/1768031154740101120/ERYLHFbW_normal.jpg",
+    "verified": false,
+    "friends_count": 121
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQjy1WjakAAbaC1.jpg",
+        "id": "1803958649162993664"
+      }
+    ]
+  },
+  "place": {
+    "country": "United States",
+    "country_code": "US",
+    "name": "San Francisco",
+    "full_name": "San Francisco, CA",
+    "place_type": "city",
+    "more_data_url": "https://api.twitter.com/1.1/geo/id/5a110d312052166f.json"
+  }
+}

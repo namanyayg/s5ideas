@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803420232423272495",
+  "screen_name": "cool_cocohearts",
+  "bookmarks": 1,
+  "favorites": 7,
+  "created_at": "Wed Jun 19 13:31:03 +0000 2024",
+  "text": "inspired by @pravardh_mishra:\n\nafter s5 day 1, this is what I'll be working on for 6 weeks\n\nwould love any advice or feedback on making this more specific/measurable/interesting! any potential side ideas are also welcome!\n\ncc @_buildspace — @alec_dilanchian @amit_ajwani @FarzaTV https://t.co/jaQndQd7bx",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 1,
+  "conversation_id": "1803420232423272495",
+  "retweets": 0,
+  "views": "141",
+  "user_info": {
+    "screen_name": "cool_cocohearts",
+    "name": "Alex Zhao",
+    "description": "",
+    "rest_id": "1749661083986759680",
+    "followers_count": 191,
+    "favourites_count": 94,
+    "avatar": "https://pbs.twimg.com/profile_images/1749661150508470272/Fag34JWp_normal.png",
+    "verified": false,
+    "friends_count": 277
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQcJIfaWgAAEviJ.jpg",
+        "id": "1803420217260802048"
+      }
+    ]
+  }
+}

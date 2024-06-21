@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803520332999041180",
+  "screen_name": "RogerMadeThis",
+  "bookmarks": 0,
+  "favorites": 4,
+  "created_at": "Wed Jun 19 20:08:49 +0000 2024",
+  "text": "who else is doing filmmaking? @_buildspace \n\n@_nightsweekends 💚 💚 💚 https://t.co/z9ke3s9CAA",
+  "lang": "en",
+  "quotes": 1,
+  "replies": 1,
+  "conversation_id": "1803520332999041180",
+  "retweets": 0,
+  "views": "164",
+  "user_info": {
+    "screen_name": "RogerMadeThis",
+    "name": "Roger 🌱",
+    "description": "founder of Vibeverse 🌱 going all in this summer @_buildspace 🌴\n\n@vibeverse_ai 💚 erevald team",
+    "rest_id": "1382969555132239878",
+    "followers_count": 493,
+    "favourites_count": 4040,
+    "avatar": "https://pbs.twimg.com/profile_images/1795690418610601984/VB1u99uq_normal.jpg",
+    "verified": false,
+    "friends_count": 249
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQdjvfPWAAAbuEC.jpg",
+        "id": "1803519843276029952"
+      }
+    ]
+  }
+}

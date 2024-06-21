@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803558750487298237",
+  "screen_name": "Prithivdev",
+  "bookmarks": 0,
+  "favorites": 6,
+  "created_at": "Wed Jun 19 22:41:29 +0000 2024",
+  "text": "This has been a personal demon I had to fight. I learned so much from this experience, so I wanna build an app that helps other people on their journey to quit vaping.\n\npure breath - finally quit vaping\ncc: @_buildspace @_nightsweekends @FarzaTV @stavanpatel @amit_ajwani https://t.co/QzbIfJrp2k",
+  "lang": "en",
+  "quotes": 1,
+  "replies": 7,
+  "conversation_id": "1803558750487298237",
+  "retweets": 0,
+  "views": "171",
+  "user_info": {
+    "screen_name": "Prithivdev",
+    "name": "Prithiv Dev",
+    "description": "Tech | Vipassana | Weights",
+    "rest_id": "144886466",
+    "followers_count": 370,
+    "favourites_count": 1480,
+    "avatar": "https://pbs.twimg.com/profile_images/1712936975546675201/1TDKa6BJ_normal.jpg",
+    "verified": false,
+    "friends_count": 2181
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQeFC3HXQAAgeCD.jpg",
+        "id": "1803556459986239488"
+      }
+    ]
+  }
+}

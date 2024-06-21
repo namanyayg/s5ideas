@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803499031626391692",
+  "screen_name": "constantout",
+  "bookmarks": 5,
+  "favorites": 30,
+  "created_at": "Wed Jun 19 18:44:11 +0000 2024",
+  "text": "You have an exciting idea.\n\nI have the technical skills.\n\nLet's launch it and get your first users.\n\nP.S: I initially considered building my own thing. I chose Refined, after several people on Sage reached out looking for a dev partner.\n\ncc @_buildspace @_nightsweekends https://t.co/63SotJwdgb",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 6,
+  "conversation_id": "1803499031626391692",
+  "retweets": 0,
+  "views": "1301",
+  "user_info": {
+    "screen_name": "constantout",
+    "name": "Constantin 🔥",
+    "description": "🔬 Running web agency: https://t.co/lsZHViBZqd\n\n🧑‍💻 Personal website: https://t.co/WpYXTjMYjv\n\n📥 Open for work",
+    "rest_id": "1155168157205716993",
+    "followers_count": 2173,
+    "favourites_count": 23266,
+    "avatar": "https://pbs.twimg.com/profile_images/1700127843462565888/SbPAubiY_normal.jpg",
+    "verified": false,
+    "friends_count": 116
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQdQz0yW4AA94R9.jpg",
+        "id": "1803499027058581504"
+      }
+    ]
+  }
+}

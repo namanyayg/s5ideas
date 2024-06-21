@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803802705749786957",
+  "screen_name": "SaiAlanthr80979",
+  "bookmarks": 0,
+  "favorites": 1,
+  "created_at": "Thu Jun 20 14:50:52 +0000 2024",
+  "text": "I'm taking part in nights &amp; weekends S5 of @_buildspace @_nightsweekends \n\nThe idea is complex for me but I'll document everything so that I can open source it.\n\nI will try to build a database system in Go Lang probably so that it's ease for development. \nI'm open to inputs. https://t.co/RnqZjjTiuX",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803802705749786957",
+  "retweets": 1,
+  "views": "33",
+  "user_info": {
+    "screen_name": "SaiAlanthr80979",
+    "name": "Sai Teja Alanthrawar",
+    "description": "A passionate coder",
+    "rest_id": "1717494725559918592",
+    "followers_count": 20,
+    "favourites_count": 52,
+    "avatar": "https://pbs.twimg.com/profile_images/1752694245033676801/Ivp6jWYq_normal.jpg",
+    "verified": false,
+    "friends_count": 87
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQhlAFAakAAVOze.jpg",
+        "id": "1803802702780207104"
+      }
+    ]
+  }
+}

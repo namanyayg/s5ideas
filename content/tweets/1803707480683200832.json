@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803707480683200832",
+  "screen_name": "happilyMN",
+  "bookmarks": 0,
+  "favorites": 2,
+  "created_at": "Thu Jun 20 08:32:29 +0000 2024",
+  "text": "My plan for next 6 weeks\n\n@_buildspace\n \n@_nightsweekends https://t.co/A8qwkVsRKj",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803707480683200832",
+  "retweets": 0,
+  "views": "48",
+  "user_info": {
+    "screen_name": "happilyMN",
+    "name": "Manish Nair",
+    "description": "Para Athlete\n2nd position\nSilver Medal🥈\nWEB dEVELOPER\n#ARMWRESLING",
+    "rest_id": "795923686293389312",
+    "followers_count": 260,
+    "favourites_count": 4398,
+    "avatar": "https://pbs.twimg.com/profile_images/1782420707076616192/9l2LcbS8_normal.jpg",
+    "verified": false,
+    "friends_count": 931
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQgOZRPWEAAaGBb.jpg",
+        "id": "1803707478049165312"
+      }
+    ]
+  }
+}

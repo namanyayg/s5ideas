@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803784417887781036",
+  "screen_name": "iamsuyashprabhu",
+  "bookmarks": 0,
+  "favorites": 1,
+  "created_at": "Thu Jun 20 13:38:12 +0000 2024",
+  "text": "I am building @raisegate for n&amp;w s5 with @yashpanditrao, this is our one-liner. Our product goes live soon!\n\ncc: @_buildspace  @_nightsweekends https://t.co/nPIj7Y6Uuh",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 2,
+  "conversation_id": "1803784417887781036",
+  "retweets": 1,
+  "views": "51",
+  "user_info": {
+    "screen_name": "iamsuyashprabhu",
+    "name": "Suyash Prabhu",
+    "description": "Building @RaiseGate | Alterok @_buildspace | Prev @ServiziHQ",
+    "rest_id": "1580909593227673603",
+    "followers_count": 15,
+    "favourites_count": 23,
+    "avatar": "https://pbs.twimg.com/profile_images/1740243656517496832/6Nwq5QJ-_normal.jpg",
+    "verified": false,
+    "friends_count": 27
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQhOpeNWgAAL6vg.jpg",
+        "id": "1803778125152550912"
+      }
+    ]
+  }
+}

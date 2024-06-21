@@ -1,0 +1,38 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803540937701990821",
+  "screen_name": "lkmnch",
+  "bookmarks": 0,
+  "favorites": 5,
+  "created_at": "Wed Jun 19 21:30:42 +0000 2024",
+  "text": "Do you find yourself unsure where to start with your idea or how to maintain the discipline to work on it? Then join me in creating 'buildquest'\n\nIt's like a game and by completing it, you'll also have built your idea.\n\nWhat do you think?\n\ncc: @_buildspace  @_nightsweekends https://t.co/lDNXtwbgKk",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 3,
+  "conversation_id": "1803540937701990821",
+  "retweets": 0,
+  "views": "85",
+  "user_info": {
+    "screen_name": "lkmnch",
+    "name": "Loukmane",
+    "description": "I'm building a game with the goal to help you build your ideas - alterok - buildspace s5",
+    "rest_id": "1712095940322975745",
+    "followers_count": 98,
+    "favourites_count": 295,
+    "avatar": "https://pbs.twimg.com/profile_images/1718952197545721856/AZLnpVFO_normal.jpg",
+    "verified": false,
+    "friends_count": 248
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQd2ziRXkAE8cKg.jpg",
+        "id": "1803540803530231809"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQd2v4iWoAAd70V.jpg",
+        "id": "1803540740787576832"
+      }
+    ]
+  }
+}

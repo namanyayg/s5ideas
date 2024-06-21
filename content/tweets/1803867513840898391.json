@@ -1,0 +1,38 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803867513840898391",
+  "screen_name": "yassh_77",
+  "bookmarks": 0,
+  "favorites": 4,
+  "created_at": "Thu Jun 20 19:08:24 +0000 2024",
+  "text": "Implemented pointers from today's lab:\n-Be specific\n-Avoid technical Terms\n-Make it result centric\n-Replaced \"Returns\" with \"estimates\"\n\nHere are the before (left) and after (right) one-liners: \n\n Thoughts? cc:@_buildspace \nHave I improved or was the previous version better :) https://t.co/EBLP2Xuvc6",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 5,
+  "conversation_id": "1803867513840898391",
+  "retweets": 0,
+  "views": "46",
+  "user_info": {
+    "screen_name": "yassh_77",
+    "name": "Yash",
+    "description": "Ai Enthusiast | Video Editor | Aspiring Theatre Actor / Director | alterok@_buildspace",
+    "rest_id": "1223317559354617856",
+    "followers_count": 1,
+    "favourites_count": 42,
+    "avatar": "https://pbs.twimg.com/profile_images/1386611377511407622/9hpCreYY_normal.jpg",
+    "verified": false,
+    "friends_count": 7
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQif6d3acAARnmw.jpg",
+        "id": "1803867477560160256"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQif6dzakAQ3bWo.jpg",
+        "id": "1803867477543391236"
+      }
+    ]
+  }
+}

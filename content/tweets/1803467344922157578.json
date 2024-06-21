@@ -1,0 +1,74 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803467344922157578",
+  "screen_name": "parthd98",
+  "bookmarks": 0,
+  "favorites": 3,
+  "created_at": "Wed Jun 19 16:38:16 +0000 2024",
+  "text": "just got accepted into @_buildspace  among 60,000 amazing creators! \n\nexcited to start building cool stuff. 🚀\n \nbetter late than never to share the good news!\n\ncc- @_nightsweekends https://t.co/0kit1XaMIV",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 1,
+  "conversation_id": "1803467344922157578",
+  "retweets": 0,
+  "views": "105",
+  "user_info": {
+    "screen_name": "parthd98",
+    "name": "Parth Dawda",
+    "description": "🚀 Tech Enthusiast | No-Code Builder 🛠️ | Proud member of Alterok House  @_nightsweekends s5.",
+    "rest_id": "1203157721651920896",
+    "followers_count": 73,
+    "favourites_count": 182,
+    "avatar": "https://pbs.twimg.com/profile_images/1649369658531913729/JaWGNOix_normal.jpg",
+    "verified": false,
+    "friends_count": 130
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQcznuLaYAAO2cn.jpg",
+        "id": "1803466933288984576"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQczo85acAAasPr.jpg",
+        "id": "1803466954419892224"
+      }
+    ],
+    "video": [
+      {
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1803467120539475972/pu/img/jsXZ7-1uzNv0MbYo.jpg",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1803467120539475972/pu/pl/Xe3lTAe9piyyKfQk.m3u8?tag=12"
+          },
+          {
+            "bitrate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1803467120539475972/pu/vid/avc1/320x568/N23nfFhMSkaMPy4E.mp4?tag=12"
+          },
+          {
+            "bitrate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1803467120539475972/pu/vid/avc1/480x852/W7m2AWmLid0FyKEm.mp4?tag=12"
+          },
+          {
+            "bitrate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1803467120539475972/pu/vid/avc1/720x1280/i5Czw-w9cWT4UyHG.mp4?tag=12"
+          }
+        ],
+        "aspect_ratio": [
+          9,
+          16
+        ],
+        "original_info": {
+          "height": 1920,
+          "width": 1080,
+          "focus_rects": []
+        },
+        "id": "1803467120539475972"
+      }
+    ]
+  }
+}

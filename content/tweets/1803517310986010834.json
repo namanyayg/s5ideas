@@ -1,0 +1,46 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803517310986010834",
+  "screen_name": "RogerMadeThis",
+  "bookmarks": 0,
+  "favorites": 3,
+  "created_at": "Wed Jun 19 19:56:49 +0000 2024",
+  "text": "testing features @vibeverse_ai \n\nso far images are looking good @_buildspace https://t.co/Ow4zuJANxs",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803517310986010834",
+  "retweets": 0,
+  "views": "125",
+  "user_info": {
+    "screen_name": "RogerMadeThis",
+    "name": "Roger 🌱",
+    "description": "founder of Vibeverse 🌱 going all in this summer @_buildspace 🌴\n\n@vibeverse_ai 💚 erevald team",
+    "rest_id": "1382969555132239878",
+    "followers_count": 493,
+    "favourites_count": 4040,
+    "avatar": "https://pbs.twimg.com/profile_images/1795690418610601984/VB1u99uq_normal.jpg",
+    "verified": false,
+    "friends_count": 249
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQdhS0FXYAAxH5a.jpg",
+        "id": "1803517151631859712"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQdhS0FXQAAENUH.jpg",
+        "id": "1803517151631851520"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQdhS0EXYAEPkuf.jpg",
+        "id": "1803517151627665409"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQdhS0EXIAAwRer.jpg",
+        "id": "1803517151627649024"
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803858853550825663",
+  "screen_name": "sashaprzybylski",
+  "bookmarks": 2,
+  "favorites": 83,
+  "created_at": "Thu Jun 20 18:33:59 +0000 2024",
+  "text": "this will probs change quite a bit over the next few weeks, but still super hyped. \n\ngoal is simply to learn :)\n\ncc: @_buildspace https://t.co/Q7A3aF2aOO",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 22,
+  "conversation_id": "1803858853550825663",
+  "retweets": 1,
+  "views": "2404",
+  "user_info": {
+    "screen_name": "sashaprzybylski",
+    "name": "sashaprzybylski",
+    "description": "16 | activator @tksworldhq | member @mergedotclub\n\nmaking batteries last longer with code🔋",
+    "rest_id": "1669490788470775809",
+    "followers_count": 300,
+    "favourites_count": 1519,
+    "avatar": "https://pbs.twimg.com/profile_images/1705371769106833408/YyibZ_7g_normal.jpg",
+    "verified": false,
+    "friends_count": 304
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQiX_u9WIAEJZt4.jpg",
+        "id": "1803858771954769921"
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803508712826450426",
+  "screen_name": "AnasAyubi2",
+  "bookmarks": 0,
+  "favorites": 1,
+  "created_at": "Wed Jun 19 19:22:39 +0000 2024",
+  "text": "Progress going strong with building high quality stock baskets for PSX. I've spent the past few days extracting, cleaning data and to check how the baskets perform historically. Who knew that working with stock data was this hard? 😥\n\nCC @_buildspace @_nightsweekends\n\nPost #2 https://t.co/ar5ftqUQEx",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 4,
+  "conversation_id": "1803508712826450426",
+  "retweets": 0,
+  "views": "83",
+  "user_info": {
+    "screen_name": "AnasAyubi2",
+    "name": "Anas Ayubi",
+    "description": "Product @ Mahaana (YC22)",
+    "rest_id": "926487417057697794",
+    "followers_count": 32,
+    "favourites_count": 57,
+    "avatar": "https://pbs.twimg.com/profile_images/1072705569591578625/Nn6m_0kk_normal.jpg",
+    "verified": false,
+    "friends_count": 133
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQdZnZxWAAALDD9.png",
+        "id": "1803508709252792320"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQdZncIWIAAssX6.jpg",
+        "id": "1803508709886140416"
+      }
+    ]
+  }
+}

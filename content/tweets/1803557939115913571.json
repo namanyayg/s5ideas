@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803557939115913571",
+  "screen_name": "thedeepux",
+  "bookmarks": 1,
+  "favorites": 9,
+  "created_at": "Wed Jun 19 22:38:15 +0000 2024",
+  "text": "Week 1: Update 1 \n\nTaking @_buildspace 's #nightsandweekends as a 6 week challenge.\n\nThroughout this time I'll be using @figma &amp; @framer to Design and Develop my Portfolio.\n\nThoughts/Critiques on my idea?\n\n#figma #framer #ux #portfolio #design https://t.co/rgDSzP3R8t",
+  "lang": "en",
+  "quotes": 1,
+  "replies": 2,
+  "conversation_id": "1803557939115913571",
+  "retweets": 0,
+  "views": "126",
+  "user_info": {
+    "screen_name": "thedeepux",
+    "name": "thedeepux",
+    "description": "Writer & Product Designer based in India 🇮🇳",
+    "rest_id": "1144252304771694596",
+    "followers_count": 104,
+    "favourites_count": 37448,
+    "avatar": "https://pbs.twimg.com/profile_images/1622997446375899136/HaeUwHqE_normal.jpg",
+    "verified": false,
+    "friends_count": 192
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQeGYhnWUAAqIsW.jpg",
+        "id": "1803557931683565568"
+      }
+    ]
+  }
+}

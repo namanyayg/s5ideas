@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803526186821198134",
+  "screen_name": "dp_uk07",
+  "bookmarks": 0,
+  "favorites": 7,
+  "created_at": "Wed Jun 19 20:32:05 +0000 2024",
+  "text": "This is my project for buildspace s5 🫡\nLet me know if you guys have any suggestions on this 👍\ncc - @_buildspace  , @_nightsweekends https://t.co/VfFaQGnw50",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 3,
+  "conversation_id": "1803526186821198134",
+  "retweets": 0,
+  "views": "110",
+  "user_info": {
+    "screen_name": "dp_uk07",
+    "name": "Devansh Pandey",
+    "description": "HipHop and 👨‍💻 keep me sane !!",
+    "rest_id": "1736768942524506112",
+    "followers_count": 1,
+    "favourites_count": 4,
+    "avatar": "https://pbs.twimg.com/profile_images/1736771842713817089/SSepUm1S_normal.jpg",
+    "verified": false,
+    "friends_count": 10
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQdpHBWWMAAjtWQ.png",
+        "id": "1803525745127337984"
+      }
+    ]
+  }
+}

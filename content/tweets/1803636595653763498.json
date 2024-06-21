@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803636595653763498",
+  "screen_name": "cyborgowski",
+  "bookmarks": 0,
+  "favorites": 22,
+  "created_at": "Thu Jun 20 03:50:49 +0000 2024",
+  "text": "Did @_buildspace s3+s4. Now I'm working on Chatforce in s5.\n\n@_nightsweekends https://t.co/nqfGdMdzex",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 19,
+  "conversation_id": "1803636595653763498",
+  "retweets": 3,
+  "views": "579",
+  "user_info": {
+    "screen_name": "cyborgowski",
+    "name": "Cyborgowski",
+    "description": "Software Engineer and Future Robot",
+    "rest_id": "1750251337965604864",
+    "followers_count": 25,
+    "favourites_count": 32,
+    "avatar": "https://pbs.twimg.com/profile_images/1750251972425342976/1XiHGNwG_normal.jpg",
+    "verified": false,
+    "friends_count": 15
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQfNUwXXYAAg2gR.jpg",
+        "id": "1803635932249153536"
+      }
+    ]
+  }
+}

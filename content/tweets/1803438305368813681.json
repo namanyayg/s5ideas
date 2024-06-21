@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803438305368813681",
+  "screen_name": "musafirnextdoor",
+  "bookmarks": 0,
+  "favorites": 1,
+  "created_at": "Wed Jun 19 14:42:52 +0000 2024",
+  "text": "Here's my idea that I will be working on as part of @_buildspace  @_nightsweekends s5\n\ncc: @polar_tern https://t.co/zZTN4OACtw",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803438305368813681",
+  "retweets": 0,
+  "views": "21",
+  "user_info": {
+    "screen_name": "musafirnextdoor",
+    "name": "Nitish Kr Singh",
+    "description": "co-founder @polar_tern | alterok @_buildspace",
+    "rest_id": "1514961279290843136",
+    "followers_count": 5,
+    "favourites_count": 24,
+    "avatar": "https://pbs.twimg.com/profile_images/1767692704228442112/DBp_xqFg_normal.jpg",
+    "verified": false,
+    "friends_count": 18
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQcYE1BW8AA9N1_.jpg",
+        "id": "1803436647016493056"
+      }
+    ]
+  }
+}

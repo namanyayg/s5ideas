@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803711480040395098",
+  "screen_name": "devarshukani",
+  "bookmarks": 0,
+  "favorites": 6,
+  "created_at": "Thu Jun 20 08:48:22 +0000 2024",
+  "text": "Let's get some new releases out for @ElysaApp\n\nTrying out something new with @_buildspace @_nightsweekends s5\n\nWorst case 0 likes and views with some learnings https://t.co/Mrc6vdiVfL",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 2,
+  "conversation_id": "1803711480040395098",
+  "retweets": 0,
+  "views": "66",
+  "user_info": {
+    "screen_name": "devarshukani",
+    "name": "Devarsh Ukani",
+    "description": "Apps: \n❤️‍🩹@ElysaApp\n⏳https://t.co/YweSb53ZuE",
+    "rest_id": "1229796898619502594",
+    "followers_count": 228,
+    "favourites_count": 2075,
+    "avatar": "https://pbs.twimg.com/profile_images/1753861631728308224/5S5HdLH5_normal.jpg",
+    "verified": false,
+    "friends_count": 130
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQgSB_kXgAAQYGC.jpg",
+        "id": "1803711476215021568"
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803903268889989140",
+  "screen_name": "muzzx_",
+  "bookmarks": 0,
+  "favorites": 0,
+  "created_at": "Thu Jun 20 21:30:28 +0000 2024",
+  "text": "always struggled to kickstart my freelance journey.    now, it's time to build something that makes it easier for the community!  \n\ncc @_buildspace @_nightsweekends https://t.co/tQUPxd3Cfd",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 2,
+  "conversation_id": "1803903268889989140",
+  "retweets": 0,
+  "views": "45",
+  "user_info": {
+    "screen_name": "muzzx_",
+    "name": "Hamza",
+    "description": "freelance motion designer based in islamabad",
+    "rest_id": "1201208239666401282",
+    "followers_count": 9,
+    "favourites_count": 64,
+    "avatar": "https://pbs.twimg.com/profile_images/1803745591106707456/uoLA5bVe_normal.jpg",
+    "verified": false,
+    "friends_count": 29
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQjAXdgakAQUZi3.jpg",
+        "id": "1803903160051994628"
+      }
+    ]
+  }
+}

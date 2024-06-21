@@ -1,0 +1,70 @@
+{
+  "type": "tweet",
+  "tweet_id": "1804047993923871011",
+  "screen_name": "Sm0ken42O",
+  "bookmarks": 0,
+  "favorites": 0,
+  "created_at": "Fri Jun 21 07:05:33 +0000 2024",
+  "text": "#Alterok @_buildspace #s5 @tsi_org  TY 🙃💯 \nFarza my submit !  😋🫢\nhttps://t.co/qhotWC2stn https://t.co/l04A6C3dRB",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1804047993923871011",
+  "retweets": 0,
+  "views": "22",
+  "user_info": {
+    "screen_name": "Sm0ken42O",
+    "name": "💯EpicTech367AI🔥™️",
+    "description": "A thriving community for innovation and collaboration. Network,share ideas, and gain insights from industry experts. Personalized training to achieve your goals",
+    "rest_id": "1521966189227958275",
+    "followers_count": 1072,
+    "favourites_count": 1891,
+    "avatar": "https://pbs.twimg.com/profile_images/1781460112512622592/4sr6x7u-_normal.jpg",
+    "verified": false,
+    "friends_count": 2366
+  },
+  "media": {
+    "video": [
+      {
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1804045804174233600/pu/img/f7-8pD3MsfBWf3PE.jpg",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1804045804174233600/pu/pl/adDNz4EdwYKYH3yr.m3u8?tag=12"
+          },
+          {
+            "bitrate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1804045804174233600/pu/vid/avc1/310x270/zEOsJMlF0u-fucHw.mp4?tag=12"
+          },
+          {
+            "bitrate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1804045804174233600/pu/vid/avc1/414x360/rGm-UI5eu9eMGPeR.mp4?tag=12"
+          },
+          {
+            "bitrate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1804045804174233600/pu/vid/avc1/830x720/PTPxK7tSn7uVUOGM.mp4?tag=12"
+          }
+        ],
+        "aspect_ratio": [
+          15,
+          13
+        ],
+        "original_info": {
+          "height": 1040,
+          "width": 1200,
+          "focus_rects": []
+        },
+        "id": "1804045804174233600"
+      }
+    ],
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQlD4tuWkAA2J06.jpg",
+        "id": "1804047767364341760"
+      }
+    ]
+  }
+}

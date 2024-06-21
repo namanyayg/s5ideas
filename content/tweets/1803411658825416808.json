@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803411658825416808",
+  "screen_name": "Yashwardhansab2",
+  "bookmarks": 0,
+  "favorites": 7,
+  "created_at": "Wed Jun 19 12:56:59 +0000 2024",
+  "text": "Hi everyone,\nI had an idea during my table tennis practice and I'd love to see this in reality.\n\nWhat are your thoughts? Would you use it for your sport practice?\n\nLet me know in comments!\n\ncc: @_buildspace @_nightsweekends https://t.co/JitO3MthFJ",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 2,
+  "conversation_id": "1803411658825416808",
+  "retweets": 0,
+  "views": "72",
+  "user_info": {
+    "screen_name": "Yashwardhansab2",
+    "name": "RL agent with Theory of mind",
+    "description": "",
+    "rest_id": "948406298348896256",
+    "followers_count": 61,
+    "favourites_count": 799,
+    "avatar": "https://pbs.twimg.com/profile_images/1717603350412177408/BZXAlm72_normal.jpg",
+    "verified": false,
+    "friends_count": 162
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQcBGbhXMAEtb7j.jpg",
+        "id": "1803411385763704833"
+      }
+    ]
+  }
+}

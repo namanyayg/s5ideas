@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803422328375713985",
+  "screen_name": "ojabowalola",
+  "bookmarks": 2,
+  "favorites": 39,
+  "created_at": "Wed Jun 19 13:39:23 +0000 2024",
+  "text": "focusing on a @bubble plugin for @_nightsweekends s5.\n\nwhat do we think?!?\n\ncc: @_buildspace, @farzaTv https://t.co/vg5VnSNvyz",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 13,
+  "conversation_id": "1803422328375713985",
+  "retweets": 1,
+  "views": "1195",
+  "user_info": {
+    "screen_name": "ojabowalola",
+    "name": "Lola 🧱 - Lunch Pail Labs",
+    "description": "Running @LunchPailLabs. Helping companies gain and retain users through third-party apps and integrations. Weekly insights  ⬇️",
+    "rest_id": "1021910107419041792",
+    "followers_count": 2648,
+    "favourites_count": 10226,
+    "avatar": "https://pbs.twimg.com/profile_images/1705845087350009856/UZaJhcLB_normal.jpg",
+    "verified": false,
+    "friends_count": 738
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQcLDKzWsAAwzGR.jpg",
+        "id": "1803422324852436992"
+      }
+    ]
+  }
+}

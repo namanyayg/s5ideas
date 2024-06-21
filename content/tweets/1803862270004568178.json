@@ -1,0 +1,62 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803862270004568178",
+  "screen_name": "uxbykai",
+  "bookmarks": 2,
+  "favorites": 66,
+  "created_at": "Thu Jun 20 18:47:33 +0000 2024",
+  "text": "based on the lecture today and the 🔥 advice from the @_buildspace universe, i updated my one liner to:\n\n- be more specific: javascript oriented\n- include the outcome, im not promising to teach ya to code but i hope to inspire other designers and beginners starting from zero (altho i will break down some concepts and have pointers)\n\nthanks y'all! 😇",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 19,
+  "conversation_id": "1803862270004568178",
+  "retweets": 0,
+  "views": "2518",
+  "user_info": {
+    "screen_name": "uxbykai",
+    "name": "Howdy Im Kai",
+    "description": "Cofounder + Product Designer of @sprintfolio_co | I empower designers to upskill and leverage AI to grow their careers | @_buildspace sf1",
+    "rest_id": "1629549375142723584",
+    "followers_count": 883,
+    "favourites_count": 3396,
+    "avatar": "https://pbs.twimg.com/profile_images/1745903824164839424/aBivWhic_normal.jpg",
+    "verified": false,
+    "friends_count": 725
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQiad1VWsAIEPqA.jpg",
+        "id": "1803861488085413890"
+      }
+    ]
+  },
+  "quoted": {
+    "tweet_id": "1803140685530538186",
+    "bookmarks": 18,
+    "created_at": "Tue Jun 18 19:00:14 +0000 2024",
+    "favorites": 288,
+    "text": "howdy i'm kai - i'm a product designer that has been coding curious for more than a decade\n\ni've decided to take my learning journey more seriously and share what i'm picking up along the way. \n\ncheers to learning, growing, thriving, vibing! https://t.co/FNbEpZdDB9",
+    "lang": "en",
+    "views": "10048",
+    "quotes": 1,
+    "replies": 86,
+    "retweets": 7,
+    "conversation_id": "1803140685530538186",
+    "author": {
+      "rest_id": "1629549375142723584",
+      "name": "Howdy Im Kai",
+      "screen_name": "uxbykai",
+      "avatar": "https://pbs.twimg.com/profile_images/1745903824164839424/aBivWhic_normal.jpg",
+      "blue_verified": true
+    },
+    "media": {
+      "photo": [
+        {
+          "media_url_https": "https://pbs.twimg.com/media/GQYKNSsW0AAML2n.jpg",
+          "id": "1803139924280922112"
+        }
+      ]
+    }
+  }
+}

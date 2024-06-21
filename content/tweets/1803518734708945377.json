@@ -1,0 +1,46 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803518734708945377",
+  "screen_name": "thechiefdoer",
+  "bookmarks": 0,
+  "favorites": 15,
+  "created_at": "Wed Jun 19 20:02:28 +0000 2024",
+  "text": "I come bearing good news!🥳\n\nI made it into @_buildspace nightsandweekends (n&amp;w) s5!\n\nI am excited about this journey and looking forward to build some cool stuff!\n\nAlready in? Say hi 👋 !\n\ncc: @_nightsweekends https://t.co/nf3GBqKLHM",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 4,
+  "conversation_id": "1803518734708945377",
+  "retweets": 1,
+  "views": "318",
+  "user_info": {
+    "screen_name": "thechiefdoer",
+    "name": "Eben Adjetey",
+    "description": "I Have A Dream To Finish!",
+    "rest_id": "1460319952854999054",
+    "followers_count": 152,
+    "favourites_count": 2833,
+    "avatar": "https://pbs.twimg.com/profile_images/1803519249811406848/ZWyuf3U9_normal.jpg",
+    "verified": false,
+    "friends_count": 615
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQdis2LWoAAbBQl.jpg",
+        "id": "1803518698382073856"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQdis2JWMAEu2w9.png",
+        "id": "1803518698373656577"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQdis2FWsAAE3GX.jpg",
+        "id": "1803518698356912128"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQdis2JWMAA00l8.png",
+        "id": "1803518698373656576"
+      }
+    ]
+  }
+}

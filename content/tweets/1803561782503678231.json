@@ -1,0 +1,42 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803561782503678231",
+  "screen_name": "rogerlbcn",
+  "bookmarks": 2,
+  "favorites": 9,
+  "created_at": "Wed Jun 19 22:53:32 +0000 2024",
+  "text": "This is Menuz. Me and my co-founder have been working on it a for a few months now, but now also as part of n&amp;w S5.\n\nFeedback is appreciated!\n\ncc @_buildspace @_nightsweekends https://t.co/nEO6mVa96n",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 6,
+  "conversation_id": "1803561782503678231",
+  "retweets": 0,
+  "views": "272",
+  "user_info": {
+    "screen_name": "rogerlbcn",
+    "name": "Roger Lopez Benet💡",
+    "description": "➡️Enterpreneur since 12 | \n💭Dream BIG - Fail BIG - Win BIG | \n🚀Founder @nextinglabs, @wifimilk, & @themenuzapp |\n👨‍💻Ex- @hypex_io |\n📊ML Engineer",
+    "rest_id": "525638947",
+    "followers_count": 329,
+    "favourites_count": 5750,
+    "avatar": "https://pbs.twimg.com/profile_images/1634283890155352064/Um4PxPLA_normal.jpg",
+    "verified": false,
+    "friends_count": 762
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQeJ4h9agAAxpvx.jpg",
+        "id": "1803561780066811904"
+      }
+    ]
+  },
+  "place": {
+    "country": "United States",
+    "country_code": "US",
+    "name": "Palo Alto",
+    "full_name": "Palo Alto, CA",
+    "place_type": "city",
+    "more_data_url": "https://api.twitter.com/1.1/geo/id/3ad0f706b3fa62a8.json"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803859653677273526",
+  "screen_name": "AfreenRumie",
+  "bookmarks": 1,
+  "favorites": 13,
+  "created_at": "Thu Jun 20 18:37:10 +0000 2024",
+  "text": "I changed my initial idea since it was too complicated to implement in short time but this\n\nThis is a page to voice out everyones lives - their experience and their emotions - verbally \n\nlet me know if it's Yay or Nay !\n\nCC @_buildspace @_nightsweekends https://t.co/72qieomKjK",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 5,
+  "conversation_id": "1803859653677273526",
+  "retweets": 0,
+  "views": "218",
+  "user_info": {
+    "screen_name": "AfreenRumie",
+    "name": "toothless",
+    "description": "IDK dude , do you have a bio? \nwhat should I write here ? \nVenting space !? much like it.",
+    "rest_id": "1063807478809407488",
+    "followers_count": 2269,
+    "favourites_count": 40338,
+    "avatar": "https://pbs.twimg.com/profile_images/1588232205738061824/5R_mllD1_normal.jpg",
+    "verified": false,
+    "friends_count": 504
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQiYr5MWUAA2Jnx.jpg",
+        "id": "1803859530616295424"
+      }
+    ]
+  }
+}

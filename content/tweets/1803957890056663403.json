@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803957890056663403",
+  "screen_name": "elithpalomino",
+  "bookmarks": 0,
+  "favorites": 2,
+  "created_at": "Fri Jun 21 01:07:31 +0000 2024",
+  "text": "My @_buildspace nights and weekends card. \n\nI was reluctant to publish anything related to work on X, but @FarzaTV makes a really good point on telling the world about your projects, you never know who may be reading your posts. https://t.co/bj523S3oJa",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 1,
+  "conversation_id": "1803957890056663403",
+  "retweets": 0,
+  "views": "32",
+  "user_info": {
+    "screen_name": "elithpalomino",
+    "name": "Elith",
+    "description": "🇺🇸🇨🇴 - @avvyco",
+    "rest_id": "2559961567",
+    "followers_count": 190,
+    "favourites_count": 179,
+    "avatar": "https://pbs.twimg.com/profile_images/1750656307260981248/htjlZSlU_normal.jpg",
+    "verified": false,
+    "friends_count": 32
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQjyI2sXkAAyICj.jpg",
+        "id": "1803957884696367104"
+      }
+    ]
+  }
+}

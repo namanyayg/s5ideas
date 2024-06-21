@@ -1,0 +1,62 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803877553108828174",
+  "screen_name": "oscoDOTblog",
+  "bookmarks": 1,
+  "favorites": 25,
+  "created_at": "Thu Jun 20 19:48:17 +0000 2024",
+  "text": "updated my idea, tysm for all the amazing feedback 🥺\n\ncc @_buildspace @_nightsweekends https://t.co/96BpzErTvl",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 14,
+  "conversation_id": "1803877553108828174",
+  "retweets": 0,
+  "views": "698",
+  "user_info": {
+    "screen_name": "oscoDOTblog",
+    "name": "Osco ᯅ 🇸🇻",
+    "description": "✍🏽 Aspiring virtual reality storyteller @ https://t.co/jn7z91Bqw4 // 📘 alterok @_nightsweekends",
+    "rest_id": "809213552531800065",
+    "followers_count": 559,
+    "favourites_count": 7212,
+    "avatar": "https://pbs.twimg.com/profile_images/1779934871093202945/jAZ255Kd_normal.jpg",
+    "verified": false,
+    "friends_count": 1380
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQio11MWwAA2X0S.jpg",
+        "id": "1803877293527318528"
+      }
+    ]
+  },
+  "quoted": {
+    "tweet_id": "1803138934924247496",
+    "bookmarks": 2,
+    "created_at": "Tue Jun 18 18:53:17 +0000 2024",
+    "favorites": 176,
+    "text": "looking for the vr and xr homies - need your help to make this slide better, what can i improve? =)\n\ncc @_buildspace @_nightsweekends https://t.co/1EZtOYYXzj",
+    "lang": "en",
+    "views": "5222",
+    "quotes": 1,
+    "replies": 50,
+    "retweets": 3,
+    "conversation_id": "1803138934924247496",
+    "author": {
+      "rest_id": "809213552531800065",
+      "name": "Osco ᯅ 🇸🇻",
+      "screen_name": "oscoDOTblog",
+      "avatar": "https://pbs.twimg.com/profile_images/1779934871093202945/jAZ255Kd_normal.jpg",
+      "blue_verified": true
+    },
+    "media": {
+      "photo": [
+        {
+          "media_url_https": "https://pbs.twimg.com/media/GQYJScRWAAAFcxz.jpg",
+          "id": "1803138913239695360"
+        }
+      ]
+    }
+  }
+}

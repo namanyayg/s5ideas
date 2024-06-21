@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803770821556556025",
+  "screen_name": "ishaanndas",
+  "bookmarks": 0,
+  "favorites": 6,
+  "created_at": "Thu Jun 20 12:44:10 +0000 2024",
+  "text": "it's pretty hard to differentiate an agency tbh\n\nwe're trying to do it by being more than code monkeys, contributing original ideas + understanding that shipping fast is everything. #gtfol\n\nhttps://t.co/aIdmcBIe83\n\ncc: @_buildspace @_nightsweekends @FarzaTV https://t.co/zAJm9Ne0Hc",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 4,
+  "conversation_id": "1803770821556556025",
+  "retweets": 0,
+  "views": "159",
+  "user_info": {
+    "screen_name": "ishaanndas",
+    "name": "Ishaandas",
+    "description": "co-founder of https://t.co/VTNPqSCbhj\ndm me if you're a founder and need help designing/building software :)",
+    "rest_id": "1168143113438674944",
+    "followers_count": 542,
+    "favourites_count": 1304,
+    "avatar": "https://pbs.twimg.com/profile_images/1796826823780679680/pxJpAmSJ_normal.jpg",
+    "verified": false,
+    "friends_count": 133
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQhF8TPWMAAjSvO.jpg",
+        "id": "1803768553020993536"
+      }
+    ]
+  }
+}

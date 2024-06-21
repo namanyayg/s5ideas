@@ -1,0 +1,62 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803975484444696833",
+  "screen_name": "simyairmak",
+  "bookmarks": 0,
+  "favorites": 24,
+  "created_at": "Fri Jun 21 02:17:26 +0000 2024",
+  "text": "# update 1    \n\n-i updated my idea slide  \n-talked with 2 psychiatrists about the idea  \n-started to create a netnography with similar apps\n\n@_buildspace\n@_nightsweekends\n@FarzaTV https://t.co/Vs42DLa0sG",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 5,
+  "conversation_id": "1803975484444696833",
+  "retweets": 0,
+  "views": "412",
+  "user_info": {
+    "screen_name": "simyairmak",
+    "name": "simya irmak",
+    "description": "UX / UI",
+    "rest_id": "1460739797648089101",
+    "followers_count": 100,
+    "favourites_count": 170,
+    "avatar": "https://pbs.twimg.com/profile_images/1803158722069340160/yM3yR04c_normal.jpg",
+    "verified": false,
+    "friends_count": 226
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQkCEM8WEAEC0Jd.jpg",
+        "id": "1803975396955656193"
+      }
+    ]
+  },
+  "quoted": {
+    "tweet_id": "1803137396508160203",
+    "bookmarks": 5,
+    "created_at": "Tue Jun 18 18:47:10 +0000 2024",
+    "favorites": 150,
+    "text": "aim is to make finding right therapist easily who have expertise towards your specialized needs\n\n@_buildspace @_nightsweekends https://t.co/TuqDjlye4t",
+    "lang": "en",
+    "views": "4598",
+    "quotes": 2,
+    "replies": 51,
+    "retweets": 3,
+    "conversation_id": "1803137396508160203",
+    "author": {
+      "rest_id": "1460739797648089101",
+      "name": "simya irmak",
+      "screen_name": "simyairmak",
+      "avatar": "https://pbs.twimg.com/profile_images/1803158722069340160/yM3yR04c_normal.jpg",
+      "blue_verified": false
+    },
+    "media": {
+      "photo": [
+        {
+          "media_url_https": "https://pbs.twimg.com/media/GQYH5vmXwAATlmE.jpg",
+          "id": "1803137389419806720"
+        }
+      ]
+    }
+  }
+}

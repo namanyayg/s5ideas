@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1804007580601356776",
+  "screen_name": "ghst_eff",
+  "bookmarks": 0,
+  "favorites": 2,
+  "created_at": "Fri Jun 21 04:24:58 +0000 2024",
+  "text": "we shippin straight to prod\n\n@_buildspace @_nightsweekends https://t.co/WaEZFbq5GQ",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 1,
+  "conversation_id": "1804007580601356776",
+  "retweets": 0,
+  "views": "40",
+  "user_info": {
+    "screen_name": "ghst_eff",
+    "name": "ghst",
+    "description": "building → https://t.co/GpIZAWt9zi → https://t.co/vKOlKUAPBQ",
+    "rest_id": "1355005980787019778",
+    "followers_count": 10,
+    "favourites_count": 127,
+    "avatar": "https://pbs.twimg.com/profile_images/1804017189617569797/CMjhRd8B_normal.jpg",
+    "verified": false,
+    "friends_count": 67
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQkfU0_bwAA8EN7.jpg",
+        "id": "1804007568421142528"
+      }
+    ]
+  }
+}

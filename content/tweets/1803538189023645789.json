@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803538189023645789",
+  "screen_name": "ChrisOrlin",
+  "bookmarks": 0,
+  "favorites": 2,
+  "created_at": "Wed Jun 19 21:19:47 +0000 2024",
+  "text": "Here is what I am working on in season 5! This is my first time building in the open so excited to see what this idea brings. \n\ncc: @_buildspace  @_nightsweekends https://t.co/abxkhwrf57",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 3,
+  "conversation_id": "1803538189023645789",
+  "retweets": 0,
+  "views": "126",
+  "user_info": {
+    "screen_name": "ChrisOrlin",
+    "name": "chris cardoza",
+    "description": "shower thoughts if they came out of the shower. spectreseek at n&w s5.",
+    "rest_id": "1326613656185024515",
+    "followers_count": 31,
+    "favourites_count": 3543,
+    "avatar": "https://pbs.twimg.com/profile_images/1649946711576440836/jCfshZu9_normal.jpg",
+    "verified": false,
+    "friends_count": 200
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQdzmbtWQAAtqGo.jpg",
+        "id": "1803537279895355392"
+      }
+    ]
+  }
+}

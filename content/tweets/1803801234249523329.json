@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803801234249523329",
+  "screen_name": "rannbouusagi",
+  "bookmarks": 0,
+  "favorites": 1,
+  "created_at": "Thu Jun 20 14:45:01 +0000 2024",
+  "text": "Today, we launched a pre-registration event on Tiktok!\n\nWe used a TikTok effect game and asked influencers specializing in effect games to create videos for us.\n\nNow, over 670 ppl have played our effect game\n\nLet’s keep watching and see how it goes. @_buildspace @_nightsweekends https://t.co/1rNcEHfiiW",
+  "lang": "en",
+  "quotes": 1,
+  "replies": 0,
+  "conversation_id": "1803801234249523329",
+  "retweets": 2,
+  "views": "175",
+  "user_info": {
+    "screen_name": "rannbouusagi",
+    "name": "乱暴ウサギ | Madrabbit | night&weekend s5🔥",
+    "description": "収集ゲームを開発中｜荒々しいので注意｜Twitter漫画、インスタ漫画好き｜building a gacha based collecting game @roomix_official @roomix_japan｜@_nightsweekends s5🔥",
+    "rest_id": "1689494260389920769",
+    "followers_count": 55,
+    "favourites_count": 307,
+    "avatar": "https://pbs.twimg.com/profile_images/1749679889312354304/HiXw5-vz_normal.jpg",
+    "verified": false,
+    "friends_count": 84
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQhjpXFaUAAxDlx.jpg",
+        "id": "1803801212984381440"
+      }
+    ]
+  }
+}

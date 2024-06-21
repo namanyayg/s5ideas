@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803444991001284990",
+  "screen_name": "inkryptislabs",
+  "bookmarks": 0,
+  "favorites": 5,
+  "created_at": "Wed Jun 19 15:09:26 +0000 2024",
+  "text": "I am building Loviquent an AI wedding speech generator for @buildspace S5 @_nightsweekends \nFollow my journey here. https://t.co/0QUsmnBgFE",
+  "lang": "en",
+  "quotes": 1,
+  "replies": 3,
+  "conversation_id": "1803444991001284990",
+  "retweets": 0,
+  "views": "152",
+  "user_info": {
+    "screen_name": "inkryptislabs",
+    "name": "Jay",
+    "description": "Inkryptis Labs aims to provide a wide range of technology and Gen AI products designed for everyone.",
+    "rest_id": "1743128906264096768",
+    "followers_count": 3,
+    "favourites_count": 51,
+    "avatar": "https://pbs.twimg.com/profile_images/1803036528349716480/3cTsZ64i_normal.jpg",
+    "verified": false,
+    "friends_count": 115
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQcfp25XIAADfkM.jpg",
+        "id": "1803444979756376064"
+      }
+    ]
+  }
+}

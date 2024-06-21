@@ -1,0 +1,62 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803485995079442521",
+  "screen_name": "TKrishnia60980",
+  "bookmarks": 0,
+  "favorites": 5,
+  "created_at": "Wed Jun 19 17:52:23 +0000 2024",
+  "text": "Project  T  H  I  N  K\nis under construction,\njust finished up the Figma design for it!\n\n@_buildspace @_nightsweekends \n\n#buildinpublic https://t.co/liZp7GMipr",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803485995079442521",
+  "retweets": 0,
+  "views": "83",
+  "user_info": {
+    "screen_name": "TKrishnia60980",
+    "name": "Tushar",
+    "description": "19yrs (building my ideas) Dev\ncurrently @_buildspace s5,\ncs sophomore VIT",
+    "rest_id": "1694679344982212608",
+    "followers_count": 95,
+    "favourites_count": 99,
+    "avatar": "https://pbs.twimg.com/profile_images/1799676319690899457/am7-Bk2S_normal.jpg",
+    "verified": false,
+    "friends_count": 219
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQdEx3AakAAHiJ5.jpg",
+        "id": "1803485799155142656"
+      }
+    ]
+  },
+  "quoted": {
+    "tweet_id": "1803385087418904844",
+    "bookmarks": 0,
+    "created_at": "Wed Jun 19 11:11:24 +0000 2024",
+    "favorites": 2,
+    "text": "Starting this project for s5\nYou will need only one website for academics for your whole life...that's the goal!\n\nwhat are your thoughts and feedback?\ncc: @_buildspace @_nightsweekends @FarzaTV https://t.co/AVdbFpfe2I",
+    "lang": "en",
+    "views": "243",
+    "quotes": 1,
+    "replies": 1,
+    "retweets": 0,
+    "conversation_id": "1803385087418904844",
+    "author": {
+      "rest_id": "1694679344982212608",
+      "name": "Tushar",
+      "screen_name": "TKrishnia60980",
+      "avatar": "https://pbs.twimg.com/profile_images/1799676319690899457/am7-Bk2S_normal.jpg",
+      "blue_verified": false
+    },
+    "media": {
+      "photo": [
+        {
+          "media_url_https": "https://pbs.twimg.com/media/GQbofX9boAAKHHZ.jpg",
+          "id": "1803384326513729536"
+        }
+      ]
+    }
+  }
+}

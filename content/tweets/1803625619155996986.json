@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803625619155996986",
+  "screen_name": "Danieljinchan",
+  "bookmarks": 0,
+  "favorites": 2,
+  "created_at": "Thu Jun 20 03:07:12 +0000 2024",
+  "text": "Excited to be a part of buildspace this summer. see you all irl.  \n\nlmk if you are a designer or want to join us changing the industry forever.  \n\n#buildspace #cleanenergy #solarpanels\n\n@_buildspace @_nightsweekends https://t.co/CWKLq9tw1X",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 2,
+  "conversation_id": "1803625619155996986",
+  "retweets": 0,
+  "views": "59",
+  "user_info": {
+    "screen_name": "Danieljinchan",
+    "name": "Daniel Chan",
+    "description": "co-founder of Exergi",
+    "rest_id": "1434258488809623555",
+    "followers_count": 117,
+    "favourites_count": 72,
+    "avatar": "https://pbs.twimg.com/profile_images/1679823033664434176/n_YgxRxN_normal.jpg",
+    "verified": false,
+    "friends_count": 199
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQfD570XQAA7NtF.jpg",
+        "id": "1803625575862452224"
+      }
+    ]
+  }
+}

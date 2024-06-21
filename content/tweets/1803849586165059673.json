@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803849586165059673",
+  "screen_name": "Oyepratyaksh",
+  "bookmarks": 0,
+  "favorites": 2,
+  "created_at": "Thu Jun 20 17:57:09 +0000 2024",
+  "text": "What do you guys think? \n\nWould really appreciate your feedback. We'll use public api and make it similar to other apps that track your flights, but it'll help you track your favorite plane\n\ncc @_buildspace @_nightsweekends https://t.co/idJlLh4AGS",
+  "lang": "en",
+  "quotes": 2,
+  "replies": 0,
+  "conversation_id": "1803849586165059673",
+  "retweets": 1,
+  "views": "84",
+  "user_info": {
+    "screen_name": "Oyepratyaksh",
+    "name": "Pratyaksh",
+    "description": "Backend Dev 🛠 | Java | Spring | I write about things related to backend and aviation. 👾",
+    "rest_id": "1794960934118604800",
+    "followers_count": 6,
+    "favourites_count": 92,
+    "avatar": "https://pbs.twimg.com/profile_images/1795355930634465280/zR2ykLbk_normal.jpg",
+    "verified": false,
+    "friends_count": 15
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQiPo5TWwAAfoHm.jpg",
+        "id": "1803849583501426688"
+      }
+    ]
+  }
+}

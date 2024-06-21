@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803925498042396787",
+  "screen_name": "Hermione_rt",
+  "bookmarks": 0,
+  "favorites": 1,
+  "created_at": "Thu Jun 20 22:58:48 +0000 2024",
+  "text": "🆘🎙️Currently interviewing to assess the need for developing data-driven software to enhance fashion buying. \nStruggling with efficiency and sticking to my guidelines.  \nSuggestions?  \nTy  \n\n#entrepreneur #interview #fashiontech \n@_buildspace @_nightsweekends https://t.co/stBQxlATCy",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803925498042396787",
+  "retweets": 0,
+  "views": "35",
+  "user_info": {
+    "screen_name": "Hermione_rt",
+    "name": "Hermione",
+    "description": "based in sf, trying to create cool things\ns5 @_buildspace @_nightsweekends\nformer area manager @dior & project manager @hermes_paris",
+    "rest_id": "1728687560354934784",
+    "followers_count": 23,
+    "favourites_count": 121,
+    "avatar": "https://pbs.twimg.com/profile_images/1800570411253690368/Bui2aWh9_normal.jpg",
+    "verified": false,
+    "friends_count": 147
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQjUrDGWQAA4_8F.jpg",
+        "id": "1803925486793277440"
+      }
+    ]
+  }
+}

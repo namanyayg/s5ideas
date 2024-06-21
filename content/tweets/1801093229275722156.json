@@ -1,0 +1,70 @@
+{
+  "type": "tweet",
+  "tweet_id": "1801093229275722156",
+  "screen_name": "miss__Paul",
+  "bookmarks": 0,
+  "favorites": 12,
+  "created_at": "Thu Jun 13 03:24:23 +0000 2024",
+  "text": "Got accepted for nights &amp; weekends at @_buildspace \nLet's work on exciting project ideas ✨️ https://t.co/e0EZuSGVKE",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 2,
+  "conversation_id": "1801093229275722156",
+  "retweets": 0,
+  "views": "358",
+  "user_info": {
+    "screen_name": "miss__Paul",
+    "name": "Sagarikaaa👩‍💻🌱",
+    "description": "19 years of existence lost in thoughts | Econ| Interned at @Krayonnz | Designer✨️| Dev| I share my journey here | Hackathons 🙌🏻 | Portfolio WIP 🚧",
+    "rest_id": "1385116392513433601",
+    "followers_count": 1517,
+    "favourites_count": 38982,
+    "avatar": "https://pbs.twimg.com/profile_images/1779020267949301760/ZEkAfqDb_normal.jpg",
+    "verified": false,
+    "friends_count": 1315
+  },
+  "media": {
+    "video": [
+      {
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1801093161332183040/pu/img/B4NCStMt9t4Zp5q6.jpg",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1801093161332183040/pu/pl/OjLgC0kAueqNLxer.m3u8?tag=12"
+          },
+          {
+            "bitrate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1801093161332183040/pu/vid/avc1/320x482/MDtkFnePEIUGzxu9.mp4?tag=12"
+          },
+          {
+            "bitrate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1801093161332183040/pu/vid/avc1/480x724/D1wFokovNV1lVZaT.mp4?tag=12"
+          },
+          {
+            "bitrate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1801093161332183040/pu/vid/avc1/720x1088/8dH22KzjbBkbSxkT.mp4?tag=12"
+          }
+        ],
+        "aspect_ratio": [
+          45,
+          68
+        ],
+        "original_info": {
+          "height": 1088,
+          "width": 720,
+          "focus_rects": []
+        },
+        "id": "1801093161332183040"
+      }
+    ],
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GP7EszsWMAAo-Pq.jpg",
+        "id": "1801093175064276992"
+      }
+    ]
+  }
+}

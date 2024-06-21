@@ -1,0 +1,38 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803656694259737083",
+  "screen_name": "ankushKun_",
+  "bookmarks": 0,
+  "favorites": 21,
+  "created_at": "Thu Jun 20 05:10:40 +0000 2024",
+  "text": "And here's what we are building for @_nightsweekends \n\nA point and shoot camera with infinite permanent storage for your memories 🎉\n\nCo-building this with @ropats16 \n\n@_buildspace                                            sneak peek 👇 https://t.co/M7dlIj4meK",
+  "lang": "en",
+  "quotes": 1,
+  "replies": 4,
+  "conversation_id": "1803656694259737083",
+  "retweets": 0,
+  "views": "641",
+  "user_info": {
+    "screen_name": "ankushKun_",
+    "name": "Ankush Singh",
+    "description": "Gaudmire @_buildspace • Building @clickoor, @betteridea_dev • Community Manager @ArweaveIndia  • Ex intern @ Physics Wallah • web3 buildoor",
+    "rest_id": "1021354781376327682",
+    "followers_count": 478,
+    "favourites_count": 8918,
+    "avatar": "https://pbs.twimg.com/profile_images/1797158678032003072/kD_OsxAF_normal.jpg",
+    "verified": false,
+    "friends_count": 690
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQfd4OWaIAEzW2F.jpg",
+        "id": "1803654133779668993"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQff_ecbEAAc6b5.jpg",
+        "id": "1803656457382203392"
+      }
+    ]
+  }
+}

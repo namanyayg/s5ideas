@@ -1,0 +1,38 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803512460772507855",
+  "screen_name": "riyajaiinn",
+  "bookmarks": 0,
+  "favorites": 3,
+  "created_at": "Wed Jun 19 19:37:32 +0000 2024",
+  "text": "A little less than 6 weeks to go…let’s do this 🫡\n\nCc: @_buildspace @_nightsweekends @FarzaTV https://t.co/kN6XCLu8Kx",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 2,
+  "conversation_id": "1803512460772507855",
+  "retweets": 0,
+  "views": "149",
+  "user_info": {
+    "screen_name": "riyajaiinn",
+    "name": "Riya",
+    "description": "ty tbell for bringing back mexican pizzas",
+    "rest_id": "1308187327748026370",
+    "followers_count": 15,
+    "favourites_count": 178,
+    "avatar": "https://pbs.twimg.com/profile_images/1308187564151631875/MxsJfL9i_normal.jpg",
+    "verified": false,
+    "friends_count": 24
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQddBogWsAAO5nD.jpg",
+        "id": "1803512458419548160"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQddBodXsAETfWh.jpg",
+        "id": "1803512458407030785"
+      }
+    ]
+  }
+}

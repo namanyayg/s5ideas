@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803814960260079637",
+  "screen_name": "KechoHayashi",
+  "bookmarks": 0,
+  "favorites": 21,
+  "created_at": "Thu Jun 20 15:39:34 +0000 2024",
+  "text": "Building a platform to develop mini LLMs for immortalizing endangered languages! \n\nfor updates → @ResearchKotoba \n\ncc: @_buildspace @_nightsweekends @FarzaTV https://t.co/NgCQeV9949",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 6,
+  "conversation_id": "1803814960260079637",
+  "retweets": 1,
+  "views": "348",
+  "user_info": {
+    "screen_name": "KechoHayashi",
+    "name": "Kei Hayashi",
+    "description": "16. venture capital, deeptech & anthropology.\naccelerating the genz startup wave @localhostHQ",
+    "rest_id": "1488958240583000072",
+    "followers_count": 608,
+    "favourites_count": 705,
+    "avatar": "https://pbs.twimg.com/profile_images/1802960289798766592/Hcatzx4E_normal.jpg",
+    "verified": false,
+    "friends_count": 493
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQhvaAYXQAEH56s.jpg",
+        "id": "1803814143331352577"
+      }
+    ]
+  }
+}

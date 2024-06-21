@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803592558695817464",
+  "screen_name": "oliv3r_saints",
+  "bookmarks": 1,
+  "favorites": 4,
+  "created_at": "Thu Jun 20 00:55:49 +0000 2024",
+  "text": "Stop wasting time on discovery meetings. Find the right sponsor, find the right partner 👀 \n\nJust got in for @_buildspace S5, this feels so exciting. Looking for people to build with 🙌\n\nFeel free to share your feedback down below 👇 \n\nСС.\n@_buildspace \n@_nightsweekends\n@FarzaTV https://t.co/Y0JZgeUprv",
+  "lang": "en",
+  "quotes": 1,
+  "replies": 7,
+  "conversation_id": "1803592558695817464",
+  "retweets": 0,
+  "views": "125",
+  "user_info": {
+    "screen_name": "oliv3r_saints",
+    "name": "OLIV3R SAINTS",
+    "description": "Core Contributor @web3ph_ 🌌",
+    "rest_id": "1017246360406392832",
+    "followers_count": 131,
+    "favourites_count": 5037,
+    "avatar": "https://pbs.twimg.com/profile_images/1787008493339529216/7_v0aRFt_normal.jpg",
+    "verified": false,
+    "friends_count": 234
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQel3pzaIAIyhh1.jpg",
+        "id": "1803592551318036482"
+      }
+    ]
+  }
+}

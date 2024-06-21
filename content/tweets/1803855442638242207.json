@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803855442638242207",
+  "screen_name": "ninjatofuture",
+  "bookmarks": 0,
+  "favorites": 3,
+  "created_at": "Thu Jun 20 18:20:26 +0000 2024",
+  "text": "Gaudmire in dating app.\n@_buildspace\n@_nightsweekends https://t.co/yAeek4PUtL",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 1,
+  "conversation_id": "1803855442638242207",
+  "retweets": 0,
+  "views": "34",
+  "user_info": {
+    "screen_name": "ninjatofuture",
+    "name": "NinjaXYZ🥷💨🔥",
+    "description": "Co-founder of @stillnotfund, gaudmire @_buildspace",
+    "rest_id": "1639902580175429632",
+    "followers_count": 785,
+    "favourites_count": 371,
+    "avatar": "https://pbs.twimg.com/profile_images/1650037747661541377/ew5zbOaM_normal.jpg",
+    "verified": false,
+    "friends_count": 681
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQiU9UiakAMSLIf.jpg",
+        "id": "1803855431967870979"
+      }
+    ]
+  }
+}

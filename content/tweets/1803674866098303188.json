@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803674866098303188",
+  "screen_name": "chaudhry_arushi",
+  "bookmarks": 0,
+  "favorites": 5,
+  "created_at": "Thu Jun 20 06:22:53 +0000 2024",
+  "text": "Working on Perovskite crystals in the lab now, and can't wait to create them in space!\nSpending nights and weekends on this passion project. \n@_nightsweekends @_buildspace https://t.co/uGGXnLPiOJ",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 1,
+  "conversation_id": "1803674866098303188",
+  "retweets": 0,
+  "views": "69",
+  "user_info": {
+    "screen_name": "chaudhry_arushi",
+    "name": "Arushi Chaudhry",
+    "description": "Space enthusiast & Mars Society ambassador, passionate about in-space manufacturing.\nSpectreseek@buildspace",
+    "rest_id": "1376095248502288384",
+    "followers_count": 35,
+    "favourites_count": 368,
+    "avatar": "https://pbs.twimg.com/profile_images/1786829578050162689/yXlOoYLt_normal.jpg",
+    "verified": false,
+    "friends_count": 176
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQfwsU6WcAAktdZ.jpg",
+        "id": "1803674820103532544"
+      }
+    ]
+  }
+}

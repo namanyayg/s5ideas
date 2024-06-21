@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803833334218244300",
+  "screen_name": "BlackPearl_0001",
+  "bookmarks": 0,
+  "favorites": 2,
+  "created_at": "Thu Jun 20 16:52:35 +0000 2024",
+  "text": "Really excited to kick off a new project with @_buildspace! Can't wait to dive in and see where this journey takes turn! 🚀 https://t.co/cIhnYvfGpe",
+  "lang": "en",
+  "quotes": 1,
+  "replies": 0,
+  "conversation_id": "1803833334218244300",
+  "retweets": 0,
+  "views": "69",
+  "user_info": {
+    "screen_name": "BlackPearl_0001",
+    "name": "Abhishek Shivale",
+    "description": "",
+    "rest_id": "1728312962010742784",
+    "followers_count": 21,
+    "favourites_count": 65,
+    "avatar": "https://pbs.twimg.com/profile_images/1734802744194863104/Kw7-4mpe_normal.jpg",
+    "verified": false,
+    "friends_count": 48
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQiA21HWsAAFPX4.jpg",
+        "id": "1803833330221101056"
+      }
+    ]
+  }
+}

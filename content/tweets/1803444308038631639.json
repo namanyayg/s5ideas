@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803444308038631639",
+  "screen_name": "newworldcurator",
+  "bookmarks": 0,
+  "favorites": 11,
+  "created_at": "Wed Jun 19 15:06:44 +0000 2024",
+  "text": "Look forward to S5 @_buildspace and @_nightsweekends . Go #Erevald \n\nLooking forward to building with others. https://t.co/ArIf4Gjzq9",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 4,
+  "conversation_id": "1803444308038631639",
+  "retweets": 2,
+  "views": "275",
+  "user_info": {
+    "screen_name": "newworldcurator",
+    "name": "Hanifah Walidah (she/her/yo)",
+    "description": "Musician #Leadcurator at https://t.co/X5ss9zSF3T",
+    "rest_id": "17881213",
+    "followers_count": 2841,
+    "favourites_count": 1053,
+    "avatar": "https://pbs.twimg.com/profile_images/1474577435366723595/hzcPAppG_normal.jpg",
+    "verified": false,
+    "friends_count": 1160
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQcfBKGWQAAAH58.jpg",
+        "id": "1803444280536481792"
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803957419346923662",
+  "screen_name": "alphonse_seb",
+  "bookmarks": 0,
+  "favorites": 2,
+  "created_at": "Fri Jun 21 01:05:39 +0000 2024",
+  "text": "This is my idea. What do you guys think?\n\ncc:@_buildspace ,@_nightsweekends https://t.co/7yB1PV8Cbv",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 2,
+  "conversation_id": "1803957419346923662",
+  "retweets": 0,
+  "views": "21",
+  "user_info": {
+    "screen_name": "alphonse_seb",
+    "name": "Alphonse",
+    "description": "",
+    "rest_id": "1465896347576504322",
+    "followers_count": 1,
+    "favourites_count": 19,
+    "avatar": "https://pbs.twimg.com/profile_images/1803878123542581250/NZfarNXp_normal.png",
+    "verified": false,
+    "friends_count": 37
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQjxte8a4AAzB-Z.png",
+        "id": "1803957414464774144"
+      }
+    ]
+  }
+}

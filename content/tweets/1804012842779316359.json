@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1804012842779316359",
+  "screen_name": "kaizenkior",
+  "bookmarks": 0,
+  "favorites": 2,
+  "created_at": "Fri Jun 21 04:45:53 +0000 2024",
+  "text": "Hey everyone!\n\nExcited to share my idea with you guys.\nCan anyone give me their thoughts on this?\n\nP.S. I'm also going to do thread on X. \n #buildspace @_buildspace @FarzaTV https://t.co/8PjmlwV7XC",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 1,
+  "conversation_id": "1804012842779316359",
+  "retweets": 0,
+  "views": "33",
+  "user_info": {
+    "screen_name": "kaizenkior",
+    "name": "Kaizenkior",
+    "description": "@kaizenkior on all platforms!",
+    "rest_id": "897986465912586240",
+    "followers_count": 49,
+    "favourites_count": 12514,
+    "avatar": "https://pbs.twimg.com/profile_images/1753604697867616256/SF3LJmkx_normal.jpg",
+    "verified": false,
+    "friends_count": 26
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQkigKEakAAQnFV.jpg",
+        "id": "1804011061592625152"
+      }
+    ]
+  }
+}

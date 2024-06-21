@@ -1,0 +1,38 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803861821822283777",
+  "screen_name": "Vaishna84783419",
+  "bookmarks": 0,
+  "favorites": 5,
+  "created_at": "Thu Jun 20 18:45:47 +0000 2024",
+  "text": "A little progress! \n@_buildspace @_nightsweekends https://t.co/TWOfJ0vz6v",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 1,
+  "conversation_id": "1803861821822283777",
+  "retweets": 0,
+  "views": "62",
+  "user_info": {
+    "screen_name": "Vaishna84783419",
+    "name": "Vaishnavi",
+    "description": "Python | Machine learning | Artificial intelligence | GenAI | Worked at 2x Ai based Startups | alterok @_buildspace",
+    "rest_id": "1272406966720057344",
+    "followers_count": 24,
+    "favourites_count": 252,
+    "avatar": "https://pbs.twimg.com/profile_images/1786637040634793984/dQ4EIOFA_normal.jpg",
+    "verified": false,
+    "friends_count": 96
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQiawoha4AAB2y-.jpg",
+        "id": "1803861811063873536"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQiawpfbIAEt1Tw.jpg",
+        "id": "1803861811323936769"
+      }
+    ]
+  }
+}

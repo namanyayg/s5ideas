@@ -1,0 +1,38 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803497135335240123",
+  "screen_name": "pretzeledkoala",
+  "bookmarks": 0,
+  "favorites": 5,
+  "created_at": "Wed Jun 19 18:36:39 +0000 2024",
+  "text": "can't decide between these two - does anyone have any opinions?\n\ncc: @_buildspace @_nightsweekends @FarzaTV https://t.co/DUC8U9QIUi",
+  "lang": "en",
+  "quotes": 1,
+  "replies": 4,
+  "conversation_id": "1803497135335240123",
+  "retweets": 0,
+  "views": "300",
+  "user_info": {
+    "screen_name": "pretzeledkoala",
+    "name": "pretzeledkoala",
+    "description": "interested in algebraic geometry, cryptography, and representation theory",
+    "rest_id": "1674937624081956866",
+    "followers_count": 46,
+    "favourites_count": 64,
+    "avatar": "https://pbs.twimg.com/profile_images/1738760033855299584/DA2oran9_normal.jpg",
+    "verified": false,
+    "friends_count": 64
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQdOyCkXQAEy_gx.jpg",
+        "id": "1803496797374988289"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQdOyCkXAAAlFQN.jpg",
+        "id": "1803496797374971904"
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803807418981192148",
+  "screen_name": "CharTNChang",
+  "bookmarks": 0,
+  "favorites": 7,
+  "created_at": "Thu Jun 20 15:09:36 +0000 2024",
+  "text": "Missing classes, meetings and appointments because I slept through my iPhone alarm is a story I know all too well.\n\nBut what if we had something that could wake us up without fail every single time?\n\nThoughts on this one-liner? 👀\n\ncc @_buildspace @_nightsweekends https://t.co/rMEaDP5ax1",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 2,
+  "conversation_id": "1803807418981192148",
+  "retweets": 0,
+  "views": "69",
+  "user_info": {
+    "screen_name": "CharTNChang",
+    "name": "Charlotte Chang",
+    "description": "USC IYA • building @opal_explore • gaudmire @_buildspace • space geek • theatre nerd",
+    "rest_id": "1737723618149224449",
+    "followers_count": 3,
+    "favourites_count": 34,
+    "avatar": "https://pbs.twimg.com/profile_images/1802040701619765248/PlbZBSi__normal.jpg",
+    "verified": false,
+    "friends_count": 13
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQhpH65WMAACWgn.jpg",
+        "id": "1803807235551670272"
+      }
+    ]
+  }
+}

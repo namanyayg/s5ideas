@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803133977047474262",
+  "screen_name": "ideapakpaphon",
+  "bookmarks": 8,
+  "favorites": 202,
+  "created_at": "Tue Jun 18 18:33:35 +0000 2024",
+  "text": "Alright\n\n@_buildspace #buildspace https://t.co/DMy6pmawsV",
+  "lang": "en",
+  "quotes": 1,
+  "replies": 96,
+  "conversation_id": "1803133977047474262",
+  "retweets": 7,
+  "views": "9259",
+  "user_info": {
+    "screen_name": "ideapakpaphon",
+    "name": "Idea RC",
+    "description": "⚔ @alchemistwar game dev - Chainlink '21 won $1300\n🌌 https://t.co/8gAPXEtRWE - AI voice startup 🇹🇭 4k user | $330 in 2 week | N&W: @ReniTube\nIG: idea_rc",
+    "rest_id": "1427130382571372549",
+    "followers_count": 147,
+    "favourites_count": 407,
+    "avatar": "https://pbs.twimg.com/profile_images/1801027556214550528/cZdQsd_I_normal.jpg",
+    "verified": false,
+    "friends_count": 411
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQYEoCfawAAJtwR.jpg",
+        "id": "1803133786718388224"
+      }
+    ]
+  }
+}

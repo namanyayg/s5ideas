@@ -1,0 +1,62 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803417517211234412",
+  "screen_name": "mikeyny_zw",
+  "bookmarks": 0,
+  "favorites": 11,
+  "created_at": "Wed Jun 19 13:20:16 +0000 2024",
+  "text": "super excited to be building this during @_nightsweekends s5😅\n\nwhat do you guys think? I would really appreciate your feedback on this🙏\n\ncc: @_buildspace @FarzaTV https://t.co/qVYXDSn4oL",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 7,
+  "conversation_id": "1803417517211234412",
+  "retweets": 1,
+  "views": "478",
+  "user_info": {
+    "screen_name": "mikeyny_zw",
+    "name": "Michael Nyamande 🇿🇼",
+    "description": "Techie 👨‍💻 | Technical Writer ✍️ | African ✊🏾\n\nHarnessing technology to solve problems & create meaningful solutions. Sharing ideas @codebytes_zw",
+    "rest_id": "3429899057",
+    "followers_count": 3124,
+    "favourites_count": 35882,
+    "avatar": "https://pbs.twimg.com/profile_images/1622600198512861184/4f3DipcK_normal.jpg",
+    "verified": false,
+    "friends_count": 1464
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQcGArNWgAA-mA-.jpg",
+        "id": "1803416784453664768"
+      }
+    ]
+  },
+  "quoted": {
+    "tweet_id": "1802234436009738672",
+    "bookmarks": 0,
+    "created_at": "Sun Jun 16 06:59:08 +0000 2024",
+    "favorites": 10,
+    "text": "🍳🍳🍳 https://t.co/CBQ1q7wZqV",
+    "lang": "qme",
+    "views": "1572",
+    "quotes": 1,
+    "replies": 1,
+    "retweets": 1,
+    "conversation_id": "1802234436009738672",
+    "author": {
+      "rest_id": "3429899057",
+      "name": "Michael Nyamande 🇿🇼",
+      "screen_name": "mikeyny_zw",
+      "avatar": "https://pbs.twimg.com/profile_images/1622600198512861184/4f3DipcK_normal.jpg",
+      "blue_verified": true
+    },
+    "media": {
+      "photo": [
+        {
+          "media_url_https": "https://pbs.twimg.com/media/GQLSqwhWoAAFI1a.jpg",
+          "id": "1802234432922755072"
+        }
+      ]
+    }
+  }
+}

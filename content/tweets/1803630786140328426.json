@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803630786140328426",
+  "screen_name": "sunnychiuka",
+  "bookmarks": 0,
+  "favorites": 3,
+  "created_at": "Thu Jun 20 03:27:43 +0000 2024",
+  "text": "here's my one-liner for @_nightsweekends s5 @_buildspace https://t.co/817iB08TmW",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 2,
+  "conversation_id": "1803630786140328426",
+  "retweets": 0,
+  "views": "61",
+  "user_info": {
+    "screen_name": "sunnychiuka",
+    "name": "Sunny",
+    "description": "Using x just for @_buildspace",
+    "rest_id": "1690993418129080320",
+    "followers_count": 1,
+    "favourites_count": 0,
+    "avatar": "https://pbs.twimg.com/profile_images/1690993481760784384/o-dMSEO8_normal.jpg",
+    "verified": false,
+    "friends_count": 11
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQfIdkfaIAQYy2b.jpg",
+        "id": "1803630586122346500"
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803693216975200317",
+  "screen_name": "TheHappyBaloney",
+  "bookmarks": 0,
+  "favorites": 9,
+  "created_at": "Thu Jun 20 07:35:48 +0000 2024",
+  "text": "After much thinking and ideating, I've finally decided on the project I want to work on for @_buildspace Nights and Weekends s5!\n\nSpecial thanks to @AsheLucia_ for their helpful suggestion while I was trying to make up my mind XD!\n\nDo lemme y'all thoughts? \ncc: @FarzaTV https://t.co/UMQB9oka9g",
+  "lang": "en",
+  "quotes": 1,
+  "replies": 3,
+  "conversation_id": "1803693216975200317",
+  "retweets": 1,
+  "views": "121",
+  "user_info": {
+    "screen_name": "TheHappyBaloney",
+    "name": "Arunima Chatterjee",
+    "description": "•Feminist In-Progress•\n•Tree Hugger•\n•Virgo•",
+    "rest_id": "1305746765606461440",
+    "followers_count": 132,
+    "favourites_count": 3301,
+    "avatar": "https://pbs.twimg.com/profile_images/1793740275107667968/gPTgpooa_normal.jpg",
+    "verified": false,
+    "friends_count": 637
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQgBa9SXwAAJD9F.jpg",
+        "id": "1803693213401726976"
+      }
+    ]
+  }
+}

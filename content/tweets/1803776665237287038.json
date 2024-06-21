@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803776665237287038",
+  "screen_name": "rs5_eth",
+  "bookmarks": 0,
+  "favorites": 1,
+  "created_at": "Thu Jun 20 13:07:24 +0000 2024",
+  "text": "This is for @_buildspace 💫S5✨ from the house of Erevald.\n\nLink: https://t.co/K2UcXbP6u3\n\n cc: @FarzaTV @_nightsweekends https://t.co/LUrDiiW5Mm",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 2,
+  "conversation_id": "1803776665237287038",
+  "retweets": 0,
+  "views": "36",
+  "user_info": {
+    "screen_name": "rs5_eth",
+    "name": "Ramsekar",
+    "description": "Crafting Chocolates from Air | Patent Award Winner @ PI Summit 2024 | CII-SR Solid Waste Management 2023 Award Winner | Featured on YourStory & StarterStory |",
+    "rest_id": "934041051836198912",
+    "followers_count": 110,
+    "favourites_count": 8484,
+    "avatar": "https://pbs.twimg.com/profile_images/1764558872914874368/l9qcR0VR_normal.jpg",
+    "verified": false,
+    "friends_count": 122
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQhLgnYb0AAQCEm.jpg",
+        "id": "1803774674461249536"
+      }
+    ]
+  }
+}

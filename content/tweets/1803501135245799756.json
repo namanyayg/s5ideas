@@ -1,0 +1,38 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803501135245799756",
+  "screen_name": "DhananjayBUIDL",
+  "bookmarks": 0,
+  "favorites": 3,
+  "created_at": "Wed Jun 19 18:52:32 +0000 2024",
+  "text": "All I want to say is fuck X\n\n@FarzaTV @_buildspace https://t.co/c6AGh4FLHk",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 2,
+  "conversation_id": "1803501135245799756",
+  "retweets": 0,
+  "views": "102",
+  "user_info": {
+    "screen_name": "DhananjayBUIDL",
+    "name": "Dhananjay.eth",
+    "description": "OpenSource Contributor | Web3 lead @ GDSC aum | UETH chapter founder | Hackathon Winner",
+    "rest_id": "1598607814632820736",
+    "followers_count": 28,
+    "favourites_count": 155,
+    "avatar": "https://pbs.twimg.com/profile_images/1692852756426678272/EBbMlc9c_normal.jpg",
+    "verified": false,
+    "friends_count": 80
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQdStqkaIAgIoJx.jpg",
+        "id": "1803501120259760136"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQdStrmaIAEsf8Z.jpg",
+        "id": "1803501120536584193"
+      }
+    ]
+  }
+}

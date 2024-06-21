@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803841562293539066",
+  "screen_name": "revealtheweb",
+  "bookmarks": 0,
+  "favorites": 1,
+  "created_at": "Thu Jun 20 17:25:16 +0000 2024",
+  "text": "Ready for @_nightsweekends lab1\ncc @_buildspace \n#dev #buildinpublic https://t.co/QYlyNQE3pL",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803841562293539066",
+  "retweets": 0,
+  "views": "23",
+  "user_info": {
+    "screen_name": "revealtheweb",
+    "name": "ani_👨🏻‍💻",
+    "description": "-0.10x engineer. programming & security. I build for fun and profit.",
+    "rest_id": "220015014",
+    "followers_count": 248,
+    "favourites_count": 81,
+    "avatar": "https://pbs.twimg.com/profile_images/1728199684915634176/esWyGpwF_normal.jpg",
+    "verified": false,
+    "friends_count": 2113
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQiIV0aWQAAABR5.jpg",
+        "id": "1803841559189667840"
+      }
+    ]
+  }
+}

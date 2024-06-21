@@ -1,0 +1,38 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803557685037871375",
+  "screen_name": "steven_thenerd",
+  "bookmarks": 0,
+  "favorites": 2,
+  "created_at": "Wed Jun 19 22:37:15 +0000 2024",
+  "text": "80% done with my Idea manager for my fellow builders on @_nightsweekends. If you want this template just comment @_buildspace  and I'll send it over to you once it's ready or better still I would pin it to my profile. https://t.co/ByY9A6B1kn",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803557685037871375",
+  "retweets": 0,
+  "views": "50",
+  "user_info": {
+    "screen_name": "steven_thenerd",
+    "name": "The Founder",
+    "description": "This user is currently building things with Notion during @_nightsweekends and @_buildspace",
+    "rest_id": "2727453082",
+    "followers_count": 778,
+    "favourites_count": 3387,
+    "avatar": "https://pbs.twimg.com/profile_images/1707553892186152960/su4mrIOW_normal.jpg",
+    "verified": false,
+    "friends_count": 991
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQeGJTJW8AAtH-Z.jpg",
+        "id": "1803557670101643264"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQeF-pIXsAAJ__Y.jpg",
+        "id": "1803557487024517120"
+      }
+    ]
+  }
+}

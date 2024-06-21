@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803645072619049354",
+  "screen_name": "kevinahmad",
+  "bookmarks": 3,
+  "favorites": 18,
+  "created_at": "Thu Jun 20 04:24:30 +0000 2024",
+  "text": "I hate exam prep stress, so I'm building a mock-test platform [that's actually good and fun :)] to help students worldwide ace their exams. \n\nAny feedback or requests for specific exams to add?\n\n@_buildspace @_nightsweekends @FarzaTV #buildinginpublic https://t.co/LL44YQqfGf",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 12,
+  "conversation_id": "1803645072619049354",
+  "retweets": 0,
+  "views": "713",
+  "user_info": {
+    "screen_name": "kevinahmad",
+    "name": "Kevin",
+    "description": "I build stuff for fun :) | @_buildspace indiehacking: https://t.co/JGhz8XRX96 https://t.co/EomXnmltCy @aikeyboard_app - https://t.co/E6SJIKpNce - and more!",
+    "rest_id": "191393683",
+    "followers_count": 755,
+    "favourites_count": 2291,
+    "avatar": "https://pbs.twimg.com/profile_images/1615621236301918209/BRYWbjjJ_normal.jpg",
+    "verified": false,
+    "friends_count": 634
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQfTHeUXEAA2cys.jpg",
+        "id": "1803642301136179200"
+      }
+    ]
+  }
+}

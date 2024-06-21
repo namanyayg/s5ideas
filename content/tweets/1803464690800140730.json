@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803464690800140730",
+  "screen_name": "kaitakami_",
+  "bookmarks": 0,
+  "favorites": 5,
+  "created_at": "Wed Jun 19 16:27:43 +0000 2024",
+  "text": "Tonight we are finally soft launching our baby project @jordy_builds and I been cooking for the last couple of weeks.\n\nThis comes from our heart, building a solution that helps us remember the importance of time and living the moment.\n\n@_buildspace s5 here we go! 🚀 https://t.co/Qv9ndb8lR9",
+  "lang": "en",
+  "quotes": 1,
+  "replies": 4,
+  "conversation_id": "1803464690800140730",
+  "retweets": 1,
+  "views": "126",
+  "user_info": {
+    "screen_name": "kaitakami_",
+    "name": "Kai Takami",
+    "description": "Tech, growth and startups 🦄",
+    "rest_id": "1376770696953487360",
+    "followers_count": 74,
+    "favourites_count": 865,
+    "avatar": "https://pbs.twimg.com/profile_images/1620978554338172929/b8m7b75R_normal.jpg",
+    "verified": false,
+    "friends_count": 446
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQcxcGPaIAIJCe4.jpg",
+        "id": "1803464534566510594"
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803831989398651311",
+  "screen_name": "elenabastyte",
+  "bookmarks": 0,
+  "favorites": 7,
+  "created_at": "Thu Jun 20 16:47:14 +0000 2024",
+  "text": "Excited to start working on Urban Jungle project for @_nightsweekends S5!\n\ncc: @_buildspace @FarzaTV https://t.co/f8IdiohKbQ",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 1,
+  "conversation_id": "1803831989398651311",
+  "retweets": 1,
+  "views": "56",
+  "user_info": {
+    "screen_name": "elenabastyte",
+    "name": "Elena Bastyte",
+    "description": "",
+    "rest_id": "1468792664497836033",
+    "followers_count": 9,
+    "favourites_count": 13,
+    "avatar": "https://pbs.twimg.com/profile_images/1779919814263218176/y3m1Rowu_normal.jpg",
+    "verified": false,
+    "friends_count": 10
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQh_OdDXsAAc8PU.jpg",
+        "id": "1803831537055543296"
+      }
+    ]
+  }
+}

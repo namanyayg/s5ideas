@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803854184359563722",
+  "screen_name": "sanyammjain",
+  "bookmarks": 0,
+  "favorites": 6,
+  "created_at": "Thu Jun 20 18:15:26 +0000 2024",
+  "text": "What do you think about this?\n.\n.\ncc: @_buildspace @_nightsweekends @FarzaTV https://t.co/BuzOhLasfm",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803854184359563722",
+  "retweets": 0,
+  "views": "27",
+  "user_info": {
+    "screen_name": "sanyammjain",
+    "name": "Sanyam Jain",
+    "description": "",
+    "rest_id": "1282678977492946944",
+    "followers_count": 6,
+    "favourites_count": 1314,
+    "avatar": "https://pbs.twimg.com/profile_images/1501095450677751815/NkEIoWH5_normal.jpg",
+    "verified": false,
+    "friends_count": 18
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQiTSHMbAAAdZ5g.jpg",
+        "id": "1803853590139961344"
+      }
+    ]
+  }
+}

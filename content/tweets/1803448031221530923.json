@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803448031221530923",
+  "screen_name": "iamorbito",
+  "bookmarks": 0,
+  "favorites": 13,
+  "created_at": "Wed Jun 19 15:21:31 +0000 2024",
+  "text": "I'm developing an offline payments app that makes it easy to pay without internet and keeps track of money efficiently. In the next month and a half, I'll focus on crafting an intuitive and user-friendly interface and make a prototype for world.\nCC: @_buildspace @_nightsweekends https://t.co/oSxSQVoo11",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 7,
+  "conversation_id": "1803448031221530923",
+  "retweets": 0,
+  "views": "201",
+  "user_info": {
+    "screen_name": "iamorbito",
+    "name": "Yash Bhardwaj",
+    "description": "erevald @_buildspace",
+    "rest_id": "1397212263858180100",
+    "followers_count": 27,
+    "favourites_count": 151,
+    "avatar": "https://pbs.twimg.com/profile_images/1707724954001899521/V0U5Tar3_normal.jpg",
+    "verified": false,
+    "friends_count": 28
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQch3MFXwAEzS99.jpg",
+        "id": "1803447407805448193"
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803892871709233437",
+  "screen_name": "xhuydng",
+  "bookmarks": 0,
+  "favorites": 4,
+  "created_at": "Thu Jun 20 20:49:09 +0000 2024",
+  "text": "Time-management is tough. And making a 'good' schedule takes so much time and energy. \n\nIntroducing Radnelac ⏱🔥 - folks, what do we think?    \n\nBonus, can anyone guess what Radnelac is? 🤔\n\ncc: @_buildspace @_nightsweekends https://t.co/981mtJESTV",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 4,
+  "conversation_id": "1803892871709233437",
+  "retweets": 0,
+  "views": "84",
+  "user_info": {
+    "screen_name": "xhuydng",
+    "name": "Swan Huy",
+    "description": "math @UofT | s5 @_buildspace | optimizing undergrad schedule in 60 secs",
+    "rest_id": "1704245654363525120",
+    "followers_count": 53,
+    "favourites_count": 35,
+    "avatar": "https://pbs.twimg.com/profile_images/1800267547020869632/ASqNDQ9k_normal.jpg",
+    "verified": false,
+    "friends_count": 43
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQi2K86XwAAT__Q.jpg",
+        "id": "1803891950027784192"
+      }
+    ]
+  }
+}

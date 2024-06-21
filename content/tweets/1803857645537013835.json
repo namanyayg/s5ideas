@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803857645537013835",
+  "screen_name": "arpit_bhatia_",
+  "bookmarks": 0,
+  "favorites": 3,
+  "created_at": "Thu Jun 20 18:29:11 +0000 2024",
+  "text": "Excited to join Buildspace S5 with \"howcs\" - a comprehensive hub guiding aspiring computer science students on where and how to start their tech journey. \n\nLet's build it! 🚀 \n\ncc @_buildspace @FarzaTV https://t.co/3egWUoy4sW",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 1,
+  "conversation_id": "1803857645537013835",
+  "retweets": 0,
+  "views": "59",
+  "user_info": {
+    "screen_name": "arpit_bhatia_",
+    "name": "Arpit Bhatia",
+    "description": "CSE'25 🎓 | Web Developer 🧑🏻‍💻",
+    "rest_id": "1588970084592386048",
+    "followers_count": 29,
+    "favourites_count": 225,
+    "avatar": "https://pbs.twimg.com/profile_images/1772984896937504770/3gr5Z8ep_normal.jpg",
+    "verified": false,
+    "friends_count": 83
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQiW99CX0AAkuNN.jpg",
+        "id": "1803857641862582272"
+      }
+    ]
+  }
+}

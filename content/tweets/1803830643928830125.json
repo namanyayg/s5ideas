@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803830643928830125",
+  "screen_name": "PokerPatio",
+  "bookmarks": 0,
+  "favorites": 12,
+  "created_at": "Thu Jun 20 16:41:53 +0000 2024",
+  "text": "First ever post!\n\nThanks @farzatv, @_buildspace, and @_nightsweekends for the inspiration. Didn't realize how important twitter was.\n\nLet me know what you think of my project. Have been building it for a while now and am finally going public. https://t.co/qJBsqxJAqS",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 8,
+  "conversation_id": "1803830643928830125",
+  "retweets": 1,
+  "views": "323",
+  "user_info": {
+    "screen_name": "PokerPatio",
+    "name": "Poker Patio",
+    "description": "Play free online poker ♠️",
+    "rest_id": "1604687532473683968",
+    "followers_count": 173,
+    "favourites_count": 298,
+    "avatar": "https://pbs.twimg.com/profile_images/1687160648164130827/JWIRqpQ2_normal.jpg",
+    "verified": false,
+    "friends_count": 52
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQh-aSAW4AAnz3s.jpg",
+        "id": "1803830640736919552"
+      }
+    ]
+  }
+}

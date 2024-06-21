@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803985026117218336",
+  "screen_name": "m_anarchitect",
+  "bookmarks": 0,
+  "favorites": 0,
+  "created_at": "Fri Jun 21 02:55:21 +0000 2024",
+  "text": "guess we're slowly figuring out the manifestation of the one liner @_buildspace @nightsNweekends https://t.co/sw4pPcVTZb",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803985026117218336",
+  "retweets": 0,
+  "views": "16",
+  "user_info": {
+    "screen_name": "m_anarchitect",
+    "name": "mahnoor",
+    "description": "I like writing about architecture and design. I run a South Asian design magazine. I occasionally tweet.",
+    "rest_id": "1548252498028220416",
+    "followers_count": 82,
+    "favourites_count": 30,
+    "avatar": "https://pbs.twimg.com/profile_images/1799479911406620672/FmiIN8vY_normal.jpg",
+    "verified": false,
+    "friends_count": 220
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQkKnCDXcAA0byx.jpg",
+        "id": "1803984791420760064"
+      }
+    ]
+  }
+}

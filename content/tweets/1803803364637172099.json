@@ -1,0 +1,38 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803803364637172099",
+  "screen_name": "AyushNigam008",
+  "bookmarks": 0,
+  "favorites": 0,
+  "created_at": "Thu Jun 20 14:53:29 +0000 2024",
+  "text": "What it looks like versus what it feels like😂\n\nPlanning for launching an initial version of what Cally should look like, under @_buildspace and @_nightsweekends ! https://t.co/MSMabKFnzu",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803803364637172099",
+  "retweets": 0,
+  "views": "24",
+  "user_info": {
+    "screen_name": "AyushNigam008",
+    "name": "ayush nigam",
+    "description": "alterok @buildspace, building cally",
+    "rest_id": "1750550780640481280",
+    "followers_count": 0,
+    "favourites_count": 5,
+    "avatar": "https://pbs.twimg.com/profile_images/1803803943400787968/Ey3QnE7P_normal.jpg",
+    "verified": false,
+    "friends_count": 11
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQhlHbRaYAAjbIh.jpg",
+        "id": "1803802829016162304"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQhlZIAbYAAzuOO.jpg",
+        "id": "1803803133082296320"
+      }
+    ]
+  }
+}

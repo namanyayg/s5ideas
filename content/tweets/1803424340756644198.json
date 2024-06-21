@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803424340756644198",
+  "screen_name": "stefaneric0",
+  "bookmarks": 0,
+  "favorites": 6,
+  "created_at": "Wed Jun 19 13:47:23 +0000 2024",
+  "text": "This is what I've been working on, check it out now at https://t.co/aJKMkWOXMO\n\n@_buildspace @FarzaTV @_nightsweekends #buildspace https://t.co/d3RaO1zOPk",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 4,
+  "conversation_id": "1803424340756644198",
+  "retweets": 0,
+  "views": "129",
+  "user_info": {
+    "screen_name": "stefaneric0",
+    "name": "Stefan Eric",
+    "description": "My software is nothing, my boxing is everything",
+    "rest_id": "740556660373106688",
+    "followers_count": 103,
+    "favourites_count": 145,
+    "avatar": "https://pbs.twimg.com/profile_images/1745068190596575232/RhzRm3NH_normal.jpg",
+    "verified": false,
+    "friends_count": 102
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQcMKB5WwAA9QZC.jpg",
+        "id": "1803423542232399872"
+      }
+    ]
+  }
+}

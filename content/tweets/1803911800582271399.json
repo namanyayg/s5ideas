@@ -1,0 +1,62 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803911800582271399",
+  "screen_name": "iamkevinkhaba",
+  "bookmarks": 1,
+  "favorites": 3,
+  "created_at": "Thu Jun 20 22:04:22 +0000 2024",
+  "text": "Thank you for the positive feedback.\n\n I managed to update my idea card after picking up a few pointers laid out in the comments.\n\nS5 is what I wanted and more\n#community #Genesis #web3 \n@_buildspace \n@_nightsweekends \n@FarzaTV https://t.co/y2nyfKiZXI",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 1,
+  "conversation_id": "1803911800582271399",
+  "retweets": 0,
+  "views": "51",
+  "user_info": {
+    "screen_name": "iamkevinkhaba",
+    "name": "Kevin",
+    "description": "💻 Web3 wizard crafting digital magic.\ns5 @_buildspace",
+    "rest_id": "1149723916212088833",
+    "followers_count": 474,
+    "favourites_count": 3266,
+    "avatar": "https://pbs.twimg.com/profile_images/1803145443628527616/kRZqfe3q_normal.jpg",
+    "verified": false,
+    "friends_count": 824
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQjIONWWkAACKxo.jpg",
+        "id": "1803911797189021696"
+      }
+    ]
+  },
+  "quoted": {
+    "tweet_id": "1803141376097636488",
+    "bookmarks": 0,
+    "created_at": "Tue Jun 18 19:02:59 +0000 2024",
+    "favorites": 10,
+    "text": "Excited to be Building #Genesis on the #permaweb to foster our right to be remembered and connecting with The Awesome team! @_buildspace @_nightsweekends @FarzaTV @ArweaveEco https://t.co/a6VxIaFZlM",
+    "lang": "en",
+    "views": "742",
+    "quotes": 1,
+    "replies": 4,
+    "retweets": 0,
+    "conversation_id": "1803141376097636488",
+    "author": {
+      "rest_id": "1149723916212088833",
+      "name": "Kevin",
+      "screen_name": "iamkevinkhaba",
+      "avatar": "https://pbs.twimg.com/profile_images/1803145443628527616/kRZqfe3q_normal.jpg",
+      "blue_verified": false
+    },
+    "media": {
+      "photo": [
+        {
+          "media_url_https": "https://pbs.twimg.com/media/GQYJ4wsWkAAUyI0.jpg",
+          "id": "1803139571556716544"
+        }
+      ]
+    }
+  }
+}

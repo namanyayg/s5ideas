@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803842137840107991",
+  "screen_name": "AkshatV69",
+  "bookmarks": 0,
+  "favorites": 4,
+  "created_at": "Thu Jun 20 17:27:34 +0000 2024",
+  "text": "So this will be my idea for the @buildspace and @_nightsweekends \nI hope you all will like it\nActually making portfolio for the developer has been the biggest task so in order to make it a simple one I want to create a site that will generate designs for portfolio you want. https://t.co/NGHknV9382",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803842137840107991",
+  "retweets": 0,
+  "views": "95",
+  "user_info": {
+    "screen_name": "AkshatV69",
+    "name": "Akshat Verma",
+    "description": "@girlscriptsoc 24 | Mern and Next.js Developer \n19 | Cohort 2.0\nCS25\n🇮🇳",
+    "rest_id": "1730978994143596545",
+    "followers_count": 150,
+    "favourites_count": 253,
+    "avatar": "https://pbs.twimg.com/profile_images/1802788962794078208/V8S-QgE2_normal.jpg",
+    "verified": false,
+    "friends_count": 238
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQiIH5cXUAAPd-6.jpg",
+        "id": "1803841320022134784"
+      }
+    ]
+  }
+}

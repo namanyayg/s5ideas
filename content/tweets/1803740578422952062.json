@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803740578422952062",
+  "screen_name": "iamrajan0",
+  "bookmarks": 0,
+  "favorites": 2,
+  "created_at": "Thu Jun 20 10:44:00 +0000 2024",
+  "text": "hey anandharajan here\n\nfrom chennai\n\ncc: @_buildspace @_nightsweekends https://t.co/hEuyRFiLjN",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 1,
+  "conversation_id": "1803740578422952062",
+  "retweets": 0,
+  "views": "40",
+  "user_info": {
+    "screen_name": "iamrajan0",
+    "name": "Anandharajan A",
+    "description": "Founder & CEO Repo, alterok @buildspace",
+    "rest_id": "1341341017212035072",
+    "followers_count": 93,
+    "favourites_count": 485,
+    "avatar": "https://pbs.twimg.com/profile_images/1718980211637952512/eYk6Xyxg_normal.jpg",
+    "verified": false,
+    "friends_count": 952
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQgsfHVaYAAR2vY.jpg",
+        "id": "1803740563818307584"
+      }
+    ]
+  }
+}

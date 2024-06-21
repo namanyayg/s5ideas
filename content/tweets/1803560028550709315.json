@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803560028550709315",
+  "screen_name": "RounakMukho",
+  "bookmarks": 0,
+  "favorites": 4,
+  "created_at": "Wed Jun 19 22:46:33 +0000 2024",
+  "text": "I'm trying to train a ML Model over a Degenerative lumbar spine dataset, looking towards an image classification(probly CNN) approach. Though this is also part of a @RSNA x @kaggle competition... but why not do it in @_nightsweekends \nthoughts??\ncc: @FarzaTV , @_buildspace https://t.co/p0FDwtegu0",
+  "lang": "en",
+  "quotes": 1,
+  "replies": 3,
+  "conversation_id": "1803560028550709315",
+  "retweets": 0,
+  "views": "155",
+  "user_info": {
+    "screen_name": "RounakMukho",
+    "name": "Rounak Mukhopadhyay",
+    "description": "MSc. Bioinformatics-MAKAUT |BS Data Science and Applications- IITM | BSc. Microbiology - West Bengal State University|gaudmire",
+    "rest_id": "1414483325075394565",
+    "followers_count": 23,
+    "favourites_count": 41,
+    "avatar": "https://pbs.twimg.com/profile_images/1803581411322109953/YnkSGgz0_normal.jpg",
+    "verified": false,
+    "friends_count": 169
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQeGN6oaIAAw8Tq.jpg",
+        "id": "1803557749420335104"
+      }
+    ]
+  }
+}

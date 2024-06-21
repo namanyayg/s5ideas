@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803418994554405128",
+  "screen_name": "itsss_chidu",
+  "bookmarks": 0,
+  "favorites": 6,
+  "created_at": "Wed Jun 19 13:26:08 +0000 2024",
+  "text": "i often get sidetracked online, spend hours on tasks that don't move the needle much.\n\nIdea open to roasts lols.\n\ncc @_buildspace @_nightsweekends https://t.co/EKHfgde3zI",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 7,
+  "conversation_id": "1803418994554405128",
+  "retweets": 0,
+  "views": "149",
+  "user_info": {
+    "screen_name": "itsss_chidu",
+    "name": "chidu",
+    "description": "thoughts of an explorer.",
+    "rest_id": "1774129530891862017",
+    "followers_count": 27,
+    "favourites_count": 61,
+    "avatar": "https://pbs.twimg.com/profile_images/1803687552458825730/BG4qv388_normal.jpg",
+    "verified": false,
+    "friends_count": 78
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQcHrHybgAApq63.jpg",
+        "id": "1803418613191507968"
+      }
+    ]
+  }
+}

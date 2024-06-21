@@ -1,0 +1,38 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803913792377573646",
+  "screen_name": "archf1end1",
+  "bookmarks": 0,
+  "favorites": 2,
+  "created_at": "Thu Jun 20 22:12:17 +0000 2024",
+  "text": "started working on my website just made the first page of it\nwhat do you think?\n@_buildspace @_nightsweekends @FarzaTV https://t.co/Mneldbg8xa",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803913792377573646",
+  "retweets": 0,
+  "views": "36",
+  "user_info": {
+    "screen_name": "archf1end1",
+    "name": "Vivek",
+    "description": "Just a techie\n@_buildspace s5",
+    "rest_id": "1567202145170259968",
+    "followers_count": 73,
+    "favourites_count": 312,
+    "avatar": "https://pbs.twimg.com/profile_images/1802063769406734336/EchGOOn9_normal.jpg",
+    "verified": false,
+    "friends_count": 80
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQjJvODXcAAeXv2.jpg",
+        "id": "1803913463825133568"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQjJvOEWMAI8FrA.jpg",
+        "id": "1803913463829245954"
+      }
+    ]
+  }
+}

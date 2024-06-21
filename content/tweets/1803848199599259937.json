@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803848199599259937",
+  "screen_name": "parsalyy",
+  "bookmarks": 0,
+  "favorites": 18,
+  "created_at": "Thu Jun 20 17:51:39 +0000 2024",
+  "text": "what i'll be working on for the next 6 weeks!\n\nCC: @_buildspace @_nightsweekends @FarzaTV https://t.co/WrbCpIZ5lR",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 9,
+  "conversation_id": "1803848199599259937",
+  "retweets": 1,
+  "views": "415",
+  "user_info": {
+    "screen_name": "parsalyy",
+    "name": "parsa",
+    "description": "second year medical student @OfficialUoM \nmedicine, AI and startups are cool\n🟥 s5  @_buildspace",
+    "rest_id": "1646961920686149645",
+    "followers_count": 55,
+    "favourites_count": 588,
+    "avatar": "https://pbs.twimg.com/profile_images/1801451536377135104/LrBu1nxr_normal.jpg",
+    "verified": false,
+    "friends_count": 287
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQiN2IeWwAAzoRD.png",
+        "id": "1803847611889139712"
+      }
+    ]
+  }
+}

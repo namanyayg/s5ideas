@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803538560261431803",
+  "screen_name": "FLOWMINGE_LIVE",
+  "bookmarks": 0,
+  "favorites": 1,
+  "created_at": "Wed Jun 19 21:21:15 +0000 2024",
+  "text": "we are attending @_nightsweekends  @_buildspace! this is our one-liner homework after session 1! 🎉 \n\nhow is it? any feedback?\n\n#nightsandweekends #buildspace #ai #startup #flowmingle #tech #events #travel #communities #socialapp https://t.co/DTWTEDLLX0",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 1,
+  "conversation_id": "1803538560261431803",
+  "retweets": 1,
+  "views": "99",
+  "user_info": {
+    "screen_name": "FLOWMINGE_LIVE",
+    "name": "FlowMingle.Live",
+    "description": "Check out the FlowMingle iOS/Android app, https://t.co/3qTn9vIn9p website to find fun events and friends!",
+    "rest_id": "1740848152679424000",
+    "followers_count": 2,
+    "favourites_count": 0,
+    "avatar": "https://pbs.twimg.com/profile_images/1788009119489957888/3Ul3twHX_normal.jpg",
+    "verified": false,
+    "friends_count": 1
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQdzsYtaIAQFDWE.jpg",
+        "id": "1803537382169518084"
+      }
+    ]
+  }
+}

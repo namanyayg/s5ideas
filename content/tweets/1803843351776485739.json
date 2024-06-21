@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803843351776485739",
+  "screen_name": "DavidMaliglowka",
+  "bookmarks": 0,
+  "favorites": 5,
+  "created_at": "Thu Jun 20 17:32:23 +0000 2024",
+  "text": "Still refining, but here we go \n\n@_buildspace @_nightsweekends @FarzaTV https://t.co/fDrMNxE5JZ",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 2,
+  "conversation_id": "1803843351776485739",
+  "retweets": 0,
+  "views": "69",
+  "user_info": {
+    "screen_name": "DavidMaliglowka",
+    "name": "David",
+    "description": "web3 gaming. Searching the 🌎 for the best 🍔.",
+    "rest_id": "1561872426",
+    "followers_count": 407,
+    "favourites_count": 2209,
+    "avatar": "https://pbs.twimg.com/profile_images/1607985654989733888/Y9FpmcXL_normal.jpg",
+    "verified": false,
+    "friends_count": 473
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQiJ8RIWIAAB-QE.jpg",
+        "id": "1803843319245447168"
+      }
+    ]
+  }
+}

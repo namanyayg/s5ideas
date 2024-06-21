@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803493537708908669",
+  "screen_name": "KhushalK_dev",
+  "bookmarks": 0,
+  "favorites": 3,
+  "created_at": "Wed Jun 19 18:22:21 +0000 2024",
+  "text": "after a lot of overthinking to get an idea, i finally decided to start with small and fun things.\n\nso here is my idea for n&amp;w s5\n\nplease give your feedback below 👇\n\ncc @_buildspace @_nightsweekends https://t.co/7q91UrnaOA",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 3,
+  "conversation_id": "1803493537708908669",
+  "retweets": 0,
+  "views": "79",
+  "user_info": {
+    "screen_name": "KhushalK_dev",
+    "name": "Khushal Khandelwal",
+    "description": "tech-loving engineering student | community enthusiast 🦦 | alterok @_buildspace",
+    "rest_id": "1642150762531921920",
+    "followers_count": 9,
+    "favourites_count": 45,
+    "avatar": "https://pbs.twimg.com/profile_images/1771834715424587776/We0dYtiJ_normal.jpg",
+    "verified": false,
+    "friends_count": 35
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQdLnADaIAMwlwM.jpg",
+        "id": "1803493309186449411"
+      }
+    ]
+  }
+}

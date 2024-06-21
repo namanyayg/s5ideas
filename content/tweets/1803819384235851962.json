@@ -1,0 +1,104 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803819384235851962",
+  "screen_name": "ppmpreetham",
+  "bookmarks": 0,
+  "favorites": 0,
+  "created_at": "Thu Jun 20 15:57:09 +0000 2024",
+  "text": "Day 5/Friday: I've spent today working on the thumbnail and finishing the video. It's quite fun working on tutorial. \n\ncc: @_buildspace @_nightsweekends https://t.co/PdemM2ng4B",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803819384235851962",
+  "retweets": 0,
+  "views": "52",
+  "user_info": {
+    "screen_name": "ppmpreetham",
+    "name": "Preetham Pemmasani 𝕏",
+    "description": "17 yo Self-Taught CG Artist ✦\nDesigner / Developer | Tech enthusiast 💻\nI like blender, cats, coffee, cinema, Italy, and you! He/him\n#b3d #geometrynodes",
+    "rest_id": "1258648963097309185",
+    "followers_count": 157,
+    "favourites_count": 1284,
+    "avatar": "https://pbs.twimg.com/profile_images/1803996507701678082/QneJveCr_normal.jpg",
+    "verified": false,
+    "friends_count": 383
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQhxZjWbwAAljUl.jpg",
+        "id": "1803816334561886208"
+      }
+    ],
+    "video": [
+      {
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1803819007986020352/pu/img/OBEtOdjhGGqvktIO.jpg",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1803819007986020352/pu/pl/gw1R1GE54u2DZK67.m3u8?tag=12"
+          },
+          {
+            "bitrate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1803819007986020352/pu/vid/avc1/320x568/vYX1OgY988apUWKz.mp4?tag=12"
+          },
+          {
+            "bitrate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1803819007986020352/pu/vid/avc1/480x852/WI8Vl6lSVhZzOKMx.mp4?tag=12"
+          },
+          {
+            "bitrate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1803819007986020352/pu/vid/avc1/720x1280/mmoj7YkYpwwndGqk.mp4?tag=12"
+          }
+        ],
+        "aspect_ratio": [
+          9,
+          16
+        ],
+        "original_info": {
+          "height": 1920,
+          "width": 1080,
+          "focus_rects": []
+        },
+        "id": "1803819007986020352"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1803819007990190080/pu/img/5UNqCX_z1oeW1HJ7.jpg",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1803819007990190080/pu/pl/xPIpYADzA4w7i6uM.m3u8?tag=12"
+          },
+          {
+            "bitrate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1803819007990190080/pu/vid/avc1/320x568/46G9ovmRt9cM8_TL.mp4?tag=12"
+          },
+          {
+            "bitrate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1803819007990190080/pu/vid/avc1/480x852/sALBSPID_xJpesdF.mp4?tag=12"
+          },
+          {
+            "bitrate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1803819007990190080/pu/vid/avc1/720x1280/P3dq4en6F6oN7OwL.mp4?tag=12"
+          }
+        ],
+        "aspect_ratio": [
+          9,
+          16
+        ],
+        "original_info": {
+          "height": 1920,
+          "width": 1080,
+          "focus_rects": []
+        },
+        "id": "1803819007990190080"
+      }
+    ]
+  }
+}

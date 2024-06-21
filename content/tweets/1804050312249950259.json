@@ -1,0 +1,38 @@
+{
+  "type": "tweet",
+  "tweet_id": "1804050312249950259",
+  "screen_name": "yashastro23",
+  "bookmarks": 0,
+  "favorites": 2,
+  "created_at": "Fri Jun 21 07:14:46 +0000 2024",
+  "text": "LFG ! \nDone with week 1 at @_nightsweekends \n\ncc:@_buildspace https://t.co/T1qcFTbxJG",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 1,
+  "conversation_id": "1804050312249950259",
+  "retweets": 0,
+  "views": "36",
+  "user_info": {
+    "screen_name": "yashastro23",
+    "name": "yash yadav",
+    "description": "MERN & Blockchain ⛓️ | alterok @_buildspace",
+    "rest_id": "1676549984261398530",
+    "followers_count": 57,
+    "favourites_count": 738,
+    "avatar": "https://pbs.twimg.com/profile_images/1789437685318250496/htDKtQhb_normal.jpg",
+    "verified": false,
+    "friends_count": 136
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQlGHeHXcAA6zNP.png",
+        "id": "1804050219895582720"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQlGLRVXMAAbwb7.jpg",
+        "id": "1804050285184102400"
+      }
+    ]
+  }
+}

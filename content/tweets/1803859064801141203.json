@@ -1,0 +1,62 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803859064801141203",
+  "screen_name": "Kdeshpande3",
+  "bookmarks": 8,
+  "favorites": 59,
+  "created_at": "Thu Jun 20 18:34:49 +0000 2024",
+  "text": "rewrote my idea slide so it actually makes sense\n\n(i think)\n\ncc @_buildspace @_nightsweekends https://t.co/a0Sywg3s9p",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 21,
+  "conversation_id": "1803859064801141203",
+  "retweets": 1,
+  "views": "3701",
+  "user_info": {
+    "screen_name": "Kdeshpande3",
+    "name": "Kartik",
+    "description": "Building https://t.co/GL5kGtHM6j | @aitinkerers Chicago Organizer | @umich alum",
+    "rest_id": "3687716119",
+    "followers_count": 1997,
+    "favourites_count": 8227,
+    "avatar": "https://pbs.twimg.com/profile_images/1412838989644681223/WdSwLb7H_normal.jpg",
+    "verified": false,
+    "friends_count": 973
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQiYPq0XgAArNzN.jpg",
+        "id": "1803859045721276416"
+      }
+    ]
+  },
+  "quoted": {
+    "tweet_id": "1803141972611440924",
+    "bookmarks": 2,
+    "created_at": "Tue Jun 18 19:05:21 +0000 2024",
+    "favorites": 20,
+    "text": "in all my prev projects, people churn bc they couldn’t quickly figure out how to use it\n\nthought it'd be cool to build a widget that can be added to an app and learns how to use it\n\nthen when user asks a question, an ai cursor guides them\n\nwyt\n\ncc @_buildspace @_nightsweekends https://t.co/ipnMWBHPad",
+    "lang": "en",
+    "views": "4398",
+    "quotes": 1,
+    "replies": 3,
+    "retweets": 0,
+    "conversation_id": "1803141972611440924",
+    "author": {
+      "rest_id": "3687716119",
+      "name": "Kartik",
+      "screen_name": "Kdeshpande3",
+      "avatar": "https://pbs.twimg.com/profile_images/1412838989644681223/WdSwLb7H_normal.jpg",
+      "blue_verified": true
+    },
+    "media": {
+      "photo": [
+        {
+          "media_url_https": "https://pbs.twimg.com/media/GQYL3FFXUAAj0eD.jpg",
+          "id": "1803141741693849600"
+        }
+      ]
+    }
+  }
+}

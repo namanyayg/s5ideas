@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803460199815983547",
+  "screen_name": "toseefkhan_",
+  "bookmarks": 0,
+  "favorites": 12,
+  "created_at": "Wed Jun 19 16:09:52 +0000 2024",
+  "text": "Here goes nothing:\nBeen brewing this idea for a while now. Let's see where we reach!\n\ncc @_buildspace @_nightsweekends https://t.co/FDPynx7Ttb",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 6,
+  "conversation_id": "1803460199815983547",
+  "retweets": 0,
+  "views": "244",
+  "user_info": {
+    "screen_name": "toseefkhan_",
+    "name": "Toseef Ali Khan 💙",
+    "description": "Mobile Developer | Winner at the Global Gamers Challenge by Flutter | Building apps for startups 🚀",
+    "rest_id": "812914519",
+    "followers_count": 211,
+    "favourites_count": 958,
+    "avatar": "https://pbs.twimg.com/profile_images/1686817243634728960/2mSLSK2G_normal.jpg",
+    "verified": false,
+    "friends_count": 684
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQcrzYDWQAE58yU.jpg",
+        "id": "1803458337414987777"
+      }
+    ]
+  }
+}

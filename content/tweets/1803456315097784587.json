@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803456315097784587",
+  "screen_name": "merlzy10",
+  "bookmarks": 0,
+  "favorites": 7,
+  "created_at": "Wed Jun 19 15:54:26 +0000 2024",
+  "text": "OK so here is what I'll be working on for\n@_buildspace\n@_nightsweekends\nSeason 5\n\nLet me get your thoughts!! @FarzaTV https://t.co/xyr0RbRE2W",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 4,
+  "conversation_id": "1803456315097784587",
+  "retweets": 0,
+  "views": "73",
+  "user_info": {
+    "screen_name": "merlzy10",
+    "name": "MarlenMahendraratnam",
+    "description": "",
+    "rest_id": "812183890903388160",
+    "followers_count": 13,
+    "favourites_count": 6,
+    "avatar": "https://pbs.twimg.com/profile_images/812532836150349825/UJiIhSOt_normal.jpg",
+    "verified": false,
+    "friends_count": 71
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQcpoR5X0AMoWXT.jpg",
+        "id": "1803455947760717827"
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803479775497060620",
+  "screen_name": "Devansh_1405",
+  "bookmarks": 0,
+  "favorites": 5,
+  "created_at": "Wed Jun 19 17:27:40 +0000 2024",
+  "text": "Yoo, finanny shipped it!\nIntroducing Mynd, your AI-powered journaling BFF!!  \n\nMynd, analyzes your journal entries to pinpoint your mood &amp; feelings at the time of writing.✨ \n\nCheck it out: https://t.co/TBlwtuqNUn   \n\nwould love your contributions &amp; suggestions!\n@_buildspace https://t.co/2JmOFROO8m",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 2,
+  "conversation_id": "1803479775497060620",
+  "retweets": 0,
+  "views": "98",
+  "user_info": {
+    "screen_name": "Devansh_1405",
+    "name": "Devansh",
+    "description": "19. building cool stuff' :)",
+    "rest_id": "1517762769918971904",
+    "followers_count": 41,
+    "favourites_count": 170,
+    "avatar": "https://pbs.twimg.com/profile_images/1803744402529234944/rz88zaYm_normal.jpg",
+    "verified": false,
+    "friends_count": 91
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQc9ywwa8AAKsBK.jpg",
+        "id": "1803478118075920384"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQc90GsaEAA2ZCM.jpg",
+        "id": "1803478141144535040"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQc91UdaIAUZ6GM.jpg",
+        "id": "1803478162019590149"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQc-eJGaIAcAc-U.jpg",
+        "id": "1803478863344967687"
+      }
+    ]
+  }
+}

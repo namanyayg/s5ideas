@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803855477593235752",
+  "screen_name": "NayanKad",
+  "bookmarks": 0,
+  "favorites": 6,
+  "created_at": "Thu Jun 20 18:20:34 +0000 2024",
+  "text": "This one's for the language learners 🙌\n\ncc @_buildspace @_nightsweekends https://t.co/5qqyWkRWHh",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803855477593235752",
+  "retweets": 0,
+  "views": "100",
+  "user_info": {
+    "screen_name": "NayanKad",
+    "name": "NK",
+    "description": "hi\ncurrently building\n🔸️convo - speech-focused language learning\n🔸️5Head @ https://t.co/ljsf4bnxhI\nerevald @_buildspace",
+    "rest_id": "3432882946",
+    "followers_count": 155,
+    "favourites_count": 349,
+    "avatar": "https://pbs.twimg.com/profile_images/1671931531957288960/Vpm_cYWy_normal.jpg",
+    "verified": false,
+    "friends_count": 155
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQiUs8NW0AAjI3x.jpg",
+        "id": "1803855150559186944"
+      }
+    ]
+  }
+}

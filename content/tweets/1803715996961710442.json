@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803715996961710442",
+  "screen_name": "valentinrudlof1",
+  "bookmarks": 0,
+  "favorites": 8,
+  "created_at": "Thu Jun 20 09:06:19 +0000 2024",
+  "text": "Second iteration to make the idea clearer.\nIs it better ?\n\nhttps://t.co/qhrU2mnpTV is a tool to help engineers make software packages quicker thanks to automation, integration static validation.\n\n\"Don't reinvent the wheel\" that's the goal\n\n@_buildspace @_nightsweekends https://t.co/U9ArFC7dSq",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 1,
+  "conversation_id": "1803715996961710442",
+  "retweets": 0,
+  "views": "120",
+  "user_info": {
+    "screen_name": "valentinrudlof1",
+    "name": "Valentin Rudloff",
+    "description": "French 🇫🇷 engineer based in Paris, committed to developing exceptional tools to enhance the productivity 🚀 of other engineers.\nCurrently building https://t.co/QVUetKCo1v",
+    "rest_id": "1504572397491474441",
+    "followers_count": 69,
+    "favourites_count": 115,
+    "avatar": "https://pbs.twimg.com/profile_images/1789743293275774976/9avsXvVB_normal.jpg",
+    "verified": false,
+    "friends_count": 94
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQgVH4lWUAEhCzF.jpg",
+        "id": "1803714875954188289"
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803504706024554728",
+  "screen_name": "DakshuDev",
+  "bookmarks": 0,
+  "favorites": 1,
+  "created_at": "Wed Jun 19 19:06:44 +0000 2024",
+  "text": "Finally started working on my @_nightsweekends project!\n\nWish me good luck!\nAlso I'm using daisyUI, if you know something better, please tell me!(no shadcn as i need more simple look than what shadCn offers)\n\ncc: @_buildspace https://t.co/zeHWOYHpGc",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803504706024554728",
+  "retweets": 0,
+  "views": "117",
+  "user_info": {
+    "screen_name": "DakshuDev",
+    "name": "Daksh Mangal",
+    "description": "Gaudmire 🔯 @_buildspace\nBest Project till now: https://t.co/01y9LhqegM\nWorking on a link-in-bio tool for creators",
+    "rest_id": "1790686137368846336",
+    "followers_count": 5,
+    "favourites_count": 23,
+    "avatar": "https://pbs.twimg.com/profile_images/1790686238652891136/q5L2WEDa_normal.jpg",
+    "verified": false,
+    "friends_count": 7
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQdVmOgXQAAYbBg.jpg",
+        "id": "1803504291002400768"
+      }
+    ]
+  }
+}

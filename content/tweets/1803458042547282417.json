@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803458042547282417",
+  "screen_name": "iam_hasan_raja",
+  "bookmarks": 0,
+  "favorites": 4,
+  "created_at": "Wed Jun 19 16:01:18 +0000 2024",
+  "text": "It's a reminder to all @_nightsweekends https://t.co/k8rRJfbJtw",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803458042547282417",
+  "retweets": 0,
+  "views": "71",
+  "user_info": {
+    "screen_name": "iam_hasan_raja",
+    "name": "iam.hasan_raja",
+    "description": "🦀 Rustacean | Seasoned in JavaScript & Java | Embracing the Rustacean journey 🚀 | Let's code for a better tomorrow!🌎🇮🇳",
+    "rest_id": "1676936982738644995",
+    "followers_count": 34,
+    "favourites_count": 984,
+    "avatar": "https://pbs.twimg.com/profile_images/1676937333722193920/qSuNDtVM_normal.jpg",
+    "verified": false,
+    "friends_count": 328
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQcriBCb0AAmrzU.jpg",
+        "id": "1803458039179366400"
+      }
+    ]
+  }
+}

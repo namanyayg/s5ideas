@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803948251948708106",
+  "screen_name": "MilanSa14112436",
+  "bookmarks": 0,
+  "favorites": 3,
+  "created_at": "Fri Jun 21 00:29:13 +0000 2024",
+  "text": "I am building this fun project for @_nightsweekends @_buildspace . Do let me know if any features you want . https://t.co/h392NIeYBH",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 3,
+  "conversation_id": "1803948251948708106",
+  "retweets": 0,
+  "views": "41",
+  "user_info": {
+    "screen_name": "MilanSa14112436",
+    "name": "Milan Sahu",
+    "description": "Building data platform and AI products. Hobby writter about data and things in general.",
+    "rest_id": "1519045727992778752",
+    "followers_count": 8,
+    "favourites_count": 3,
+    "avatar": "https://pbs.twimg.com/profile_images/1763887970120245248/ZbKNPNJD_normal.jpg",
+    "verified": false,
+    "friends_count": 42
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQjo-GOW8AAJ0O0.jpg",
+        "id": "1803947804282253312"
+      }
+    ]
+  }
+}

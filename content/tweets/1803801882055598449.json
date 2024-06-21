@@ -1,0 +1,55 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803801882055598449",
+  "screen_name": "gnaaruag",
+  "bookmarks": 0,
+  "favorites": 2,
+  "created_at": "Thu Jun 20 14:47:36 +0000 2024",
+  "text": "iterated on my idea slide\n\nfigured i dont really need ai, (so itll be non ai software product).\n\nlemme know if you can think of something i can do better.\n\nbuildspace 4/?\n\ncc: @_buildspace @_nightsweekends @FarzaTV https://t.co/VoQcInAu3f",
+  "lang": "en",
+  "quotes": 1,
+  "replies": 0,
+  "conversation_id": "1803801882055598449",
+  "retweets": 0,
+  "views": "225",
+  "user_info": {
+    "screen_name": "gnaaruag",
+    "name": "Gaurang",
+    "description": "i work w fullstack tech for now | i talk about tech, code, art, literature, music, racing and more.",
+    "rest_id": "1535316453725204481",
+    "followers_count": 174,
+    "favourites_count": 2708,
+    "avatar": "https://pbs.twimg.com/profile_images/1792846010601099264/ApjXMFFF_normal.jpg",
+    "verified": false,
+    "friends_count": 181
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQhjjZLbgAElpWF.jpg",
+        "id": "1803801110467280897"
+      }
+    ]
+  },
+  "quoted": {
+    "tweet_id": "1803263844548223175",
+    "bookmarks": 0,
+    "created_at": "Wed Jun 19 03:09:38 +0000 2024",
+    "favorites": 3,
+    "text": "buildspace 3/?\n\nbrainstormed about how ill afford to scale my app or build the necessary ecosystem for both client categories to coexist symbiotically \n\ni have no fkn clue how i’ll pull that off but i’ve decided that’s future gaurang’s problem\n\ncc: @_buildspace @_nightsweekends",
+    "lang": "en",
+    "views": "207",
+    "quotes": 1,
+    "replies": 1,
+    "retweets": 0,
+    "conversation_id": "1803263844548223175",
+    "author": {
+      "rest_id": "1535316453725204481",
+      "name": "Gaurang",
+      "screen_name": "gnaaruag",
+      "avatar": "https://pbs.twimg.com/profile_images/1792846010601099264/ApjXMFFF_normal.jpg",
+      "blue_verified": false
+    },
+    "media": []
+  }
+}

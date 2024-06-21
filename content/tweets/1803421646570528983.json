@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803421646570528983",
+  "screen_name": "mayaisxyz",
+  "bookmarks": 2,
+  "favorites": 13,
+  "created_at": "Wed Jun 19 13:36:41 +0000 2024",
+  "text": "a lil lunch break launch of my idea for @_nightsweekends ✨ \n\nrethinking how we view the calendar with 3D is something I’ve been curious about for a while ~ excited to explore more over the next 6 weeks as part of @_buildspace s5!\n\nhttps://t.co/6J9up5PW85\n\n#buildspace https://t.co/KUEsiYvgc6",
+  "lang": "en",
+  "quotes": 1,
+  "replies": 13,
+  "conversation_id": "1803421646570528983",
+  "retweets": 0,
+  "views": "424",
+  "user_info": {
+    "screen_name": "mayaisxyz",
+    "name": "maya 🌙✨",
+    "description": "🇬🇧🇵🇭 | frontend engineer @outverse_ 🪐 | human of the neurospicy kind 🌱 | building lil projects w/ Svelte | ⛸️ skating, dance, kickboxing + oly lifting🏋",
+    "rest_id": "37720584",
+    "followers_count": 2816,
+    "favourites_count": 4140,
+    "avatar": "https://pbs.twimg.com/profile_images/1801179298570678272/Y_M6MGBs_normal.jpg",
+    "verified": false,
+    "friends_count": 2026
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQcKbRaW4AAv-xt.jpg",
+        "id": "1803421639431872512"
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803799393524465768",
+  "screen_name": "iRajuljain",
+  "bookmarks": 0,
+  "favorites": 1,
+  "created_at": "Thu Jun 20 14:37:43 +0000 2024",
+  "text": "having ai products? And want to collect testimonials from clients wait no more.\nhttps://t.co/dquH5vKTJj \ncc : @_buildspace  #s5 #alterok https://t.co/VvDsKo5M9E",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 1,
+  "conversation_id": "1803799393524465768",
+  "retweets": 0,
+  "views": "25",
+  "user_info": {
+    "screen_name": "iRajuljain",
+    "name": "Rajul Jain",
+    "description": "Software Developer | Building https://t.co/WYZw1wJ2Sm",
+    "rest_id": "2437301551",
+    "followers_count": 19,
+    "favourites_count": 449,
+    "avatar": "https://pbs.twimg.com/profile_images/1802565137657913344/AM8IhHjq_normal.jpg",
+    "verified": false,
+    "friends_count": 100
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQhh-v7WwAAooLr.jpg",
+        "id": "1803799381407088640"
+      }
+    ]
+  }
+}

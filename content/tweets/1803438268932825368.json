@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803438268932825368",
+  "screen_name": "mishalabdula",
+  "bookmarks": 0,
+  "favorites": 2,
+  "created_at": "Wed Jun 19 14:42:44 +0000 2024",
+  "text": "Here my buildspace project idea.\nWhy ?\nI do tend to waste lot of time structuring notes  and also organising them in to specific folders. I am tried of it hence \nhttps://t.co/ONn7wzrplh (coding not started). \ncc : @_buildspace @_nightsweekends https://t.co/IuhYoRRbvV",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 2,
+  "conversation_id": "1803438268932825368",
+  "retweets": 0,
+  "views": "42",
+  "user_info": {
+    "screen_name": "mishalabdula",
+    "name": "mishalabdulllah",
+    "description": "Developer Writer Designer",
+    "rest_id": "1717554461894144000",
+    "followers_count": 35,
+    "favourites_count": 9,
+    "avatar": "https://pbs.twimg.com/profile_images/1803437051653615617/SKTs113o_normal.jpg",
+    "verified": false,
+    "friends_count": 33
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQcZAByWEAEnXm3.jpg",
+        "id": "1803437664055463937"
+      }
+    ]
+  }
+}

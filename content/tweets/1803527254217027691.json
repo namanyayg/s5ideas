@@ -1,0 +1,38 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803527254217027691",
+  "screen_name": "GmantheN",
+  "bookmarks": 0,
+  "favorites": 0,
+  "created_at": "Wed Jun 19 20:36:19 +0000 2024",
+  "text": "Day 2 of  Zero to CEO story:\nI can't design to save my life but here's how it's going so far.\n\n@Tsavsar_  come and help boys na👀👀\n@_nightsweekends https://t.co/t7gTc9zZvw",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803527254217027691",
+  "retweets": 0,
+  "views": "54",
+  "user_info": {
+    "screen_name": "GmantheN",
+    "name": "Gmanthenoxus",
+    "description": "The Court side dev\n\nmy business is connecting people\n\nNoxus = 👨‍💻 + 🏀 + 🗣",
+    "rest_id": "1216487006416654342",
+    "followers_count": 146,
+    "favourites_count": 165,
+    "avatar": "https://pbs.twimg.com/profile_images/1683509956929101829/mHxd_X5k_normal.jpg",
+    "verified": false,
+    "friends_count": 271
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQdpoGGWMAErhC9.png",
+        "id": "1803526313338089473"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQdpoGEWQAAtRTa.png",
+        "id": "1803526313329704960"
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803491721508253770",
+  "screen_name": "_awaisyaseen",
+  "bookmarks": 0,
+  "favorites": 2,
+  "created_at": "Wed Jun 19 18:15:08 +0000 2024",
+  "text": "alright, so i joined s5 of nights and weekends and going to work on this idea for the next 6 weeks.\n\ncc @_buildspace @_nightsweekends \n\nthoughts? https://t.co/pPUlqfsq6w",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803491721508253770",
+  "retweets": 0,
+  "views": "49",
+  "user_info": {
+    "screen_name": "_awaisyaseen",
+    "name": "Awa!s",
+    "description": "// Software Engineer | alterok s5 _buildspace",
+    "rest_id": "1690506062296952832",
+    "followers_count": 17,
+    "favourites_count": 24,
+    "avatar": "https://pbs.twimg.com/profile_images/1741568698643537920/LnVNgT8q_normal.jpg",
+    "verified": false,
+    "friends_count": 54
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQdJaLoaIAAYxnb.jpg",
+        "id": "1803490889932873728"
+      }
+    ]
+  }
+}

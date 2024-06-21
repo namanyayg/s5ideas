@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803697894555304112",
+  "screen_name": "AbhishekMa68590",
+  "bookmarks": 0,
+  "favorites": 2,
+  "created_at": "Thu Jun 20 07:54:23 +0000 2024",
+  "text": "Excited to be apart of Nights &amp; Weekends s5 at buildspace and hopefully create this. Please drop any thoughts or ideas below. I am aware certain alternatives exist but I think there is a real gap in the market!\n\ncc - @_buildspace @_nightsweekends https://t.co/SkqUgLlWR5",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803697894555304112",
+  "retweets": 0,
+  "views": "31",
+  "user_info": {
+    "screen_name": "AbhishekMa68590",
+    "name": "UniStockTips",
+    "description": "Seeing how my stock picks do.",
+    "rest_id": "1758609897648775168",
+    "followers_count": 1,
+    "favourites_count": 25,
+    "avatar": "https://pbs.twimg.com/profile_images/1770916417027624960/ZmcDCGqt_normal.jpg",
+    "verified": false,
+    "friends_count": 5
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQgFqm_XUAAf-zq.png",
+        "id": "1803697880340844544"
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803851052384739697",
+  "screen_name": "psychoticOm",
+  "bookmarks": 0,
+  "favorites": 2,
+  "created_at": "Thu Jun 20 18:02:59 +0000 2024",
+  "text": "Let’s gooo @FarzaTV @_nightsweekends @_buildspace \n#buildspace https://t.co/tXJ4Catxiz",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803851052384739697",
+  "retweets": 0,
+  "views": "99",
+  "user_info": {
+    "screen_name": "psychoticOm",
+    "name": "Om Shewale",
+    "description": "Escape the reality...",
+    "rest_id": "1296116855707275265",
+    "followers_count": 146,
+    "favourites_count": 2452,
+    "avatar": "https://pbs.twimg.com/profile_images/1803754886645035008/i1U9UjKo_normal.jpg",
+    "verified": false,
+    "friends_count": 877
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQiQ9yuXMAAZP6H.jpg",
+        "id": "1803851042024534016"
+      }
+    ]
+  }
+}

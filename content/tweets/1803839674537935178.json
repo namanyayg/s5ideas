@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803839674537935178",
+  "screen_name": "Ika_svz",
+  "bookmarks": 0,
+  "favorites": 4,
+  "created_at": "Thu Jun 20 17:17:46 +0000 2024",
+  "text": "lets see 🙌\nCC @_buildspace  @_nightsweekends https://t.co/NIgnKKibvU",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 4,
+  "conversation_id": "1803839674537935178",
+  "retweets": 0,
+  "views": "95",
+  "user_info": {
+    "screen_name": "Ika_svz",
+    "name": "Ika 🇬🇪",
+    "description": "Building In Public: Tech news aggregator with AI - https://t.co/TwnzuKTGro\nBook a call with me - https://t.co/DlgaRYA5sm",
+    "rest_id": "1344202664557629440",
+    "followers_count": 106,
+    "favourites_count": 46,
+    "avatar": "https://pbs.twimg.com/profile_images/1755525802421104641/wmBA-6qc_normal.jpg",
+    "verified": false,
+    "friends_count": 457
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQiGgRrXQAE75qu.png",
+        "id": "1803839539821101057"
+      }
+    ]
+  }
+}

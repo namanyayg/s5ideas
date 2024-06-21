@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803171164128157732",
+  "screen_name": "shashankdaima",
+  "bookmarks": 2,
+  "favorites": 94,
+  "created_at": "Tue Jun 18 21:01:21 +0000 2024",
+  "text": "Taking some bets on things that is not that conventional. Hope it works out. Simple idea to work on.  \ncc. @_buildspace @_nightsweekends https://t.co/lWGr8EKyHw",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 21,
+  "conversation_id": "1803171164128157732",
+  "retweets": 1,
+  "views": "2777",
+  "user_info": {
+    "screen_name": "shashankdaima",
+    "name": "Shashank Daima",
+    "description": "Code Farmer || Tier-0 grad || Borbes 23 under 23 most pathetic people || Keyboard Warrior",
+    "rest_id": "1444974365670400000",
+    "followers_count": 544,
+    "favourites_count": 20883,
+    "avatar": "https://pbs.twimg.com/profile_images/1798233267243470848/gXTpkXUS_normal.jpg",
+    "verified": false,
+    "friends_count": 1007
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQYl8jIXIAI2Lor.png",
+        "id": "1803170422961152002"
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803802230451036584",
+  "screen_name": "0xastro98",
+  "bookmarks": 2,
+  "favorites": 41,
+  "created_at": "Thu Jun 20 14:48:59 +0000 2024",
+  "text": "i will continue to work on @Flashmateshq this season &amp; it will be a full-stack ecosystem of housing &amp; real estate technology products and platform. available globally.\n\n@_buildspace @_nightsweekends https://t.co/8pN9Xl2Zj4",
+  "lang": "en",
+  "quotes": 1,
+  "replies": 8,
+  "conversation_id": "1803802230451036584",
+  "retweets": 3,
+  "views": "1557",
+  "user_info": {
+    "screen_name": "0xastro98",
+    "name": "Amrit Shenava",
+    "description": "founder @flashmateshq @kudlabuilders @tuluaihq Hiremart Pakshaala",
+    "rest_id": "839530050",
+    "followers_count": 3241,
+    "favourites_count": 69676,
+    "avatar": "https://pbs.twimg.com/profile_images/1712446740924911617/603CNv76_normal.jpg",
+    "verified": false,
+    "friends_count": 921
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQhkOAGWwAAss5S.jpg",
+        "id": "1803801842469486592"
+      }
+    ]
+  }
+}

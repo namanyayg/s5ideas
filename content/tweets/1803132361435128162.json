@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803132361435128162",
+  "screen_name": "lordpardonme08",
+  "bookmarks": 10,
+  "favorites": 243,
+  "created_at": "Tue Jun 18 18:27:10 +0000 2024",
+  "text": "Does this make sense?\n\n@_buildspace \n@_nightsweekends \n@FarzaTV https://t.co/VPnvLIQ0Co",
+  "lang": "en",
+  "quotes": 1,
+  "replies": 102,
+  "conversation_id": "1803132361435128162",
+  "retweets": 0,
+  "views": "6799",
+  "user_info": {
+    "screen_name": "lordpardonme08",
+    "name": "hayaat",
+    "description": "@_nightsweekends s5 ALTEROK @mewdmatch revolutionising the world of dating",
+    "rest_id": "84801753",
+    "followers_count": 182,
+    "favourites_count": 840,
+    "avatar": "https://pbs.twimg.com/profile_images/1802058828478865408/YjCSlM_K_normal.jpg",
+    "verified": false,
+    "friends_count": 298
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQYDGSPWgAAGeRZ.jpg",
+        "id": "1803132107318788096"
+      }
+    ]
+  }
+}

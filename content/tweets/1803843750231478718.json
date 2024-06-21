@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803843750231478718",
+  "screen_name": "candid_anki",
+  "bookmarks": 0,
+  "favorites": 2,
+  "created_at": "Thu Jun 20 17:33:58 +0000 2024",
+  "text": "thought a lot and decided build a solution around my problems. \nlet's see how it goes :)\n@_buildspace @_nightsweekends https://t.co/x8wuYm81M3",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 2,
+  "conversation_id": "1803843750231478718",
+  "retweets": 0,
+  "views": "44",
+  "user_info": {
+    "screen_name": "candid_anki",
+    "name": "ap",
+    "description": "just hangin' in there",
+    "rest_id": "1727171095240048640",
+    "followers_count": 8,
+    "favourites_count": 70,
+    "avatar": "https://pbs.twimg.com/profile_images/1800573083125977090/3BUwoAhW_normal.jpg",
+    "verified": false,
+    "friends_count": 15
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQiKCXUW0AAQLdW.png",
+        "id": "1803843423985651712"
+      }
+    ]
+  }
+}

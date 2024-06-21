@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803448223672987735",
+  "screen_name": "aymane_bouhou1",
+  "bookmarks": 0,
+  "favorites": 3,
+  "created_at": "Wed Jun 19 15:22:17 +0000 2024",
+  "text": "Hi! I'm Aymane, a young Moroccan engineer dedicated to advancing science and solving real-world challenges. My goal is to contribute meaningfully to the development of our world by generating innovative ideas and implementing effective solutions.\ncc: @_buildspace @_nightsweekends https://t.co/VOvgS1GuIS",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803448223672987735",
+  "retweets": 0,
+  "views": "49",
+  "user_info": {
+    "screen_name": "aymane_bouhou1",
+    "name": "Aymane Bouhou",
+    "description": "I'm Aymane, a young Moroccan who aims to create a worthy ideal toward which i work every day ,documenting my journey and sharing value trying to inspire people",
+    "rest_id": "1763682137100681216",
+    "followers_count": 49,
+    "favourites_count": 391,
+    "avatar": "https://pbs.twimg.com/profile_images/1779598697782734848/ISvSJmhp_normal.jpg",
+    "verified": false,
+    "friends_count": 73
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQchbTQWMAAl2Ld.jpg",
+        "id": "1803446928694194176"
+      }
+    ]
+  }
+}

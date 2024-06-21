@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803903567310241953",
+  "screen_name": "ahmetdedeler101",
+  "bookmarks": 0,
+  "favorites": 4,
+  "created_at": "Thu Jun 20 21:31:40 +0000 2024",
+  "text": "here's what i'll be working on nights &amp; weekends s5!\n\nhoping to make some decent content and grow on social media this summer.\n\nlets see how it goes...\n\ncc: @_buildspace @_nightsweekends https://t.co/gH2vsKklUy",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 2,
+  "conversation_id": "1803903567310241953",
+  "retweets": 0,
+  "views": "68",
+  "user_info": {
+    "screen_name": "ahmetdedeler101",
+    "name": "ahmet",
+    "description": "builder, hackathon enthusiast (7 wins!)\n\nsharing my journey & cool stuff I make!\n\nGoal: $1000 MRR\n\nenjoying the process 🔥",
+    "rest_id": "1208575722824118272",
+    "followers_count": 59,
+    "favourites_count": 134,
+    "avatar": "https://pbs.twimg.com/profile_images/1743748154531409920/g_0Obkhd_normal.jpg",
+    "verified": false,
+    "friends_count": 91
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQjAZrrXMAAFPf3.jpg",
+        "id": "1803903198215745536"
+      }
+    ]
+  }
+}

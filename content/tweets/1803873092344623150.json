@@ -1,0 +1,42 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803873092344623150",
+  "screen_name": "mbatesvisuals",
+  "bookmarks": 0,
+  "favorites": 0,
+  "created_at": "Thu Jun 20 19:30:34 +0000 2024",
+  "text": "Had a blast at lab 1 with @_buildspace \nAnd submitted my first weekly update\n\nHonestly kinda proud of myself https://t.co/ZGEQhAyc5O",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803873092344623150",
+  "retweets": 0,
+  "views": "31",
+  "user_info": {
+    "screen_name": "mbatesvisuals",
+    "name": "Matthew Bates",
+    "description": "Making enjoyable and informative content for everyone! Titus 2:13-14 Compass Bible Church NTX - Head Audio Engineer - @_buildspace s5",
+    "rest_id": "1339658083",
+    "followers_count": 136,
+    "favourites_count": 9851,
+    "avatar": "https://pbs.twimg.com/profile_images/1803872474972426240/Lscd5rKV_normal.jpg",
+    "verified": false,
+    "friends_count": 568
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQilAKkXYAAmzT0.jpg",
+        "id": "1803873073017348096"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQilAKuWcAAl1rb.jpg",
+        "id": "1803873073059229696"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQilAKaWEAAiaR3.jpg",
+        "id": "1803873072975319040"
+      }
+    ]
+  }
+}

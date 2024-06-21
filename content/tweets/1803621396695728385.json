@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803621396695728385",
+  "screen_name": "Brickthee",
+  "bookmarks": 0,
+  "favorites": 2,
+  "created_at": "Thu Jun 20 02:50:25 +0000 2024",
+  "text": "LEARNING ME &amp; MAKING HOMIS THE NEXT 6 WEEKS\n\n@_buildspace  \n@_nightsweekends https://t.co/eFwJoxSMUO",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 1,
+  "conversation_id": "1803621396695728385",
+  "retweets": 0,
+  "views": "47",
+  "user_info": {
+    "screen_name": "Brickthee",
+    "name": "Jace Hite",
+    "description": "REGULAR DUDE.",
+    "rest_id": "1479225360654942216",
+    "followers_count": 38,
+    "favourites_count": 75,
+    "avatar": "https://pbs.twimg.com/profile_images/1764019432190320640/MsJwH-ww_normal.jpg",
+    "verified": false,
+    "friends_count": 45
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQe_hgaXMAADnUe.jpg",
+        "id": "1803620758142267392"
+      }
+    ]
+  }
+}

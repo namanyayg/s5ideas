@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803792930005491852",
+  "screen_name": "andrewdorobantu",
+  "bookmarks": 3,
+  "favorites": 82,
+  "created_at": "Thu Jun 20 14:12:02 +0000 2024",
+  "text": "my idea for nws\n\ndemo for clustering embeddings.\n\nusing different algos for them, ranking clusters, having a llm generate labels\n\ncc: @_buildspace @_nightsweekends https://t.co/6TtRRtKmEN",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 21,
+  "conversation_id": "1803792930005491852",
+  "retweets": 1,
+  "views": "2812",
+  "user_info": {
+    "screen_name": "andrewdorobantu",
+    "name": "Andrei Dorobantu",
+    "description": "UI artisan - edging architect\n@fxbitsio | https://t.co/uAxlNdJ8nt",
+    "rest_id": "777197243514454017",
+    "followers_count": 148,
+    "favourites_count": 560,
+    "avatar": "https://pbs.twimg.com/profile_images/1765144083029204992/Gvi-2Uzv_normal.jpg",
+    "verified": false,
+    "friends_count": 221
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQhcCMJWEAMnjv9.jpg",
+        "id": "1803792843451797507"
+      }
+    ]
+  }
+}

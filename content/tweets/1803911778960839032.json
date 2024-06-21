@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803911778960839032",
+  "screen_name": "sterespect",
+  "bookmarks": 0,
+  "favorites": 4,
+  "created_at": "Thu Jun 20 22:04:17 +0000 2024",
+  "text": "okay for s5 my mission is simple. \n\nif someone asks you what's the last book you read, i want you to have a really good answer. lfg!\n\ncc @_buildspace @_nightsweekends https://t.co/xFVMRePFvh",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 4,
+  "conversation_id": "1803911778960839032",
+  "retweets": 0,
+  "views": "101",
+  "user_info": {
+    "screen_name": "sterespect",
+    "name": "ste.respect",
+    "description": "i design stuff. committed to the bit.  👨🏼‍🎨 at https://t.co/v0sWy62FIU takes https://t.co/hB0BNmy4AT",
+    "rest_id": "596413128",
+    "followers_count": 572,
+    "favourites_count": 51235,
+    "avatar": "https://pbs.twimg.com/profile_images/1609628719500431360/9oVhpDsy_normal.jpg",
+    "verified": false,
+    "friends_count": 3620
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQjH5pyWIAAXCwB.jpg",
+        "id": "1803911444045373440"
+      }
+    ]
+  }
+}

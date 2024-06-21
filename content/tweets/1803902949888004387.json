@@ -1,0 +1,66 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803902949888004387",
+  "screen_name": "aadityabhoyarr",
+  "bookmarks": 0,
+  "favorites": 1,
+  "created_at": "Thu Jun 20 21:29:12 +0000 2024",
+  "text": "Idea : select ✅\nBuild a toy : Started 💪\n\n✨S5✨\ncc: @_buildspace @_nightsweekends\n@FarzaTV https://t.co/HFL923dgVM",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803902949888004387",
+  "retweets": 0,
+  "views": "44",
+  "user_info": {
+    "screen_name": "aadityabhoyarr",
+    "name": "Aditya Bhoyar 🇮🇳",
+    "description": "just make random stuff and daydream all day 💤",
+    "rest_id": "1464886779908026371",
+    "followers_count": 327,
+    "favourites_count": 49453,
+    "avatar": "https://pbs.twimg.com/profile_images/1799871719395708928/7DdLK03e_normal.jpg",
+    "verified": false,
+    "friends_count": 109
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQjAKdmbMAAdxbI.jpg",
+        "id": "1803902936738902016"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQjAKgwakAI3Omo.jpg",
+        "id": "1803902937586110466"
+      }
+    ]
+  },
+  "quoted": {
+    "tweet_id": "1803898733400330493",
+    "bookmarks": 1,
+    "created_at": "Thu Jun 20 21:12:27 +0000 2024",
+    "favorites": 0,
+    "text": "Creating a website that generates AI-powered flow-charts with detailed information on any topic you want to research.\n\nWhat do you think about the idea? Any name suggestions? 🤔\n\n✨S5✨\ncc: @_buildspace @_nightsweekends https://t.co/D1JywEeJIB",
+    "lang": "en",
+    "views": "114",
+    "quotes": 1,
+    "replies": 1,
+    "retweets": 0,
+    "conversation_id": "1803898733400330493",
+    "author": {
+      "rest_id": "1464886779908026371",
+      "name": "Aditya Bhoyar 🇮🇳",
+      "screen_name": "aadityabhoyarr",
+      "avatar": "https://pbs.twimg.com/profile_images/1799871719395708928/7DdLK03e_normal.jpg",
+      "blue_verified": false
+    },
+    "media": {
+      "photo": [
+        {
+          "media_url_https": "https://pbs.twimg.com/media/GQi8VA3akAAVeoG.jpg",
+          "id": "1803898719957585920"
+        }
+      ]
+    }
+  }
+}

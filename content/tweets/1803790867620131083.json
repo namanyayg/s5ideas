@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803790867620131083",
+  "screen_name": "heydivyashree",
+  "bookmarks": 0,
+  "favorites": 5,
+  "created_at": "Thu Jun 20 14:03:50 +0000 2024",
+  "text": "okay, this is it. what do you all think? @_buildspace @_nightsweekends https://t.co/khoQ9Fx4BA",
+  "lang": "en",
+  "quotes": 1,
+  "replies": 1,
+  "conversation_id": "1803790867620131083",
+  "retweets": 0,
+  "views": "331",
+  "user_info": {
+    "screen_name": "heydivyashree",
+    "name": "Divyashree Mohanty",
+    "description": "🚧 building cool sh*t @_buildspace ✧ 🎬 media @swanseauni ✧ 🔮 startup generalist, helping founders create 0→1 content",
+    "rest_id": "1582066265174069248",
+    "followers_count": 15,
+    "favourites_count": 205,
+    "avatar": "https://pbs.twimg.com/profile_images/1803797667836792832/W5qM1Tkm_normal.jpg",
+    "verified": false,
+    "friends_count": 81
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQhaO3UXwAAwgyJ.jpg",
+        "id": "1803790862175944704"
+      }
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803867676038828141",
+  "screen_name": "sukumar_rtg",
+  "bookmarks": 0,
+  "favorites": 2,
+  "created_at": "Thu Jun 20 19:09:02 +0000 2024",
+  "text": "Yeah well Lab 1 was fine and all but @wordisbonz definitely stole the spotlight. Bet you're an #alterok being that unhinged... you and me both pal {&gt;o&lt;}.\n\ncc: @_buildspace @_nightsweekends @FarzaTV \n#buildspace #nightsandweekends #s5 https://t.co/3WS9dKeG1j",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803867676038828141",
+  "retweets": 0,
+  "views": "60",
+  "user_info": {
+    "screen_name": "sukumar_rtg",
+    "name": "Sukumar Rastogi",
+    "description": "this is all a moo point",
+    "rest_id": "1380969686280511488",
+    "followers_count": 33,
+    "favourites_count": 121,
+    "avatar": "https://pbs.twimg.com/profile_images/1644323096416108544/9mZkI5I5_normal.jpg",
+    "verified": false,
+    "friends_count": 129
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQigFkOakAA8qVD.jpg",
+        "id": "1803867668245811200"
+      }
+    ],
+    "video": [
+      {
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1803866532268916736/pu/img/jveIyuNC3wFpojYW.jpg",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1803866532268916736/pu/pl/0_4r4Upe0r8qK2a2.m3u8?tag=12"
+          },
+          {
+            "bitrate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1803866532268916736/pu/vid/avc1/320x564/Tlq853MJn9N5EO-X.mp4?tag=12"
+          },
+          {
+            "bitrate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1803866532268916736/pu/vid/avc1/480x846/lGL3QeZyJjp1Ywsu.mp4?tag=12"
+          }
+        ],
+        "aspect_ratio": [
+          480,
+          847
+        ],
+        "original_info": {
+          "height": 847,
+          "width": 480,
+          "focus_rects": []
+        },
+        "id": "1803866532268916736"
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803491288156885023",
+  "screen_name": "whysohxm",
+  "bookmarks": 0,
+  "favorites": 9,
+  "created_at": "Wed Jun 19 18:13:25 +0000 2024",
+  "text": "An app with systems to allow students to test their learning through games and for teachers to track their progress. but when I mean gamify I REALLY mean GAMIFYING it.\n@_buildspace @_nightsweekends @FarzaTV #s5 #buildspace #nightsweekends #alterok https://t.co/xxbWaFCwnb",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 9,
+  "conversation_id": "1803491288156885023",
+  "retweets": 0,
+  "views": "205",
+  "user_info": {
+    "screen_name": "whysohxm",
+    "name": "Soham ¿",
+    "description": "figuring out \ns5 @_nightsweekends\n#alterok",
+    "rest_id": "1668384714175160321",
+    "followers_count": 1,
+    "favourites_count": 156,
+    "avatar": "https://pbs.twimg.com/profile_images/1668384789718790144/eWyajTbU_normal.jpg",
+    "verified": false,
+    "friends_count": 5
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQdJg5laIAMxE-V.jpg",
+        "id": "1803491005347536899"
+      }
+    ]
+  }
+}

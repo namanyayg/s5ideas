@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803482853214150727",
+  "screen_name": "Goutam_004",
+  "bookmarks": 0,
+  "favorites": 4,
+  "created_at": "Wed Jun 19 17:39:53 +0000 2024",
+  "text": "I will try to build this opensource idea for my hostel buddies in the next 6 weeks.\n\nwhats your thought in it?\nCC: @_buildspace @_nightsweekends https://t.co/dxzoe2eGo7",
+  "lang": "en",
+  "quotes": 1,
+  "replies": 1,
+  "conversation_id": "1803482853214150727",
+  "retweets": 0,
+  "views": "151",
+  "user_info": {
+    "screen_name": "Goutam_004",
+    "name": "Goutam Kumar Nayak",
+    "description": "Full-Stack Developer || VSSUT'26 CSE",
+    "rest_id": "1699088505190707200",
+    "followers_count": 72,
+    "favourites_count": 264,
+    "avatar": "https://pbs.twimg.com/profile_images/1793364186032160768/wSw7o10a_normal.jpg",
+    "verified": false,
+    "friends_count": 76
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQdB8XFXwAAsZU8.jpg",
+        "id": "1803482681029672960"
+      }
+    ]
+  }
+}

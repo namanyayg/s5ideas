@@ -1,0 +1,38 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803818890390073532",
+  "screen_name": "_ZionSpirit_",
+  "bookmarks": 0,
+  "favorites": 0,
+  "created_at": "Thu Jun 20 15:55:11 +0000 2024",
+  "text": "Getting somewhere...\n\nLook who made drawings and got leather samples\n\nYes, moi.\n\n#buildspace #nws5 \n@_buildspace @_nightsweekends @FarzaTV https://t.co/zIs6fRQVLX",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803818890390073532",
+  "retweets": 0,
+  "views": "49",
+  "user_info": {
+    "screen_name": "_ZionSpirit_",
+    "name": "Sam • Black • Zion",
+    "description": "You're not quite yet where you think you should be — Let's change that!",
+    "rest_id": "236602586",
+    "followers_count": 715,
+    "favourites_count": 5911,
+    "avatar": "https://pbs.twimg.com/profile_images/1735373884516409344/o_q_qzZm_normal.jpg",
+    "verified": false,
+    "friends_count": 697
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQhzr4iWsAAw18B.jpg",
+        "id": "1803818848509931520"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQhzr4iWYAAjW6k.jpg",
+        "id": "1803818848509911040"
+      }
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803508513949553075",
+  "screen_name": "paragjainmusic",
+  "bookmarks": 0,
+  "favorites": 2,
+  "created_at": "Wed Jun 19 19:21:51 +0000 2024",
+  "text": "this is what I'll be working on for @_nightsweekends @_buildspace . what do you think about it? would you buy something like this? https://t.co/vXCtwUVyGy",
+  "lang": "en",
+  "quotes": 1,
+  "replies": 0,
+  "conversation_id": "1803508513949553075",
+  "retweets": 1,
+  "views": "170",
+  "user_info": {
+    "screen_name": "paragjainmusic",
+    "name": "Parag Jain",
+    "description": "Cyber Security Enthusiast | Musician",
+    "rest_id": "837664685151264768",
+    "followers_count": 30,
+    "favourites_count": 69,
+    "avatar": "https://pbs.twimg.com/profile_images/1394744649948880896/XNJ6CJC2_normal.jpg",
+    "verified": false,
+    "friends_count": 50
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQdZb1aaIAQQ5Vy.jpg",
+        "id": "1803508510514356228"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQdZbynaAAARPn8.jpg",
+        "id": "1803508509763567616"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQdZbyoasAA7KrY.jpg",
+        "id": "1803508509767806976"
+      }
+    ]
+  }
+}

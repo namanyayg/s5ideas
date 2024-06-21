@@ -1,0 +1,92 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803992782299894255",
+  "screen_name": "AaronPeddle",
+  "bookmarks": 0,
+  "favorites": 7,
+  "created_at": "Fri Jun 21 03:26:10 +0000 2024",
+  "text": "probably a good time to officially announce the idea too:\n\ncc @_buildspace @_nightsweekends https://t.co/BSriYPUld0",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 2,
+  "conversation_id": "1803992782299894255",
+  "retweets": 0,
+  "views": "181",
+  "user_info": {
+    "screen_name": "AaronPeddle",
+    "name": "Aaron Peddle",
+    "description": "i'm a simple man making his way through elon's xverse\n\n☀️ sr ai software eng @usespiral\n🌙 hacking with ai, graphics, rust\n\nprev: @bananadev_",
+    "rest_id": "576591140",
+    "followers_count": 158,
+    "favourites_count": 464,
+    "avatar": "https://pbs.twimg.com/profile_images/1684009982675804160/fPWqDH-W_normal.jpg",
+    "verified": false,
+    "friends_count": 210
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQkR3ALakAA89Mr.jpg",
+        "id": "1803992762376949760"
+      }
+    ]
+  },
+  "quoted": {
+    "tweet_id": "1803990854702633243",
+    "bookmarks": 0,
+    "created_at": "Fri Jun 21 03:18:30 +0000 2024",
+    "favorites": 9,
+    "text": "FINALLY\n\nsokol + rust + wasm + stable diffusion 😎\n\nthis is just v1 i have a handful of optimizations planned to get the frame rate up. but it's a huge milestone.\n\n#buildinpublic\n\ncc @_buildspace @_nightsweekends https://t.co/O6QC5HDwWZ",
+    "lang": "en",
+    "views": "397",
+    "quotes": 1,
+    "replies": 4,
+    "retweets": 0,
+    "conversation_id": "1803990854702633243",
+    "author": {
+      "rest_id": "576591140",
+      "name": "Aaron Peddle",
+      "screen_name": "AaronPeddle",
+      "avatar": "https://pbs.twimg.com/profile_images/1684009982675804160/fPWqDH-W_normal.jpg",
+      "blue_verified": true
+    },
+    "media": {
+      "video": [
+        {
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1803990389285883904/pu/img/m0IYOtixtuponTP9.jpg",
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1803990389285883904/pu/pl/QUKg-R1-AYzs0mKf.m3u8?tag=12"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1803990389285883904/pu/vid/avc1/398x270/x90NQboxpoJ1jniW.mp4?tag=12"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1803990389285883904/pu/vid/avc1/532x360/vj528TwKGGuhsnxa.mp4?tag=12"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1803990389285883904/pu/vid/avc1/1060x716/awaurGK535qECZO_.mp4?tag=12"
+            }
+          ],
+          "aspect_ratio": [
+            265,
+            179
+          ],
+          "original_info": {
+            "height": 716,
+            "width": 1060,
+            "focus_rects": []
+          },
+          "id": "1803990389285883904"
+        }
+      ]
+    }
+  }
+}

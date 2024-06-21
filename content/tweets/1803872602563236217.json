@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803872602563236217",
+  "screen_name": "gifts4ghosts",
+  "bookmarks": 0,
+  "favorites": 18,
+  "created_at": "Thu Jun 20 19:28:37 +0000 2024",
+  "text": "hi, here is my idea! \nlet me know if i can make it clearer to you!\n\n@_buildspace @_nightsweekends https://t.co/zb5eRK46wi",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 9,
+  "conversation_id": "1803872602563236217",
+  "retweets": 1,
+  "views": "272",
+  "user_info": {
+    "screen_name": "gifts4ghosts",
+    "name": "ashley",
+    "description": "new acct so i can participate in s4 of @_nightsweekends!  \n\n☼✍︎ https://t.co/bHFdpxsWko",
+    "rest_id": "1689002845893193728",
+    "followers_count": 47,
+    "favourites_count": 1299,
+    "avatar": "https://pbs.twimg.com/profile_images/1689003074407284736/Bbnek05b_normal.jpg",
+    "verified": false,
+    "friends_count": 50
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQikkfBWUAA73et.jpg",
+        "id": "1803872597471285248"
+      }
+    ]
+  }
+}

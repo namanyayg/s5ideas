@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803883464455848055",
+  "screen_name": "DammakEya1",
+  "bookmarks": 0,
+  "favorites": 2,
+  "created_at": "Thu Jun 20 20:11:47 +0000 2024",
+  "text": "Thoughts? Cc @_buildspace https://t.co/ofIt01NnJO",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 2,
+  "conversation_id": "1803883464455848055",
+  "retweets": 0,
+  "views": "52",
+  "user_info": {
+    "screen_name": "DammakEya1",
+    "name": "Dammak Eya",
+    "description": "an “aerospace” engineer lost in the universe",
+    "rest_id": "1311049803627999240",
+    "followers_count": 5,
+    "favourites_count": 35,
+    "avatar": "https://pbs.twimg.com/profile_images/1803889405314093056/HmNuvFKA_normal.jpg",
+    "verified": false,
+    "friends_count": 96
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQiucmQWQAAdByA.jpg",
+        "id": "1803883457090568192"
+      }
+    ]
+  }
+}

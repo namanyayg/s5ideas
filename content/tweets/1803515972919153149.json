@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803515972919153149",
+  "screen_name": "nocodeuse",
+  "bookmarks": 0,
+  "favorites": 5,
+  "created_at": "Wed Jun 19 19:51:30 +0000 2024",
+  "text": "Finally, an app where you'll be matched in return lol.\n\ncc : @_buildspace @_nightsweekends https://t.co/Mh99736RsU",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 4,
+  "conversation_id": "1803515972919153149",
+  "retweets": 0,
+  "views": "175",
+  "user_info": {
+    "screen_name": "nocodeuse",
+    "name": "Nocodeuse.com 💻🎨",
+    "description": "Formatrice Nocode. Je t'aide à transformer ton idée en site/appli grâce au nocode 💻🎨",
+    "rest_id": "1406400110066556929",
+    "followers_count": 555,
+    "favourites_count": 1588,
+    "avatar": "https://pbs.twimg.com/profile_images/1656299046082957312/rYm806wZ_normal.jpg",
+    "verified": false,
+    "friends_count": 295
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQdfxnvXMAA6DCu.jpg",
+        "id": "1803515481871036416"
+      }
+    ]
+  }
+}

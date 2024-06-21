@@ -1,0 +1,42 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803885527973924965",
+  "screen_name": "ogunkoya_lekan",
+  "bookmarks": 0,
+  "favorites": 2,
+  "created_at": "Thu Jun 20 20:19:59 +0000 2024",
+  "text": "I've hit the ground running for s5 of  @_nightsweekends by @_buildspace . I've started creating content for my you tube channel. feel free to share your thoughts,  1st video drops this Sunday,  23rd of June. check out my progress so far.... https://t.co/UDJFyWZWGG",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803885527973924965",
+  "retweets": 0,
+  "views": "36",
+  "user_info": {
+    "screen_name": "ogunkoya_lekan",
+    "name": "Lekan_ogunkoya",
+    "description": "Jesus  | Tech | Design | Guadmire @buildspace",
+    "rest_id": "1567331467",
+    "followers_count": 93,
+    "favourites_count": 8171,
+    "avatar": "https://pbs.twimg.com/profile_images/1670068647778295810/dFohSNBj_normal.jpg",
+    "verified": false,
+    "friends_count": 119
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQiwLV-WMAAfctH.jpg",
+        "id": "1803885359685578752"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQiwNEhWwAAeXx7.jpg",
+        "id": "1803885389360316416"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQiwO47WsAIsFFR.jpg",
+        "id": "1803885420607877122"
+      }
+    ]
+  }
+}

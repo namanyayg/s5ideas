@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803727782456819834",
+  "screen_name": "Shadokan87",
+  "bookmarks": 0,
+  "favorites": 4,
+  "created_at": "Thu Jun 20 09:53:09 +0000 2024",
+  "text": "We all know the tedious task of moving code around and refactoring. This Ai assistant does it for you 🪄\nWould you use it ? Drop your feedbacks below 👇\ncc: @_buildspace @FarzaTV @_nightsweekends https://t.co/xJGW6EMHhY",
+  "lang": "en",
+  "quotes": 1,
+  "replies": 2,
+  "conversation_id": "1803727782456819834",
+  "retweets": 0,
+  "views": "127",
+  "user_info": {
+    "screen_name": "Shadokan87",
+    "name": "Eclipse",
+    "description": "",
+    "rest_id": "1683949661592211458",
+    "followers_count": 2,
+    "favourites_count": 18,
+    "avatar": "https://pbs.twimg.com/profile_images/1803137702662971392/uj4lRUwq_normal.jpg",
+    "verified": false,
+    "friends_count": 21
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQggKjgWsAAlmlB.jpg",
+        "id": "1803727016463609856"
+      }
+    ]
+  }
+}

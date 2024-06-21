@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803863217829019845",
+  "screen_name": "_mcksp",
+  "bookmarks": 0,
+  "favorites": 6,
+  "created_at": "Thu Jun 20 18:51:19 +0000 2024",
+  "text": "This is my idea for this year buildspace, idk if I will manage to find time for that but we will see!\n\nDon't plan to make money on that, it's just for lulz\n\ncc: @_buildspace @_nightsweekends https://t.co/2X80N9wMQE",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1803863217829019845",
+  "retweets": 0,
+  "views": "48",
+  "user_info": {
+    "screen_name": "_mcksp",
+    "name": "Maciej Spychala",
+    "description": "indie maker",
+    "rest_id": "1706065877701890048",
+    "followers_count": 26,
+    "favourites_count": 350,
+    "avatar": "https://pbs.twimg.com/profile_images/1738561884742139904/KM30GIdr_normal.jpg",
+    "verified": false,
+    "friends_count": 305
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQib1osWkAAb_JE.jpg",
+        "id": "1803862996520701952"
+      }
+    ]
+  }
+}

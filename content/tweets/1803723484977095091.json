@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803723484977095091",
+  "screen_name": "diyanshu0360",
+  "bookmarks": 23,
+  "favorites": 128,
+  "created_at": "Thu Jun 20 09:36:05 +0000 2024",
+  "text": "Hello, this is my idea for @_buildspace 💙\n\nStarted : \n- MVP development\n- Plan for initial launch\n\nWhat are your suggestions ?\n@FarzaTV @_nightsweekends https://t.co/VVlC2BRsPt",
+  "lang": "en",
+  "quotes": 1,
+  "replies": 62,
+  "conversation_id": "1803723484977095091",
+  "retweets": 1,
+  "views": "4870",
+  "user_info": {
+    "screen_name": "diyanshu0360",
+    "name": "Diyanshu Patel",
+    "description": "Building Micro Products | @_nightsweekends 💙",
+    "rest_id": "1477208654306701313",
+    "followers_count": 290,
+    "favourites_count": 939,
+    "avatar": "https://pbs.twimg.com/profile_images/1729724392299782144/fnmSpTF-_normal.jpg",
+    "verified": false,
+    "friends_count": 503
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQgcpnUWkAAhP83.jpg",
+        "id": "1803723152016445440"
+      }
+    ]
+  }
+}

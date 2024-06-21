@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803423320647540852",
+  "screen_name": "contactsushill",
+  "bookmarks": 0,
+  "favorites": 2,
+  "created_at": "Wed Jun 19 13:43:20 +0000 2024",
+  "text": "🚀 Excited to announce a new platform that lets you connect with experts from various professions! Each profession will have its unique set of qualities &amp; requirements. Thoughts? \n\ncc: @_buildspace @FarzaTV \n\nIf you're interested in joining or supporting, drop a message! 🙌✨ https://t.co/PfzuEsCJf3",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 4,
+  "conversation_id": "1803423320647540852",
+  "retweets": 0,
+  "views": "47",
+  "user_info": {
+    "screen_name": "contactsushill",
+    "name": "Sushil Pandey",
+    "description": "Learning!!!",
+    "rest_id": "1638412445109866496",
+    "followers_count": 36,
+    "favourites_count": 95,
+    "avatar": "https://pbs.twimg.com/profile_images/1666401418104934402/2YENIgPj_normal.jpg",
+    "verified": false,
+    "friends_count": 152
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQcJr_rb0AA80Uz.jpg",
+        "id": "1803420827217809408"
+      }
+    ]
+  }
+}

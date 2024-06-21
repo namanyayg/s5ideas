@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1804024551736545528",
+  "screen_name": "enigmaticity",
+  "bookmarks": 0,
+  "favorites": 5,
+  "created_at": "Fri Jun 21 05:32:24 +0000 2024",
+  "text": "week 1 update done.\n\nnext step, shipping a mini version of Buildr by next week\n\ncc : @_buildspace @_nightsweekends https://t.co/Wjth5AyRPk",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 0,
+  "conversation_id": "1804024551736545528",
+  "retweets": 0,
+  "views": "30",
+  "user_info": {
+    "screen_name": "enigmaticity",
+    "name": "Rohit Singh",
+    "description": "full stack dev intern @ xzect labs | building @myBuildr | cs undergrad | building silly stuff | beginner cp'er (specialist) | nerd | erevald @ @_buildspace",
+    "rest_id": "1411251854902661128",
+    "followers_count": 45,
+    "favourites_count": 335,
+    "avatar": "https://pbs.twimg.com/profile_images/1801285562713653248/R1WYxdyB_normal.jpg",
+    "verified": false,
+    "friends_count": 213
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQkueO9WEAEE6Ib.png",
+        "id": "1804024222684942337"
+      }
+    ]
+  }
+}

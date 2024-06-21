@@ -1,0 +1,70 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803562908963528734",
+  "screen_name": "wantaaxyz",
+  "bookmarks": 1,
+  "favorites": 13,
+  "created_at": "Wed Jun 19 22:58:00 +0000 2024",
+  "text": "Hey #friends, for #s5 @_nightsweekends,  \n\nI am building a platform of automated tools and information for students to make informed university choices and engage in enriching hybrid activities. \n\n@_buildspace \n\nShow up friends 🚀💫\n\nMusic - Yarin Primak - Game Changer https://t.co/UlyqQxGOJa",
+  "lang": "en",
+  "quotes": 1,
+  "replies": 3,
+  "conversation_id": "1803562908963528734",
+  "retweets": 4,
+  "views": "369",
+  "user_info": {
+    "screen_name": "wantaaxyz",
+    "name": "Wantaa",
+    "description": "A Creative •Alterok @_nightsweekends",
+    "rest_id": "1745200926254579714",
+    "followers_count": 46,
+    "favourites_count": 231,
+    "avatar": "https://pbs.twimg.com/profile_images/1745201377872158721/jaDBjeL-_normal.jpg",
+    "verified": false,
+    "friends_count": 75
+  },
+  "media": {
+    "video": [
+      {
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1803562186129690624/pu/img/1z-SxMO56nSCPjaT.jpg",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1803562186129690624/pu/pl/V-9LCzmLIWm63XqR.m3u8?tag=12"
+          },
+          {
+            "bitrate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1803562186129690624/pu/vid/avc1/320x320/HvyiDXn8j5SsC0Y_.mp4?tag=12"
+          },
+          {
+            "bitrate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1803562186129690624/pu/vid/avc1/540x540/fpHAW1Me1JtsqDM0.mp4?tag=12"
+          },
+          {
+            "bitrate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1803562186129690624/pu/vid/avc1/720x720/7qw4Jp6siFJ7HC1M.mp4?tag=12"
+          }
+        ],
+        "aspect_ratio": [
+          1,
+          1
+        ],
+        "original_info": {
+          "height": 720,
+          "width": 720,
+          "focus_rects": []
+        },
+        "id": "1803562186129690624"
+      }
+    ],
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQeKUmjX0AEQVA-.jpg",
+        "id": "1803562262336098305"
+      }
+    ]
+  }
+}

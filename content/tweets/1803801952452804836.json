@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803801952452804836",
+  "screen_name": "Legacynical",
+  "bookmarks": 0,
+  "favorites": 5,
+  "created_at": "Thu Jun 20 14:47:53 +0000 2024",
+  "text": "starting off with tutorials + reading documentation, hopefully I can prototype some ideas for games\n\ncc: @_buildspace https://t.co/8G9xpcJt3F",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 3,
+  "conversation_id": "1803801952452804836",
+  "retweets": 0,
+  "views": "56",
+  "user_info": {
+    "screen_name": "Legacynical",
+    "name": "Legacynical",
+    "description": "Learning godot | s5 gaudmire | Interests: video editing, music production, blender, 3d printing, computer science",
+    "rest_id": "896668747884134402",
+    "followers_count": 27,
+    "favourites_count": 936,
+    "avatar": "https://pbs.twimg.com/profile_images/1322602546733568000/tz4SytsV_normal.jpg",
+    "verified": false,
+    "friends_count": 400
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQhihoKaIAAsXt6.jpg",
+        "id": "1803799980618162176"
+      }
+    ]
+  }
+}

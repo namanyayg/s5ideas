@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803520914136469586",
+  "screen_name": "tono_mtzb",
+  "bookmarks": 17,
+  "favorites": 222,
+  "created_at": "Wed Jun 19 20:11:08 +0000 2024",
+  "text": "i'm joining buildspace for nights &amp; weekends s5 \n\n@_buildspace @_nightsweekends https://t.co/2u3pFdxHCZ",
+  "lang": "en",
+  "quotes": 5,
+  "replies": 74,
+  "conversation_id": "1803520914136469586",
+  "retweets": 7,
+  "views": "6106",
+  "user_info": {
+    "screen_name": "tono_mtzb",
+    "name": "Toño Martinez Baez",
+    "description": "Co-founder @somos | Curating @thelindylibrary | Ideas in - Ideas out. #LF3",
+    "rest_id": "154003785",
+    "followers_count": 353,
+    "favourites_count": 1652,
+    "avatar": "https://pbs.twimg.com/profile_images/1595855182490836992/jNj7rJo0_normal.jpg",
+    "verified": false,
+    "friends_count": 2098
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQdkBbUWwAANRFB.jpg",
+        "id": "1803520151460954112"
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803510053645033780",
+  "screen_name": "anushrut43047",
+  "bookmarks": 0,
+  "favorites": 4,
+  "created_at": "Wed Jun 19 19:27:59 +0000 2024",
+  "text": "starred 100+ repositories but forgot which one is useful?\n\ngonna build manageable solution for it at @_buildspace  @_nightsweekends \n\nfeel free to iterate :) https://t.co/9cY9uvcsT1",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 1,
+  "conversation_id": "1803510053645033780",
+  "retweets": 0,
+  "views": "49",
+  "user_info": {
+    "screen_name": "anushrut43047",
+    "name": "Anushrut Pandit",
+    "description": "hmm",
+    "rest_id": "1728809592816369664",
+    "followers_count": 18,
+    "favourites_count": 79,
+    "avatar": "https://pbs.twimg.com/profile_images/1789026774812422149/oZaubxGk_normal.jpg",
+    "verified": false,
+    "friends_count": 80
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQdYMZlbsAAn_38.jpg",
+        "id": "1803507145834737664"
+      }
+    ]
+  }
+}

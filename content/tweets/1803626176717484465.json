@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803626176717484465",
+  "screen_name": "_samadahmed",
+  "bookmarks": 0,
+  "favorites": 4,
+  "created_at": "Thu Jun 20 03:09:24 +0000 2024",
+  "text": "Winning starts with a great team, find your dr.dre @_buildspace @_nightsweekends #buildinginpublic #indiehackers #indiehacker https://t.co/FBQnctL0In",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 1,
+  "conversation_id": "1803626176717484465",
+  "retweets": 0,
+  "views": "122",
+  "user_info": {
+    "screen_name": "_samadahmed",
+    "name": "Samad Ahmed",
+    "description": "https://t.co/otD4vR3k42",
+    "rest_id": "829738657045164032",
+    "followers_count": 99,
+    "favourites_count": 215,
+    "avatar": "https://pbs.twimg.com/profile_images/1788036993437347841/QR1qB_jQ_normal.jpg",
+    "verified": false,
+    "friends_count": 71
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQfEcsib0AA0m6l.jpg",
+        "id": "1803626173056143360"
+      }
+    ]
+  }
+}

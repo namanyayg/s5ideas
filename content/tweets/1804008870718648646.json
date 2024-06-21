@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1804008870718648646",
+  "screen_name": "nicolas_gatien",
+  "bookmarks": 0,
+  "favorites": 2,
+  "created_at": "Fri Jun 21 04:30:06 +0000 2024",
+  "text": "Things I learned from building this shed as a prototype before I build a cabin to store archeological artifacts:\n\ncc: @_nightsweekends @_buildspace https://t.co/FyqrSytrWn",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 1,
+  "conversation_id": "1804008870718648646",
+  "retweets": 0,
+  "views": "39",
+  "user_info": {
+    "screen_name": "nicolas_gatien",
+    "name": "Nicolas Gatien",
+    "description": "Programmer",
+    "rest_id": "1384199481780961294",
+    "followers_count": 291,
+    "favourites_count": 2185,
+    "avatar": "https://pbs.twimg.com/profile_images/1624595130542874624/L4n-5Pgi_normal.jpg",
+    "verified": false,
+    "friends_count": 20
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQkfEo8WYAA0ps0.jpg",
+        "id": "1804007290309074944"
+      }
+    ]
+  }
+}

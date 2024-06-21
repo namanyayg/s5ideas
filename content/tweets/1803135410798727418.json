@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803135410798727418",
+  "screen_name": "bartasiusxyz",
+  "bookmarks": 39,
+  "favorites": 578,
+  "created_at": "Tue Jun 18 18:39:17 +0000 2024",
+  "text": "every single month 2.7 BILLION robocalls or unwanted calls are received by americans\n\nnever answer a random call again -- stay focused\n\nthoughts? cc @_buildspace https://t.co/c1C8n4aLNh",
+  "lang": "en",
+  "quotes": 5,
+  "replies": 182,
+  "conversation_id": "1803135410798727418",
+  "retweets": 10,
+  "views": "30674",
+  "user_info": {
+    "screen_name": "bartasiusxyz",
+    "name": "Jonas Bartasius",
+    "description": "building net-positive AI products w/ @lukasnarus",
+    "rest_id": "906335267363213312",
+    "followers_count": 688,
+    "favourites_count": 1446,
+    "avatar": "https://pbs.twimg.com/profile_images/1679048776508383234/T9HcCldu_normal.jpg",
+    "verified": false,
+    "friends_count": 423
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQYFUh0XUAAqt84.jpg",
+        "id": "1803134551041986560"
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803855340645290419",
+  "screen_name": "4000carbs",
+  "bookmarks": 3,
+  "favorites": 16,
+  "created_at": "Thu Jun 20 18:20:01 +0000 2024",
+  "text": "Here's what I intend to work on as a side project for @_buildspace @_nightsweekends. \n\nThe YC Safe changed the pre-seed dynamics for founders and there's no reason we should pay $50-150k in legal fees for a series A \"template\" contract. https://t.co/aenB787PO8",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 2,
+  "conversation_id": "1803855340645290419",
+  "retweets": 0,
+  "views": "670",
+  "user_info": {
+    "screen_name": "4000carbs",
+    "name": "jan 🚀",
+    "description": "e/acc with LLMs 🤖 | @cornell 🛠️  via @BecariosFLC | Past: @sciphiweb (YC W24), @krea_ai, @strive_school, @akademyai (acq), @Aisaturdays_Es, @ventilator_open",
+    "rest_id": "45355984",
+    "followers_count": 3956,
+    "favourites_count": 18250,
+    "avatar": "https://pbs.twimg.com/profile_images/1778930176832798720/gklwGjmQ_normal.jpg",
+    "verified": false,
+    "friends_count": 610
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQiUNieXwAA8-mO.jpg",
+        "id": "1803854611075284992"
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803507305255936220",
+  "screen_name": "denitechdev",
+  "bookmarks": 1,
+  "favorites": 31,
+  "created_at": "Wed Jun 19 19:17:03 +0000 2024",
+  "text": "So, builders @_buildspace what do you think?\n\nThere are lots of setup channels, but none of them dive deeper than a few pics &amp; product names\n\nI'm changing that. Discover cool setups, reviews, interviews, roasts, products, tips, etc\n\nwaitlist in bio! @FarzaTV your setup ep when?👀 https://t.co/lUfjzaQAoW",
+  "lang": "en",
+  "quotes": 2,
+  "replies": 12,
+  "conversation_id": "1803507305255936220",
+  "retweets": 0,
+  "views": "1035",
+  "user_info": {
+    "screen_name": "denitechdev",
+    "name": "Deni",
+    "description": "Building @SetupStations with @_buildspace s5 waitlist: https://t.co/iL9Ugk4Kap → Documenting it all on @DeniCreates • Main @denitechh still rip🥲",
+    "rest_id": "1752407710534860801",
+    "followers_count": 529,
+    "favourites_count": 860,
+    "avatar": "https://pbs.twimg.com/profile_images/1799059608964648960/3wyZ0RZH_normal.jpg",
+    "verified": false,
+    "friends_count": 188
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQdYVGLaIAE--uL.jpg",
+        "id": "1803507295244132353"
+      }
+    ]
+  }
+}

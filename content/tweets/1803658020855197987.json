@@ -1,0 +1,62 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803658020855197987",
+  "screen_name": "kartik_builds",
+  "bookmarks": 1,
+  "favorites": 10,
+  "created_at": "Thu Jun 20 05:15:57 +0000 2024",
+  "text": "guys, just 2 days into the process and have already made an unbelievable progress 🤯\n\nlooks like i have already maxed out my creative tokens for the week 😅\n\ncc: @_nightsweekends @_buildspace https://t.co/H8wbILZV4o",
+  "lang": "en",
+  "quotes": 1,
+  "replies": 9,
+  "conversation_id": "1803658020855197987",
+  "retweets": 0,
+  "views": "1183",
+  "user_info": {
+    "screen_name": "kartik_builds",
+    "name": "Kartik",
+    "description": "Developer & Designer | Building Websites with Seamless User Experience Across Devices | Open for work",
+    "rest_id": "1379670241509142528",
+    "followers_count": 432,
+    "favourites_count": 5290,
+    "avatar": "https://pbs.twimg.com/profile_images/1685618142717026304/ku2A5Vyp_normal.jpg",
+    "verified": false,
+    "friends_count": 680
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQffDtgaIAAAdqq.jpg",
+        "id": "1803655430633299968"
+      }
+    ]
+  },
+  "quoted": {
+    "tweet_id": "1803149787744838059",
+    "bookmarks": 0,
+    "created_at": "Tue Jun 18 19:36:24 +0000 2024",
+    "favorites": 5,
+    "text": "this is what i truly love: ui design and product building https://t.co/7llpk0qFWr",
+    "lang": "en",
+    "views": "1070",
+    "quotes": 1,
+    "replies": 3,
+    "retweets": 0,
+    "conversation_id": "1803149787744838059",
+    "author": {
+      "rest_id": "1379670241509142528",
+      "name": "Kartik",
+      "screen_name": "kartik_builds",
+      "avatar": "https://pbs.twimg.com/profile_images/1685618142717026304/ku2A5Vyp_normal.jpg",
+      "blue_verified": true
+    },
+    "media": {
+      "photo": [
+        {
+          "media_url_https": "https://pbs.twimg.com/media/GQYQzXMaIAExkot.jpg",
+          "id": "1803147175393894401"
+        }
+      ]
+    }
+  }
+}

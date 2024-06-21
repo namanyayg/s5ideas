@@ -1,0 +1,38 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803161367526121896",
+  "screen_name": "DebJaykar",
+  "bookmarks": 13,
+  "favorites": 237,
+  "created_at": "Tue Jun 18 20:22:25 +0000 2024",
+  "text": "What do you think about this idea?\n\n@_buildspace @_nightsweekends @FarzaTV \n\n#buildspace https://t.co/Dv8j5kyh17",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 54,
+  "conversation_id": "1803161367526121896",
+  "retweets": 2,
+  "views": "9930",
+  "user_info": {
+    "screen_name": "DebJaykar",
+    "name": "Debdut Bhaduri",
+    "description": "Flutter Developer| Flutter+Firebase|Get-X|BLOC ,Node.j s",
+    "rest_id": "795514939",
+    "followers_count": 36,
+    "favourites_count": 58,
+    "avatar": "https://pbs.twimg.com/profile_images/1803739350318145536/pYFDA6Ue_normal.jpg",
+    "verified": false,
+    "friends_count": 79
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQYds0XWYAIcZ29.jpg",
+        "id": "1803161356616491010"
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQYdtEmXAAAMu8Y.jpg",
+        "id": "1803161360974413824"
+      }
+    ]
+  }
+}

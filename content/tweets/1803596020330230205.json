@@ -1,0 +1,62 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803596020330230205",
+  "screen_name": "alejandrozepe",
+  "bookmarks": 0,
+  "favorites": 6,
+  "created_at": "Thu Jun 20 01:09:35 +0000 2024",
+  "text": "just updated my idea for n&amp;w s5, i still do not how i'm gonna do it, but want to create something around this \n\n@_buildspace / @_nightsweekends https://t.co/iBFc1fSDrH",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 3,
+  "conversation_id": "1803596020330230205",
+  "retweets": 0,
+  "views": "662",
+  "user_info": {
+    "screen_name": "alejandrozepe",
+    "name": "Alex-Z",
+    "description": "Engineer and Producer • https://t.co/ny2838Qsrg",
+    "rest_id": "133494180",
+    "followers_count": 3953,
+    "favourites_count": 89557,
+    "avatar": "https://pbs.twimg.com/profile_images/1765549991215472640/Z9IXovWC_normal.jpg",
+    "verified": false,
+    "friends_count": 2497
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQeozP9WYAAGDvV.jpg",
+        "id": "1803595774195818496"
+      }
+    ]
+  },
+  "quoted": {
+    "tweet_id": "1803197988300542327",
+    "bookmarks": 3,
+    "created_at": "Tue Jun 18 22:47:56 +0000 2024",
+    "favorites": 19,
+    "text": "hi @_buildspace / @_nightsweekends folks\n\ni launched https://t.co/NQa7HL5jTr, a ticketing platform for live music shows, a few months ago\n\nand this is what i want to build for n&amp;w s5, would your chances of attending a show increase if we reminded you with personalized emails? https://t.co/RrEywNEugG",
+    "lang": "en",
+    "views": "1505",
+    "quotes": 1,
+    "replies": 3,
+    "retweets": 2,
+    "conversation_id": "1803197988300542327",
+    "author": {
+      "rest_id": "133494180",
+      "name": "Alex-Z",
+      "screen_name": "alejandrozepe",
+      "avatar": "https://pbs.twimg.com/profile_images/1765549991215472640/Z9IXovWC_normal.jpg",
+      "blue_verified": true
+    },
+    "media": {
+      "photo": [
+        {
+          "media_url_https": "https://pbs.twimg.com/media/GQY9jFVWMAALpki.jpg",
+          "id": "1803196373744889856"
+        }
+      ]
+    }
+  }
+}

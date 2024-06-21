@@ -1,0 +1,34 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803567766714351910",
+  "screen_name": "Chyobers",
+  "bookmarks": 0,
+  "favorites": 11,
+  "created_at": "Wed Jun 19 23:17:18 +0000 2024",
+  "text": "Inspired by filmmakers around the world. Bridging the gap in the film industry and leveling the playing field. By fostering a space for those in film to achieve their goals. 📽️\n\nWeek 1 ✅\n\n@_buildspace @_nightsweekends https://t.co/XBfQKCZoF8",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 7,
+  "conversation_id": "1803567766714351910",
+  "retweets": 0,
+  "views": "248",
+  "user_info": {
+    "screen_name": "Chyobers",
+    "name": "Austin Leung",
+    "description": "Building @directr_ / UBC Alumni / 3x @ethglobal finalist with @irislabsxyz",
+    "rest_id": "1354202225921286146",
+    "followers_count": 265,
+    "favourites_count": 1194,
+    "avatar": "https://pbs.twimg.com/profile_images/1595938600977592321/8IJ7oGC3_normal.jpg",
+    "verified": false,
+    "friends_count": 210
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQeME6IaIAE3zQJ.jpg",
+        "id": "1803564191737061377"
+      }
+    ]
+  }
+}

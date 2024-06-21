@@ -1,0 +1,62 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803651256830840859",
+  "screen_name": "invinciDesigns",
+  "bookmarks": 0,
+  "favorites": 4,
+  "created_at": "Thu Jun 20 04:49:04 +0000 2024",
+  "text": "big cold car 😼🥶\n\nDaily AI artwork (2/45)\ncc: @_buildspace @_nightsweekends https://t.co/1VdaSoGhpo",
+  "lang": "en",
+  "quotes": 1,
+  "replies": 2,
+  "conversation_id": "1803651256830840859",
+  "retweets": 0,
+  "views": "189",
+  "user_info": {
+    "screen_name": "invinciDesigns",
+    "name": "Prathamesh",
+    "description": "Product Designer, former Web Dev | 😼 C8 @10kdesigners | 🥷 spectreseek @_buildspace | Driven by learning, creation and evolution🌱",
+    "rest_id": "1702328344635908096",
+    "followers_count": 156,
+    "favourites_count": 755,
+    "avatar": "https://pbs.twimg.com/profile_images/1796418224252141568/bVURzC9p_normal.jpg",
+    "verified": false,
+    "friends_count": 210
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQfa_WtWAAAamsK.jpg",
+        "id": "1803650957747552256"
+      }
+    ]
+  },
+  "quoted": {
+    "tweet_id": "1803290989630492718",
+    "bookmarks": 0,
+    "created_at": "Wed Jun 19 04:57:30 +0000 2024",
+    "favorites": 4,
+    "text": "sleeeek 🤌\n\nDaily AI artwork (1/45)\ncc: @_buildspace @_nightsweekends https://t.co/RC9b5OdJFm",
+    "lang": "en",
+    "views": "222",
+    "quotes": 0,
+    "replies": 1,
+    "retweets": 0,
+    "conversation_id": "1803290989630492718",
+    "author": {
+      "rest_id": "1702328344635908096",
+      "name": "Prathamesh",
+      "screen_name": "invinciDesigns",
+      "avatar": "https://pbs.twimg.com/profile_images/1796418224252141568/bVURzC9p_normal.jpg",
+      "blue_verified": false
+    },
+    "media": {
+      "photo": [
+        {
+          "media_url_https": "https://pbs.twimg.com/media/GQaS58NXcAAPeR9.jpg",
+          "id": "1803290224920850432"
+        }
+      ]
+    }
+  }
+}
