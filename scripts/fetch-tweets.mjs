@@ -15,7 +15,6 @@ const options = {
 try {
   const response = await fetch(url, options);
   const result = await response.json();
-  // console.log(result);
   // save each array item of "timeline" into it's own file using the tweet_id
   const tweets = result.timeline
     .filter(t => !!t.media && t.media.photo)
