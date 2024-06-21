@@ -1,0 +1,234 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803153699449057443",
+  "screen_name": "invarr0w",
+  "bookmarks": 38,
+  "favorites": 683,
+  "created_at": "Tue Jun 18 19:51:57 +0000 2024",
+  "text": "your personal accountability partner\nthoughts?\n\ncc:@_buildspace @_nightsweekends https://t.co/SUWfXjwAGX",
+  "lang": "en",
+  "quotes": 2,
+  "replies": 411,
+  "conversation_id": "1803153699449057443",
+  "retweets": 10,
+  "views": "19662",
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.x.com/suwfxjwagx",
+        "expanded_url": "https://twitter.com/invarr0w/status/1803153699449057443/photo/1",
+        "id_str": "1803153228860653568",
+        "indices": [
+          81,
+          104
+        ],
+        "media_key": "3_1803153228860653568",
+        "media_url_https": "https://pbs.twimg.com/media/GQYWTuHWgAAJ_Gx.jpg",
+        "type": "photo",
+        "url": "https://t.co/SUWfXjwAGX",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "x": 835,
+                "y": 371,
+                "h": 84,
+                "w": 84
+              },
+              {
+                "x": 1247,
+                "y": 659,
+                "h": 86,
+                "w": 86
+              },
+              {
+                "x": 666,
+                "y": 512,
+                "h": 89,
+                "w": 89
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "x": 545,
+                "y": 242,
+                "h": 54,
+                "w": 54
+              },
+              {
+                "x": 815,
+                "y": 430,
+                "h": 56,
+                "w": 56
+              },
+              {
+                "x": 435,
+                "y": 334,
+                "h": 58,
+                "w": 58
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "x": 309,
+                "y": 137,
+                "h": 31,
+                "w": 31
+              },
+              {
+                "x": 461,
+                "y": 244,
+                "h": 31,
+                "w": 31
+              },
+              {
+                "x": 246,
+                "y": 189,
+                "h": 32,
+                "w": 32
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "x": 835,
+                "y": 371,
+                "h": 84,
+                "w": 84
+              },
+              {
+                "x": 1247,
+                "y": 659,
+                "h": 86,
+                "w": 86
+              },
+              {
+                "x": 666,
+                "y": 512,
+                "h": 89,
+                "w": 89
+              }
+            ]
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 1256,
+            "w": 1836,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 821,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 465,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1256,
+          "width": 1836,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 82,
+              "w": 1836,
+              "h": 1028
+            },
+            {
+              "x": 290,
+              "y": 0,
+              "w": 1256,
+              "h": 1256
+            },
+            {
+              "x": 367,
+              "y": 0,
+              "w": 1102,
+              "h": 1256
+            },
+            {
+              "x": 604,
+              "y": 0,
+              "w": 628,
+              "h": 1256
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1836,
+              "h": 1256
+            }
+          ]
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1803153228860653568"
+          }
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id_str": "1422255111422754816",
+        "name": "buildspace",
+        "screen_name": "_buildspace",
+        "indices": [
+          51,
+          63
+        ]
+      },
+      {
+        "id_str": "1635392864212463616",
+        "name": "nights & weekends",
+        "screen_name": "_nightsweekends",
+        "indices": [
+          64,
+          80
+        ]
+      }
+    ]
+  },
+  "user_info": {
+    "screen_name": "invarr0w",
+    "name": "Abdul Rahman ArM🌌",
+    "description": "tinkerer AI & robots",
+    "rest_id": "1448148842428329986",
+    "followers_count": 130,
+    "favourites_count": 747,
+    "avatar": "https://pbs.twimg.com/profile_images/1763571906261770240/rsbPjcSv_normal.jpg",
+    "verified": false,
+    "friends_count": 297
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQYWTuHWgAAJ_Gx.jpg",
+        "id": "1803153228860653568"
+      }
+    ]
+  }
+}

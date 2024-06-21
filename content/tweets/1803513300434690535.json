@@ -1,0 +1,282 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803513300434690535",
+  "screen_name": "_anxhl",
+  "bookmarks": 0,
+  "favorites": 21,
+  "created_at": "Wed Jun 19 19:40:53 +0000 2024",
+  "text": "after a lot of brainstorming here we go.....\n\n@_nightsweekends @_buildspace \n\nhave any feedback? i'm just a dm away ;)\nor better yet reply on the tweet https://t.co/zEwaoaqCsU",
+  "lang": "en",
+  "quotes": 1,
+  "replies": 17,
+  "conversation_id": "1803513300434690535",
+  "retweets": 0,
+  "views": "446",
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.x.com/zewaoaqcsu",
+        "expanded_url": "https://twitter.com/_anxhl/status/1803513300434690535/photo/1",
+        "id_str": "1803513117244268546",
+        "indices": [
+          152,
+          175
+        ],
+        "media_key": "3_1803513117244268546",
+        "media_url_https": "https://pbs.twimg.com/media/GQddn-0aIAIADLL.jpg",
+        "type": "photo",
+        "url": "https://t.co/zEwaoaqCsU",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "x": 288,
+                "y": 138,
+                "h": 107,
+                "w": 107
+              },
+              {
+                "x": 398,
+                "y": 301,
+                "h": 82,
+                "w": 82
+              },
+              {
+                "x": 785,
+                "y": 297,
+                "h": 84,
+                "w": 84
+              },
+              {
+                "x": 1048,
+                "y": 582,
+                "h": 82,
+                "w": 82
+              },
+              {
+                "x": 1620,
+                "y": 598,
+                "h": 114,
+                "w": 114
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "x": 188,
+                "y": 90,
+                "h": 69,
+                "w": 69
+              },
+              {
+                "x": 260,
+                "y": 196,
+                "h": 53,
+                "w": 53
+              },
+              {
+                "x": 513,
+                "y": 194,
+                "h": 54,
+                "w": 54
+              },
+              {
+                "x": 684,
+                "y": 380,
+                "h": 53,
+                "w": 53
+              },
+              {
+                "x": 1058,
+                "y": 390,
+                "h": 74,
+                "w": 74
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "x": 106,
+                "y": 51,
+                "h": 39,
+                "w": 39
+              },
+              {
+                "x": 147,
+                "y": 111,
+                "h": 30,
+                "w": 30
+              },
+              {
+                "x": 290,
+                "y": 110,
+                "h": 31,
+                "w": 31
+              },
+              {
+                "x": 388,
+                "y": 215,
+                "h": 30,
+                "w": 30
+              },
+              {
+                "x": 600,
+                "y": 221,
+                "h": 42,
+                "w": 42
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "x": 288,
+                "y": 138,
+                "h": 107,
+                "w": 107
+              },
+              {
+                "x": 398,
+                "y": 301,
+                "h": 82,
+                "w": 82
+              },
+              {
+                "x": 785,
+                "y": 297,
+                "h": 84,
+                "w": 84
+              },
+              {
+                "x": 1048,
+                "y": 582,
+                "h": 82,
+                "w": 82
+              },
+              {
+                "x": 1620,
+                "y": 598,
+                "h": 114,
+                "w": 114
+              }
+            ]
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 1256,
+            "w": 1836,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 821,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 465,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1256,
+          "width": 1836,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1836,
+              "h": 1028
+            },
+            {
+              "x": 290,
+              "y": 0,
+              "w": 1256,
+              "h": 1256
+            },
+            {
+              "x": 367,
+              "y": 0,
+              "w": 1102,
+              "h": 1256
+            },
+            {
+              "x": 604,
+              "y": 0,
+              "w": 628,
+              "h": 1256
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1836,
+              "h": 1256
+            }
+          ]
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1803513117244268546"
+          }
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id_str": "1635392864212463616",
+        "name": "nights & weekends",
+        "screen_name": "_nightsweekends",
+        "indices": [
+          46,
+          62
+        ]
+      },
+      {
+        "id_str": "1422255111422754816",
+        "name": "buildspace",
+        "screen_name": "_buildspace",
+        "indices": [
+          63,
+          75
+        ]
+      }
+    ]
+  },
+  "user_info": {
+    "screen_name": "_anxhl",
+    "name": "Anshul Karande",
+    "description": "i build and i know things | S2, S4 Alum @_buildspace\n\n#spectreseek at @_buildspace",
+    "rest_id": "1504060376203542529",
+    "followers_count": 224,
+    "favourites_count": 1235,
+    "avatar": "https://pbs.twimg.com/profile_images/1798774120412483586/_4nugGvQ_normal.jpg",
+    "verified": false,
+    "friends_count": 257
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQddn-0aIAIADLL.jpg",
+        "id": "1803513117244268546"
+      }
+    ]
+  }
+}

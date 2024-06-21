@@ -1,0 +1,183 @@
+{
+  "type": "tweet",
+  "tweet_id": "1804035114772410585",
+  "screen_name": "greygreysaturn",
+  "bookmarks": 0,
+  "favorites": 10,
+  "created_at": "Fri Jun 21 06:14:23 +0000 2024",
+  "text": "I’ve been working in child psychology and creating products for kids for a while. Now, with the right tech, I’m finally bringing this idea to life. Can’t wait to see it out in the world!\n\ncc: @_buildspace @_nightsweekends https://t.co/7EVEx13R2f",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 2,
+  "conversation_id": "1804035114772410585",
+  "retweets": 1,
+  "views": "181",
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.x.com/7evex13r2f",
+        "expanded_url": "https://twitter.com/greygreysaturn/status/1804035114772410585/photo/1",
+        "id_str": "1804035100595695616",
+        "indices": [
+          222,
+          245
+        ],
+        "media_key": "3_1804035100595695616",
+        "media_url_https": "https://pbs.twimg.com/media/GQk4XaVXsAABsvI.jpg",
+        "type": "photo",
+        "url": "https://t.co/7EVEx13R2f",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "x": 160,
+                "y": 230,
+                "h": 59,
+                "w": 59
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "x": 160,
+                "y": 230,
+                "h": 59,
+                "w": 59
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "x": 90,
+                "y": 130,
+                "h": 33,
+                "w": 33
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "x": 160,
+                "y": 230,
+                "h": 59,
+                "w": 59
+              }
+            ]
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 821,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 821,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 465,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 821,
+          "width": 1200,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1200,
+              "h": 672
+            },
+            {
+              "x": 379,
+              "y": 0,
+              "w": 821,
+              "h": 821
+            },
+            {
+              "x": 480,
+              "y": 0,
+              "w": 720,
+              "h": 821
+            },
+            {
+              "x": 724,
+              "y": 0,
+              "w": 411,
+              "h": 821
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1200,
+              "h": 821
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1804035100595695616"
+          }
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id_str": "1422255111422754816",
+        "name": "buildspace",
+        "screen_name": "_buildspace",
+        "indices": [
+          192,
+          204
+        ]
+      },
+      {
+        "id_str": "1635392864212463616",
+        "name": "nights & weekends",
+        "screen_name": "_nightsweekends",
+        "indices": [
+          205,
+          221
+        ]
+      }
+    ]
+  },
+  "user_info": {
+    "screen_name": "greygreysaturn",
+    "name": "Saumya Mehta",
+    "description": "Cognition. Design. Tech\n\n@ClayGorilla\n\n(gaudmire @_buildspace)",
+    "rest_id": "894862575355043840",
+    "followers_count": 54,
+    "favourites_count": 69,
+    "avatar": "https://pbs.twimg.com/profile_images/1680591161612746753/apjoBtZf_normal.jpg",
+    "verified": false,
+    "friends_count": 103
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQk4XaVXsAABsvI.jpg",
+        "id": "1804035100595695616"
+      }
+    ]
+  }
+}

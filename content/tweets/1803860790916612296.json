@@ -1,0 +1,193 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803860790916612296",
+  "screen_name": "_Stevezee_",
+  "bookmarks": 2,
+  "favorites": 23,
+  "created_at": "Thu Jun 20 18:41:41 +0000 2024",
+  "text": "Along with my journal app, I want to grow my instagram photography page during @_nightsweekends S5.\n\nHere's my instagram :) - https://t.co/LcKl4yarns\n\nCC: @_buildspace @_nightsweekends https://t.co/wdUHxv2AmQ",
+  "lang": "en",
+  "quotes": 5,
+  "replies": 13,
+  "conversation_id": "1803860790916612296",
+  "retweets": 0,
+  "views": "862",
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.x.com/wduhxv2amq",
+        "expanded_url": "https://twitter.com/_Stevezee_/status/1803860790916612296/photo/1",
+        "id_str": "1803845218233364480",
+        "indices": [
+          185,
+          208
+        ],
+        "media_key": "3_1803845218233364480",
+        "media_url_https": "https://pbs.twimg.com/media/GQiLqzaWMAA1Y6D.jpg",
+        "type": "photo",
+        "url": "https://t.co/wdUHxv2AmQ",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "all": {
+            "tags": [
+              {
+                "user_id": "1422255111422754816",
+                "name": "buildspace",
+                "screen_name": "_buildspace",
+                "type": "user"
+              },
+              {
+                "user_id": "1635392864212463616",
+                "name": "nights & weekends",
+                "screen_name": "_nightsweekends",
+                "type": "user"
+              }
+            ]
+          },
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 1256,
+            "w": 1836,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 821,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 465,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1256,
+          "width": 1836,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1836,
+              "h": 1028
+            },
+            {
+              "x": 290,
+              "y": 0,
+              "w": 1256,
+              "h": 1256
+            },
+            {
+              "x": 367,
+              "y": 0,
+              "w": 1102,
+              "h": 1256
+            },
+            {
+              "x": 604,
+              "y": 0,
+              "w": 628,
+              "h": 1256
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1836,
+              "h": 1256
+            }
+          ]
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1803845218233364480"
+          }
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "instagram.com/stevezee._/",
+        "expanded_url": "https://www.instagram.com/stevezee._/",
+        "url": "https://t.co/LcKl4yarns",
+        "indices": [
+          126,
+          149
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "id_str": "1635392864212463616",
+        "name": "nights & weekends",
+        "screen_name": "_nightsweekends",
+        "indices": [
+          79,
+          95
+        ]
+      },
+      {
+        "id_str": "1422255111422754816",
+        "name": "buildspace",
+        "screen_name": "_buildspace",
+        "indices": [
+          155,
+          167
+        ]
+      },
+      {
+        "id_str": "1635392864212463616",
+        "name": "nights & weekends",
+        "screen_name": "_nightsweekends",
+        "indices": [
+          168,
+          184
+        ]
+      }
+    ]
+  },
+  "user_info": {
+    "screen_name": "_Stevezee_",
+    "name": "Stephen V S",
+    "description": "erevald at @_buildspace | @_nightsweekends S3, S4, S5 | studied @IITHyderabad",
+    "rest_id": "1322070302537388032",
+    "followers_count": 786,
+    "favourites_count": 3031,
+    "avatar": "https://pbs.twimg.com/profile_images/1779189185846599680/jMyJkGvM_normal.jpg",
+    "verified": false,
+    "friends_count": 493
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQiLqzaWMAA1Y6D.jpg",
+        "id": "1803845218233364480"
+      }
+    ]
+  }
+}

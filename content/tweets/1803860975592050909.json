@@ -1,0 +1,186 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803860975592050909",
+  "screen_name": "AllenNaliath",
+  "bookmarks": 27,
+  "favorites": 193,
+  "created_at": "Thu Jun 20 18:42:25 +0000 2024",
+  "text": "important ppl hire personal assistants to help them manage all the emails they get\n\nwe're building that assistant right into YOUR email client so you get the same experience\n\nspend under 1m a day on your email\n\nwhat are your thoughts? roast this\n\ncc: @_buildspace @_nightsweekends https://t.co/3RmhJP8bha",
+  "lang": "en",
+  "quotes": 2,
+  "replies": 93,
+  "conversation_id": "1803860975592050909",
+  "retweets": 4,
+  "views": "11610",
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.x.com/3rmhjp8bha",
+        "expanded_url": "https://twitter.com/AllenNaliath/status/1803860975592050909/photo/1",
+        "id_str": "1803859195256586240",
+        "indices": [
+          281,
+          304
+        ],
+        "media_key": "3_1803859195256586240",
+        "media_url_https": "https://pbs.twimg.com/media/GQiYYX4XQAA7jzP.png",
+        "type": "photo",
+        "url": "https://t.co/3RmhJP8bha",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "x": 717,
+                "y": 516,
+                "h": 84,
+                "w": 84
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "x": 468,
+                "y": 337,
+                "h": 54,
+                "w": 54
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "x": 265,
+                "y": 191,
+                "h": 31,
+                "w": 31
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "x": 717,
+                "y": 516,
+                "h": 84,
+                "w": 84
+              }
+            ]
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 1256,
+            "w": 1836,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 821,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 465,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1256,
+          "width": 1836,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1836,
+              "h": 1028
+            },
+            {
+              "x": 290,
+              "y": 0,
+              "w": 1256,
+              "h": 1256
+            },
+            {
+              "x": 367,
+              "y": 0,
+              "w": 1102,
+              "h": 1256
+            },
+            {
+              "x": 604,
+              "y": 0,
+              "w": 628,
+              "h": 1256
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1836,
+              "h": 1256
+            }
+          ]
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1803859195256586240"
+          }
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id_str": "1422255111422754816",
+        "name": "buildspace",
+        "screen_name": "_buildspace",
+        "indices": [
+          251,
+          263
+        ]
+      },
+      {
+        "id_str": "1635392864212463616",
+        "name": "nights & weekends",
+        "screen_name": "_nightsweekends",
+        "indices": [
+          264,
+          280
+        ]
+      }
+    ]
+  },
+  "user_info": {
+    "screen_name": "AllenNaliath",
+    "name": "Allen Naliath",
+    "description": "@stanford cs, president @stanfordbuilds, prev @amazon ml software eng, building lynx, bebrave, and redesigning the hearing test\n\nI get rejected daily",
+    "rest_id": "1175611216967929856",
+    "followers_count": 4714,
+    "favourites_count": 1014,
+    "avatar": "https://pbs.twimg.com/profile_images/1760982299234258944/fa8gjzoU_normal.jpg",
+    "verified": false,
+    "friends_count": 211
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQiYYX4XQAA7jzP.png",
+        "id": "1803859195256586240"
+      }
+    ]
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803868931217617221",
+  "screen_name": "mariaInTech",
+  "bookmarks": 1,
+  "favorites": 23,
+  "created_at": "Thu Jun 20 19:14:02 +0000 2024",
+  "text": "Hey @_buildspace fam! In s5 @_nightsweekends, I'm starting a channel to share how my life, brain and heart are changing when I don't work 9-to-5. \nWould love some feedback! Is this clear? \n\nI'd love some feedback! 🙌\nalso, subscribe? https://t.co/OUqqxZfDlN https://t.co/NuvG8tOnYt",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 12,
+  "conversation_id": "1803868931217617221",
+  "retweets": 1,
+  "views": "373",
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.x.com/nuvg8tonyt",
+        "expanded_url": "https://twitter.com/mariaInTech/status/1803868931217617221/photo/1",
+        "id_str": "1803867555401961473",
+        "indices": [
+          257,
+          280
+        ],
+        "media_key": "3_1803867555401961473",
+        "media_url_https": "https://pbs.twimg.com/media/GQif-_2WEAEqBvz.jpg",
+        "type": "photo",
+        "url": "https://t.co/NuvG8tOnYt",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 1256,
+            "w": 1836,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 821,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 465,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1256,
+          "width": 1836,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 228,
+              "w": 1836,
+              "h": 1028
+            },
+            {
+              "x": 580,
+              "y": 0,
+              "w": 1256,
+              "h": 1256
+            },
+            {
+              "x": 687,
+              "y": 0,
+              "w": 1102,
+              "h": 1256
+            },
+            {
+              "x": 924,
+              "y": 0,
+              "w": 628,
+              "h": 1256
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1836,
+              "h": 1256
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1803867555401961473"
+          }
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "youtube.com/@onachallenge",
+        "expanded_url": "https://www.youtube.com/@onachallenge",
+        "url": "https://t.co/OUqqxZfDlN",
+        "indices": [
+          233,
+          256
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "id_str": "1422255111422754816",
+        "name": "buildspace",
+        "screen_name": "_buildspace",
+        "indices": [
+          4,
+          16
+        ]
+      },
+      {
+        "id_str": "1635392864212463616",
+        "name": "nights & weekends",
+        "screen_name": "_nightsweekends",
+        "indices": [
+          28,
+          44
+        ]
+      }
+    ]
+  },
+  "user_info": {
+    "screen_name": "mariaInTech",
+    "name": "Maria Stylianou",
+    "description": "Curious creator who keeps experimenting. Helping tech orgs scale - Engineering Leader & Trainer. erevald @_buildspace 🚀  ex. @getmarshmallow @monzo @join_ef",
+    "rest_id": "94475855",
+    "followers_count": 1562,
+    "favourites_count": 6233,
+    "avatar": "https://pbs.twimg.com/profile_images/1802608221321879553/DIPNzhgD_normal.jpg",
+    "verified": false,
+    "friends_count": 1809
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQif-_2WEAEqBvz.jpg",
+        "id": "1803867555401961473"
+      }
+    ]
+  }
+}

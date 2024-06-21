@@ -1,0 +1,155 @@
+{
+  "type": "tweet",
+  "tweet_id": "1804056328207233531",
+  "screen_name": "_talhahaha_",
+  "bookmarks": 0,
+  "favorites": 2,
+  "created_at": "Fri Jun 21 07:38:41 +0000 2024",
+  "text": "i just don't want to google 'what has 300 calories and 30g protein that isn't chicken'  \n\npls give your boy some feedback\n\nforgot to give it a name on the last one sorry :p\n\ncc: @_buildspace @_nightsweekends https://t.co/TQ1GhHTb56",
+  "lang": "en",
+  "quotes": 1,
+  "replies": 5,
+  "conversation_id": "1804056328207233531",
+  "retweets": 0,
+  "views": "65",
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.x.com/tq1ghhtb56",
+        "expanded_url": "https://twitter.com/_talhahaha_/status/1804056328207233531/photo/1",
+        "id_str": "1804055378604228608",
+        "indices": [
+          208,
+          231
+        ],
+        "media_key": "3_1804055378604228608",
+        "media_url_https": "https://pbs.twimg.com/media/GQlKzvzWgAA9qJX.jpg",
+        "type": "photo",
+        "url": "https://t.co/TQ1GhHTb56",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 1256,
+            "w": 1836,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 821,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 465,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1256,
+          "width": 1836,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1836,
+              "h": 1028
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1256,
+              "h": 1256
+            },
+            {
+              "x": 45,
+              "y": 0,
+              "w": 1102,
+              "h": 1256
+            },
+            {
+              "x": 282,
+              "y": 0,
+              "w": 628,
+              "h": 1256
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1836,
+              "h": 1256
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1804055378604228608"
+          }
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id_str": "1422255111422754816",
+        "name": "buildspace",
+        "screen_name": "_buildspace",
+        "indices": [
+          178,
+          190
+        ]
+      },
+      {
+        "id_str": "1635392864212463616",
+        "name": "nights & weekends",
+        "screen_name": "_nightsweekends",
+        "indices": [
+          191,
+          207
+        ]
+      }
+    ]
+  },
+  "user_info": {
+    "screen_name": "_talhahaha_",
+    "name": "Talha",
+    "description": "SDE | Ex @bhanzu_ alterok s5 @_nightsweekends @_buildspace All things frontend+web3+f1+idek anymore",
+    "rest_id": "1184522109013262336",
+    "followers_count": 79,
+    "favourites_count": 911,
+    "avatar": "https://pbs.twimg.com/profile_images/1675138738899533824/rJFbYFFC_normal.jpg",
+    "verified": false,
+    "friends_count": 321
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQlKzvzWgAA9qJX.jpg",
+        "id": "1804055378604228608"
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "type": "tweet",
+  "tweet_id": "1804055873460785592",
+  "screen_name": "_alexramalho",
+  "bookmarks": 0,
+  "favorites": 3,
+  "created_at": "Fri Jun 21 07:36:52 +0000 2024",
+  "text": "the thinking app.\nthoughts?\n\ncc: @_buildspace @_nightsweekends @crislenta https://t.co/SHTptV2tXO",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 3,
+  "conversation_id": "1804055873460785592",
+  "retweets": 0,
+  "views": "46",
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.x.com/shtptv2txo",
+        "expanded_url": "https://twitter.com/_alexramalho/status/1804055873460785592/photo/1",
+        "id_str": "1804055802262523904",
+        "indices": [
+          74,
+          97
+        ],
+        "media_key": "3_1804055802262523904",
+        "media_url_https": "https://pbs.twimg.com/media/GQlLMaDXEAAhe_Q.png",
+        "type": "photo",
+        "url": "https://t.co/SHTptV2tXO",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "x": 1156,
+                "y": 369,
+                "h": 86,
+                "w": 86
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "x": 755,
+                "y": 241,
+                "h": 56,
+                "w": 56
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "x": 428,
+                "y": 136,
+                "h": 31,
+                "w": 31
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "x": 1156,
+                "y": 369,
+                "h": 86,
+                "w": 86
+              }
+            ]
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 1256,
+            "w": 1836,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 821,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 465,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1256,
+          "width": 1836,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1836,
+              "h": 1028
+            },
+            {
+              "x": 290,
+              "y": 0,
+              "w": 1256,
+              "h": 1256
+            },
+            {
+              "x": 367,
+              "y": 0,
+              "w": 1102,
+              "h": 1256
+            },
+            {
+              "x": 604,
+              "y": 0,
+              "w": 628,
+              "h": 1256
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1836,
+              "h": 1256
+            }
+          ]
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1804055802262523904"
+          }
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id_str": "1422255111422754816",
+        "name": "buildspace",
+        "screen_name": "_buildspace",
+        "indices": [
+          33,
+          45
+        ]
+      },
+      {
+        "id_str": "1635392864212463616",
+        "name": "nights & weekends",
+        "screen_name": "_nightsweekends",
+        "indices": [
+          46,
+          62
+        ]
+      },
+      {
+        "id_str": "1342958653037568003",
+        "name": "Cris Lenta",
+        "screen_name": "crislenta",
+        "indices": [
+          63,
+          73
+        ]
+      }
+    ]
+  },
+  "user_info": {
+    "screen_name": "_alexramalho",
+    "name": "Alex Ramalho",
+    "description": "dev • des • ml enthusiast • https://t.co/a83TYdWlJn",
+    "rest_id": "1291893720476979203",
+    "followers_count": 167,
+    "favourites_count": 221,
+    "avatar": "https://pbs.twimg.com/profile_images/1574799426404716547/ubLA98YK_normal.jpg",
+    "verified": false,
+    "friends_count": 329
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQlLMaDXEAAhe_Q.png",
+        "id": "1804055802262523904"
+      }
+    ]
+  }
+}

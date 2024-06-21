@@ -1,0 +1,186 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803860576847958259",
+  "screen_name": "Silent_Firee",
+  "bookmarks": 1,
+  "favorites": 25,
+  "created_at": "Thu Jun 20 18:40:50 +0000 2024",
+  "text": "Shall be working on my snackfact, to help people (particularly me) visualize the nutritional information and make informed decisions.\n\n@_buildspace @_nightsweekends https://t.co/37aNCizyTN",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 24,
+  "conversation_id": "1803860576847958259",
+  "retweets": 0,
+  "views": "451",
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.x.com/37ancizytn",
+        "expanded_url": "https://twitter.com/Silent_Firee/status/1803860576847958259/photo/1",
+        "id_str": "1803860329929048064",
+        "indices": [
+          165,
+          188
+        ],
+        "media_key": "3_1803860329929048064",
+        "media_url_https": "https://pbs.twimg.com/media/GQiZaa3XAAAgz0X.jpg",
+        "type": "photo",
+        "url": "https://t.co/37aNCizyTN",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "x": 916,
+                "y": 541,
+                "h": 96,
+                "w": 96
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "x": 598,
+                "y": 353,
+                "h": 62,
+                "w": 62
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "x": 339,
+                "y": 200,
+                "h": 35,
+                "w": 35
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "x": 916,
+                "y": 541,
+                "h": 96,
+                "w": 96
+              }
+            ]
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 1256,
+            "w": 1836,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 821,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 465,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1256,
+          "width": 1836,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 228,
+              "w": 1836,
+              "h": 1028
+            },
+            {
+              "x": 335,
+              "y": 0,
+              "w": 1256,
+              "h": 1256
+            },
+            {
+              "x": 412,
+              "y": 0,
+              "w": 1102,
+              "h": 1256
+            },
+            {
+              "x": 649,
+              "y": 0,
+              "w": 628,
+              "h": 1256
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1836,
+              "h": 1256
+            }
+          ]
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1803860329929048064"
+          }
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id_str": "1422255111422754816",
+        "name": "buildspace",
+        "screen_name": "_buildspace",
+        "indices": [
+          135,
+          147
+        ]
+      },
+      {
+        "id_str": "1635392864212463616",
+        "name": "nights & weekends",
+        "screen_name": "_nightsweekends",
+        "indices": [
+          148,
+          164
+        ]
+      }
+    ]
+  },
+  "user_info": {
+    "screen_name": "Silent_Firee",
+    "name": "AbrahamVG",
+    "description": "high on weeb 🚀",
+    "rest_id": "1547266468412530688",
+    "followers_count": 52,
+    "favourites_count": 227,
+    "avatar": "https://pbs.twimg.com/profile_images/1793960714190626816/i62fl5Tn_normal.jpg",
+    "verified": false,
+    "friends_count": 141
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQiZaa3XAAAgz0X.jpg",
+        "id": "1803860329929048064"
+      }
+    ]
+  }
+}

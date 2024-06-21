@@ -1,0 +1,186 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803834362229821524",
+  "screen_name": "NehalMisra",
+  "bookmarks": 11,
+  "favorites": 205,
+  "created_at": "Thu Jun 20 16:56:40 +0000 2024",
+  "text": "this season's hottest trend? me, making my own damn clothes 🧚‍♀️\nwdyt‼️\n\ncc: @_buildspace @_nightsweekends https://t.co/vDmPmGnqM6",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 57,
+  "conversation_id": "1803834362229821524",
+  "retweets": 2,
+  "views": "6888",
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.x.com/vdmpmgnqm6",
+        "expanded_url": "https://twitter.com/NehalMisra/status/1803834362229821524/photo/1",
+        "id_str": "1803834353035706368",
+        "indices": [
+          107,
+          130
+        ],
+        "media_key": "3_1803834353035706368",
+        "media_url_https": "https://pbs.twimg.com/media/GQiByXZXAAAeBLa.jpg",
+        "type": "photo",
+        "url": "https://t.co/vDmPmGnqM6",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "x": 943,
+                "y": 514,
+                "h": 86,
+                "w": 86
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "x": 616,
+                "y": 335,
+                "h": 56,
+                "w": 56
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "x": 349,
+                "y": 190,
+                "h": 31,
+                "w": 31
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "x": 943,
+                "y": 514,
+                "h": 86,
+                "w": 86
+              }
+            ]
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 1256,
+            "w": 1836,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 821,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 465,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1256,
+          "width": 1836,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 82,
+              "w": 1836,
+              "h": 1028
+            },
+            {
+              "x": 290,
+              "y": 0,
+              "w": 1256,
+              "h": 1256
+            },
+            {
+              "x": 367,
+              "y": 0,
+              "w": 1102,
+              "h": 1256
+            },
+            {
+              "x": 604,
+              "y": 0,
+              "w": 628,
+              "h": 1256
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1836,
+              "h": 1256
+            }
+          ]
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1803834353035706368"
+          }
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id_str": "1422255111422754816",
+        "name": "buildspace",
+        "screen_name": "_buildspace",
+        "indices": [
+          77,
+          89
+        ]
+      },
+      {
+        "id_str": "1635392864212463616",
+        "name": "nights & weekends",
+        "screen_name": "_nightsweekends",
+        "indices": [
+          90,
+          106
+        ]
+      }
+    ]
+  },
+  "user_info": {
+    "screen_name": "NehalMisra",
+    "name": "Nehal",
+    "description": "silly and intense in equal measure | marketing girlie AllThingsWTF + fashion girlie @shopfridayfits 🪩✨",
+    "rest_id": "1388058910469230592",
+    "followers_count": 4181,
+    "favourites_count": 20198,
+    "avatar": "https://pbs.twimg.com/profile_images/1782854387129516032/WtMykbyS_normal.jpg",
+    "verified": false,
+    "friends_count": 451
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQiByXZXAAAeBLa.jpg",
+        "id": "1803834353035706368"
+      }
+    ]
+  }
+}

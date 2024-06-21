@@ -1,0 +1,211 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803875983805567331",
+  "screen_name": "LadyDiGiTech",
+  "bookmarks": 0,
+  "favorites": 12,
+  "created_at": "Thu Jun 20 19:42:03 +0000 2024",
+  "text": "Let's Try This Again…\n\nBANR is your radio station for inspiration &amp; innovation.\n\nHere to help empower your dreams so that you can live your life with more ease &amp; impact.\n\ncc: @_buildspace @_nightsweekends @FarzaTV https://t.co/V4wYgBxvuT",
+  "lang": "en",
+  "quotes": 1,
+  "replies": 2,
+  "conversation_id": "1803875983805567331",
+  "retweets": 1,
+  "views": "217",
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.x.com/v4wygbxvut",
+        "expanded_url": "https://twitter.com/LadyDiGiTech/status/1803875983805567331/photo/1",
+        "id_str": "1803875977879019521",
+        "indices": [
+          222,
+          245
+        ],
+        "media_key": "3_1803875977879019521",
+        "media_url_https": "https://pbs.twimg.com/media/GQinpQBW4AE6Yr8.jpg",
+        "type": "photo",
+        "url": "https://t.co/V4wYgBxvuT",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "all": {
+            "tags": [
+              {
+                "user_id": "1715971410076577792",
+                "name": "BANR 🏁| Future Focused Internet Radio 📻🎙️",
+                "screen_name": "WeAreBANR",
+                "type": "user"
+              },
+              {
+                "user_id": "1634771093788540928",
+                "name": "Blockchain Adventures⚔️ ᴀɪ, xʀ, ᴍᴇᴛᴀᴠᴇʀꜱᴇ & ʙᴇʏᴏɴᴅ",
+                "screen_name": "myBlockchainAdv",
+                "type": "user"
+              }
+            ]
+          },
+          "large": {
+            "faces": [
+              {
+                "x": 186,
+                "y": 295,
+                "h": 71,
+                "w": 71
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "x": 152,
+                "y": 241,
+                "h": 58,
+                "w": 58
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "x": 86,
+                "y": 136,
+                "h": 32,
+                "w": 32
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "x": 186,
+                "y": 295,
+                "h": 71,
+                "w": 71
+              }
+            ]
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 1004,
+            "w": 1468,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 821,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 465,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1004,
+          "width": 1468,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1468,
+              "h": 822
+            },
+            {
+              "x": 232,
+              "y": 0,
+              "w": 1004,
+              "h": 1004
+            },
+            {
+              "x": 294,
+              "y": 0,
+              "w": 881,
+              "h": 1004
+            },
+            {
+              "x": 483,
+              "y": 0,
+              "w": 502,
+              "h": 1004
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1468,
+              "h": 1004
+            }
+          ]
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1803875977879019521"
+          }
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id_str": "1422255111422754816",
+        "name": "buildspace",
+        "screen_name": "_buildspace",
+        "indices": [
+          183,
+          195
+        ]
+      },
+      {
+        "id_str": "1635392864212463616",
+        "name": "nights & weekends",
+        "screen_name": "_nightsweekends",
+        "indices": [
+          196,
+          212
+        ]
+      },
+      {
+        "id_str": "327403216",
+        "name": "Farza 🇵🇰🇺🇸",
+        "screen_name": "FarzaTV",
+        "indices": [
+          213,
+          221
+        ]
+      }
+    ]
+  },
+  "user_info": {
+    "screen_name": "LadyDiGiTech",
+    "name": "𝕄𝕤 𝔻𝕚𝔾𝕚 🌬ᴛᴇ͛ᴄʜ ᴡʜɪ͛ꜱᴘᴇ͛ʀᴇ͛ʀ⚡ᴬᴵ, ˣᴿ, ᴮˡᶜᵏᶜʰⁿ",
+    "description": "Solarpunk Founder Building Edu in Emerging Tech, The Creator Economy & The Future of Work @WeAreBANR | Tech Ethicist/Researcher | Decade+ in AI, Blockchain & XR",
+    "rest_id": "1052440647410610176",
+    "followers_count": 1803,
+    "favourites_count": 15513,
+    "avatar": "https://pbs.twimg.com/profile_images/1652825677727510529/WQ_gc4Q8_normal.jpg",
+    "verified": false,
+    "friends_count": 868
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQinpQBW4AE6Yr8.jpg",
+        "id": "1803875977879019521"
+      }
+    ]
+  }
+}

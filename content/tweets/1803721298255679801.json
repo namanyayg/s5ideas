@@ -1,0 +1,186 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803721298255679801",
+  "screen_name": "0xironyAditya",
+  "bookmarks": 0,
+  "favorites": 12,
+  "created_at": "Thu Jun 20 09:27:23 +0000 2024",
+  "text": "wanted to work on something fun, here's what i came up with for @_buildspace / @_nightsweekends  season 5\nmain objective is to build 'nd ship 🚀 https://t.co/73ROvcwbc5",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 5,
+  "conversation_id": "1803721298255679801",
+  "retweets": 1,
+  "views": "236",
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.x.com/73rovcwbc5",
+        "expanded_url": "https://twitter.com/0xironyAditya/status/1803721298255679801/photo/1",
+        "id_str": "1803720610503159810",
+        "indices": [
+          144,
+          167
+        ],
+        "media_key": "3_1803720610503159810",
+        "media_url_https": "https://pbs.twimg.com/media/GQgaVrcXcAIBt67.png",
+        "type": "photo",
+        "url": "https://t.co/73ROvcwbc5",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "all": {
+            "tags": [
+              {
+                "user_id": "1700160092765573120",
+                "name": "Vasundhara Pandey",
+                "screen_name": "pandey_vasu_",
+                "type": "user"
+              },
+              {
+                "user_id": "327403216",
+                "name": "Farza 🇵🇰🇺🇸",
+                "screen_name": "FarzaTV",
+                "type": "user"
+              },
+              {
+                "user_id": "1635392864212463616",
+                "name": "nights & weekends",
+                "screen_name": "_nightsweekends",
+                "type": "user"
+              },
+              {
+                "user_id": "1422255111422754816",
+                "name": "buildspace",
+                "screen_name": "_buildspace",
+                "type": "user"
+              }
+            ]
+          },
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 1256,
+            "w": 1836,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 821,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 465,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1256,
+          "width": 1836,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1836,
+              "h": 1028
+            },
+            {
+              "x": 290,
+              "y": 0,
+              "w": 1256,
+              "h": 1256
+            },
+            {
+              "x": 367,
+              "y": 0,
+              "w": 1102,
+              "h": 1256
+            },
+            {
+              "x": 604,
+              "y": 0,
+              "w": 628,
+              "h": 1256
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1836,
+              "h": 1256
+            }
+          ]
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1803720610503159810"
+          }
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id_str": "1422255111422754816",
+        "name": "buildspace",
+        "screen_name": "_buildspace",
+        "indices": [
+          64,
+          76
+        ]
+      },
+      {
+        "id_str": "1635392864212463616",
+        "name": "nights & weekends",
+        "screen_name": "_nightsweekends",
+        "indices": [
+          79,
+          95
+        ]
+      }
+    ]
+  },
+  "user_info": {
+    "screen_name": "0xironyAditya",
+    "name": "irony.aditya",
+    "description": "Adi | 20 \n☀️  Core Member @gdscabesit | \n🔥 Student Lead @archwayabesit |\n🚀  Building @InCollabSpace |\n🪙  Web3 Enthusiast | Exploring Tech",
+    "rest_id": "1667425561873104897",
+    "followers_count": 227,
+    "favourites_count": 3712,
+    "avatar": "https://pbs.twimg.com/profile_images/1723722642249953280/2jN2DXmT_normal.jpg",
+    "verified": false,
+    "friends_count": 381
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQgaVrcXcAIBt67.png",
+        "id": "1803720610503159810"
+      }
+    ]
+  }
+}

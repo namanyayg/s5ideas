@@ -1,0 +1,59 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803812269131743399",
+  "screen_name": "thezachhan",
+  "bookmarks": 0,
+  "favorites": 19,
+  "created_at": "Thu Jun 20 15:28:52 +0000 2024",
+  "text": "this season of @_buildspace n&w...\n\nI'm completely pivoting my edtech app @learniverseai \n\ngoal: launch pivot and go from $200 to $10k MRR\n\n🚀🚀🚀",
+  "lang": "en",
+  "quotes": 1,
+  "replies": 7,
+  "conversation_id": "1803812269131743399",
+  "retweets": 2,
+  "views": "430",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id_str": "1422255111422754816",
+        "name": "buildspace",
+        "screen_name": "_buildspace",
+        "indices": [
+          15,
+          27
+        ]
+      },
+      {
+        "id_str": "1747965435482431488",
+        "name": "Learniverse",
+        "screen_name": "learniverseai",
+        "indices": [
+          74,
+          88
+        ]
+      }
+    ]
+  },
+  "user_info": {
+    "screen_name": "thezachhan",
+    "name": "Zach",
+    "description": "Building startups that help the collective\n\n✦ working on education space  @learniverseai V2\n\n@buildspace s4 & s5 🟡",
+    "rest_id": "1610782848750915584",
+    "followers_count": 856,
+    "favourites_count": 10524,
+    "avatar": "https://pbs.twimg.com/profile_images/1803806797330792448/TA1gxakI_normal.jpg",
+    "verified": false,
+    "friends_count": 396
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQhs9BOWoAAmyc8.jpg",
+        "id": "1803811446318342144"
+      }
+    ]
+  }
+}

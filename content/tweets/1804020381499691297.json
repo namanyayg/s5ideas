@@ -1,0 +1,201 @@
+{
+  "type": "tweet",
+  "tweet_id": "1804020381499691297",
+  "screen_name": "letsgorambo",
+  "bookmarks": 0,
+  "favorites": 6,
+  "created_at": "Fri Jun 21 05:15:50 +0000 2024",
+  "text": "Step 1: Get accepted into an accelerator.\n\nStep 2: Voluntarily leave accelerator.\n\nStep 3: Decide to bootstrap during @_nightsweekends\n\nLet's f*****ng... GO! https://t.co/wyioRwPpLC",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 5,
+  "conversation_id": "1804020381499691297",
+  "retweets": 0,
+  "views": "104",
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.x.com/wyiorwpplc",
+        "expanded_url": "https://twitter.com/letsgorambo/status/1804020381499691297/photo/1",
+        "id_str": "1804020144341159938",
+        "indices": [
+          158,
+          181
+        ],
+        "media_key": "3_1804020144341159938",
+        "media_url_https": "https://pbs.twimg.com/media/GQkqw18akAIq1hg.png",
+        "type": "photo",
+        "url": "https://t.co/wyioRwPpLC",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "x": 435,
+                "y": 482,
+                "h": 86,
+                "w": 86
+              },
+              {
+                "x": 401,
+                "y": 620,
+                "h": 86,
+                "w": 86
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "x": 284,
+                "y": 315,
+                "h": 56,
+                "w": 56
+              },
+              {
+                "x": 262,
+                "y": 405,
+                "h": 56,
+                "w": 56
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "x": 161,
+                "y": 178,
+                "h": 31,
+                "w": 31
+              },
+              {
+                "x": 148,
+                "y": 229,
+                "h": 31,
+                "w": 31
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "x": 435,
+                "y": 482,
+                "h": 86,
+                "w": 86
+              },
+              {
+                "x": 401,
+                "y": 620,
+                "h": 86,
+                "w": 86
+              }
+            ]
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 1256,
+            "w": 1836,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 821,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 465,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1256,
+          "width": 1836,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1836,
+              "h": 1028
+            },
+            {
+              "x": 290,
+              "y": 0,
+              "w": 1256,
+              "h": 1256
+            },
+            {
+              "x": 367,
+              "y": 0,
+              "w": 1102,
+              "h": 1256
+            },
+            {
+              "x": 604,
+              "y": 0,
+              "w": 628,
+              "h": 1256
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1836,
+              "h": 1256
+            }
+          ]
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1804020144341159938"
+          }
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id_str": "1635392864212463616",
+        "name": "nights & weekends",
+        "screen_name": "_nightsweekends",
+        "indices": [
+          118,
+          134
+        ]
+      }
+    ]
+  },
+  "user_info": {
+    "screen_name": "letsgorambo",
+    "name": "rambo",
+    "description": "🎯 I help freelancers never run out of clients \n🏗️ Building AI tools for Solopreneurs in public",
+    "rest_id": "1750344378395303936",
+    "followers_count": 810,
+    "favourites_count": 567,
+    "avatar": "https://pbs.twimg.com/profile_images/1757697041218899968/34iqW-UF_normal.jpg",
+    "verified": false,
+    "friends_count": 608
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQkqw18akAIq1hg.png",
+        "id": "1804020144341159938"
+      }
+    ]
+  }
+}

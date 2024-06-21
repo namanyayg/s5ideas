@@ -1,0 +1,207 @@
+{
+  "type": "tweet",
+  "tweet_id": "1803892993507709037",
+  "screen_name": "mitch_7w",
+  "bookmarks": 0,
+  "favorites": 16,
+  "created_at": "Thu Jun 20 20:49:39 +0000 2024",
+  "text": "Building whole apps with just sketches? Been casting about for ages for my first SaaS idea. Time to go from 0-1 with this low-code ai ms-paint-to-working-software project in the next few weeks. Keen🦖\n\ncc @_buildspace @_nightsweekends https://t.co/uKHt3vlj4w",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 11,
+  "conversation_id": "1803892993507709037",
+  "retweets": 0,
+  "views": "252",
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.x.com/ukht3vlj4w",
+        "expanded_url": "https://twitter.com/mitch_7w/status/1803892993507709037/photo/1",
+        "id_str": "1803892204856856576",
+        "indices": [
+          234,
+          257
+        ],
+        "media_key": "3_1803892204856856576",
+        "media_url_https": "https://pbs.twimg.com/media/GQi2ZyOW0AAOzM-.jpg",
+        "type": "photo",
+        "url": "https://t.co/uKHt3vlj4w",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "x": 579,
+                "y": 371,
+                "h": 86,
+                "w": 86
+              },
+              {
+                "x": 984,
+                "y": 509,
+                "h": 95,
+                "w": 95
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "x": 378,
+                "y": 242,
+                "h": 56,
+                "w": 56
+              },
+              {
+                "x": 643,
+                "y": 332,
+                "h": 62,
+                "w": 62
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "x": 214,
+                "y": 137,
+                "h": 31,
+                "w": 31
+              },
+              {
+                "x": 364,
+                "y": 188,
+                "h": 35,
+                "w": 35
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "x": 579,
+                "y": 371,
+                "h": 86,
+                "w": 86
+              },
+              {
+                "x": 984,
+                "y": 509,
+                "h": 95,
+                "w": 95
+              }
+            ]
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 1256,
+            "w": 1836,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 821,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 465,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1256,
+          "width": 1836,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1836,
+              "h": 1028
+            },
+            {
+              "x": 335,
+              "y": 0,
+              "w": 1256,
+              "h": 1256
+            },
+            {
+              "x": 412,
+              "y": 0,
+              "w": 1102,
+              "h": 1256
+            },
+            {
+              "x": 649,
+              "y": 0,
+              "w": 628,
+              "h": 1256
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1836,
+              "h": 1256
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1803892204856856576"
+          }
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id_str": "1422255111422754816",
+        "name": "buildspace",
+        "screen_name": "_buildspace",
+        "indices": [
+          204,
+          216
+        ]
+      },
+      {
+        "id_str": "1635392864212463616",
+        "name": "nights & weekends",
+        "screen_name": "_nightsweekends",
+        "indices": [
+          217,
+          233
+        ]
+      }
+    ]
+  },
+  "user_info": {
+    "screen_name": "mitch_7w",
+    "name": "Mitch🦖",
+    "description": "24yo techno-optimist software engineer . :)\n🎥  https://t.co/Zwk6MZw0F4\nFree novel about A.I. 🤖 https://t.co/eYJ3dDrXE0",
+    "rest_id": "2221085948",
+    "followers_count": 202,
+    "favourites_count": 6248,
+    "avatar": "https://pbs.twimg.com/profile_images/1798624785892814848/B7Ups1hk_normal.jpg",
+    "verified": false,
+    "friends_count": 96
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQi2ZyOW0AAOzM-.jpg",
+        "id": "1803892204856856576"
+      }
+    ]
+  }
+}

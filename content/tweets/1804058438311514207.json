@@ -1,0 +1,195 @@
+{
+  "type": "tweet",
+  "tweet_id": "1804058438311514207",
+  "screen_name": "SNishaYo",
+  "bookmarks": 0,
+  "favorites": 3,
+  "created_at": "Fri Jun 21 07:47:04 +0000 2024",
+  "text": "here is my week 1 update for @_nightsweekends s5:\n\nThe idea is simple. Installing QR codes on each table at a restaurant to simplify the process of food ordering at a restaurant.\n\nwhat do you think cc: @_buildspace @FarzaTV https://t.co/0K51QZPvCA",
+  "lang": "en",
+  "quotes": 0,
+  "replies": 1,
+  "conversation_id": "1804058438311514207",
+  "retweets": 0,
+  "views": "45",
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.x.com/0k51qzpvca",
+        "expanded_url": "https://twitter.com/SNishaYo/status/1804058438311514207/photo/1",
+        "id_str": "1804056658416668673",
+        "indices": [
+          224,
+          247
+        ],
+        "media_key": "3_1804056658416668673",
+        "media_url_https": "https://pbs.twimg.com/media/GQlL-PeakAEUwgB.jpg",
+        "type": "photo",
+        "url": "https://t.co/0K51QZPvCA",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "x": 1030,
+                "y": 512,
+                "h": 89,
+                "w": 89
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "x": 673,
+                "y": 334,
+                "h": 58,
+                "w": 58
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "x": 381,
+                "y": 189,
+                "h": 32,
+                "w": 32
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "x": 1030,
+                "y": 512,
+                "h": 89,
+                "w": 89
+              }
+            ]
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 1256,
+            "w": 1836,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 821,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 465,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1256,
+          "width": 1836,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1836,
+              "h": 1028
+            },
+            {
+              "x": 290,
+              "y": 0,
+              "w": 1256,
+              "h": 1256
+            },
+            {
+              "x": 367,
+              "y": 0,
+              "w": 1102,
+              "h": 1256
+            },
+            {
+              "x": 604,
+              "y": 0,
+              "w": 628,
+              "h": 1256
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1836,
+              "h": 1256
+            }
+          ]
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1804056658416668673"
+          }
+        }
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id_str": "1635392864212463616",
+        "name": "nights & weekends",
+        "screen_name": "_nightsweekends",
+        "indices": [
+          29,
+          45
+        ]
+      },
+      {
+        "id_str": "1422255111422754816",
+        "name": "buildspace",
+        "screen_name": "_buildspace",
+        "indices": [
+          202,
+          214
+        ]
+      },
+      {
+        "id_str": "327403216",
+        "name": "Farza 🇵🇰🇺🇸",
+        "screen_name": "FarzaTV",
+        "indices": [
+          215,
+          223
+        ]
+      }
+    ]
+  },
+  "user_info": {
+    "screen_name": "SNishaYo",
+    "name": "Nisha Singhal🌸",
+    "description": "debugging code and myself. building @1daycart @studybuddy_tech .  alterock @_buildspace",
+    "rest_id": "1697243533047201792",
+    "followers_count": 648,
+    "favourites_count": 2436,
+    "avatar": "https://pbs.twimg.com/profile_images/1791739058495868928/awX-7nQU_normal.jpg",
+    "verified": false,
+    "friends_count": 464
+  },
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GQlL-PeakAEUwgB.jpg",
+        "id": "1804056658416668673"
+      }
+    ]
+  }
+}
