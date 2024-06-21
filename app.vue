@@ -23,14 +23,24 @@
     </div>
     <footer>
       made with love <a href="https://x.com/NamanyayG">by nmn</a> ⚡<br>
-      <!-- check out <a href="#">his s5 idea</a> 💡 -->
+      <!-- check out <a href="#">his s5 idea</a> 💡<br> -->
+      <span>join our (unoffical) <a href="https://discord.gg/42JEQPd6">s5 discord</a></span>
     </footer>
   </div>
 </template>
 
 <script setup>
-import { ref } from 'vue'
+// set up meta
+useSeoMeta({
+  title: 'S5 Ideas · all ideas from Buildspace',
+  description: 'All the great ideas made during Buildspace S5',
+  ogImage: 'https://s5ideas.pages.dev/meta.png',
+  twitterCard: 'summary_large_image',
+})
 
+
+// load tweets
+import { ref } from 'vue'
 const { data: tweets } = await useAsyncData('tweets', () => queryContent('tweets').find())
 </script>
 
@@ -86,6 +96,10 @@ footer {
 footer a {
   color: rgb(0, 68, 255);
   text-decoration: underline;
+}
+
+footer span {
+  opacity: .75;
 }
 </style>
 
